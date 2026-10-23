@@ -4,6 +4,8 @@
 
 Autor: Emiliano Pérez Alaniz · Enfermero Profesional · Salud ocupacional en minería · Lean Six Sigma y análisis de datos
 
+**[Abrir el simulador interactivo](https://mperezalaniz.github.io/servicio-medico-mineria-remota/)**
+
 ![Portada](docs/img/slide_01.png)
 
 ## La pregunta

@@ -18,7 +18,8 @@ Con esos números armé un plan de 100 días para liderar un servicio médico en
 
 Los tiempos internos son supuestos y el tablero usa datos inventados, así que no hay información de ninguna empresa. Con registros reales de simulacros, el modelo se recalibra en una semana.
 
-El simulador, el código y el plan están en GitHub: github.com/mperezalaniz/servicio-medico-mineria-remota
+Simulador interactivo: mperezalaniz.github.io/servicio-medico-mineria-remota
+Código, datos y plan de 100 días: github.com/mperezalaniz/servicio-medico-mineria-remota
 
 Si trabajás en un servicio médico de minería u oil & gas, ¿qué tramo te cuesta más acortar?
 
