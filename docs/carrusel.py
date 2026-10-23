@@ -14,17 +14,19 @@ import matplotlib.pyplot as plt
 from matplotlib import font_manager as fm
 from matplotlib.patches import FancyBboxPatch, Polygon, Rectangle
 
-FD = "/usr/share/fonts/truetype/google-fonts/"
-for f in ["Poppins-Regular.ttf", "Poppins-Medium.ttf", "Poppins-Bold.ttf"]:
-    if os.path.exists(FD + f):
-        fm.fontManager.addfont(FD + f)
-plt.rcParams["font.family"] = "Poppins"
+FD = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets", "fonts") + "/"
+for f in ["Selawik-Regular.ttf", "Selawik-Bold.ttf", "Selawik-Light.ttf"]:
+    fm.fontManager.addfont(FD + f)
+plt.rcParams["font.family"] = ["Selawik", "DejaVu Sans"]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "docs", "img")
 os.makedirs(OUT, exist_ok=True)
-BG, NAVY, INK2, MUTED, GRID = "#F6F4EF", "#0B2545", "#4A5568", "#8A94A6", "#E3E0D8"
-BLUE, ORANGE, PALEBLUE, MIDBLUE, PALEORANGE, RED = "#1F5FA8", "#D9731A", "#C9D8EC", "#8FB0DA", "#F2C9A5", "#C0392B"
+BG, NAVY, INK2, MUTED, GRID = "#FFFFFF", "#0E1726", "#4B5563", "#6B7280", "#E1E1E1"
+SURFACE, TINT, PURPLE, LIMIT = "#F2F2F2", "#DCEEF8", "#744EC2", "#C50F1F"
+ON_DARK, ON_DARK2, SKY = "#F4FAFD", "#B9CCDA", "#8DC8E8"
+BLUE, ORANGE, PALEBLUE, MIDBLUE, PALEORANGE, RED = "#0078D4", "#E66C37", "#DCE6F4", "#8DC8E8", "#F5C4A8", "#E66C37"
+REF = "#C8C8C8"
 AUTHOR = "Emiliano Pérez Alaniz"
 SOURCE = "Rutas: OpenStreetMap/OSRM · Tiempos internos supuestos · Tablero sintético"
 N = 9
@@ -47,23 +49,46 @@ def f1(v, d=1):
     return f"{v:,.{d}f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 
+def gradiente(fig, stops):
+    """Fondo con degradado a 131 grados, como los bloques del sitio que sirve de referencia."""
+    h, w = 270, 216
+    yy, xx = np.mgrid[0:h, 0:w]
+    ang = np.radians(131 - 90)
+    t = (xx / w * np.cos(ang) + yy / h * np.sin(ang))
+    t = (t - t.min()) / (t.max() - t.min())
+    cols = [tuple(int(c[i:i + 2], 16) / 255 for i in (1, 3, 5)) for c in stops]
+    pos = np.linspace(0, 1, len(cols))
+    img = np.dstack([np.interp(t, pos, [c[k] for c in cols]) for k in range(3)])
+    ax = fig.add_axes([0, 0, 1, 1], zorder=-10)
+    ax.imshow(img, aspect="auto", interpolation="bicubic")
+    ax.axis("off")
+
+
 def canvas(bg=BG):
     fig = plt.figure(figsize=(10.8, 13.5), dpi=100)
-    fig.patch.set_facecolor(bg)
+    fig.patch.set_facecolor(BG)
+    if bg == "dark":
+        gradiente(fig, ["#003259", "#091F2C", "#004275"])
     return fig
 
 
+def tarjeta(fig, x, y, w, h, fc="white", r=0.02):
+    fig.patches.append(FancyBboxPatch((x + 0.002, y - 0.003), w, h, boxstyle=f"round,pad=0,rounding_size={r}", transform=fig.transFigure,
+                                      fc=(0, 0, 0, 0.10), ec="none", zorder=0))
+    fig.patches.append(FancyBboxPatch((x, y), w, h, boxstyle=f"round,pad=0,rounding_size={r}", transform=fig.transFigure, fc=fc, ec="none", zorder=1))
+
+
 def header(fig, kicker, title, dark=False):
-    fig.text(0.07, 0.935, kicker.upper(), fontsize=17, color="#F2A65A" if dark else ORANGE, weight="bold")
-    fig.text(0.07, 0.905, title, fontsize=36, color="white" if dark else NAVY, weight="bold", va="top", linespacing=1.15)
+    fig.text(0.07, 0.935, kicker, fontsize=17, color=SKY if dark else BLUE, weight="bold")
+    fig.text(0.07, 0.905, title, fontsize=37, color=ON_DARK if dark else NAVY, weight="bold", va="top", linespacing=1.12)
 
 
 def footer(fig, n, dark=False):
-    c = "#9FB3CC" if dark else MUTED
+    c = ON_DARK2 if dark else MUTED
     fig.text(0.07, 0.035, f"{AUTHOR}  ·  {SOURCE}", fontsize=11, color=c)
     fig.text(0.93, 0.035, f"{n}/{N}", fontsize=13, color=c, ha="right")
     if n < N:
-        fig.text(0.93, 0.065, "desliza  ›", fontsize=13, color="#F2A65A" if dark else ORANGE, ha="right", weight="medium")
+        fig.text(0.93, 0.065, "desliza  ›", fontsize=13, color=SKY if dark else BLUE, ha="right", weight="bold")
 
 
 def subtitle(fig, text, y=0.765):
@@ -71,10 +96,8 @@ def subtitle(fig, text, y=0.765):
 
 
 def takeaway(fig, text, y=0.14):
-    fig.patches.append(FancyBboxPatch((0.07, y - 0.04), 0.86, 0.095, boxstyle="round,pad=0.008,rounding_size=0.015",
-                                      transform=fig.transFigure, fc="white", ec=GRID, lw=1.2))
-    fig.patches.append(FancyBboxPatch((0.07, y - 0.04), 0.010, 0.095, boxstyle="square,pad=0",
-                                      transform=fig.transFigure, fc=ORANGE, ec="none"))
+    fig.patches.append(FancyBboxPatch((0.07, y - 0.045), 0.86, 0.105, boxstyle="round,pad=0,rounding_size=0.022",
+                                      transform=fig.transFigure, fc=TINT, ec="none"))
     fig.text(0.10, y + 0.008, text, fontsize=16.5, color=NAVY, va="center", linespacing=1.45)
 
 
@@ -100,22 +123,23 @@ def save(fig, n):
 
 
 # 1 PORTADA -------------------------------------------------------------------------------
-fig = canvas(NAVY)
-fig.text(0.07, 0.87, "LEAN SIX SIGMA · SALUD OCUPACIONAL · MINERÍA", fontsize=17, color="#F2A65A", weight="bold")
-fig.text(0.07, 0.83, "En una mina remota,\nla hora de oro se\njuega dentro\ndel sitio.", fontsize=56, color="white",
+fig = canvas("dark")
+fig.text(0.07, 0.87, "Lean Six Sigma · Salud ocupacional · Minería", fontsize=18, color=SKY, weight="bold")
+fig.text(0.07, 0.83, "En una mina remota,\nla hora de oro se\njuega dentro\ndel sitio.", fontsize=56, color=ON_DARK,
          weight="bold", va="top", linespacing=1.05)
 fig.text(0.07, 0.47, f"Simulé {f1(M['n'], 0)} emergencias graves en una mina subterránea\nde Santa Cruz para ver dónde se va el tiempo.",
-         fontsize=20, color=PALEBLUE, va="top", linespacing=1.35)
+         fontsize=20, color=ON_DARK2, va="top", linespacing=1.35)
 for i, (v, l) in enumerate([(f"{round(M['pct_controlable_base'])}%", "del tiempo hasta el\nhospital pasa en el sitio"),
                             (f"−{round(M['ahorro_salida_p50'])} min", "en la mediana con\ndos mejoras de proceso"),
                             (f"{round(b['pct_alta_6h'])}% a {round(mj['pct_alta_6h'])}%", "llega a alta complejidad\nen menos de 6 horas")]):
-    x = 0.07 + i * 0.30
-    fig.text(x, 0.30, v, fontsize=36, color="white", weight="bold")
-    fig.text(x, 0.285, l, fontsize=14.5, color="#9FB3CC", va="top", linespacing=1.3)
-fig.text(0.07, 0.17, "Python · Monte Carlo · OpenStreetMap · DMAIC · Plan de proyecto", fontsize=15, color="#9FB3CC")
-fig.text(0.07, 0.11, AUTHOR, fontsize=22, color="white", weight="bold")
-fig.text(0.07, 0.085, "Enfermero Profesional · Salud ocupacional en minería · Datos", fontsize=15, color="#9FB3CC")
-fig.text(0.93, 0.065, "desliza  ›", fontsize=15, color="#F2A65A", ha="right", weight="medium")
+    x = 0.07 + i * 0.293
+    tarjeta(fig, x, 0.215, 0.274, 0.135, fc="white", r=0.022)
+    fig.text(x + 0.022, 0.305, v, fontsize=31, color=NAVY, weight="bold", zorder=3)
+    fig.text(x + 0.022, 0.288, l, fontsize=13.5, color=INK2, va="top", linespacing=1.3, zorder=3)
+fig.text(0.07, 0.165, "Python · Monte Carlo · OpenStreetMap · DMAIC · Plan de proyecto", fontsize=15, color=ON_DARK2)
+fig.text(0.07, 0.11, AUTHOR, fontsize=22, color=ON_DARK, weight="bold")
+fig.text(0.07, 0.085, "Enfermero Profesional · Salud ocupacional en minería · Datos", fontsize=15, color=ON_DARK2)
+fig.text(0.93, 0.065, "desliza  ›", fontsize=15, color=SKY, ha="right", weight="bold")
 save(fig, 1)
 
 # 2 MAPA ------------------------------------------------------------------------------------
@@ -124,8 +148,8 @@ header(fig, "El punto de partida", "El hospital más cercano,\na dos o tres hora
 ax = fig.add_axes([0.07, 0.25, 0.86, 0.52])
 k = np.cos(np.radians(46.5))
 ax.set_facecolor(BG)
-ax.add_patch(Polygon([(x * k, y) for x, y in GEO["santa_cruz"]], closed=True, fc="#E7E3DA", ec="#CFC9BC", lw=1.2))
-col = {"PM": MIDBLUE, "LH": BLUE, "CO": ORANGE, "CR": RED}
+ax.add_patch(Polygon([(x * k, y) for x, y in GEO["santa_cruz"]], closed=True, fc="#EEF3F7", ec="#C8D3DD", lw=1.2))
+col = {"PM": MIDBLUE, "LH": BLUE, "CO": PURPLE, "CR": ORANGE}
 for idd in ["CR", "CO", "PM", "LH"]:
     pts = np.array(GEO["rutas"][idd])
     ax.plot(pts[:, 0] * k, pts[:, 1], color=col[idd], lw=3.2, solid_capstyle="round")
@@ -156,12 +180,11 @@ items = [("Real", "Ubicación de la mina, 4 hospitales de derivación y\ntiempos
          ("Sintético", "Indicadores del servicio médico de 52 semanas para\nmostrar el tablero. No son datos de ninguna empresa.")]
 for i, (t, d) in enumerate(items):
     y = 0.70 - i * 0.145
-    fig.patches.append(FancyBboxPatch((0.07, y - 0.055), 0.86, 0.12, boxstyle="round,pad=0.006,rounding_size=0.015",
-                                      transform=fig.transFigure, fc="white", ec=GRID, lw=1.2))
-    fig.patches.append(FancyBboxPatch((0.07, y - 0.055), 0.012, 0.12, boxstyle="square,pad=0", transform=fig.transFigure,
-                                      fc=[BLUE, MUTED, NAVY, ORANGE][i], ec="none"))
-    fig.text(0.11, y + 0.03, t, fontsize=21, color=NAVY, weight="bold", va="center")
-    fig.text(0.11, y - 0.016, d, fontsize=14.5, color=INK2, va="center", linespacing=1.35)
+    tarjeta(fig, 0.07, y - 0.058, 0.86, 0.125, fc=SURFACE, r=0.022)
+    fig.patches.append(FancyBboxPatch((0.095, y + 0.03 - 0.009), 0.018, 0.018, boxstyle="round,pad=0,rounding_size=0.004", transform=fig.transFigure,
+                                      fc=[BLUE, MUTED, NAVY, ORANGE][i], ec="none", zorder=2))
+    fig.text(0.125, y + 0.03, t, fontsize=21, color=NAVY, weight="bold", va="center", zorder=3)
+    fig.text(0.095, y - 0.018, d, fontsize=14.5, color=INK2, va="center", linespacing=1.35, zorder=3)
 footer(fig, 3)
 save(fig, 3)
 
@@ -183,7 +206,7 @@ for k_, lab, c in seq:
         ax.text(x0 + w / 2, 1, f"{round(w)}", ha="center", va="center", fontsize=14, color="white" if c in (BLUE, ORANGE) else NAVY, weight="bold")
     x0 += w
 ruta = b["hitos"]["hosp_cercano"]["p50"] - b["hitos"]["salida"]["p50"]
-ax.barh(1, ruta, left=x0, color="#DCD8CE", height=0.5, edgecolor=BG, lw=2)
+ax.barh(1, ruta, left=x0, color="#E6E6E6", height=0.5, edgecolor=BG, lw=2)
 ax.text(x0 + ruta / 2, 1, f"Ruta a Las Heras  {hm(ruta)}", ha="center", va="center", fontsize=14, color=NAVY)
 ax.axvline(x0, color=NAVY, lw=1.5, ls=(0, (3, 3)))
 ax.text(x0, 0.45, f"Sale la ambulancia\n{hm(x0)}", ha="center", va="top", fontsize=14, color=NAVY, weight="bold")
@@ -191,7 +214,7 @@ ax.text(x0 + ruta, 0.45, f"Hospital\n{hm(x0 + ruta)}", ha="right", va="top", fon
 ax.set_xlim(0, x0 + ruta + 3)
 ax.set_ylim(-0.3, 1.9)
 ax.axis("off")
-for i, (lab, c) in enumerate([("Aviso, llegada y extracción", MIDBLUE), ("Estabilización", BLUE), ("Coordinación de la derivación", ORANGE), ("Preparación", PALEORANGE), ("Ruta", "#DCD8CE")]):
+for i, (lab, c) in enumerate([("Aviso, llegada y extracción", MIDBLUE), ("Estabilización", BLUE), ("Coordinación de la derivación", ORANGE), ("Preparación", PALEORANGE), ("Ruta", "#E6E6E6")]):
     xx, yy = 0.10 + (i % 3) * 0.29, 0.70 - (i // 3) * 0.03
     fig.patches.append(Rectangle((xx, yy), 0.018, 0.013, transform=fig.transFigure, fc=c, ec="none"))
     fig.text(xx + 0.026, yy + 0.0065, lab, fontsize=13, color=INK2, va="center")
@@ -208,7 +231,7 @@ ax = fig.add_axes([0.10, 0.30, 0.83, 0.43])
 clean(ax)
 bins = np.arange(0, 300, 10)
 hb, hmj = np.array(b["hist_salida"][:30]) / M["n"] * 100, np.array(mj["hist_salida"][:30]) / M["n"] * 100
-ax.bar(bins + 5, hb, width=9, color="#D3CEC3", label="Escenario de referencia")
+ax.bar(bins + 5, hb, width=9, color=REF, label="Escenario de referencia")
 ax.bar(bins + 5, hmj, width=5, color=BLUE, label="Con las dos mejoras")
 top = max(hb.max(), hmj.max())
 for v, c, l, dx, ha in [(b["hitos"]["salida"]["p50"], MUTED, "referencia", 4, "left"), (mj["hitos"]["salida"]["p50"], BLUE, "con mejoras", -4, "right")]:
@@ -236,7 +259,7 @@ for j, (titulo, vals, fmt, nota) in enumerate([
          "Por ruta a Comodoro o con avión desde Perito Moreno")]):
     ax = fig.add_axes([0.27, 0.50 - j * 0.27, 0.63, 0.15])
     clean(ax, grid=None)
-    ax.barh([1, 0], vals, color=["#D3CEC3", BLUE], height=0.62)
+    ax.barh([1, 0], vals, color=[REF, BLUE], height=0.62)
     for i, v in enumerate(vals):
         ax.text(v + max(vals) * 0.02, 1 - i, fmt(v), va="center", fontsize=22, color=NAVY, weight="bold")
     ax.set_yticks([1, 0])
@@ -268,9 +291,9 @@ S = pd.DataFrame(T["semanal"])
 S["s"] = pd.to_datetime(S.s)
 out = S.s.astype(str).str[:10].isin(T["fuera"])
 ax.plot(S.s, S.t, color=BLUE, lw=2)
-ax.step(S.s, S.lcs, color=RED, lw=1.2, ls=(0, (4, 3)), where="mid")
+ax.step(S.s, S.lcs, color=LIMIT, lw=1.2, ls=(0, (4, 3)), where="mid")
 ax.axhline(T["ubar"], color=NAVY, lw=1.2)
-ax.scatter(S.s[out], S.t[out], color=RED, s=60, zorder=5, edgecolor=BG, lw=1.5)
+ax.scatter(S.s[out], S.t[out], color=LIMIT, s=60, zorder=5, edgecolor=BG, lw=1.5)
 br = S[S.s == pd.Timestamp("2026-03-15")]
 ax.annotate("brote digestivo\n(simulado)", (br.s.iloc[0], br.t.iloc[0]), xytext=(-110, 10), textcoords="offset points", fontsize=12.5,
             color=NAVY, arrowprops=dict(arrowstyle="-", color=MUTED))
@@ -292,14 +315,14 @@ header(fig, "Plan de proyecto", "Plan de 100 días\npara liderar el servicio")
 fases = [("1 a 30", "Escuchar y medir", "Uno a uno con el equipo,\nprotocolos, línea base,\nsimulacro cronometrado", MIDBLUE),
          ("31 a 60", "Analizar y ordenar", "Causas raíz, derivación\npreacordada, kanban,\nagenda de exámenes", BLUE),
          ("61 a 90", "Mejorar", "Simulacros mensuales,\nbrigadistas bajo mina,\npiloto de bienestar", ORANGE),
-         ("91 a 100", "Sostener", "Cartas de control,\nprocedimientos e\ninforme de resultados", NAVY)]
+         ("91 a 100", "Sostener", "Cartas de control,\nprocedimientos e\ninforme de resultados", PURPLE)]
 for i, (d, t, desc, c) in enumerate(fases):
     x = 0.07 + i * 0.218
-    fig.patches.append(Rectangle((x, 0.50), 0.2, 0.012, transform=fig.transFigure, fc=c, ec="none"))
-    fig.patches.append(Rectangle((x, 0.30), 0.2, 0.2, transform=fig.transFigure, fc="white", ec=GRID, lw=1))
-    fig.text(x + 0.012, 0.48, f"DÍAS {d}", fontsize=11.5, color=MUTED, va="top", weight="medium")
-    fig.text(x + 0.012, 0.455, t, fontsize=16, color=NAVY, va="top", weight="bold")
-    fig.text(x + 0.012, 0.415, desc, fontsize=12, color=INK2, va="top", linespacing=1.4)
+    tarjeta(fig, x, 0.30, 0.2, 0.215, fc=SURFACE, r=0.018)
+    fig.patches.append(FancyBboxPatch((x + 0.012, 0.495), 0.176, 0.006, boxstyle="round,pad=0,rounding_size=0.003", transform=fig.transFigure, fc=c, ec="none", zorder=2))
+    fig.text(x + 0.012, 0.48, f"Días {d}", fontsize=12, color=BLUE, va="top", weight="bold", zorder=3)
+    fig.text(x + 0.012, 0.455, t, fontsize=16, color=NAVY, va="top", weight="bold", zorder=3)
+    fig.text(x + 0.012, 0.415, desc, fontsize=12, color=INK2, va="top", linespacing=1.4, zorder=3)
 fig.text(0.07, 0.72, "Acta del proyecto · Cronograma con Gantt · Matriz RACI\nRegistro de riesgos · Árbol de indicadores · 2 proyectos DMAIC",
          fontsize=17, color=NAVY, va="top", linespacing=1.6)
 fig.text(0.07, 0.62, "En PDF para imprimir y en Excel con fórmulas, en el repositorio.", fontsize=14.5, color=INK2)
@@ -309,9 +332,9 @@ footer(fig, 8)
 save(fig, 8)
 
 # 9 CIERRE ---------------------------------------------------------------------------------------
-fig = canvas(NAVY)
-fig.text(0.07, 0.90, "CONCLUSIÓN", fontsize=18, color="#F2A65A", weight="bold")
-fig.text(0.07, 0.87, "La distancia no se elige.\nCómo se trabaja en\nel sitio, sí.", fontsize=42, color="white",
+fig = canvas("dark")
+fig.text(0.07, 0.90, "Conclusión", fontsize=18, color=SKY, weight="bold")
+fig.text(0.07, 0.87, "La distancia no se elige.\nCómo se trabaja en\nel sitio, sí.", fontsize=42, color=ON_DARK,
          weight="bold", va="top", linespacing=1.12)
 pts = [f"Casi la mitad del tiempo hasta el hospital pasa dentro del sitio ({round(M['pct_controlable_base'])}%).",
        f"Derivación en paralelo y brigadistas: la ambulancia sale {round(M['ahorro_salida_p50'])} min antes.",
@@ -319,16 +342,16 @@ pts = [f"Casi la mitad del tiempo hasta el hospital pasa dentro del sitio ({roun
        "Un tablero semanal y cartas de control sostienen la mejora."]
 for i, t in enumerate(pts):
     y = 0.62 - i * 0.065
-    fig.text(0.07, y, "›", fontsize=24, color="#F2A65A", weight="bold", va="center")
-    fig.text(0.11, y, t, fontsize=16, color=PALEBLUE, va="center")
+    fig.text(0.07, y, "›", fontsize=24, color=SKY, weight="bold", va="center")
+    fig.text(0.11, y, t, fontsize=16, color=ON_DARK, va="center")
 fig.text(0.07, 0.33, "Escenario hipotético: los tiempos internos son supuestos y el tablero usa datos sintéticos.\n"
                      "Con registros reales de simulacros y eventos, el modelo se recalibra en una semana.",
-         fontsize=13, color="#9FB3CC", va="top", linespacing=1.45)
+         fontsize=13, color=ON_DARK2, va="top", linespacing=1.45)
 fig.text(0.07, 0.22, "Trabajé cinco años en salud ocupacional en minería en Santa Cruz.\n¿Cómo lo resolvieron en tu operación?",
-         fontsize=19, color="white", weight="medium", va="top", linespacing=1.35)
-fig.text(0.07, 0.085, AUTHOR, fontsize=19, color="white", weight="bold")
-fig.text(0.07, 0.062, "Simulador, código y plan: github.com/mperezalaniz/servicio-medico-mineria-remota", fontsize=12.5, color="#9FB3CC")
-fig.text(0.93, 0.035, f"{N}/{N}", fontsize=13, color="#9FB3CC", ha="right")
+         fontsize=19, color=ON_DARK, weight="bold", va="top", linespacing=1.35)
+fig.text(0.07, 0.085, AUTHOR, fontsize=19, color=ON_DARK, weight="bold")
+fig.text(0.07, 0.062, "Simulador, código y plan: github.com/mperezalaniz/servicio-medico-mineria-remota", fontsize=12.5, color=ON_DARK2)
+fig.text(0.93, 0.035, f"{N}/{N}", fontsize=13, color=ON_DARK2, ha="right")
 save(fig, 9)
 
 pdf = os.path.join(ROOT, "docs", "Carrusel_Servicio_Medico_Mina_Remota.pdf")

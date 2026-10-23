@@ -13,11 +13,11 @@ from contenido import ACTA, DMAIC, FASES, KPIS, RACI, RIESGOS, ROLES, TAREAS  # 
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "plan", "Plan_100_dias_Servicio_Medico.xlsx")
-NAVY, BLUE, PALE, ORANGE, GRID = "0B2545", "1F5FA8", "E8EEF6", "D9731A", "D5DBE5"
-F = "Arial"
+NAVY, BLUE, PALE, ORANGE, GRID = "0E1726", "0078D4", "DCEEF8", "E66C37", "E1E1E1"
+F = "Segoe UI"
 th = Side(style="thin", color=GRID)
 BOX = Border(left=th, right=th, top=th, bottom=th)
-H = dict(font=Font(name=F, bold=True, color="FFFFFF", size=10), fill=PatternFill("solid", fgColor=NAVY),
+H = dict(font=Font(name=F, bold=True, color="FFFFFF", size=10), fill=PatternFill("solid", fgColor=BLUE),
          alignment=Alignment(vertical="center", wrap_text=True))
 INPUT = Font(name=F, color="0000FF", size=10)
 NORMAL = Font(name=F, size=10)
@@ -38,7 +38,7 @@ def title(ws, text, sub=None):
     ws["A1"].font = Font(name=F, bold=True, size=14, color=NAVY)
     if sub:
         ws["A2"] = sub
-        ws["A2"].font = Font(name=F, size=9, italic=True, color="5A6475")
+        ws["A2"].font = Font(name=F, size=9, color="4B5563")
 
 
 def widths(ws, ws_w):
@@ -135,7 +135,7 @@ for i, (act, letras) in enumerate(RACI, 5):
     ws.cell(row=i, column=2 + len(ROLES), value=f'=IF(COUNTIF(B{i}:{end}{i},"A")=1,"OK","Revisar")').font = NORMAL
     ws.cell(row=i, column=1).border = BOX
 ws.conditional_formatting.add(f"B5:{get_column_letter(1 + len(ROLES))}{4 + len(RACI)}",
-                              CellIsRule(operator="equal", formula=['"A"'], fill=PatternFill("solid", fgColor="F6D9BF")))
+                              CellIsRule(operator="equal", formula=['"A"'], fill=PatternFill("solid", fgColor=PALE)))
 widths(ws, [34] + [14] * len(ROLES) + [16])
 
 # ---------------------------------------------------------------- Riesgos
@@ -153,8 +153,8 @@ for i, (rg, p, im, resp) in enumerate(RIESGOS, 5):
         ws.cell(row=i, column=j).border = BOX
         ws.cell(row=i, column=j).alignment = WRAP if j in (1, 6) else Alignment(horizontal="center", vertical="top")
 lr = 4 + len(RIESGOS)
-ws.conditional_formatting.add(f"E5:E{lr}", CellIsRule(operator="equal", formula=['"Alto"'], fill=PatternFill("solid", fgColor="F6D8D4")))
-ws.conditional_formatting.add(f"E5:E{lr}", CellIsRule(operator="equal", formula=['"Medio"'], fill=PatternFill("solid", fgColor="FBEBD3")))
+ws.conditional_formatting.add(f"E5:E{lr}", CellIsRule(operator="equal", formula=['"Alto"'], fill=PatternFill("solid", fgColor="FDE7E9")))
+ws.conditional_formatting.add(f"E5:E{lr}", CellIsRule(operator="equal", formula=['"Medio"'], fill=PatternFill("solid", fgColor="FBE3D6")))
 ws.cell(row=lr + 2, column=1, value="Riesgos de nivel alto").font = Font(name=F, bold=True, size=10)
 ws.cell(row=lr + 2, column=4, value=f'=COUNTIF(E5:E{lr},"Alto")').font = Font(name=F, bold=True, size=10)
 widths(ws, [46, 12, 10, 10, 10, 70])

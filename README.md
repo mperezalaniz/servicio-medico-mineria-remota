@@ -51,6 +51,10 @@ La página `docs/index.html` junta todo: simulador interactivo que corre el mism
 
 ![Hallazgo](docs/img/slide_05.png)
 
+## Diseño
+
+Toda la línea visual (página, PDF, carrusel y Excel) usa la misma estética: fondo blanco, tarjetas con esquinas redondeadas y sombra suave, bloques con degradado celeste y azul oscuro, botones azules y una paleta de gráficos de inteligencia de negocios (azul, celeste, naranja de alerta y violeta). La tipografía es Segoe UI con Selawik como respaldo, la fuente abierta de Microsoft que imita sus métricas (licencia SIL OFL, en `assets/fonts`).
+
 ## Estructura
 
 ```
@@ -70,6 +74,7 @@ docs/carrusel.py                   carrusel de LinkedIn  ->  docs/img, docs/Carr
 
 ```bash
 pip install numpy pandas matplotlib openpyxl img2pdf playwright
+# fuentes: assets/fonts (Selawik, compilada desde github.com/microsoft/Selawik)
 python modelo/hora_de_oro.py
 python tablero/generar_datos.py
 python plan/contenido.py && python plan/excel.py && python plan/pdf.py

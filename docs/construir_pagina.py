@@ -1,4 +1,5 @@
 """Arma docs/index.html (página interactiva) desde la plantilla y los resultados del modelo y del tablero."""
+import base64
 import json
 import os
 import sys
@@ -29,6 +30,8 @@ rep = {
     "__A50__": str(round(M["ahorro_salida_p50"])),
     "__A90__": str(round(M["ahorro_salida_p90"])),
     "__REPO__": REPO,
+    "__SELAWIK_R__": base64.b64encode(open(os.path.join(ROOT, "assets", "fonts", "Selawik-Regular.ttf"), "rb").read()).decode(),
+    "__SELAWIK_B__": base64.b64encode(open(os.path.join(ROOT, "assets", "fonts", "Selawik-Bold.ttf"), "rb").read()).decode(),
 }
 for k, v in rep.items():
     assert k in html, k
