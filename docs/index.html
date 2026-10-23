@@ -1,6 +1,13 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Simulador Monte Carlo de la respuesta médica en una mina remota de Santa Cruz, tablero del servicio médico y plan de 100 días.">
 <title>Respuesta Médica en Mina Remota</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <style>
+html{-webkit-text-size-adjust:100%}
 /* Layout: estética de sitio corporativo limpio (blanco, tarjetas de radio 24 con sombra suave, hero con degradado celeste-lavanda,
    bloque oscuro con degradado azul para el plan, botones azules de radio 8). Tipografía Segoe UI con Selawik embebida como respaldo.
    Paleta de gráficos de inteligencia de negocios: azul primario, celeste, naranja de alerta, violeta. */
@@ -167,6 +174,8 @@ footer b{color:var(--ink);font-weight:600}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
+</head>
+<body>
 
 <div class="band"><div class="wrap">
   <span class="chip warn">Escenario de demostración</span>
@@ -488,3 +497,6 @@ drawMap(); start();
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change', all);
 new MutationObserver(all).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
 </script>
+
+</body>
+</html>

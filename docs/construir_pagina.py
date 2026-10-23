@@ -37,5 +37,14 @@ for k, v in rep.items():
     assert k in html, k
     html = html.replace(k, v)
 assert "__" not in html.replace("__proto__", ""), [l for l in html.splitlines() if "__" in l][:3]
-open(os.path.join(ROOT, "docs", "index.html"), "w", encoding="utf-8").write(html)
+# Versión para GitHub Pages: documento completo con doctype y viewport para celulares
+pagina = ('<!doctype html>\n<html lang="es">\n<head>\n<meta charset="utf-8">\n'
+          '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+          '<meta name="description" content="Simulador Monte Carlo de la respuesta médica en una mina remota de Santa Cruz, tablero del servicio médico y plan de 100 días.">\n'
+          + html.replace("<style>", "<style>\nhtml{-webkit-text-size-adjust:100%}", 1).replace("</style>", "</style>\n</head>\n<body>", 1)
+          + "\n</body>\n</html>\n")
+open(os.path.join(ROOT, "docs", "index.html"), "w", encoding="utf-8").write(pagina)
+# Versión para el artifact de Claude (el visor agrega su propio esqueleto)
+os.makedirs(os.path.join(ROOT, "build"), exist_ok=True)
+open(os.path.join(ROOT, "build", "artifact.html"), "w", encoding="utf-8").write(html)
 print("docs/index.html", len(html))
