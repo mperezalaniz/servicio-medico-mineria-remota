@@ -1,0 +1,5 @@
+destino,km_ruta,min_osrm,snap_origen_m,fuente
+PM,97.4,185,2377,"OSRM demo server (perfil auto) sobre OpenStreetMap, consulta 23/10/2026"
+LH,138.5,171,2377,"OSRM demo server (perfil auto) sobre OpenStreetMap, consulta 23/10/2026"
+CO,274.1,270,2377,"OSRM demo server (perfil auto) sobre OpenStreetMap, consulta 23/10/2026"
+CR,350.5,333,2377,"OSRM demo server (perfil auto) sobre OpenStreetMap, consulta 23/10/2026"

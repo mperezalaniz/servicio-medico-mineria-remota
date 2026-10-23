@@ -1,0 +1,18 @@
+tramo,min,moda,max,unidad,escenario,justificacion
+deteccion_aviso,1,3,10,min,base,Desde el evento hasta que la posta médica recibe el aviso por radio. Supuesto a validar con registros reales.
+llegada_equipo,8,15,35,min,base,Desplazamiento del equipo médico desde la posta hasta el lugar (bajo mina incluye rampa y galerías). Supuesto.
+extraccion_superficie,10,25,60,min,base,Rescate y traslado del paciente a superficie. Solo aplica a eventos bajo mina. Supuesto.
+estabilizacion_posta,20,35,60,min,base,Soporte vital avanzado en la sala de emergencias de la posta. Supuesto.
+coordinacion_derivacion,10,30,90,min,base,Llamadas al prestador y al hospital, confirmación de cama y autorización. Es espera pura desde la mirada Lean. Supuesto.
+preparacion_salida,5,10,20,min,base,Carga del paciente y salida de la ambulancia una vez confirmada la derivación. Supuesto.
+factor_ruta,0.65,,1.00,x,base,Multiplicador uniforme sobre el tiempo de OSRM. 1 = tiempo de OSRM; 0.65 equivale a las 2 horas hasta la localidad más cercana que menciona el aviso público del puesto.
+prob_bajo_mina,0.60,,,proporcion,base,Proporción de emergencias graves que ocurren bajo mina. Supuesto.
+prob_clima,0.12,,,proporcion,base,Probabilidad anual de demora por clima o estado de ruta. Supuesto.
+demora_clima,30,,120,min,base,Demora uniforme cuando hay problema de clima o ruta. Supuesto.
+prob_clima,0.35,,,proporcion,invierno,Probabilidad en invierno patagónico. Supuesto.
+coordinacion_derivacion,5,12,30,min,protocolo,Derivación pre acordada con prestador y hospitales (criterios escritos y contacto único). Supuesto de mejora.
+preparacion_salida,3,6,12,min,protocolo,Ambulancia y chofer se preparan en paralelo a la estabilización. Supuesto de mejora.
+primer_contacto,2,4,8,min,brigada,Brigadistas entrenados en primeros auxilios en cada frente bajo mina. Supuesto de mejora.
+extraccion_superficie,8,18,40,min,brigada,Rescate practicado en simulacros con roles fijos. Supuesto de mejora.
+activacion_avion,60,120,240,min,aereo,Desde el pedido hasta que el avión sanitario está en el aeródromo de Perito Moreno. Supuesto.
+vuelo_pm_cr,,,,min,aereo,Distancia en línea recta Perito Moreno a Comodoro Rivadavia a 300 km/h más 35 min de carga y traslado en destino. Supuesto.

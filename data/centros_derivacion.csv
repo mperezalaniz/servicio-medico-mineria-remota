@@ -1,0 +1,5 @@
+id,nombre,localidad,provincia,nivel_denominacion,lat,lon,fuente_coordenadas
+PM,Hospital Distrital Dr. Oscar H. Natale,Perito Moreno,Santa Cruz,Distrital,-46.5955,-70.9218,OpenStreetMap (Nominatim)
+LH,Hospital Distrital Las Heras,Las Heras,Santa Cruz,Distrital,-46.5497,-68.9225,OpenStreetMap (Nominatim)
+CO,Hospital Zonal Padre José Tardivo,Caleta Olivia,Santa Cruz,Zonal,-46.4444,-67.5113,OpenStreetMap (Nominatim)
+CR,Hospital Regional Comodoro Rivadavia,Comodoro Rivadavia,Chubut,Regional,-45.8681,-67.4863,OpenStreetMap (Nominatim)

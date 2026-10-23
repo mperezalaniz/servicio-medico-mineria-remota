@@ -1,0 +1,4369 @@
+fecha,item,stock,minimo,maximo
+2025-10-20,"Oxígeno, cilindro",13,6,14
+2025-10-21,"Oxígeno, cilindro",13,6,14
+2025-10-22,"Oxígeno, cilindro",13,6,14
+2025-10-23,"Oxígeno, cilindro",13,6,14
+2025-10-24,"Oxígeno, cilindro",12,6,14
+2025-10-25,"Oxígeno, cilindro",11,6,14
+2025-10-26,"Oxígeno, cilindro",11,6,14
+2025-10-27,"Oxígeno, cilindro",11,6,14
+2025-10-28,"Oxígeno, cilindro",11,6,14
+2025-10-29,"Oxígeno, cilindro",11,6,14
+2025-10-30,"Oxígeno, cilindro",11,6,14
+2025-10-31,"Oxígeno, cilindro",10,6,14
+2025-11-01,"Oxígeno, cilindro",8,6,14
+2025-11-02,"Oxígeno, cilindro",7,6,14
+2025-11-03,"Oxígeno, cilindro",7,6,14
+2025-11-04,"Oxígeno, cilindro",7,6,14
+2025-11-05,"Oxígeno, cilindro",7,6,14
+2025-11-06,"Oxígeno, cilindro",7,6,14
+2025-11-07,"Oxígeno, cilindro",7,6,14
+2025-11-08,"Oxígeno, cilindro",6,6,14
+2025-11-09,"Oxígeno, cilindro",7,6,14
+2025-11-10,"Oxígeno, cilindro",7,6,14
+2025-11-11,"Oxígeno, cilindro",7,6,14
+2025-11-12,"Oxígeno, cilindro",6,6,14
+2025-11-13,"Oxígeno, cilindro",6,6,14
+2025-11-14,"Oxígeno, cilindro",3,6,14
+2025-11-15,"Oxígeno, cilindro",2,6,14
+2025-11-16,"Oxígeno, cilindro",1,6,14
+2025-11-17,"Oxígeno, cilindro",1,6,14
+2025-11-18,"Oxígeno, cilindro",1,6,14
+2025-11-19,"Oxígeno, cilindro",0,6,14
+2025-11-20,"Oxígeno, cilindro",0,6,14
+2025-11-21,"Oxígeno, cilindro",0,6,14
+2025-11-22,"Oxígeno, cilindro",0,6,14
+2025-11-23,"Oxígeno, cilindro",0,6,14
+2025-11-24,"Oxígeno, cilindro",0,6,14
+2025-11-25,"Oxígeno, cilindro",0,6,14
+2025-11-26,"Oxígeno, cilindro",0,6,14
+2025-11-27,"Oxígeno, cilindro",0,6,14
+2025-11-28,"Oxígeno, cilindro",0,6,14
+2025-11-29,"Oxígeno, cilindro",0,6,14
+2025-11-30,"Oxígeno, cilindro",0,6,14
+2025-12-01,"Oxígeno, cilindro",0,6,14
+2025-12-02,"Oxígeno, cilindro",0,6,14
+2025-12-03,"Oxígeno, cilindro",0,6,14
+2025-12-04,"Oxígeno, cilindro",0,6,14
+2025-12-05,"Oxígeno, cilindro",0,6,14
+2025-12-06,"Oxígeno, cilindro",0,6,14
+2025-12-07,"Oxígeno, cilindro",0,6,14
+2025-12-08,"Oxígeno, cilindro",0,6,14
+2025-12-09,"Oxígeno, cilindro",0,6,14
+2025-12-10,"Oxígeno, cilindro",9,6,14
+2025-12-11,"Oxígeno, cilindro",9,6,14
+2025-12-12,"Oxígeno, cilindro",9,6,14
+2025-12-13,"Oxígeno, cilindro",9,6,14
+2025-12-14,"Oxígeno, cilindro",7,6,14
+2025-12-15,"Oxígeno, cilindro",7,6,14
+2025-12-16,"Oxígeno, cilindro",6,6,14
+2025-12-17,"Oxígeno, cilindro",5,6,14
+2025-12-18,"Oxígeno, cilindro",4,6,14
+2025-12-19,"Oxígeno, cilindro",4,6,14
+2025-12-20,"Oxígeno, cilindro",2,6,14
+2025-12-21,"Oxígeno, cilindro",2,6,14
+2025-12-22,"Oxígeno, cilindro",2,6,14
+2025-12-23,"Oxígeno, cilindro",2,6,14
+2025-12-24,"Oxígeno, cilindro",2,6,14
+2025-12-25,"Oxígeno, cilindro",2,6,14
+2025-12-26,"Oxígeno, cilindro",2,6,14
+2025-12-27,"Oxígeno, cilindro",1,6,14
+2025-12-28,"Oxígeno, cilindro",1,6,14
+2025-12-29,"Oxígeno, cilindro",1,6,14
+2025-12-30,"Oxígeno, cilindro",1,6,14
+2025-12-31,"Oxígeno, cilindro",1,6,14
+2026-01-01,"Oxígeno, cilindro",1,6,14
+2026-01-02,"Oxígeno, cilindro",0,6,14
+2026-01-03,"Oxígeno, cilindro",0,6,14
+2026-01-04,"Oxígeno, cilindro",0,6,14
+2026-01-05,"Oxígeno, cilindro",0,6,14
+2026-01-06,"Oxígeno, cilindro",0,6,14
+2026-01-07,"Oxígeno, cilindro",0,6,14
+2026-01-08,"Oxígeno, cilindro",0,6,14
+2026-01-09,"Oxígeno, cilindro",0,6,14
+2026-01-10,"Oxígeno, cilindro",0,6,14
+2026-01-11,"Oxígeno, cilindro",0,6,14
+2026-01-12,"Oxígeno, cilindro",0,6,14
+2026-01-13,"Oxígeno, cilindro",7,6,14
+2026-01-14,"Oxígeno, cilindro",7,6,14
+2026-01-15,"Oxígeno, cilindro",7,6,14
+2026-01-16,"Oxígeno, cilindro",7,6,14
+2026-01-17,"Oxígeno, cilindro",7,6,14
+2026-01-18,"Oxígeno, cilindro",7,6,14
+2026-01-19,"Oxígeno, cilindro",7,6,14
+2026-01-20,"Oxígeno, cilindro",7,6,14
+2026-01-21,"Oxígeno, cilindro",7,6,14
+2026-01-22,"Oxígeno, cilindro",7,6,14
+2026-01-23,"Oxígeno, cilindro",7,6,14
+2026-01-24,"Oxígeno, cilindro",6,6,14
+2026-01-25,"Oxígeno, cilindro",6,6,14
+2026-01-26,"Oxígeno, cilindro",5,6,14
+2026-01-27,"Oxígeno, cilindro",5,6,14
+2026-01-28,"Oxígeno, cilindro",4,6,14
+2026-01-29,"Oxígeno, cilindro",3,6,14
+2026-01-30,"Oxígeno, cilindro",3,6,14
+2026-01-31,"Oxígeno, cilindro",3,6,14
+2026-02-01,"Oxígeno, cilindro",3,6,14
+2026-02-02,"Oxígeno, cilindro",3,6,14
+2026-02-03,"Oxígeno, cilindro",3,6,14
+2026-02-04,"Oxígeno, cilindro",3,6,14
+2026-02-05,"Oxígeno, cilindro",2,6,14
+2026-02-06,"Oxígeno, cilindro",2,6,14
+2026-02-07,"Oxígeno, cilindro",1,6,14
+2026-02-08,"Oxígeno, cilindro",0,6,14
+2026-02-09,"Oxígeno, cilindro",0,6,14
+2026-02-10,"Oxígeno, cilindro",0,6,14
+2026-02-11,"Oxígeno, cilindro",0,6,14
+2026-02-12,"Oxígeno, cilindro",6,6,14
+2026-02-13,"Oxígeno, cilindro",5,6,14
+2026-02-14,"Oxígeno, cilindro",5,6,14
+2026-02-15,"Oxígeno, cilindro",5,6,14
+2026-02-16,"Oxígeno, cilindro",5,6,14
+2026-02-17,"Oxígeno, cilindro",5,6,14
+2026-02-18,"Oxígeno, cilindro",5,6,14
+2026-02-19,"Oxígeno, cilindro",5,6,14
+2026-02-20,"Oxígeno, cilindro",4,6,14
+2026-02-21,"Oxígeno, cilindro",4,6,14
+2026-02-22,"Oxígeno, cilindro",4,6,14
+2026-02-23,"Oxígeno, cilindro",4,6,14
+2026-02-24,"Oxígeno, cilindro",4,6,14
+2026-02-25,"Oxígeno, cilindro",2,6,14
+2026-02-26,"Oxígeno, cilindro",0,6,14
+2026-02-27,"Oxígeno, cilindro",0,6,14
+2026-02-28,"Oxígeno, cilindro",0,6,14
+2026-03-01,"Oxígeno, cilindro",0,6,14
+2026-03-02,"Oxígeno, cilindro",0,6,14
+2026-03-03,"Oxígeno, cilindro",0,6,14
+2026-03-04,"Oxígeno, cilindro",0,6,14
+2026-03-05,"Oxígeno, cilindro",0,6,14
+2026-03-06,"Oxígeno, cilindro",0,6,14
+2026-03-07,"Oxígeno, cilindro",0,6,14
+2026-03-08,"Oxígeno, cilindro",0,6,14
+2026-03-09,"Oxígeno, cilindro",0,6,14
+2026-03-10,"Oxígeno, cilindro",0,6,14
+2026-03-11,"Oxígeno, cilindro",0,6,14
+2026-03-12,"Oxígeno, cilindro",0,6,14
+2026-03-13,"Oxígeno, cilindro",9,6,14
+2026-03-14,"Oxígeno, cilindro",9,6,14
+2026-03-15,"Oxígeno, cilindro",8,6,14
+2026-03-16,"Oxígeno, cilindro",7,6,14
+2026-03-17,"Oxígeno, cilindro",7,6,14
+2026-03-18,"Oxígeno, cilindro",7,6,14
+2026-03-19,"Oxígeno, cilindro",7,6,14
+2026-03-20,"Oxígeno, cilindro",6,6,14
+2026-03-21,"Oxígeno, cilindro",5,6,14
+2026-03-22,"Oxígeno, cilindro",5,6,14
+2026-03-23,"Oxígeno, cilindro",5,6,14
+2026-03-24,"Oxígeno, cilindro",4,6,14
+2026-03-25,"Oxígeno, cilindro",1,6,14
+2026-03-26,"Oxígeno, cilindro",1,6,14
+2026-03-27,"Oxígeno, cilindro",0,6,14
+2026-03-28,"Oxígeno, cilindro",0,6,14
+2026-03-29,"Oxígeno, cilindro",0,6,14
+2026-03-30,"Oxígeno, cilindro",0,6,14
+2026-03-31,"Oxígeno, cilindro",0,6,14
+2026-04-01,"Oxígeno, cilindro",0,12,20
+2026-04-02,"Oxígeno, cilindro",0,12,20
+2026-04-03,"Oxígeno, cilindro",0,12,20
+2026-04-04,"Oxígeno, cilindro",0,12,20
+2026-04-05,"Oxígeno, cilindro",0,12,20
+2026-04-06,"Oxígeno, cilindro",0,12,20
+2026-04-07,"Oxígeno, cilindro",0,12,20
+2026-04-08,"Oxígeno, cilindro",0,12,20
+2026-04-09,"Oxígeno, cilindro",0,12,20
+2026-04-10,"Oxígeno, cilindro",0,12,20
+2026-04-11,"Oxígeno, cilindro",0,12,20
+2026-04-12,"Oxígeno, cilindro",0,12,20
+2026-04-13,"Oxígeno, cilindro",0,12,20
+2026-04-14,"Oxígeno, cilindro",20,12,20
+2026-04-15,"Oxígeno, cilindro",20,12,20
+2026-04-16,"Oxígeno, cilindro",20,12,20
+2026-04-17,"Oxígeno, cilindro",20,12,20
+2026-04-18,"Oxígeno, cilindro",19,12,20
+2026-04-19,"Oxígeno, cilindro",19,12,20
+2026-04-20,"Oxígeno, cilindro",19,12,20
+2026-04-21,"Oxígeno, cilindro",17,12,20
+2026-04-22,"Oxígeno, cilindro",16,12,20
+2026-04-23,"Oxígeno, cilindro",16,12,20
+2026-04-24,"Oxígeno, cilindro",15,12,20
+2026-04-25,"Oxígeno, cilindro",15,12,20
+2026-04-26,"Oxígeno, cilindro",15,12,20
+2026-04-27,"Oxígeno, cilindro",14,12,20
+2026-04-28,"Oxígeno, cilindro",14,12,20
+2026-04-29,"Oxígeno, cilindro",14,12,20
+2026-04-30,"Oxígeno, cilindro",14,12,20
+2026-05-01,"Oxígeno, cilindro",14,12,20
+2026-05-02,"Oxígeno, cilindro",13,12,20
+2026-05-03,"Oxígeno, cilindro",13,12,20
+2026-05-04,"Oxígeno, cilindro",13,12,20
+2026-05-05,"Oxígeno, cilindro",13,12,20
+2026-05-06,"Oxígeno, cilindro",11,12,20
+2026-05-07,"Oxígeno, cilindro",11,12,20
+2026-05-08,"Oxígeno, cilindro",11,12,20
+2026-05-09,"Oxígeno, cilindro",11,12,20
+2026-05-10,"Oxígeno, cilindro",10,12,20
+2026-05-11,"Oxígeno, cilindro",10,12,20
+2026-05-12,"Oxígeno, cilindro",9,12,20
+2026-05-13,"Oxígeno, cilindro",9,12,20
+2026-05-14,"Oxígeno, cilindro",9,12,20
+2026-05-15,"Oxígeno, cilindro",18,12,20
+2026-05-16,"Oxígeno, cilindro",17,12,20
+2026-05-17,"Oxígeno, cilindro",17,12,20
+2026-05-18,"Oxígeno, cilindro",17,12,20
+2026-05-19,"Oxígeno, cilindro",17,12,20
+2026-05-20,"Oxígeno, cilindro",16,12,20
+2026-05-21,"Oxígeno, cilindro",16,12,20
+2026-05-22,"Oxígeno, cilindro",16,12,20
+2026-05-23,"Oxígeno, cilindro",16,12,20
+2026-05-24,"Oxígeno, cilindro",16,12,20
+2026-05-25,"Oxígeno, cilindro",16,12,20
+2026-05-26,"Oxígeno, cilindro",16,12,20
+2026-05-27,"Oxígeno, cilindro",16,12,20
+2026-05-28,"Oxígeno, cilindro",16,12,20
+2026-05-29,"Oxígeno, cilindro",14,12,20
+2026-05-30,"Oxígeno, cilindro",13,12,20
+2026-05-31,"Oxígeno, cilindro",13,12,20
+2026-06-01,"Oxígeno, cilindro",13,12,20
+2026-06-02,"Oxígeno, cilindro",12,12,20
+2026-06-03,"Oxígeno, cilindro",12,12,20
+2026-06-04,"Oxígeno, cilindro",12,12,20
+2026-06-05,"Oxígeno, cilindro",12,12,20
+2026-06-06,"Oxígeno, cilindro",9,12,20
+2026-06-07,"Oxígeno, cilindro",7,12,20
+2026-06-08,"Oxígeno, cilindro",6,12,20
+2026-06-09,"Oxígeno, cilindro",6,12,20
+2026-06-10,"Oxígeno, cilindro",6,12,20
+2026-06-11,"Oxígeno, cilindro",6,12,20
+2026-06-12,"Oxígeno, cilindro",5,12,20
+2026-06-13,"Oxígeno, cilindro",13,12,20
+2026-06-14,"Oxígeno, cilindro",13,12,20
+2026-06-15,"Oxígeno, cilindro",13,12,20
+2026-06-16,"Oxígeno, cilindro",12,12,20
+2026-06-17,"Oxígeno, cilindro",11,12,20
+2026-06-18,"Oxígeno, cilindro",10,12,20
+2026-06-19,"Oxígeno, cilindro",9,12,20
+2026-06-20,"Oxígeno, cilindro",9,12,20
+2026-06-21,"Oxígeno, cilindro",8,12,20
+2026-06-22,"Oxígeno, cilindro",8,12,20
+2026-06-23,"Oxígeno, cilindro",6,12,20
+2026-06-24,"Oxígeno, cilindro",5,12,20
+2026-06-25,"Oxígeno, cilindro",5,12,20
+2026-06-26,"Oxígeno, cilindro",12,12,20
+2026-06-27,"Oxígeno, cilindro",11,12,20
+2026-06-28,"Oxígeno, cilindro",10,12,20
+2026-06-29,"Oxígeno, cilindro",10,12,20
+2026-06-30,"Oxígeno, cilindro",9,12,20
+2026-07-01,"Oxígeno, cilindro",9,12,20
+2026-07-02,"Oxígeno, cilindro",9,12,20
+2026-07-03,"Oxígeno, cilindro",9,12,20
+2026-07-04,"Oxígeno, cilindro",8,12,20
+2026-07-05,"Oxígeno, cilindro",7,12,20
+2026-07-06,"Oxígeno, cilindro",11,12,20
+2026-07-07,"Oxígeno, cilindro",10,12,20
+2026-07-08,"Oxígeno, cilindro",8,12,20
+2026-07-09,"Oxígeno, cilindro",7,12,20
+2026-07-10,"Oxígeno, cilindro",5,12,20
+2026-07-11,"Oxígeno, cilindro",2,12,20
+2026-07-12,"Oxígeno, cilindro",1,12,20
+2026-07-13,"Oxígeno, cilindro",1,12,20
+2026-07-14,"Oxígeno, cilindro",10,12,20
+2026-07-15,"Oxígeno, cilindro",10,12,20
+2026-07-16,"Oxígeno, cilindro",10,12,20
+2026-07-17,"Oxígeno, cilindro",10,12,20
+2026-07-18,"Oxígeno, cilindro",9,12,20
+2026-07-19,"Oxígeno, cilindro",5,12,20
+2026-07-20,"Oxígeno, cilindro",4,12,20
+2026-07-21,"Oxígeno, cilindro",4,12,20
+2026-07-22,"Oxígeno, cilindro",3,12,20
+2026-07-23,"Oxígeno, cilindro",3,12,20
+2026-07-24,"Oxígeno, cilindro",3,12,20
+2026-07-25,"Oxígeno, cilindro",2,12,20
+2026-07-26,"Oxígeno, cilindro",12,12,20
+2026-07-27,"Oxígeno, cilindro",12,12,20
+2026-07-28,"Oxígeno, cilindro",12,12,20
+2026-07-29,"Oxígeno, cilindro",12,12,20
+2026-07-30,"Oxígeno, cilindro",11,12,20
+2026-07-31,"Oxígeno, cilindro",11,12,20
+2026-08-01,"Oxígeno, cilindro",11,12,20
+2026-08-02,"Oxígeno, cilindro",11,12,20
+2026-08-03,"Oxígeno, cilindro",10,12,20
+2026-08-04,"Oxígeno, cilindro",10,12,20
+2026-08-05,"Oxígeno, cilindro",9,12,20
+2026-08-06,"Oxígeno, cilindro",8,12,20
+2026-08-07,"Oxígeno, cilindro",6,12,20
+2026-08-08,"Oxígeno, cilindro",13,12,20
+2026-08-09,"Oxígeno, cilindro",12,12,20
+2026-08-10,"Oxígeno, cilindro",10,12,20
+2026-08-11,"Oxígeno, cilindro",9,12,20
+2026-08-12,"Oxígeno, cilindro",9,12,20
+2026-08-13,"Oxígeno, cilindro",8,12,20
+2026-08-14,"Oxígeno, cilindro",6,12,20
+2026-08-15,"Oxígeno, cilindro",5,12,20
+2026-08-16,"Oxígeno, cilindro",5,12,20
+2026-08-17,"Oxígeno, cilindro",4,12,20
+2026-08-18,"Oxígeno, cilindro",4,12,20
+2026-08-19,"Oxígeno, cilindro",12,12,20
+2026-08-20,"Oxígeno, cilindro",12,12,20
+2026-08-21,"Oxígeno, cilindro",12,12,20
+2026-08-22,"Oxígeno, cilindro",11,12,20
+2026-08-23,"Oxígeno, cilindro",11,12,20
+2026-08-24,"Oxígeno, cilindro",10,12,20
+2026-08-25,"Oxígeno, cilindro",10,12,20
+2026-08-26,"Oxígeno, cilindro",9,12,20
+2026-08-27,"Oxígeno, cilindro",9,12,20
+2026-08-28,"Oxígeno, cilindro",8,12,20
+2026-08-29,"Oxígeno, cilindro",7,12,20
+2026-08-30,"Oxígeno, cilindro",5,12,20
+2026-08-31,"Oxígeno, cilindro",5,12,20
+2026-09-01,"Oxígeno, cilindro",13,12,20
+2026-09-02,"Oxígeno, cilindro",13,12,20
+2026-09-03,"Oxígeno, cilindro",13,12,20
+2026-09-04,"Oxígeno, cilindro",13,12,20
+2026-09-05,"Oxígeno, cilindro",13,12,20
+2026-09-06,"Oxígeno, cilindro",13,12,20
+2026-09-07,"Oxígeno, cilindro",13,12,20
+2026-09-08,"Oxígeno, cilindro",9,12,20
+2026-09-09,"Oxígeno, cilindro",9,12,20
+2026-09-10,"Oxígeno, cilindro",9,12,20
+2026-09-11,"Oxígeno, cilindro",8,12,20
+2026-09-12,"Oxígeno, cilindro",8,12,20
+2026-09-13,"Oxígeno, cilindro",8,12,20
+2026-09-14,"Oxígeno, cilindro",8,12,20
+2026-09-15,"Oxígeno, cilindro",8,12,20
+2026-09-16,"Oxígeno, cilindro",7,12,20
+2026-09-17,"Oxígeno, cilindro",7,12,20
+2026-09-18,"Oxígeno, cilindro",18,12,20
+2026-09-19,"Oxígeno, cilindro",16,12,20
+2026-09-20,"Oxígeno, cilindro",16,12,20
+2026-09-21,"Oxígeno, cilindro",16,12,20
+2026-09-22,"Oxígeno, cilindro",14,12,20
+2026-09-23,"Oxígeno, cilindro",12,12,20
+2026-09-24,"Oxígeno, cilindro",12,12,20
+2026-09-25,"Oxígeno, cilindro",11,12,20
+2026-09-26,"Oxígeno, cilindro",11,12,20
+2026-09-27,"Oxígeno, cilindro",11,12,20
+2026-09-28,"Oxígeno, cilindro",11,12,20
+2026-09-29,"Oxígeno, cilindro",11,12,20
+2026-09-30,"Oxígeno, cilindro",11,12,20
+2026-10-01,"Oxígeno, cilindro",19,12,20
+2026-10-02,"Oxígeno, cilindro",18,12,20
+2026-10-03,"Oxígeno, cilindro",18,12,20
+2026-10-04,"Oxígeno, cilindro",18,12,20
+2026-10-05,"Oxígeno, cilindro",17,12,20
+2026-10-06,"Oxígeno, cilindro",17,12,20
+2026-10-07,"Oxígeno, cilindro",17,12,20
+2026-10-08,"Oxígeno, cilindro",16,12,20
+2026-10-09,"Oxígeno, cilindro",16,12,20
+2026-10-10,"Oxígeno, cilindro",16,12,20
+2026-10-11,"Oxígeno, cilindro",15,12,20
+2026-10-12,"Oxígeno, cilindro",15,12,20
+2026-10-13,"Oxígeno, cilindro",15,12,20
+2026-10-14,"Oxígeno, cilindro",15,12,20
+2026-10-15,"Oxígeno, cilindro",15,12,20
+2026-10-16,"Oxígeno, cilindro",15,12,20
+2026-10-17,"Oxígeno, cilindro",15,12,20
+2026-10-18,"Oxígeno, cilindro",14,12,20
+2025-10-20,Solución fisiológica 500 ml,109,40,110
+2025-10-21,Solución fisiológica 500 ml,105,40,110
+2025-10-22,Solución fisiológica 500 ml,102,40,110
+2025-10-23,Solución fisiológica 500 ml,100,40,110
+2025-10-24,Solución fisiológica 500 ml,98,40,110
+2025-10-25,Solución fisiológica 500 ml,96,40,110
+2025-10-26,Solución fisiológica 500 ml,93,40,110
+2025-10-27,Solución fisiológica 500 ml,92,40,110
+2025-10-28,Solución fisiológica 500 ml,88,40,110
+2025-10-29,Solución fisiológica 500 ml,85,40,110
+2025-10-30,Solución fisiológica 500 ml,82,40,110
+2025-10-31,Solución fisiológica 500 ml,76,40,110
+2025-11-01,Solución fisiológica 500 ml,74,40,110
+2025-11-02,Solución fisiológica 500 ml,72,40,110
+2025-11-03,Solución fisiológica 500 ml,69,40,110
+2025-11-04,Solución fisiológica 500 ml,68,40,110
+2025-11-05,Solución fisiológica 500 ml,68,40,110
+2025-11-06,Solución fisiológica 500 ml,65,40,110
+2025-11-07,Solución fisiológica 500 ml,64,40,110
+2025-11-08,Solución fisiológica 500 ml,61,40,110
+2025-11-09,Solución fisiológica 500 ml,58,40,110
+2025-11-10,Solución fisiológica 500 ml,54,40,110
+2025-11-11,Solución fisiológica 500 ml,49,40,110
+2025-11-12,Solución fisiológica 500 ml,47,40,110
+2025-11-13,Solución fisiológica 500 ml,47,40,110
+2025-11-14,Solución fisiológica 500 ml,46,40,110
+2025-11-15,Solución fisiológica 500 ml,44,40,110
+2025-11-16,Solución fisiológica 500 ml,42,40,110
+2025-11-17,Solución fisiológica 500 ml,40,40,110
+2025-11-18,Solución fisiológica 500 ml,37,40,110
+2025-11-19,Solución fisiológica 500 ml,35,40,110
+2025-11-20,Solución fisiológica 500 ml,29,40,110
+2025-11-21,Solución fisiológica 500 ml,27,40,110
+2025-11-22,Solución fisiológica 500 ml,25,40,110
+2025-11-23,Solución fisiológica 500 ml,20,40,110
+2025-11-24,Solución fisiológica 500 ml,18,40,110
+2025-11-25,Solución fisiológica 500 ml,17,40,110
+2025-11-26,Solución fisiológica 500 ml,16,40,110
+2025-11-27,Solución fisiológica 500 ml,15,40,110
+2025-11-28,Solución fisiológica 500 ml,12,40,110
+2025-11-29,Solución fisiológica 500 ml,7,40,110
+2025-11-30,Solución fisiológica 500 ml,7,40,110
+2025-12-01,Solución fisiológica 500 ml,4,40,110
+2025-12-02,Solución fisiológica 500 ml,0,40,110
+2025-12-03,Solución fisiológica 500 ml,0,40,110
+2025-12-04,Solución fisiológica 500 ml,0,40,110
+2025-12-05,Solución fisiológica 500 ml,0,40,110
+2025-12-06,Solución fisiológica 500 ml,0,40,110
+2025-12-07,Solución fisiológica 500 ml,0,40,110
+2025-12-08,Solución fisiológica 500 ml,0,40,110
+2025-12-09,Solución fisiológica 500 ml,0,40,110
+2025-12-10,Solución fisiológica 500 ml,0,40,110
+2025-12-11,Solución fisiológica 500 ml,0,40,110
+2025-12-12,Solución fisiológica 500 ml,0,40,110
+2025-12-13,Solución fisiológica 500 ml,0,40,110
+2025-12-14,Solución fisiológica 500 ml,72,40,110
+2025-12-15,Solución fisiológica 500 ml,70,40,110
+2025-12-16,Solución fisiológica 500 ml,61,40,110
+2025-12-17,Solución fisiológica 500 ml,56,40,110
+2025-12-18,Solución fisiológica 500 ml,53,40,110
+2025-12-19,Solución fisiológica 500 ml,51,40,110
+2025-12-20,Solución fisiológica 500 ml,44,40,110
+2025-12-21,Solución fisiológica 500 ml,40,40,110
+2025-12-22,Solución fisiológica 500 ml,37,40,110
+2025-12-23,Solución fisiológica 500 ml,34,40,110
+2025-12-24,Solución fisiológica 500 ml,30,40,110
+2025-12-25,Solución fisiológica 500 ml,29,40,110
+2025-12-26,Solución fisiológica 500 ml,25,40,110
+2025-12-27,Solución fisiológica 500 ml,22,40,110
+2025-12-28,Solución fisiológica 500 ml,19,40,110
+2025-12-29,Solución fisiológica 500 ml,13,40,110
+2025-12-30,Solución fisiológica 500 ml,10,40,110
+2025-12-31,Solución fisiológica 500 ml,8,40,110
+2026-01-01,Solución fisiológica 500 ml,7,40,110
+2026-01-02,Solución fisiológica 500 ml,4,40,110
+2026-01-03,Solución fisiológica 500 ml,1,40,110
+2026-01-04,Solución fisiológica 500 ml,0,40,110
+2026-01-05,Solución fisiológica 500 ml,0,40,110
+2026-01-06,Solución fisiológica 500 ml,0,40,110
+2026-01-07,Solución fisiológica 500 ml,0,40,110
+2026-01-08,Solución fisiológica 500 ml,0,40,110
+2026-01-09,Solución fisiológica 500 ml,0,40,110
+2026-01-10,Solución fisiológica 500 ml,0,40,110
+2026-01-11,Solución fisiológica 500 ml,0,40,110
+2026-01-12,Solución fisiológica 500 ml,0,40,110
+2026-01-13,Solución fisiológica 500 ml,66,40,110
+2026-01-14,Solución fisiológica 500 ml,64,40,110
+2026-01-15,Solución fisiológica 500 ml,58,40,110
+2026-01-16,Solución fisiológica 500 ml,55,40,110
+2026-01-17,Solución fisiológica 500 ml,52,40,110
+2026-01-18,Solución fisiológica 500 ml,49,40,110
+2026-01-19,Solución fisiológica 500 ml,45,40,110
+2026-01-20,Solución fisiológica 500 ml,42,40,110
+2026-01-21,Solución fisiológica 500 ml,38,40,110
+2026-01-22,Solución fisiológica 500 ml,37,40,110
+2026-01-23,Solución fisiológica 500 ml,33,40,110
+2026-01-24,Solución fisiológica 500 ml,29,40,110
+2026-01-25,Solución fisiológica 500 ml,26,40,110
+2026-01-26,Solución fisiológica 500 ml,24,40,110
+2026-01-27,Solución fisiológica 500 ml,19,40,110
+2026-01-28,Solución fisiológica 500 ml,17,40,110
+2026-01-29,Solución fisiológica 500 ml,13,40,110
+2026-01-30,Solución fisiológica 500 ml,11,40,110
+2026-01-31,Solución fisiológica 500 ml,9,40,110
+2026-02-01,Solución fisiológica 500 ml,7,40,110
+2026-02-02,Solución fisiológica 500 ml,2,40,110
+2026-02-03,Solución fisiológica 500 ml,1,40,110
+2026-02-04,Solución fisiológica 500 ml,0,40,110
+2026-02-05,Solución fisiológica 500 ml,0,40,110
+2026-02-06,Solución fisiológica 500 ml,0,40,110
+2026-02-07,Solución fisiológica 500 ml,0,40,110
+2026-02-08,Solución fisiológica 500 ml,0,40,110
+2026-02-09,Solución fisiológica 500 ml,0,40,110
+2026-02-10,Solución fisiológica 500 ml,0,40,110
+2026-02-11,Solución fisiológica 500 ml,0,40,110
+2026-02-12,Solución fisiológica 500 ml,0,40,110
+2026-02-13,Solución fisiológica 500 ml,65,40,110
+2026-02-14,Solución fisiológica 500 ml,62,40,110
+2026-02-15,Solución fisiológica 500 ml,61,40,110
+2026-02-16,Solución fisiológica 500 ml,61,40,110
+2026-02-17,Solución fisiológica 500 ml,59,40,110
+2026-02-18,Solución fisiológica 500 ml,55,40,110
+2026-02-19,Solución fisiológica 500 ml,47,40,110
+2026-02-20,Solución fisiológica 500 ml,42,40,110
+2026-02-21,Solución fisiológica 500 ml,40,40,110
+2026-02-22,Solución fisiológica 500 ml,38,40,110
+2026-02-23,Solución fisiológica 500 ml,32,40,110
+2026-02-24,Solución fisiológica 500 ml,28,40,110
+2026-02-25,Solución fisiológica 500 ml,26,40,110
+2026-02-26,Solución fisiológica 500 ml,22,40,110
+2026-02-27,Solución fisiológica 500 ml,19,40,110
+2026-02-28,Solución fisiológica 500 ml,15,40,110
+2026-03-01,Solución fisiológica 500 ml,13,40,110
+2026-03-02,Solución fisiológica 500 ml,11,40,110
+2026-03-03,Solución fisiológica 500 ml,8,40,110
+2026-03-04,Solución fisiológica 500 ml,4,40,110
+2026-03-05,Solución fisiológica 500 ml,0,40,110
+2026-03-06,Solución fisiológica 500 ml,0,40,110
+2026-03-07,Solución fisiológica 500 ml,0,40,110
+2026-03-08,Solución fisiológica 500 ml,0,40,110
+2026-03-09,Solución fisiológica 500 ml,0,40,110
+2026-03-10,Solución fisiológica 500 ml,0,40,110
+2026-03-11,Solución fisiológica 500 ml,0,40,110
+2026-03-12,Solución fisiológica 500 ml,0,40,110
+2026-03-13,Solución fisiológica 500 ml,0,40,110
+2026-03-14,Solución fisiológica 500 ml,0,40,110
+2026-03-15,Solución fisiológica 500 ml,61,40,110
+2026-03-16,Solución fisiológica 500 ml,57,40,110
+2026-03-17,Solución fisiológica 500 ml,56,40,110
+2026-03-18,Solución fisiológica 500 ml,51,40,110
+2026-03-19,Solución fisiológica 500 ml,45,40,110
+2026-03-20,Solución fisiológica 500 ml,43,40,110
+2026-03-21,Solución fisiológica 500 ml,33,40,110
+2026-03-22,Solución fisiológica 500 ml,33,40,110
+2026-03-23,Solución fisiológica 500 ml,29,40,110
+2026-03-24,Solución fisiológica 500 ml,28,40,110
+2026-03-25,Solución fisiológica 500 ml,27,40,110
+2026-03-26,Solución fisiológica 500 ml,23,40,110
+2026-03-27,Solución fisiológica 500 ml,17,40,110
+2026-03-28,Solución fisiológica 500 ml,17,40,110
+2026-03-29,Solución fisiológica 500 ml,15,40,110
+2026-03-30,Solución fisiológica 500 ml,12,40,110
+2026-03-31,Solución fisiológica 500 ml,11,40,110
+2026-04-01,Solución fisiológica 500 ml,6,58,128
+2026-04-02,Solución fisiológica 500 ml,3,58,128
+2026-04-03,Solución fisiológica 500 ml,0,58,128
+2026-04-04,Solución fisiológica 500 ml,0,58,128
+2026-04-05,Solución fisiológica 500 ml,0,58,128
+2026-04-06,Solución fisiológica 500 ml,0,58,128
+2026-04-07,Solución fisiológica 500 ml,0,58,128
+2026-04-08,Solución fisiológica 500 ml,0,58,128
+2026-04-09,Solución fisiológica 500 ml,0,58,128
+2026-04-10,Solución fisiológica 500 ml,0,58,128
+2026-04-11,Solución fisiológica 500 ml,0,58,128
+2026-04-12,Solución fisiológica 500 ml,0,58,128
+2026-04-13,Solución fisiológica 500 ml,0,58,128
+2026-04-14,Solución fisiológica 500 ml,0,58,128
+2026-04-15,Solución fisiológica 500 ml,120,58,128
+2026-04-16,Solución fisiológica 500 ml,115,58,128
+2026-04-17,Solución fisiológica 500 ml,111,58,128
+2026-04-18,Solución fisiológica 500 ml,108,58,128
+2026-04-19,Solución fisiológica 500 ml,103,58,128
+2026-04-20,Solución fisiológica 500 ml,99,58,128
+2026-04-21,Solución fisiológica 500 ml,98,58,128
+2026-04-22,Solución fisiológica 500 ml,95,58,128
+2026-04-23,Solución fisiológica 500 ml,93,58,128
+2026-04-24,Solución fisiológica 500 ml,90,58,128
+2026-04-25,Solución fisiológica 500 ml,87,58,128
+2026-04-26,Solución fisiológica 500 ml,83,58,128
+2026-04-27,Solución fisiológica 500 ml,77,58,128
+2026-04-28,Solución fisiológica 500 ml,72,58,128
+2026-04-29,Solución fisiológica 500 ml,67,58,128
+2026-04-30,Solución fisiológica 500 ml,62,58,128
+2026-05-01,Solución fisiológica 500 ml,60,58,128
+2026-05-02,Solución fisiológica 500 ml,59,58,128
+2026-05-03,Solución fisiológica 500 ml,58,58,128
+2026-05-04,Solución fisiológica 500 ml,57,58,128
+2026-05-05,Solución fisiológica 500 ml,52,58,128
+2026-05-06,Solución fisiológica 500 ml,48,58,128
+2026-05-07,Solución fisiológica 500 ml,46,58,128
+2026-05-08,Solución fisiológica 500 ml,43,58,128
+2026-05-09,Solución fisiológica 500 ml,37,58,128
+2026-05-10,Solución fisiológica 500 ml,33,58,128
+2026-05-11,Solución fisiológica 500 ml,32,58,128
+2026-05-12,Solución fisiológica 500 ml,28,58,128
+2026-05-13,Solución fisiológica 500 ml,26,58,128
+2026-05-14,Solución fisiológica 500 ml,22,58,128
+2026-05-15,Solución fisiológica 500 ml,90,58,128
+2026-05-16,Solución fisiológica 500 ml,86,58,128
+2026-05-17,Solución fisiológica 500 ml,81,58,128
+2026-05-18,Solución fisiológica 500 ml,77,58,128
+2026-05-19,Solución fisiológica 500 ml,75,58,128
+2026-05-20,Solución fisiológica 500 ml,73,58,128
+2026-05-21,Solución fisiológica 500 ml,65,58,128
+2026-05-22,Solución fisiológica 500 ml,60,58,128
+2026-05-23,Solución fisiológica 500 ml,58,58,128
+2026-05-24,Solución fisiológica 500 ml,54,58,128
+2026-05-25,Solución fisiológica 500 ml,49,58,128
+2026-05-26,Solución fisiológica 500 ml,45,58,128
+2026-05-27,Solución fisiológica 500 ml,44,58,128
+2026-05-28,Solución fisiológica 500 ml,42,58,128
+2026-05-29,Solución fisiológica 500 ml,41,58,128
+2026-05-30,Solución fisiológica 500 ml,39,58,128
+2026-05-31,Solución fisiológica 500 ml,35,58,128
+2026-06-01,Solución fisiológica 500 ml,31,58,128
+2026-06-02,Solución fisiológica 500 ml,27,58,128
+2026-06-03,Solución fisiológica 500 ml,22,58,128
+2026-06-04,Solución fisiológica 500 ml,21,58,128
+2026-06-05,Solución fisiológica 500 ml,19,58,128
+2026-06-06,Solución fisiológica 500 ml,84,58,128
+2026-06-07,Solución fisiológica 500 ml,80,58,128
+2026-06-08,Solución fisiológica 500 ml,80,58,128
+2026-06-09,Solución fisiológica 500 ml,76,58,128
+2026-06-10,Solución fisiológica 500 ml,75,58,128
+2026-06-11,Solución fisiológica 500 ml,72,58,128
+2026-06-12,Solución fisiológica 500 ml,71,58,128
+2026-06-13,Solución fisiológica 500 ml,68,58,128
+2026-06-14,Solución fisiológica 500 ml,67,58,128
+2026-06-15,Solución fisiológica 500 ml,64,58,128
+2026-06-16,Solución fisiológica 500 ml,62,58,128
+2026-06-17,Solución fisiológica 500 ml,57,58,128
+2026-06-18,Solución fisiológica 500 ml,55,58,128
+2026-06-19,Solución fisiológica 500 ml,50,58,128
+2026-06-20,Solución fisiológica 500 ml,47,58,128
+2026-06-21,Solución fisiológica 500 ml,42,58,128
+2026-06-22,Solución fisiológica 500 ml,37,58,128
+2026-06-23,Solución fisiológica 500 ml,34,58,128
+2026-06-24,Solución fisiológica 500 ml,33,58,128
+2026-06-25,Solución fisiológica 500 ml,33,58,128
+2026-06-26,Solución fisiológica 500 ml,30,58,128
+2026-06-27,Solución fisiológica 500 ml,28,58,128
+2026-06-28,Solución fisiológica 500 ml,95,58,128
+2026-06-29,Solución fisiológica 500 ml,93,58,128
+2026-06-30,Solución fisiológica 500 ml,90,58,128
+2026-07-01,Solución fisiológica 500 ml,88,58,128
+2026-07-02,Solución fisiológica 500 ml,82,58,128
+2026-07-03,Solución fisiológica 500 ml,76,58,128
+2026-07-04,Solución fisiológica 500 ml,73,58,128
+2026-07-05,Solución fisiológica 500 ml,70,58,128
+2026-07-06,Solución fisiológica 500 ml,62,58,128
+2026-07-07,Solución fisiológica 500 ml,57,58,128
+2026-07-08,Solución fisiológica 500 ml,52,58,128
+2026-07-09,Solución fisiológica 500 ml,47,58,128
+2026-07-10,Solución fisiológica 500 ml,44,58,128
+2026-07-11,Solución fisiológica 500 ml,38,58,128
+2026-07-12,Solución fisiológica 500 ml,32,58,128
+2026-07-13,Solución fisiológica 500 ml,29,58,128
+2026-07-14,Solución fisiológica 500 ml,25,58,128
+2026-07-15,Solución fisiológica 500 ml,21,58,128
+2026-07-16,Solución fisiológica 500 ml,18,58,128
+2026-07-17,Solución fisiológica 500 ml,16,58,128
+2026-07-18,Solución fisiológica 500 ml,15,58,128
+2026-07-19,Solución fisiológica 500 ml,10,58,128
+2026-07-20,Solución fisiológica 500 ml,5,58,128
+2026-07-21,Solución fisiológica 500 ml,71,58,128
+2026-07-22,Solución fisiológica 500 ml,70,58,128
+2026-07-23,Solución fisiológica 500 ml,67,58,128
+2026-07-24,Solución fisiológica 500 ml,65,58,128
+2026-07-25,Solución fisiológica 500 ml,60,58,128
+2026-07-26,Solución fisiológica 500 ml,55,58,128
+2026-07-27,Solución fisiológica 500 ml,54,58,128
+2026-07-28,Solución fisiológica 500 ml,51,58,128
+2026-07-29,Solución fisiológica 500 ml,46,58,128
+2026-07-30,Solución fisiológica 500 ml,40,58,128
+2026-07-31,Solución fisiológica 500 ml,38,58,128
+2026-08-01,Solución fisiológica 500 ml,37,58,128
+2026-08-02,Solución fisiológica 500 ml,35,58,128
+2026-08-03,Solución fisiológica 500 ml,32,58,128
+2026-08-04,Solución fisiológica 500 ml,31,58,128
+2026-08-05,Solución fisiológica 500 ml,28,58,128
+2026-08-06,Solución fisiológica 500 ml,101,58,128
+2026-08-07,Solución fisiológica 500 ml,94,58,128
+2026-08-08,Solución fisiológica 500 ml,91,58,128
+2026-08-09,Solución fisiológica 500 ml,85,58,128
+2026-08-10,Solución fisiológica 500 ml,84,58,128
+2026-08-11,Solución fisiológica 500 ml,83,58,128
+2026-08-12,Solución fisiológica 500 ml,81,58,128
+2026-08-13,Solución fisiológica 500 ml,80,58,128
+2026-08-14,Solución fisiológica 500 ml,78,58,128
+2026-08-15,Solución fisiológica 500 ml,76,58,128
+2026-08-16,Solución fisiológica 500 ml,72,58,128
+2026-08-17,Solución fisiológica 500 ml,71,58,128
+2026-08-18,Solución fisiológica 500 ml,70,58,128
+2026-08-19,Solución fisiológica 500 ml,67,58,128
+2026-08-20,Solución fisiológica 500 ml,62,58,128
+2026-08-21,Solución fisiológica 500 ml,58,58,128
+2026-08-22,Solución fisiológica 500 ml,56,58,128
+2026-08-23,Solución fisiológica 500 ml,52,58,128
+2026-08-24,Solución fisiológica 500 ml,47,58,128
+2026-08-25,Solución fisiológica 500 ml,44,58,128
+2026-08-26,Solución fisiológica 500 ml,42,58,128
+2026-08-27,Solución fisiológica 500 ml,38,58,128
+2026-08-28,Solución fisiológica 500 ml,34,58,128
+2026-08-29,Solución fisiológica 500 ml,31,58,128
+2026-08-30,Solución fisiológica 500 ml,24,58,128
+2026-08-31,Solución fisiológica 500 ml,20,58,128
+2026-09-01,Solución fisiológica 500 ml,19,58,128
+2026-09-02,Solución fisiológica 500 ml,15,58,128
+2026-09-03,Solución fisiológica 500 ml,10,58,128
+2026-09-04,Solución fisiológica 500 ml,6,58,128
+2026-09-05,Solución fisiológica 500 ml,74,58,128
+2026-09-06,Solución fisiológica 500 ml,72,58,128
+2026-09-07,Solución fisiológica 500 ml,67,58,128
+2026-09-08,Solución fisiológica 500 ml,65,58,128
+2026-09-09,Solución fisiológica 500 ml,65,58,128
+2026-09-10,Solución fisiológica 500 ml,61,58,128
+2026-09-11,Solución fisiológica 500 ml,60,58,128
+2026-09-12,Solución fisiológica 500 ml,56,58,128
+2026-09-13,Solución fisiológica 500 ml,52,58,128
+2026-09-14,Solución fisiológica 500 ml,48,58,128
+2026-09-15,Solución fisiológica 500 ml,44,58,128
+2026-09-16,Solución fisiológica 500 ml,40,58,128
+2026-09-17,Solución fisiológica 500 ml,38,58,128
+2026-09-18,Solución fisiológica 500 ml,35,58,128
+2026-09-19,Solución fisiológica 500 ml,33,58,128
+2026-09-20,Solución fisiológica 500 ml,27,58,128
+2026-09-21,Solución fisiológica 500 ml,23,58,128
+2026-09-22,Solución fisiológica 500 ml,21,58,128
+2026-09-23,Solución fisiológica 500 ml,16,58,128
+2026-09-24,Solución fisiológica 500 ml,14,58,128
+2026-09-25,Solución fisiológica 500 ml,82,58,128
+2026-09-26,Solución fisiológica 500 ml,80,58,128
+2026-09-27,Solución fisiológica 500 ml,75,58,128
+2026-09-28,Solución fisiológica 500 ml,73,58,128
+2026-09-29,Solución fisiológica 500 ml,71,58,128
+2026-09-30,Solución fisiológica 500 ml,68,58,128
+2026-10-01,Solución fisiológica 500 ml,64,58,128
+2026-10-02,Solución fisiológica 500 ml,62,58,128
+2026-10-03,Solución fisiológica 500 ml,59,58,128
+2026-10-04,Solución fisiológica 500 ml,56,58,128
+2026-10-05,Solución fisiológica 500 ml,54,58,128
+2026-10-06,Solución fisiológica 500 ml,49,58,128
+2026-10-07,Solución fisiológica 500 ml,45,58,128
+2026-10-08,Solución fisiológica 500 ml,43,58,128
+2026-10-09,Solución fisiológica 500 ml,41,58,128
+2026-10-10,Solución fisiológica 500 ml,38,58,128
+2026-10-11,Solución fisiológica 500 ml,35,58,128
+2026-10-12,Solución fisiológica 500 ml,33,58,128
+2026-10-13,Solución fisiológica 500 ml,31,58,128
+2026-10-14,Solución fisiológica 500 ml,29,58,128
+2026-10-15,Solución fisiológica 500 ml,99,58,128
+2026-10-16,Solución fisiológica 500 ml,97,58,128
+2026-10-17,Solución fisiológica 500 ml,90,58,128
+2026-10-18,Solución fisiológica 500 ml,89,58,128
+2025-10-20,Adrenalina 1 mg,12,6,12
+2025-10-21,Adrenalina 1 mg,12,6,12
+2025-10-22,Adrenalina 1 mg,12,6,12
+2025-10-23,Adrenalina 1 mg,12,6,12
+2025-10-24,Adrenalina 1 mg,11,6,12
+2025-10-25,Adrenalina 1 mg,11,6,12
+2025-10-26,Adrenalina 1 mg,11,6,12
+2025-10-27,Adrenalina 1 mg,11,6,12
+2025-10-28,Adrenalina 1 mg,11,6,12
+2025-10-29,Adrenalina 1 mg,11,6,12
+2025-10-30,Adrenalina 1 mg,11,6,12
+2025-10-31,Adrenalina 1 mg,11,6,12
+2025-11-01,Adrenalina 1 mg,11,6,12
+2025-11-02,Adrenalina 1 mg,11,6,12
+2025-11-03,Adrenalina 1 mg,11,6,12
+2025-11-04,Adrenalina 1 mg,11,6,12
+2025-11-05,Adrenalina 1 mg,11,6,12
+2025-11-06,Adrenalina 1 mg,11,6,12
+2025-11-07,Adrenalina 1 mg,11,6,12
+2025-11-08,Adrenalina 1 mg,11,6,12
+2025-11-09,Adrenalina 1 mg,11,6,12
+2025-11-10,Adrenalina 1 mg,11,6,12
+2025-11-11,Adrenalina 1 mg,11,6,12
+2025-11-12,Adrenalina 1 mg,11,6,12
+2025-11-13,Adrenalina 1 mg,11,6,12
+2025-11-14,Adrenalina 1 mg,11,6,12
+2025-11-15,Adrenalina 1 mg,11,6,12
+2025-11-16,Adrenalina 1 mg,11,6,12
+2025-11-17,Adrenalina 1 mg,11,6,12
+2025-11-18,Adrenalina 1 mg,11,6,12
+2025-11-19,Adrenalina 1 mg,11,6,12
+2025-11-20,Adrenalina 1 mg,11,6,12
+2025-11-21,Adrenalina 1 mg,11,6,12
+2025-11-22,Adrenalina 1 mg,11,6,12
+2025-11-23,Adrenalina 1 mg,11,6,12
+2025-11-24,Adrenalina 1 mg,11,6,12
+2025-11-25,Adrenalina 1 mg,11,6,12
+2025-11-26,Adrenalina 1 mg,11,6,12
+2025-11-27,Adrenalina 1 mg,11,6,12
+2025-11-28,Adrenalina 1 mg,11,6,12
+2025-11-29,Adrenalina 1 mg,11,6,12
+2025-11-30,Adrenalina 1 mg,11,6,12
+2025-12-01,Adrenalina 1 mg,10,6,12
+2025-12-02,Adrenalina 1 mg,9,6,12
+2025-12-03,Adrenalina 1 mg,9,6,12
+2025-12-04,Adrenalina 1 mg,9,6,12
+2025-12-05,Adrenalina 1 mg,9,6,12
+2025-12-06,Adrenalina 1 mg,9,6,12
+2025-12-07,Adrenalina 1 mg,9,6,12
+2025-12-08,Adrenalina 1 mg,9,6,12
+2025-12-09,Adrenalina 1 mg,9,6,12
+2025-12-10,Adrenalina 1 mg,9,6,12
+2025-12-11,Adrenalina 1 mg,9,6,12
+2025-12-12,Adrenalina 1 mg,9,6,12
+2025-12-13,Adrenalina 1 mg,9,6,12
+2025-12-14,Adrenalina 1 mg,9,6,12
+2025-12-15,Adrenalina 1 mg,8,6,12
+2025-12-16,Adrenalina 1 mg,8,6,12
+2025-12-17,Adrenalina 1 mg,8,6,12
+2025-12-18,Adrenalina 1 mg,8,6,12
+2025-12-19,Adrenalina 1 mg,8,6,12
+2025-12-20,Adrenalina 1 mg,8,6,12
+2025-12-21,Adrenalina 1 mg,8,6,12
+2025-12-22,Adrenalina 1 mg,7,6,12
+2025-12-23,Adrenalina 1 mg,7,6,12
+2025-12-24,Adrenalina 1 mg,7,6,12
+2025-12-25,Adrenalina 1 mg,7,6,12
+2025-12-26,Adrenalina 1 mg,7,6,12
+2025-12-27,Adrenalina 1 mg,7,6,12
+2025-12-28,Adrenalina 1 mg,7,6,12
+2025-12-29,Adrenalina 1 mg,7,6,12
+2025-12-30,Adrenalina 1 mg,7,6,12
+2025-12-31,Adrenalina 1 mg,7,6,12
+2026-01-01,Adrenalina 1 mg,6,6,12
+2026-01-02,Adrenalina 1 mg,6,6,12
+2026-01-03,Adrenalina 1 mg,6,6,12
+2026-01-04,Adrenalina 1 mg,6,6,12
+2026-01-05,Adrenalina 1 mg,6,6,12
+2026-01-06,Adrenalina 1 mg,5,6,12
+2026-01-07,Adrenalina 1 mg,4,6,12
+2026-01-08,Adrenalina 1 mg,4,6,12
+2026-01-09,Adrenalina 1 mg,4,6,12
+2026-01-10,Adrenalina 1 mg,4,6,12
+2026-01-11,Adrenalina 1 mg,4,6,12
+2026-01-12,Adrenalina 1 mg,4,6,12
+2026-01-13,Adrenalina 1 mg,4,6,12
+2026-01-14,Adrenalina 1 mg,4,6,12
+2026-01-15,Adrenalina 1 mg,4,6,12
+2026-01-16,Adrenalina 1 mg,4,6,12
+2026-01-17,Adrenalina 1 mg,4,6,12
+2026-01-18,Adrenalina 1 mg,6,6,12
+2026-01-19,Adrenalina 1 mg,6,6,12
+2026-01-20,Adrenalina 1 mg,6,6,12
+2026-01-21,Adrenalina 1 mg,6,6,12
+2026-01-22,Adrenalina 1 mg,6,6,12
+2026-01-23,Adrenalina 1 mg,6,6,12
+2026-01-24,Adrenalina 1 mg,6,6,12
+2026-01-25,Adrenalina 1 mg,6,6,12
+2026-01-26,Adrenalina 1 mg,6,6,12
+2026-01-27,Adrenalina 1 mg,6,6,12
+2026-01-28,Adrenalina 1 mg,6,6,12
+2026-01-29,Adrenalina 1 mg,6,6,12
+2026-01-30,Adrenalina 1 mg,6,6,12
+2026-01-31,Adrenalina 1 mg,5,6,12
+2026-02-01,Adrenalina 1 mg,5,6,12
+2026-02-02,Adrenalina 1 mg,5,6,12
+2026-02-03,Adrenalina 1 mg,5,6,12
+2026-02-04,Adrenalina 1 mg,5,6,12
+2026-02-05,Adrenalina 1 mg,5,6,12
+2026-02-06,Adrenalina 1 mg,5,6,12
+2026-02-07,Adrenalina 1 mg,5,6,12
+2026-02-08,Adrenalina 1 mg,5,6,12
+2026-02-09,Adrenalina 1 mg,5,6,12
+2026-02-10,Adrenalina 1 mg,5,6,12
+2026-02-11,Adrenalina 1 mg,5,6,12
+2026-02-12,Adrenalina 1 mg,4,6,12
+2026-02-13,Adrenalina 1 mg,4,6,12
+2026-02-14,Adrenalina 1 mg,4,6,12
+2026-02-15,Adrenalina 1 mg,7,6,12
+2026-02-16,Adrenalina 1 mg,7,6,12
+2026-02-17,Adrenalina 1 mg,7,6,12
+2026-02-18,Adrenalina 1 mg,7,6,12
+2026-02-19,Adrenalina 1 mg,7,6,12
+2026-02-20,Adrenalina 1 mg,7,6,12
+2026-02-21,Adrenalina 1 mg,7,6,12
+2026-02-22,Adrenalina 1 mg,7,6,12
+2026-02-23,Adrenalina 1 mg,7,6,12
+2026-02-24,Adrenalina 1 mg,7,6,12
+2026-02-25,Adrenalina 1 mg,7,6,12
+2026-02-26,Adrenalina 1 mg,7,6,12
+2026-02-27,Adrenalina 1 mg,7,6,12
+2026-02-28,Adrenalina 1 mg,7,6,12
+2026-03-01,Adrenalina 1 mg,7,6,12
+2026-03-02,Adrenalina 1 mg,7,6,12
+2026-03-03,Adrenalina 1 mg,7,6,12
+2026-03-04,Adrenalina 1 mg,6,6,12
+2026-03-05,Adrenalina 1 mg,6,6,12
+2026-03-06,Adrenalina 1 mg,6,6,12
+2026-03-07,Adrenalina 1 mg,6,6,12
+2026-03-08,Adrenalina 1 mg,6,6,12
+2026-03-09,Adrenalina 1 mg,6,6,12
+2026-03-10,Adrenalina 1 mg,6,6,12
+2026-03-11,Adrenalina 1 mg,6,6,12
+2026-03-12,Adrenalina 1 mg,6,6,12
+2026-03-13,Adrenalina 1 mg,6,6,12
+2026-03-14,Adrenalina 1 mg,6,6,12
+2026-03-15,Adrenalina 1 mg,6,6,12
+2026-03-16,Adrenalina 1 mg,6,6,12
+2026-03-17,Adrenalina 1 mg,7,6,12
+2026-03-18,Adrenalina 1 mg,7,6,12
+2026-03-19,Adrenalina 1 mg,7,6,12
+2026-03-20,Adrenalina 1 mg,7,6,12
+2026-03-21,Adrenalina 1 mg,7,6,12
+2026-03-22,Adrenalina 1 mg,7,6,12
+2026-03-23,Adrenalina 1 mg,7,6,12
+2026-03-24,Adrenalina 1 mg,6,6,12
+2026-03-25,Adrenalina 1 mg,6,6,12
+2026-03-26,Adrenalina 1 mg,6,6,12
+2026-03-27,Adrenalina 1 mg,6,6,12
+2026-03-28,Adrenalina 1 mg,6,6,12
+2026-03-29,Adrenalina 1 mg,6,6,12
+2026-03-30,Adrenalina 1 mg,6,6,12
+2026-03-31,Adrenalina 1 mg,6,6,12
+2026-04-01,Adrenalina 1 mg,6,3,12
+2026-04-02,Adrenalina 1 mg,6,3,12
+2026-04-03,Adrenalina 1 mg,6,3,12
+2026-04-04,Adrenalina 1 mg,6,3,12
+2026-04-05,Adrenalina 1 mg,6,3,12
+2026-04-06,Adrenalina 1 mg,6,3,12
+2026-04-07,Adrenalina 1 mg,6,3,12
+2026-04-08,Adrenalina 1 mg,6,3,12
+2026-04-09,Adrenalina 1 mg,6,3,12
+2026-04-10,Adrenalina 1 mg,6,3,12
+2026-04-11,Adrenalina 1 mg,6,3,12
+2026-04-12,Adrenalina 1 mg,6,3,12
+2026-04-13,Adrenalina 1 mg,6,3,12
+2026-04-14,Adrenalina 1 mg,6,3,12
+2026-04-15,Adrenalina 1 mg,6,3,12
+2026-04-16,Adrenalina 1 mg,6,3,12
+2026-04-17,Adrenalina 1 mg,5,3,12
+2026-04-18,Adrenalina 1 mg,5,3,12
+2026-04-19,Adrenalina 1 mg,5,3,12
+2026-04-20,Adrenalina 1 mg,5,3,12
+2026-04-21,Adrenalina 1 mg,5,3,12
+2026-04-22,Adrenalina 1 mg,5,3,12
+2026-04-23,Adrenalina 1 mg,5,3,12
+2026-04-24,Adrenalina 1 mg,5,3,12
+2026-04-25,Adrenalina 1 mg,5,3,12
+2026-04-26,Adrenalina 1 mg,4,3,12
+2026-04-27,Adrenalina 1 mg,4,3,12
+2026-04-28,Adrenalina 1 mg,4,3,12
+2026-04-29,Adrenalina 1 mg,4,3,12
+2026-04-30,Adrenalina 1 mg,4,3,12
+2026-05-01,Adrenalina 1 mg,4,3,12
+2026-05-02,Adrenalina 1 mg,4,3,12
+2026-05-03,Adrenalina 1 mg,4,3,12
+2026-05-04,Adrenalina 1 mg,4,3,12
+2026-05-05,Adrenalina 1 mg,4,3,12
+2026-05-06,Adrenalina 1 mg,4,3,12
+2026-05-07,Adrenalina 1 mg,4,3,12
+2026-05-08,Adrenalina 1 mg,4,3,12
+2026-05-09,Adrenalina 1 mg,4,3,12
+2026-05-10,Adrenalina 1 mg,4,3,12
+2026-05-11,Adrenalina 1 mg,4,3,12
+2026-05-12,Adrenalina 1 mg,4,3,12
+2026-05-13,Adrenalina 1 mg,4,3,12
+2026-05-14,Adrenalina 1 mg,4,3,12
+2026-05-15,Adrenalina 1 mg,4,3,12
+2026-05-16,Adrenalina 1 mg,4,3,12
+2026-05-17,Adrenalina 1 mg,4,3,12
+2026-05-18,Adrenalina 1 mg,4,3,12
+2026-05-19,Adrenalina 1 mg,4,3,12
+2026-05-20,Adrenalina 1 mg,4,3,12
+2026-05-21,Adrenalina 1 mg,4,3,12
+2026-05-22,Adrenalina 1 mg,4,3,12
+2026-05-23,Adrenalina 1 mg,4,3,12
+2026-05-24,Adrenalina 1 mg,4,3,12
+2026-05-25,Adrenalina 1 mg,3,3,12
+2026-05-26,Adrenalina 1 mg,3,3,12
+2026-05-27,Adrenalina 1 mg,3,3,12
+2026-05-28,Adrenalina 1 mg,3,3,12
+2026-05-29,Adrenalina 1 mg,3,3,12
+2026-05-30,Adrenalina 1 mg,3,3,12
+2026-05-31,Adrenalina 1 mg,3,3,12
+2026-06-01,Adrenalina 1 mg,3,3,12
+2026-06-02,Adrenalina 1 mg,2,3,12
+2026-06-03,Adrenalina 1 mg,2,3,12
+2026-06-04,Adrenalina 1 mg,2,3,12
+2026-06-05,Adrenalina 1 mg,2,3,12
+2026-06-06,Adrenalina 1 mg,2,3,12
+2026-06-07,Adrenalina 1 mg,2,3,12
+2026-06-08,Adrenalina 1 mg,2,3,12
+2026-06-09,Adrenalina 1 mg,1,3,12
+2026-06-10,Adrenalina 1 mg,1,3,12
+2026-06-11,Adrenalina 1 mg,10,3,12
+2026-06-12,Adrenalina 1 mg,10,3,12
+2026-06-13,Adrenalina 1 mg,10,3,12
+2026-06-14,Adrenalina 1 mg,10,3,12
+2026-06-15,Adrenalina 1 mg,10,3,12
+2026-06-16,Adrenalina 1 mg,10,3,12
+2026-06-17,Adrenalina 1 mg,10,3,12
+2026-06-18,Adrenalina 1 mg,10,3,12
+2026-06-19,Adrenalina 1 mg,10,3,12
+2026-06-20,Adrenalina 1 mg,10,3,12
+2026-06-21,Adrenalina 1 mg,10,3,12
+2026-06-22,Adrenalina 1 mg,9,3,12
+2026-06-23,Adrenalina 1 mg,9,3,12
+2026-06-24,Adrenalina 1 mg,9,3,12
+2026-06-25,Adrenalina 1 mg,9,3,12
+2026-06-26,Adrenalina 1 mg,9,3,12
+2026-06-27,Adrenalina 1 mg,9,3,12
+2026-06-28,Adrenalina 1 mg,9,3,12
+2026-06-29,Adrenalina 1 mg,9,3,12
+2026-06-30,Adrenalina 1 mg,9,3,12
+2026-07-01,Adrenalina 1 mg,8,3,12
+2026-07-02,Adrenalina 1 mg,8,3,12
+2026-07-03,Adrenalina 1 mg,8,3,12
+2026-07-04,Adrenalina 1 mg,8,3,12
+2026-07-05,Adrenalina 1 mg,8,3,12
+2026-07-06,Adrenalina 1 mg,8,3,12
+2026-07-07,Adrenalina 1 mg,7,3,12
+2026-07-08,Adrenalina 1 mg,7,3,12
+2026-07-09,Adrenalina 1 mg,7,3,12
+2026-07-10,Adrenalina 1 mg,7,3,12
+2026-07-11,Adrenalina 1 mg,7,3,12
+2026-07-12,Adrenalina 1 mg,7,3,12
+2026-07-13,Adrenalina 1 mg,7,3,12
+2026-07-14,Adrenalina 1 mg,7,3,12
+2026-07-15,Adrenalina 1 mg,7,3,12
+2026-07-16,Adrenalina 1 mg,7,3,12
+2026-07-17,Adrenalina 1 mg,7,3,12
+2026-07-18,Adrenalina 1 mg,7,3,12
+2026-07-19,Adrenalina 1 mg,6,3,12
+2026-07-20,Adrenalina 1 mg,6,3,12
+2026-07-21,Adrenalina 1 mg,6,3,12
+2026-07-22,Adrenalina 1 mg,6,3,12
+2026-07-23,Adrenalina 1 mg,6,3,12
+2026-07-24,Adrenalina 1 mg,6,3,12
+2026-07-25,Adrenalina 1 mg,6,3,12
+2026-07-26,Adrenalina 1 mg,6,3,12
+2026-07-27,Adrenalina 1 mg,6,3,12
+2026-07-28,Adrenalina 1 mg,6,3,12
+2026-07-29,Adrenalina 1 mg,5,3,12
+2026-07-30,Adrenalina 1 mg,5,3,12
+2026-07-31,Adrenalina 1 mg,5,3,12
+2026-08-01,Adrenalina 1 mg,5,3,12
+2026-08-02,Adrenalina 1 mg,5,3,12
+2026-08-03,Adrenalina 1 mg,5,3,12
+2026-08-04,Adrenalina 1 mg,5,3,12
+2026-08-05,Adrenalina 1 mg,5,3,12
+2026-08-06,Adrenalina 1 mg,5,3,12
+2026-08-07,Adrenalina 1 mg,5,3,12
+2026-08-08,Adrenalina 1 mg,5,3,12
+2026-08-09,Adrenalina 1 mg,5,3,12
+2026-08-10,Adrenalina 1 mg,5,3,12
+2026-08-11,Adrenalina 1 mg,5,3,12
+2026-08-12,Adrenalina 1 mg,5,3,12
+2026-08-13,Adrenalina 1 mg,5,3,12
+2026-08-14,Adrenalina 1 mg,4,3,12
+2026-08-15,Adrenalina 1 mg,4,3,12
+2026-08-16,Adrenalina 1 mg,4,3,12
+2026-08-17,Adrenalina 1 mg,4,3,12
+2026-08-18,Adrenalina 1 mg,4,3,12
+2026-08-19,Adrenalina 1 mg,4,3,12
+2026-08-20,Adrenalina 1 mg,4,3,12
+2026-08-21,Adrenalina 1 mg,4,3,12
+2026-08-22,Adrenalina 1 mg,4,3,12
+2026-08-23,Adrenalina 1 mg,4,3,12
+2026-08-24,Adrenalina 1 mg,4,3,12
+2026-08-25,Adrenalina 1 mg,4,3,12
+2026-08-26,Adrenalina 1 mg,4,3,12
+2026-08-27,Adrenalina 1 mg,4,3,12
+2026-08-28,Adrenalina 1 mg,4,3,12
+2026-08-29,Adrenalina 1 mg,4,3,12
+2026-08-30,Adrenalina 1 mg,4,3,12
+2026-08-31,Adrenalina 1 mg,4,3,12
+2026-09-01,Adrenalina 1 mg,4,3,12
+2026-09-02,Adrenalina 1 mg,4,3,12
+2026-09-03,Adrenalina 1 mg,4,3,12
+2026-09-04,Adrenalina 1 mg,3,3,12
+2026-09-05,Adrenalina 1 mg,3,3,12
+2026-09-06,Adrenalina 1 mg,3,3,12
+2026-09-07,Adrenalina 1 mg,3,3,12
+2026-09-08,Adrenalina 1 mg,3,3,12
+2026-09-09,Adrenalina 1 mg,3,3,12
+2026-09-10,Adrenalina 1 mg,3,3,12
+2026-09-11,Adrenalina 1 mg,3,3,12
+2026-09-12,Adrenalina 1 mg,3,3,12
+2026-09-13,Adrenalina 1 mg,3,3,12
+2026-09-14,Adrenalina 1 mg,3,3,12
+2026-09-15,Adrenalina 1 mg,3,3,12
+2026-09-16,Adrenalina 1 mg,3,3,12
+2026-09-17,Adrenalina 1 mg,3,3,12
+2026-09-18,Adrenalina 1 mg,2,3,12
+2026-09-19,Adrenalina 1 mg,11,3,12
+2026-09-20,Adrenalina 1 mg,11,3,12
+2026-09-21,Adrenalina 1 mg,11,3,12
+2026-09-22,Adrenalina 1 mg,11,3,12
+2026-09-23,Adrenalina 1 mg,11,3,12
+2026-09-24,Adrenalina 1 mg,11,3,12
+2026-09-25,Adrenalina 1 mg,11,3,12
+2026-09-26,Adrenalina 1 mg,11,3,12
+2026-09-27,Adrenalina 1 mg,11,3,12
+2026-09-28,Adrenalina 1 mg,11,3,12
+2026-09-29,Adrenalina 1 mg,11,3,12
+2026-09-30,Adrenalina 1 mg,11,3,12
+2026-10-01,Adrenalina 1 mg,11,3,12
+2026-10-02,Adrenalina 1 mg,11,3,12
+2026-10-03,Adrenalina 1 mg,11,3,12
+2026-10-04,Adrenalina 1 mg,11,3,12
+2026-10-05,Adrenalina 1 mg,11,3,12
+2026-10-06,Adrenalina 1 mg,10,3,12
+2026-10-07,Adrenalina 1 mg,10,3,12
+2026-10-08,Adrenalina 1 mg,10,3,12
+2026-10-09,Adrenalina 1 mg,10,3,12
+2026-10-10,Adrenalina 1 mg,10,3,12
+2026-10-11,Adrenalina 1 mg,9,3,12
+2026-10-12,Adrenalina 1 mg,9,3,12
+2026-10-13,Adrenalina 1 mg,9,3,12
+2026-10-14,Adrenalina 1 mg,9,3,12
+2026-10-15,Adrenalina 1 mg,9,3,12
+2026-10-16,Adrenalina 1 mg,9,3,12
+2026-10-17,Adrenalina 1 mg,9,3,12
+2026-10-18,Adrenalina 1 mg,9,3,12
+2025-10-20,Collar cervical,8,4,8
+2025-10-21,Collar cervical,8,4,8
+2025-10-22,Collar cervical,8,4,8
+2025-10-23,Collar cervical,8,4,8
+2025-10-24,Collar cervical,8,4,8
+2025-10-25,Collar cervical,8,4,8
+2025-10-26,Collar cervical,8,4,8
+2025-10-27,Collar cervical,8,4,8
+2025-10-28,Collar cervical,8,4,8
+2025-10-29,Collar cervical,8,4,8
+2025-10-30,Collar cervical,8,4,8
+2025-10-31,Collar cervical,8,4,8
+2025-11-01,Collar cervical,8,4,8
+2025-11-02,Collar cervical,8,4,8
+2025-11-03,Collar cervical,8,4,8
+2025-11-04,Collar cervical,8,4,8
+2025-11-05,Collar cervical,8,4,8
+2025-11-06,Collar cervical,8,4,8
+2025-11-07,Collar cervical,8,4,8
+2025-11-08,Collar cervical,8,4,8
+2025-11-09,Collar cervical,8,4,8
+2025-11-10,Collar cervical,8,4,8
+2025-11-11,Collar cervical,8,4,8
+2025-11-12,Collar cervical,8,4,8
+2025-11-13,Collar cervical,8,4,8
+2025-11-14,Collar cervical,8,4,8
+2025-11-15,Collar cervical,8,4,8
+2025-11-16,Collar cervical,8,4,8
+2025-11-17,Collar cervical,8,4,8
+2025-11-18,Collar cervical,8,4,8
+2025-11-19,Collar cervical,8,4,8
+2025-11-20,Collar cervical,8,4,8
+2025-11-21,Collar cervical,8,4,8
+2025-11-22,Collar cervical,8,4,8
+2025-11-23,Collar cervical,8,4,8
+2025-11-24,Collar cervical,8,4,8
+2025-11-25,Collar cervical,8,4,8
+2025-11-26,Collar cervical,8,4,8
+2025-11-27,Collar cervical,8,4,8
+2025-11-28,Collar cervical,7,4,8
+2025-11-29,Collar cervical,7,4,8
+2025-11-30,Collar cervical,7,4,8
+2025-12-01,Collar cervical,7,4,8
+2025-12-02,Collar cervical,7,4,8
+2025-12-03,Collar cervical,7,4,8
+2025-12-04,Collar cervical,7,4,8
+2025-12-05,Collar cervical,7,4,8
+2025-12-06,Collar cervical,6,4,8
+2025-12-07,Collar cervical,6,4,8
+2025-12-08,Collar cervical,6,4,8
+2025-12-09,Collar cervical,6,4,8
+2025-12-10,Collar cervical,6,4,8
+2025-12-11,Collar cervical,6,4,8
+2025-12-12,Collar cervical,6,4,8
+2025-12-13,Collar cervical,6,4,8
+2025-12-14,Collar cervical,6,4,8
+2025-12-15,Collar cervical,6,4,8
+2025-12-16,Collar cervical,6,4,8
+2025-12-17,Collar cervical,6,4,8
+2025-12-18,Collar cervical,6,4,8
+2025-12-19,Collar cervical,6,4,8
+2025-12-20,Collar cervical,6,4,8
+2025-12-21,Collar cervical,6,4,8
+2025-12-22,Collar cervical,6,4,8
+2025-12-23,Collar cervical,6,4,8
+2025-12-24,Collar cervical,6,4,8
+2025-12-25,Collar cervical,5,4,8
+2025-12-26,Collar cervical,5,4,8
+2025-12-27,Collar cervical,5,4,8
+2025-12-28,Collar cervical,5,4,8
+2025-12-29,Collar cervical,5,4,8
+2025-12-30,Collar cervical,5,4,8
+2025-12-31,Collar cervical,5,4,8
+2026-01-01,Collar cervical,5,4,8
+2026-01-02,Collar cervical,5,4,8
+2026-01-03,Collar cervical,5,4,8
+2026-01-04,Collar cervical,5,4,8
+2026-01-05,Collar cervical,5,4,8
+2026-01-06,Collar cervical,5,4,8
+2026-01-07,Collar cervical,5,4,8
+2026-01-08,Collar cervical,5,4,8
+2026-01-09,Collar cervical,5,4,8
+2026-01-10,Collar cervical,5,4,8
+2026-01-11,Collar cervical,5,4,8
+2026-01-12,Collar cervical,5,4,8
+2026-01-13,Collar cervical,5,4,8
+2026-01-14,Collar cervical,5,4,8
+2026-01-15,Collar cervical,5,4,8
+2026-01-16,Collar cervical,5,4,8
+2026-01-17,Collar cervical,5,4,8
+2026-01-18,Collar cervical,5,4,8
+2026-01-19,Collar cervical,5,4,8
+2026-01-20,Collar cervical,5,4,8
+2026-01-21,Collar cervical,5,4,8
+2026-01-22,Collar cervical,4,4,8
+2026-01-23,Collar cervical,4,4,8
+2026-01-24,Collar cervical,4,4,8
+2026-01-25,Collar cervical,4,4,8
+2026-01-26,Collar cervical,4,4,8
+2026-01-27,Collar cervical,4,4,8
+2026-01-28,Collar cervical,4,4,8
+2026-01-29,Collar cervical,4,4,8
+2026-01-30,Collar cervical,4,4,8
+2026-01-31,Collar cervical,4,4,8
+2026-02-01,Collar cervical,3,4,8
+2026-02-02,Collar cervical,3,4,8
+2026-02-03,Collar cervical,3,4,8
+2026-02-04,Collar cervical,2,4,8
+2026-02-05,Collar cervical,2,4,8
+2026-02-06,Collar cervical,2,4,8
+2026-02-07,Collar cervical,2,4,8
+2026-02-08,Collar cervical,2,4,8
+2026-02-09,Collar cervical,2,4,8
+2026-02-10,Collar cervical,2,4,8
+2026-02-11,Collar cervical,2,4,8
+2026-02-12,Collar cervical,2,4,8
+2026-02-13,Collar cervical,4,4,8
+2026-02-14,Collar cervical,4,4,8
+2026-02-15,Collar cervical,4,4,8
+2026-02-16,Collar cervical,4,4,8
+2026-02-17,Collar cervical,4,4,8
+2026-02-18,Collar cervical,4,4,8
+2026-02-19,Collar cervical,4,4,8
+2026-02-20,Collar cervical,3,4,8
+2026-02-21,Collar cervical,3,4,8
+2026-02-22,Collar cervical,2,4,8
+2026-02-23,Collar cervical,2,4,8
+2026-02-24,Collar cervical,2,4,8
+2026-02-25,Collar cervical,2,4,8
+2026-02-26,Collar cervical,2,4,8
+2026-02-27,Collar cervical,2,4,8
+2026-02-28,Collar cervical,1,4,8
+2026-03-01,Collar cervical,1,4,8
+2026-03-02,Collar cervical,0,4,8
+2026-03-03,Collar cervical,0,4,8
+2026-03-04,Collar cervical,0,4,8
+2026-03-05,Collar cervical,0,4,8
+2026-03-06,Collar cervical,0,4,8
+2026-03-07,Collar cervical,0,4,8
+2026-03-08,Collar cervical,0,4,8
+2026-03-09,Collar cervical,0,4,8
+2026-03-10,Collar cervical,0,4,8
+2026-03-11,Collar cervical,0,4,8
+2026-03-12,Collar cervical,0,4,8
+2026-03-13,Collar cervical,0,4,8
+2026-03-14,Collar cervical,0,4,8
+2026-03-15,Collar cervical,0,4,8
+2026-03-16,Collar cervical,0,4,8
+2026-03-17,Collar cervical,0,4,8
+2026-03-18,Collar cervical,4,4,8
+2026-03-19,Collar cervical,3,4,8
+2026-03-20,Collar cervical,3,4,8
+2026-03-21,Collar cervical,3,4,8
+2026-03-22,Collar cervical,3,4,8
+2026-03-23,Collar cervical,3,4,8
+2026-03-24,Collar cervical,3,4,8
+2026-03-25,Collar cervical,3,4,8
+2026-03-26,Collar cervical,3,4,8
+2026-03-27,Collar cervical,2,4,8
+2026-03-28,Collar cervical,2,4,8
+2026-03-29,Collar cervical,2,4,8
+2026-03-30,Collar cervical,2,4,8
+2026-03-31,Collar cervical,2,4,8
+2026-04-01,Collar cervical,2,3,8
+2026-04-02,Collar cervical,2,3,8
+2026-04-03,Collar cervical,2,3,8
+2026-04-04,Collar cervical,2,3,8
+2026-04-05,Collar cervical,2,3,8
+2026-04-06,Collar cervical,1,3,8
+2026-04-07,Collar cervical,1,3,8
+2026-04-08,Collar cervical,1,3,8
+2026-04-09,Collar cervical,0,3,8
+2026-04-10,Collar cervical,0,3,8
+2026-04-11,Collar cervical,0,3,8
+2026-04-12,Collar cervical,0,3,8
+2026-04-13,Collar cervical,0,3,8
+2026-04-14,Collar cervical,0,3,8
+2026-04-15,Collar cervical,6,3,8
+2026-04-16,Collar cervical,6,3,8
+2026-04-17,Collar cervical,6,3,8
+2026-04-18,Collar cervical,6,3,8
+2026-04-19,Collar cervical,6,3,8
+2026-04-20,Collar cervical,6,3,8
+2026-04-21,Collar cervical,6,3,8
+2026-04-22,Collar cervical,6,3,8
+2026-04-23,Collar cervical,6,3,8
+2026-04-24,Collar cervical,6,3,8
+2026-04-25,Collar cervical,5,3,8
+2026-04-26,Collar cervical,5,3,8
+2026-04-27,Collar cervical,5,3,8
+2026-04-28,Collar cervical,5,3,8
+2026-04-29,Collar cervical,5,3,8
+2026-04-30,Collar cervical,5,3,8
+2026-05-01,Collar cervical,5,3,8
+2026-05-02,Collar cervical,5,3,8
+2026-05-03,Collar cervical,4,3,8
+2026-05-04,Collar cervical,4,3,8
+2026-05-05,Collar cervical,4,3,8
+2026-05-06,Collar cervical,4,3,8
+2026-05-07,Collar cervical,4,3,8
+2026-05-08,Collar cervical,4,3,8
+2026-05-09,Collar cervical,4,3,8
+2026-05-10,Collar cervical,4,3,8
+2026-05-11,Collar cervical,4,3,8
+2026-05-12,Collar cervical,4,3,8
+2026-05-13,Collar cervical,4,3,8
+2026-05-14,Collar cervical,4,3,8
+2026-05-15,Collar cervical,4,3,8
+2026-05-16,Collar cervical,4,3,8
+2026-05-17,Collar cervical,4,3,8
+2026-05-18,Collar cervical,4,3,8
+2026-05-19,Collar cervical,4,3,8
+2026-05-20,Collar cervical,4,3,8
+2026-05-21,Collar cervical,4,3,8
+2026-05-22,Collar cervical,4,3,8
+2026-05-23,Collar cervical,4,3,8
+2026-05-24,Collar cervical,4,3,8
+2026-05-25,Collar cervical,4,3,8
+2026-05-26,Collar cervical,4,3,8
+2026-05-27,Collar cervical,4,3,8
+2026-05-28,Collar cervical,4,3,8
+2026-05-29,Collar cervical,4,3,8
+2026-05-30,Collar cervical,4,3,8
+2026-05-31,Collar cervical,4,3,8
+2026-06-01,Collar cervical,4,3,8
+2026-06-02,Collar cervical,4,3,8
+2026-06-03,Collar cervical,4,3,8
+2026-06-04,Collar cervical,4,3,8
+2026-06-05,Collar cervical,4,3,8
+2026-06-06,Collar cervical,4,3,8
+2026-06-07,Collar cervical,4,3,8
+2026-06-08,Collar cervical,4,3,8
+2026-06-09,Collar cervical,4,3,8
+2026-06-10,Collar cervical,4,3,8
+2026-06-11,Collar cervical,4,3,8
+2026-06-12,Collar cervical,4,3,8
+2026-06-13,Collar cervical,4,3,8
+2026-06-14,Collar cervical,4,3,8
+2026-06-15,Collar cervical,4,3,8
+2026-06-16,Collar cervical,4,3,8
+2026-06-17,Collar cervical,4,3,8
+2026-06-18,Collar cervical,3,3,8
+2026-06-19,Collar cervical,3,3,8
+2026-06-20,Collar cervical,3,3,8
+2026-06-21,Collar cervical,3,3,8
+2026-06-22,Collar cervical,3,3,8
+2026-06-23,Collar cervical,2,3,8
+2026-06-24,Collar cervical,2,3,8
+2026-06-25,Collar cervical,2,3,8
+2026-06-26,Collar cervical,2,3,8
+2026-06-27,Collar cervical,2,3,8
+2026-06-28,Collar cervical,2,3,8
+2026-06-29,Collar cervical,2,3,8
+2026-06-30,Collar cervical,2,3,8
+2026-07-01,Collar cervical,2,3,8
+2026-07-02,Collar cervical,2,3,8
+2026-07-03,Collar cervical,7,3,8
+2026-07-04,Collar cervical,7,3,8
+2026-07-05,Collar cervical,7,3,8
+2026-07-06,Collar cervical,7,3,8
+2026-07-07,Collar cervical,7,3,8
+2026-07-08,Collar cervical,7,3,8
+2026-07-09,Collar cervical,6,3,8
+2026-07-10,Collar cervical,6,3,8
+2026-07-11,Collar cervical,6,3,8
+2026-07-12,Collar cervical,6,3,8
+2026-07-13,Collar cervical,6,3,8
+2026-07-14,Collar cervical,6,3,8
+2026-07-15,Collar cervical,6,3,8
+2026-07-16,Collar cervical,6,3,8
+2026-07-17,Collar cervical,6,3,8
+2026-07-18,Collar cervical,6,3,8
+2026-07-19,Collar cervical,6,3,8
+2026-07-20,Collar cervical,6,3,8
+2026-07-21,Collar cervical,6,3,8
+2026-07-22,Collar cervical,6,3,8
+2026-07-23,Collar cervical,6,3,8
+2026-07-24,Collar cervical,6,3,8
+2026-07-25,Collar cervical,6,3,8
+2026-07-26,Collar cervical,6,3,8
+2026-07-27,Collar cervical,6,3,8
+2026-07-28,Collar cervical,6,3,8
+2026-07-29,Collar cervical,6,3,8
+2026-07-30,Collar cervical,6,3,8
+2026-07-31,Collar cervical,6,3,8
+2026-08-01,Collar cervical,6,3,8
+2026-08-02,Collar cervical,6,3,8
+2026-08-03,Collar cervical,6,3,8
+2026-08-04,Collar cervical,6,3,8
+2026-08-05,Collar cervical,6,3,8
+2026-08-06,Collar cervical,6,3,8
+2026-08-07,Collar cervical,5,3,8
+2026-08-08,Collar cervical,5,3,8
+2026-08-09,Collar cervical,5,3,8
+2026-08-10,Collar cervical,5,3,8
+2026-08-11,Collar cervical,5,3,8
+2026-08-12,Collar cervical,5,3,8
+2026-08-13,Collar cervical,5,3,8
+2026-08-14,Collar cervical,5,3,8
+2026-08-15,Collar cervical,4,3,8
+2026-08-16,Collar cervical,4,3,8
+2026-08-17,Collar cervical,4,3,8
+2026-08-18,Collar cervical,4,3,8
+2026-08-19,Collar cervical,4,3,8
+2026-08-20,Collar cervical,4,3,8
+2026-08-21,Collar cervical,4,3,8
+2026-08-22,Collar cervical,4,3,8
+2026-08-23,Collar cervical,4,3,8
+2026-08-24,Collar cervical,4,3,8
+2026-08-25,Collar cervical,4,3,8
+2026-08-26,Collar cervical,4,3,8
+2026-08-27,Collar cervical,4,3,8
+2026-08-28,Collar cervical,4,3,8
+2026-08-29,Collar cervical,4,3,8
+2026-08-30,Collar cervical,4,3,8
+2026-08-31,Collar cervical,4,3,8
+2026-09-01,Collar cervical,4,3,8
+2026-09-02,Collar cervical,4,3,8
+2026-09-03,Collar cervical,4,3,8
+2026-09-04,Collar cervical,4,3,8
+2026-09-05,Collar cervical,4,3,8
+2026-09-06,Collar cervical,4,3,8
+2026-09-07,Collar cervical,4,3,8
+2026-09-08,Collar cervical,4,3,8
+2026-09-09,Collar cervical,4,3,8
+2026-09-10,Collar cervical,4,3,8
+2026-09-11,Collar cervical,4,3,8
+2026-09-12,Collar cervical,4,3,8
+2026-09-13,Collar cervical,4,3,8
+2026-09-14,Collar cervical,4,3,8
+2026-09-15,Collar cervical,4,3,8
+2026-09-16,Collar cervical,4,3,8
+2026-09-17,Collar cervical,4,3,8
+2026-09-18,Collar cervical,4,3,8
+2026-09-19,Collar cervical,4,3,8
+2026-09-20,Collar cervical,4,3,8
+2026-09-21,Collar cervical,4,3,8
+2026-09-22,Collar cervical,3,3,8
+2026-09-23,Collar cervical,2,3,8
+2026-09-24,Collar cervical,2,3,8
+2026-09-25,Collar cervical,2,3,8
+2026-09-26,Collar cervical,2,3,8
+2026-09-27,Collar cervical,2,3,8
+2026-09-28,Collar cervical,2,3,8
+2026-09-29,Collar cervical,2,3,8
+2026-09-30,Collar cervical,2,3,8
+2026-10-01,Collar cervical,2,3,8
+2026-10-02,Collar cervical,2,3,8
+2026-10-03,Collar cervical,2,3,8
+2026-10-04,Collar cervical,2,3,8
+2026-10-05,Collar cervical,1,3,8
+2026-10-06,Collar cervical,5,3,8
+2026-10-07,Collar cervical,5,3,8
+2026-10-08,Collar cervical,5,3,8
+2026-10-09,Collar cervical,5,3,8
+2026-10-10,Collar cervical,5,3,8
+2026-10-11,Collar cervical,5,3,8
+2026-10-12,Collar cervical,5,3,8
+2026-10-13,Collar cervical,5,3,8
+2026-10-14,Collar cervical,5,3,8
+2026-10-15,Collar cervical,5,3,8
+2026-10-16,Collar cervical,5,3,8
+2026-10-17,Collar cervical,5,3,8
+2026-10-18,Collar cervical,5,3,8
+2025-10-20,Vendas y apósitos (caja),44,15,45
+2025-10-21,Vendas y apósitos (caja),42,15,45
+2025-10-22,Vendas y apósitos (caja),41,15,45
+2025-10-23,Vendas y apósitos (caja),41,15,45
+2025-10-24,Vendas y apósitos (caja),38,15,45
+2025-10-25,Vendas y apósitos (caja),36,15,45
+2025-10-26,Vendas y apósitos (caja),34,15,45
+2025-10-27,Vendas y apósitos (caja),32,15,45
+2025-10-28,Vendas y apósitos (caja),31,15,45
+2025-10-29,Vendas y apósitos (caja),30,15,45
+2025-10-30,Vendas y apósitos (caja),30,15,45
+2025-10-31,Vendas y apósitos (caja),28,15,45
+2025-11-01,Vendas y apósitos (caja),26,15,45
+2025-11-02,Vendas y apósitos (caja),25,15,45
+2025-11-03,Vendas y apósitos (caja),24,15,45
+2025-11-04,Vendas y apósitos (caja),23,15,45
+2025-11-05,Vendas y apósitos (caja),23,15,45
+2025-11-06,Vendas y apósitos (caja),22,15,45
+2025-11-07,Vendas y apósitos (caja),22,15,45
+2025-11-08,Vendas y apósitos (caja),20,15,45
+2025-11-09,Vendas y apósitos (caja),20,15,45
+2025-11-10,Vendas y apósitos (caja),24,15,45
+2025-11-11,Vendas y apósitos (caja),24,15,45
+2025-11-12,Vendas y apósitos (caja),22,15,45
+2025-11-13,Vendas y apósitos (caja),22,15,45
+2025-11-14,Vendas y apósitos (caja),21,15,45
+2025-11-15,Vendas y apósitos (caja),20,15,45
+2025-11-16,Vendas y apósitos (caja),20,15,45
+2025-11-17,Vendas y apósitos (caja),17,15,45
+2025-11-18,Vendas y apósitos (caja),16,15,45
+2025-11-19,Vendas y apósitos (caja),15,15,45
+2025-11-20,Vendas y apósitos (caja),15,15,45
+2025-11-21,Vendas y apósitos (caja),14,15,45
+2025-11-22,Vendas y apósitos (caja),11,15,45
+2025-11-23,Vendas y apósitos (caja),11,15,45
+2025-11-24,Vendas y apósitos (caja),11,15,45
+2025-11-25,Vendas y apósitos (caja),11,15,45
+2025-11-26,Vendas y apósitos (caja),9,15,45
+2025-11-27,Vendas y apósitos (caja),9,15,45
+2025-11-28,Vendas y apósitos (caja),8,15,45
+2025-11-29,Vendas y apósitos (caja),6,15,45
+2025-11-30,Vendas y apósitos (caja),4,15,45
+2025-12-01,Vendas y apósitos (caja),3,15,45
+2025-12-02,Vendas y apósitos (caja),2,15,45
+2025-12-03,Vendas y apósitos (caja),2,15,45
+2025-12-04,Vendas y apósitos (caja),2,15,45
+2025-12-05,Vendas y apósitos (caja),2,15,45
+2025-12-06,Vendas y apósitos (caja),2,15,45
+2025-12-07,Vendas y apósitos (caja),1,15,45
+2025-12-08,Vendas y apósitos (caja),1,15,45
+2025-12-09,Vendas y apósitos (caja),0,15,45
+2025-12-10,Vendas y apósitos (caja),27,15,45
+2025-12-11,Vendas y apósitos (caja),26,15,45
+2025-12-12,Vendas y apósitos (caja),25,15,45
+2025-12-13,Vendas y apósitos (caja),25,15,45
+2025-12-14,Vendas y apósitos (caja),22,15,45
+2025-12-15,Vendas y apósitos (caja),20,15,45
+2025-12-16,Vendas y apósitos (caja),19,15,45
+2025-12-17,Vendas y apósitos (caja),19,15,45
+2025-12-18,Vendas y apósitos (caja),19,15,45
+2025-12-19,Vendas y apósitos (caja),19,15,45
+2025-12-20,Vendas y apósitos (caja),18,15,45
+2025-12-21,Vendas y apósitos (caja),17,15,45
+2025-12-22,Vendas y apósitos (caja),17,15,45
+2025-12-23,Vendas y apósitos (caja),15,15,45
+2025-12-24,Vendas y apósitos (caja),14,15,45
+2025-12-25,Vendas y apósitos (caja),14,15,45
+2025-12-26,Vendas y apósitos (caja),13,15,45
+2025-12-27,Vendas y apósitos (caja),11,15,45
+2025-12-28,Vendas y apósitos (caja),9,15,45
+2025-12-29,Vendas y apósitos (caja),7,15,45
+2025-12-30,Vendas y apósitos (caja),4,15,45
+2025-12-31,Vendas y apósitos (caja),3,15,45
+2026-01-01,Vendas y apósitos (caja),0,15,45
+2026-01-02,Vendas y apósitos (caja),0,15,45
+2026-01-03,Vendas y apósitos (caja),0,15,45
+2026-01-04,Vendas y apósitos (caja),0,15,45
+2026-01-05,Vendas y apósitos (caja),0,15,45
+2026-01-06,Vendas y apósitos (caja),0,15,45
+2026-01-07,Vendas y apósitos (caja),0,15,45
+2026-01-08,Vendas y apósitos (caja),0,15,45
+2026-01-09,Vendas y apósitos (caja),0,15,45
+2026-01-10,Vendas y apósitos (caja),0,15,45
+2026-01-11,Vendas y apósitos (caja),29,15,45
+2026-01-12,Vendas y apósitos (caja),27,15,45
+2026-01-13,Vendas y apósitos (caja),26,15,45
+2026-01-14,Vendas y apósitos (caja),25,15,45
+2026-01-15,Vendas y apósitos (caja),23,15,45
+2026-01-16,Vendas y apósitos (caja),20,15,45
+2026-01-17,Vendas y apósitos (caja),19,15,45
+2026-01-18,Vendas y apósitos (caja),19,15,45
+2026-01-19,Vendas y apósitos (caja),17,15,45
+2026-01-20,Vendas y apósitos (caja),15,15,45
+2026-01-21,Vendas y apósitos (caja),12,15,45
+2026-01-22,Vendas y apósitos (caja),12,15,45
+2026-01-23,Vendas y apósitos (caja),11,15,45
+2026-01-24,Vendas y apósitos (caja),11,15,45
+2026-01-25,Vendas y apósitos (caja),9,15,45
+2026-01-26,Vendas y apósitos (caja),7,15,45
+2026-01-27,Vendas y apósitos (caja),6,15,45
+2026-01-28,Vendas y apósitos (caja),3,15,45
+2026-01-29,Vendas y apósitos (caja),3,15,45
+2026-01-30,Vendas y apósitos (caja),0,15,45
+2026-01-31,Vendas y apósitos (caja),0,15,45
+2026-02-01,Vendas y apósitos (caja),0,15,45
+2026-02-02,Vendas y apósitos (caja),0,15,45
+2026-02-03,Vendas y apósitos (caja),0,15,45
+2026-02-04,Vendas y apósitos (caja),0,15,45
+2026-02-05,Vendas y apósitos (caja),0,15,45
+2026-02-06,Vendas y apósitos (caja),0,15,45
+2026-02-07,Vendas y apósitos (caja),0,15,45
+2026-02-08,Vendas y apósitos (caja),0,15,45
+2026-02-09,Vendas y apósitos (caja),0,15,45
+2026-02-10,Vendas y apósitos (caja),0,15,45
+2026-02-11,Vendas y apósitos (caja),0,15,45
+2026-02-12,Vendas y apósitos (caja),31,15,45
+2026-02-13,Vendas y apósitos (caja),31,15,45
+2026-02-14,Vendas y apósitos (caja),31,15,45
+2026-02-15,Vendas y apósitos (caja),31,15,45
+2026-02-16,Vendas y apósitos (caja),29,15,45
+2026-02-17,Vendas y apósitos (caja),27,15,45
+2026-02-18,Vendas y apósitos (caja),27,15,45
+2026-02-19,Vendas y apósitos (caja),27,15,45
+2026-02-20,Vendas y apósitos (caja),27,15,45
+2026-02-21,Vendas y apósitos (caja),27,15,45
+2026-02-22,Vendas y apósitos (caja),26,15,45
+2026-02-23,Vendas y apósitos (caja),25,15,45
+2026-02-24,Vendas y apósitos (caja),24,15,45
+2026-02-25,Vendas y apósitos (caja),23,15,45
+2026-02-26,Vendas y apósitos (caja),21,15,45
+2026-02-27,Vendas y apósitos (caja),19,15,45
+2026-02-28,Vendas y apósitos (caja),17,15,45
+2026-03-01,Vendas y apósitos (caja),16,15,45
+2026-03-02,Vendas y apósitos (caja),15,15,45
+2026-03-03,Vendas y apósitos (caja),13,15,45
+2026-03-04,Vendas y apósitos (caja),12,15,45
+2026-03-05,Vendas y apósitos (caja),11,15,45
+2026-03-06,Vendas y apósitos (caja),10,15,45
+2026-03-07,Vendas y apósitos (caja),7,15,45
+2026-03-08,Vendas y apósitos (caja),7,15,45
+2026-03-09,Vendas y apósitos (caja),4,15,45
+2026-03-10,Vendas y apósitos (caja),4,15,45
+2026-03-11,Vendas y apósitos (caja),4,15,45
+2026-03-12,Vendas y apósitos (caja),3,15,45
+2026-03-13,Vendas y apósitos (caja),18,15,45
+2026-03-14,Vendas y apósitos (caja),18,15,45
+2026-03-15,Vendas y apósitos (caja),17,15,45
+2026-03-16,Vendas y apósitos (caja),17,15,45
+2026-03-17,Vendas y apósitos (caja),14,15,45
+2026-03-18,Vendas y apósitos (caja),14,15,45
+2026-03-19,Vendas y apósitos (caja),14,15,45
+2026-03-20,Vendas y apósitos (caja),13,15,45
+2026-03-21,Vendas y apósitos (caja),13,15,45
+2026-03-22,Vendas y apósitos (caja),12,15,45
+2026-03-23,Vendas y apósitos (caja),10,15,45
+2026-03-24,Vendas y apósitos (caja),9,15,45
+2026-03-25,Vendas y apósitos (caja),7,15,45
+2026-03-26,Vendas y apósitos (caja),5,15,45
+2026-03-27,Vendas y apósitos (caja),4,15,45
+2026-03-28,Vendas y apósitos (caja),2,15,45
+2026-03-29,Vendas y apósitos (caja),2,15,45
+2026-03-30,Vendas y apósitos (caja),0,15,45
+2026-03-31,Vendas y apósitos (caja),0,15,45
+2026-04-01,Vendas y apósitos (caja),0,21,51
+2026-04-02,Vendas y apósitos (caja),0,21,51
+2026-04-03,Vendas y apósitos (caja),0,21,51
+2026-04-04,Vendas y apósitos (caja),0,21,51
+2026-04-05,Vendas y apósitos (caja),0,21,51
+2026-04-06,Vendas y apósitos (caja),0,21,51
+2026-04-07,Vendas y apósitos (caja),0,21,51
+2026-04-08,Vendas y apósitos (caja),0,21,51
+2026-04-09,Vendas y apósitos (caja),0,21,51
+2026-04-10,Vendas y apósitos (caja),50,21,51
+2026-04-11,Vendas y apósitos (caja),49,21,51
+2026-04-12,Vendas y apósitos (caja),49,21,51
+2026-04-13,Vendas y apósitos (caja),49,21,51
+2026-04-14,Vendas y apósitos (caja),48,21,51
+2026-04-15,Vendas y apósitos (caja),46,21,51
+2026-04-16,Vendas y apósitos (caja),45,21,51
+2026-04-17,Vendas y apósitos (caja),42,21,51
+2026-04-18,Vendas y apósitos (caja),41,21,51
+2026-04-19,Vendas y apósitos (caja),40,21,51
+2026-04-20,Vendas y apósitos (caja),39,21,51
+2026-04-21,Vendas y apósitos (caja),36,21,51
+2026-04-22,Vendas y apósitos (caja),33,21,51
+2026-04-23,Vendas y apósitos (caja),31,21,51
+2026-04-24,Vendas y apósitos (caja),29,21,51
+2026-04-25,Vendas y apósitos (caja),28,21,51
+2026-04-26,Vendas y apósitos (caja),27,21,51
+2026-04-27,Vendas y apósitos (caja),26,21,51
+2026-04-28,Vendas y apósitos (caja),26,21,51
+2026-04-29,Vendas y apósitos (caja),25,21,51
+2026-04-30,Vendas y apósitos (caja),24,21,51
+2026-05-01,Vendas y apósitos (caja),23,21,51
+2026-05-02,Vendas y apósitos (caja),21,21,51
+2026-05-03,Vendas y apósitos (caja),21,21,51
+2026-05-04,Vendas y apósitos (caja),20,21,51
+2026-05-05,Vendas y apósitos (caja),17,21,51
+2026-05-06,Vendas y apósitos (caja),16,21,51
+2026-05-07,Vendas y apósitos (caja),15,21,51
+2026-05-08,Vendas y apósitos (caja),13,21,51
+2026-05-09,Vendas y apósitos (caja),13,21,51
+2026-05-10,Vendas y apósitos (caja),41,21,51
+2026-05-11,Vendas y apósitos (caja),38,21,51
+2026-05-12,Vendas y apósitos (caja),36,21,51
+2026-05-13,Vendas y apósitos (caja),36,21,51
+2026-05-14,Vendas y apósitos (caja),34,21,51
+2026-05-15,Vendas y apósitos (caja),33,21,51
+2026-05-16,Vendas y apósitos (caja),32,21,51
+2026-05-17,Vendas y apósitos (caja),32,21,51
+2026-05-18,Vendas y apósitos (caja),30,21,51
+2026-05-19,Vendas y apósitos (caja),28,21,51
+2026-05-20,Vendas y apósitos (caja),26,21,51
+2026-05-21,Vendas y apósitos (caja),26,21,51
+2026-05-22,Vendas y apósitos (caja),25,21,51
+2026-05-23,Vendas y apósitos (caja),24,21,51
+2026-05-24,Vendas y apósitos (caja),24,21,51
+2026-05-25,Vendas y apósitos (caja),24,21,51
+2026-05-26,Vendas y apósitos (caja),23,21,51
+2026-05-27,Vendas y apósitos (caja),23,21,51
+2026-05-28,Vendas y apósitos (caja),21,21,51
+2026-05-29,Vendas y apósitos (caja),19,21,51
+2026-05-30,Vendas y apósitos (caja),18,21,51
+2026-05-31,Vendas y apósitos (caja),18,21,51
+2026-06-01,Vendas y apósitos (caja),13,21,51
+2026-06-02,Vendas y apósitos (caja),12,21,51
+2026-06-03,Vendas y apósitos (caja),9,21,51
+2026-06-04,Vendas y apósitos (caja),8,21,51
+2026-06-05,Vendas y apósitos (caja),7,21,51
+2026-06-06,Vendas y apósitos (caja),34,21,51
+2026-06-07,Vendas y apósitos (caja),33,21,51
+2026-06-08,Vendas y apósitos (caja),32,21,51
+2026-06-09,Vendas y apósitos (caja),31,21,51
+2026-06-10,Vendas y apósitos (caja),29,21,51
+2026-06-11,Vendas y apósitos (caja),28,21,51
+2026-06-12,Vendas y apósitos (caja),27,21,51
+2026-06-13,Vendas y apósitos (caja),25,21,51
+2026-06-14,Vendas y apósitos (caja),24,21,51
+2026-06-15,Vendas y apósitos (caja),23,21,51
+2026-06-16,Vendas y apósitos (caja),23,21,51
+2026-06-17,Vendas y apósitos (caja),22,21,51
+2026-06-18,Vendas y apósitos (caja),20,21,51
+2026-06-19,Vendas y apósitos (caja),19,21,51
+2026-06-20,Vendas y apósitos (caja),17,21,51
+2026-06-21,Vendas y apósitos (caja),15,21,51
+2026-06-22,Vendas y apósitos (caja),13,21,51
+2026-06-23,Vendas y apósitos (caja),9,21,51
+2026-06-24,Vendas y apósitos (caja),8,21,51
+2026-06-25,Vendas y apósitos (caja),7,21,51
+2026-06-26,Vendas y apósitos (caja),6,21,51
+2026-06-27,Vendas y apósitos (caja),6,21,51
+2026-06-28,Vendas y apósitos (caja),5,21,51
+2026-06-29,Vendas y apósitos (caja),36,21,51
+2026-06-30,Vendas y apósitos (caja),36,21,51
+2026-07-01,Vendas y apósitos (caja),34,21,51
+2026-07-02,Vendas y apósitos (caja),33,21,51
+2026-07-03,Vendas y apósitos (caja),32,21,51
+2026-07-04,Vendas y apósitos (caja),31,21,51
+2026-07-05,Vendas y apósitos (caja),28,21,51
+2026-07-06,Vendas y apósitos (caja),25,21,51
+2026-07-07,Vendas y apósitos (caja),25,21,51
+2026-07-08,Vendas y apósitos (caja),22,21,51
+2026-07-09,Vendas y apósitos (caja),21,21,51
+2026-07-10,Vendas y apósitos (caja),18,21,51
+2026-07-11,Vendas y apósitos (caja),17,21,51
+2026-07-12,Vendas y apósitos (caja),17,21,51
+2026-07-13,Vendas y apósitos (caja),14,21,51
+2026-07-14,Vendas y apósitos (caja),13,21,51
+2026-07-15,Vendas y apósitos (caja),13,21,51
+2026-07-16,Vendas y apósitos (caja),13,21,51
+2026-07-17,Vendas y apósitos (caja),11,21,51
+2026-07-18,Vendas y apósitos (caja),40,21,51
+2026-07-19,Vendas y apósitos (caja),40,21,51
+2026-07-20,Vendas y apósitos (caja),38,21,51
+2026-07-21,Vendas y apósitos (caja),37,21,51
+2026-07-22,Vendas y apósitos (caja),37,21,51
+2026-07-23,Vendas y apósitos (caja),36,21,51
+2026-07-24,Vendas y apósitos (caja),36,21,51
+2026-07-25,Vendas y apósitos (caja),33,21,51
+2026-07-26,Vendas y apósitos (caja),31,21,51
+2026-07-27,Vendas y apósitos (caja),29,21,51
+2026-07-28,Vendas y apósitos (caja),28,21,51
+2026-07-29,Vendas y apósitos (caja),26,21,51
+2026-07-30,Vendas y apósitos (caja),24,21,51
+2026-07-31,Vendas y apósitos (caja),22,21,51
+2026-08-01,Vendas y apósitos (caja),21,21,51
+2026-08-02,Vendas y apósitos (caja),19,21,51
+2026-08-03,Vendas y apósitos (caja),19,21,51
+2026-08-04,Vendas y apósitos (caja),19,21,51
+2026-08-05,Vendas y apósitos (caja),19,21,51
+2026-08-06,Vendas y apósitos (caja),19,21,51
+2026-08-07,Vendas y apósitos (caja),15,21,51
+2026-08-08,Vendas y apósitos (caja),13,21,51
+2026-08-09,Vendas y apósitos (caja),13,21,51
+2026-08-10,Vendas y apósitos (caja),11,21,51
+2026-08-11,Vendas y apósitos (caja),7,21,51
+2026-08-12,Vendas y apósitos (caja),37,21,51
+2026-08-13,Vendas y apósitos (caja),37,21,51
+2026-08-14,Vendas y apósitos (caja),35,21,51
+2026-08-15,Vendas y apósitos (caja),34,21,51
+2026-08-16,Vendas y apósitos (caja),34,21,51
+2026-08-17,Vendas y apósitos (caja),34,21,51
+2026-08-18,Vendas y apósitos (caja),34,21,51
+2026-08-19,Vendas y apósitos (caja),33,21,51
+2026-08-20,Vendas y apósitos (caja),32,21,51
+2026-08-21,Vendas y apósitos (caja),28,21,51
+2026-08-22,Vendas y apósitos (caja),25,21,51
+2026-08-23,Vendas y apósitos (caja),22,21,51
+2026-08-24,Vendas y apósitos (caja),19,21,51
+2026-08-25,Vendas y apósitos (caja),16,21,51
+2026-08-26,Vendas y apósitos (caja),15,21,51
+2026-08-27,Vendas y apósitos (caja),15,21,51
+2026-08-28,Vendas y apósitos (caja),13,21,51
+2026-08-29,Vendas y apósitos (caja),11,21,51
+2026-08-30,Vendas y apósitos (caja),8,21,51
+2026-08-31,Vendas y apósitos (caja),5,21,51
+2026-09-01,Vendas y apósitos (caja),5,21,51
+2026-09-02,Vendas y apósitos (caja),37,21,51
+2026-09-03,Vendas y apósitos (caja),35,21,51
+2026-09-04,Vendas y apósitos (caja),34,21,51
+2026-09-05,Vendas y apósitos (caja),29,21,51
+2026-09-06,Vendas y apósitos (caja),27,21,51
+2026-09-07,Vendas y apósitos (caja),27,21,51
+2026-09-08,Vendas y apósitos (caja),27,21,51
+2026-09-09,Vendas y apósitos (caja),26,21,51
+2026-09-10,Vendas y apósitos (caja),25,21,51
+2026-09-11,Vendas y apósitos (caja),23,21,51
+2026-09-12,Vendas y apósitos (caja),22,21,51
+2026-09-13,Vendas y apósitos (caja),21,21,51
+2026-09-14,Vendas y apósitos (caja),21,21,51
+2026-09-15,Vendas y apósitos (caja),21,21,51
+2026-09-16,Vendas y apósitos (caja),20,21,51
+2026-09-17,Vendas y apósitos (caja),18,21,51
+2026-09-18,Vendas y apósitos (caja),16,21,51
+2026-09-19,Vendas y apósitos (caja),16,21,51
+2026-09-20,Vendas y apósitos (caja),15,21,51
+2026-09-21,Vendas y apósitos (caja),14,21,51
+2026-09-22,Vendas y apósitos (caja),43,21,51
+2026-09-23,Vendas y apósitos (caja),43,21,51
+2026-09-24,Vendas y apósitos (caja),43,21,51
+2026-09-25,Vendas y apósitos (caja),41,21,51
+2026-09-26,Vendas y apósitos (caja),40,21,51
+2026-09-27,Vendas y apósitos (caja),40,21,51
+2026-09-28,Vendas y apósitos (caja),39,21,51
+2026-09-29,Vendas y apósitos (caja),38,21,51
+2026-09-30,Vendas y apósitos (caja),37,21,51
+2026-10-01,Vendas y apósitos (caja),35,21,51
+2026-10-02,Vendas y apósitos (caja),33,21,51
+2026-10-03,Vendas y apósitos (caja),33,21,51
+2026-10-04,Vendas y apósitos (caja),32,21,51
+2026-10-05,Vendas y apósitos (caja),30,21,51
+2026-10-06,Vendas y apósitos (caja),28,21,51
+2026-10-07,Vendas y apósitos (caja),28,21,51
+2026-10-08,Vendas y apósitos (caja),27,21,51
+2026-10-09,Vendas y apósitos (caja),27,21,51
+2026-10-10,Vendas y apósitos (caja),26,21,51
+2026-10-11,Vendas y apósitos (caja),25,21,51
+2026-10-12,Vendas y apósitos (caja),21,21,51
+2026-10-13,Vendas y apósitos (caja),20,21,51
+2026-10-14,Vendas y apósitos (caja),19,21,51
+2026-10-15,Vendas y apósitos (caja),16,21,51
+2026-10-16,Vendas y apósitos (caja),15,21,51
+2026-10-17,Vendas y apósitos (caja),15,21,51
+2026-10-18,Vendas y apósitos (caja),12,21,51
+2025-10-20,Salbutamol aerosol,22,8,24
+2025-10-21,Salbutamol aerosol,22,8,24
+2025-10-22,Salbutamol aerosol,21,8,24
+2025-10-23,Salbutamol aerosol,20,8,24
+2025-10-24,Salbutamol aerosol,19,8,24
+2025-10-25,Salbutamol aerosol,19,8,24
+2025-10-26,Salbutamol aerosol,19,8,24
+2025-10-27,Salbutamol aerosol,18,8,24
+2025-10-28,Salbutamol aerosol,18,8,24
+2025-10-29,Salbutamol aerosol,18,8,24
+2025-10-30,Salbutamol aerosol,16,8,24
+2025-10-31,Salbutamol aerosol,16,8,24
+2025-11-01,Salbutamol aerosol,15,8,24
+2025-11-02,Salbutamol aerosol,15,8,24
+2025-11-03,Salbutamol aerosol,15,8,24
+2025-11-04,Salbutamol aerosol,15,8,24
+2025-11-05,Salbutamol aerosol,14,8,24
+2025-11-06,Salbutamol aerosol,13,8,24
+2025-11-07,Salbutamol aerosol,11,8,24
+2025-11-08,Salbutamol aerosol,9,8,24
+2025-11-09,Salbutamol aerosol,8,8,24
+2025-11-10,Salbutamol aerosol,8,8,24
+2025-11-11,Salbutamol aerosol,8,8,24
+2025-11-12,Salbutamol aerosol,7,8,24
+2025-11-13,Salbutamol aerosol,4,8,24
+2025-11-14,Salbutamol aerosol,4,8,24
+2025-11-15,Salbutamol aerosol,3,8,24
+2025-11-16,Salbutamol aerosol,2,8,24
+2025-11-17,Salbutamol aerosol,0,8,24
+2025-11-18,Salbutamol aerosol,0,8,24
+2025-11-19,Salbutamol aerosol,0,8,24
+2025-11-20,Salbutamol aerosol,0,8,24
+2025-11-21,Salbutamol aerosol,0,8,24
+2025-11-22,Salbutamol aerosol,0,8,24
+2025-11-23,Salbutamol aerosol,0,8,24
+2025-11-24,Salbutamol aerosol,0,8,24
+2025-11-25,Salbutamol aerosol,0,8,24
+2025-11-26,Salbutamol aerosol,0,8,24
+2025-11-27,Salbutamol aerosol,0,8,24
+2025-11-28,Salbutamol aerosol,0,8,24
+2025-11-29,Salbutamol aerosol,0,8,24
+2025-11-30,Salbutamol aerosol,0,8,24
+2025-12-01,Salbutamol aerosol,0,8,24
+2025-12-02,Salbutamol aerosol,0,8,24
+2025-12-03,Salbutamol aerosol,0,8,24
+2025-12-04,Salbutamol aerosol,0,8,24
+2025-12-05,Salbutamol aerosol,0,8,24
+2025-12-06,Salbutamol aerosol,0,8,24
+2025-12-07,Salbutamol aerosol,0,8,24
+2025-12-08,Salbutamol aerosol,0,8,24
+2025-12-09,Salbutamol aerosol,0,8,24
+2025-12-10,Salbutamol aerosol,0,8,24
+2025-12-11,Salbutamol aerosol,0,8,24
+2025-12-12,Salbutamol aerosol,0,8,24
+2025-12-13,Salbutamol aerosol,0,8,24
+2025-12-14,Salbutamol aerosol,15,8,24
+2025-12-15,Salbutamol aerosol,15,8,24
+2025-12-16,Salbutamol aerosol,15,8,24
+2025-12-17,Salbutamol aerosol,14,8,24
+2025-12-18,Salbutamol aerosol,14,8,24
+2025-12-19,Salbutamol aerosol,13,8,24
+2025-12-20,Salbutamol aerosol,13,8,24
+2025-12-21,Salbutamol aerosol,12,8,24
+2025-12-22,Salbutamol aerosol,12,8,24
+2025-12-23,Salbutamol aerosol,12,8,24
+2025-12-24,Salbutamol aerosol,11,8,24
+2025-12-25,Salbutamol aerosol,10,8,24
+2025-12-26,Salbutamol aerosol,10,8,24
+2025-12-27,Salbutamol aerosol,10,8,24
+2025-12-28,Salbutamol aerosol,10,8,24
+2025-12-29,Salbutamol aerosol,7,8,24
+2025-12-30,Salbutamol aerosol,7,8,24
+2025-12-31,Salbutamol aerosol,7,8,24
+2026-01-01,Salbutamol aerosol,5,8,24
+2026-01-02,Salbutamol aerosol,4,8,24
+2026-01-03,Salbutamol aerosol,3,8,24
+2026-01-04,Salbutamol aerosol,2,8,24
+2026-01-05,Salbutamol aerosol,2,8,24
+2026-01-06,Salbutamol aerosol,1,8,24
+2026-01-07,Salbutamol aerosol,0,8,24
+2026-01-08,Salbutamol aerosol,0,8,24
+2026-01-09,Salbutamol aerosol,0,8,24
+2026-01-10,Salbutamol aerosol,0,8,24
+2026-01-11,Salbutamol aerosol,0,8,24
+2026-01-12,Salbutamol aerosol,0,8,24
+2026-01-13,Salbutamol aerosol,11,8,24
+2026-01-14,Salbutamol aerosol,11,8,24
+2026-01-15,Salbutamol aerosol,10,8,24
+2026-01-16,Salbutamol aerosol,10,8,24
+2026-01-17,Salbutamol aerosol,9,8,24
+2026-01-18,Salbutamol aerosol,9,8,24
+2026-01-19,Salbutamol aerosol,9,8,24
+2026-01-20,Salbutamol aerosol,9,8,24
+2026-01-21,Salbutamol aerosol,8,8,24
+2026-01-22,Salbutamol aerosol,8,8,24
+2026-01-23,Salbutamol aerosol,8,8,24
+2026-01-24,Salbutamol aerosol,8,8,24
+2026-01-25,Salbutamol aerosol,7,8,24
+2026-01-26,Salbutamol aerosol,7,8,24
+2026-01-27,Salbutamol aerosol,7,8,24
+2026-01-28,Salbutamol aerosol,7,8,24
+2026-01-29,Salbutamol aerosol,7,8,24
+2026-01-30,Salbutamol aerosol,7,8,24
+2026-01-31,Salbutamol aerosol,7,8,24
+2026-02-01,Salbutamol aerosol,6,8,24
+2026-02-02,Salbutamol aerosol,6,8,24
+2026-02-03,Salbutamol aerosol,4,8,24
+2026-02-04,Salbutamol aerosol,3,8,24
+2026-02-05,Salbutamol aerosol,2,8,24
+2026-02-06,Salbutamol aerosol,2,8,24
+2026-02-07,Salbutamol aerosol,2,8,24
+2026-02-08,Salbutamol aerosol,1,8,24
+2026-02-09,Salbutamol aerosol,0,8,24
+2026-02-10,Salbutamol aerosol,0,8,24
+2026-02-11,Salbutamol aerosol,0,8,24
+2026-02-12,Salbutamol aerosol,0,8,24
+2026-02-13,Salbutamol aerosol,10,8,24
+2026-02-14,Salbutamol aerosol,9,8,24
+2026-02-15,Salbutamol aerosol,9,8,24
+2026-02-16,Salbutamol aerosol,9,8,24
+2026-02-17,Salbutamol aerosol,9,8,24
+2026-02-18,Salbutamol aerosol,8,8,24
+2026-02-19,Salbutamol aerosol,8,8,24
+2026-02-20,Salbutamol aerosol,8,8,24
+2026-02-21,Salbutamol aerosol,6,8,24
+2026-02-22,Salbutamol aerosol,5,8,24
+2026-02-23,Salbutamol aerosol,4,8,24
+2026-02-24,Salbutamol aerosol,4,8,24
+2026-02-25,Salbutamol aerosol,3,8,24
+2026-02-26,Salbutamol aerosol,3,8,24
+2026-02-27,Salbutamol aerosol,2,8,24
+2026-02-28,Salbutamol aerosol,0,8,24
+2026-03-01,Salbutamol aerosol,0,8,24
+2026-03-02,Salbutamol aerosol,0,8,24
+2026-03-03,Salbutamol aerosol,0,8,24
+2026-03-04,Salbutamol aerosol,0,8,24
+2026-03-05,Salbutamol aerosol,0,8,24
+2026-03-06,Salbutamol aerosol,0,8,24
+2026-03-07,Salbutamol aerosol,0,8,24
+2026-03-08,Salbutamol aerosol,0,8,24
+2026-03-09,Salbutamol aerosol,0,8,24
+2026-03-10,Salbutamol aerosol,0,8,24
+2026-03-11,Salbutamol aerosol,0,8,24
+2026-03-12,Salbutamol aerosol,0,8,24
+2026-03-13,Salbutamol aerosol,0,8,24
+2026-03-14,Salbutamol aerosol,0,8,24
+2026-03-15,Salbutamol aerosol,0,8,24
+2026-03-16,Salbutamol aerosol,13,8,24
+2026-03-17,Salbutamol aerosol,13,8,24
+2026-03-18,Salbutamol aerosol,12,8,24
+2026-03-19,Salbutamol aerosol,11,8,24
+2026-03-20,Salbutamol aerosol,10,8,24
+2026-03-21,Salbutamol aerosol,9,8,24
+2026-03-22,Salbutamol aerosol,8,8,24
+2026-03-23,Salbutamol aerosol,8,8,24
+2026-03-24,Salbutamol aerosol,8,8,24
+2026-03-25,Salbutamol aerosol,7,8,24
+2026-03-26,Salbutamol aerosol,7,8,24
+2026-03-27,Salbutamol aerosol,7,8,24
+2026-03-28,Salbutamol aerosol,7,8,24
+2026-03-29,Salbutamol aerosol,7,8,24
+2026-03-30,Salbutamol aerosol,7,8,24
+2026-03-31,Salbutamol aerosol,7,8,24
+2026-04-01,Salbutamol aerosol,6,23,39
+2026-04-02,Salbutamol aerosol,4,23,39
+2026-04-03,Salbutamol aerosol,4,23,39
+2026-04-04,Salbutamol aerosol,4,23,39
+2026-04-05,Salbutamol aerosol,3,23,39
+2026-04-06,Salbutamol aerosol,3,23,39
+2026-04-07,Salbutamol aerosol,1,23,39
+2026-04-08,Salbutamol aerosol,0,23,39
+2026-04-09,Salbutamol aerosol,0,23,39
+2026-04-10,Salbutamol aerosol,0,23,39
+2026-04-11,Salbutamol aerosol,0,23,39
+2026-04-12,Salbutamol aerosol,0,23,39
+2026-04-13,Salbutamol aerosol,0,23,39
+2026-04-14,Salbutamol aerosol,0,23,39
+2026-04-15,Salbutamol aerosol,33,23,39
+2026-04-16,Salbutamol aerosol,33,23,39
+2026-04-17,Salbutamol aerosol,33,23,39
+2026-04-18,Salbutamol aerosol,32,23,39
+2026-04-19,Salbutamol aerosol,32,23,39
+2026-04-20,Salbutamol aerosol,32,23,39
+2026-04-21,Salbutamol aerosol,32,23,39
+2026-04-22,Salbutamol aerosol,32,23,39
+2026-04-23,Salbutamol aerosol,32,23,39
+2026-04-24,Salbutamol aerosol,32,23,39
+2026-04-25,Salbutamol aerosol,32,23,39
+2026-04-26,Salbutamol aerosol,32,23,39
+2026-04-27,Salbutamol aerosol,30,23,39
+2026-04-28,Salbutamol aerosol,30,23,39
+2026-04-29,Salbutamol aerosol,29,23,39
+2026-04-30,Salbutamol aerosol,28,23,39
+2026-05-01,Salbutamol aerosol,27,23,39
+2026-05-02,Salbutamol aerosol,26,23,39
+2026-05-03,Salbutamol aerosol,26,23,39
+2026-05-04,Salbutamol aerosol,25,23,39
+2026-05-05,Salbutamol aerosol,23,23,39
+2026-05-06,Salbutamol aerosol,23,23,39
+2026-05-07,Salbutamol aerosol,23,23,39
+2026-05-08,Salbutamol aerosol,23,23,39
+2026-05-09,Salbutamol aerosol,22,23,39
+2026-05-10,Salbutamol aerosol,20,23,39
+2026-05-11,Salbutamol aerosol,20,23,39
+2026-05-12,Salbutamol aerosol,20,23,39
+2026-05-13,Salbutamol aerosol,19,23,39
+2026-05-14,Salbutamol aerosol,19,23,39
+2026-05-15,Salbutamol aerosol,19,23,39
+2026-05-16,Salbutamol aerosol,19,23,39
+2026-05-17,Salbutamol aerosol,17,23,39
+2026-05-18,Salbutamol aerosol,16,23,39
+2026-05-19,Salbutamol aerosol,29,23,39
+2026-05-20,Salbutamol aerosol,29,23,39
+2026-05-21,Salbutamol aerosol,28,23,39
+2026-05-22,Salbutamol aerosol,27,23,39
+2026-05-23,Salbutamol aerosol,27,23,39
+2026-05-24,Salbutamol aerosol,27,23,39
+2026-05-25,Salbutamol aerosol,26,23,39
+2026-05-26,Salbutamol aerosol,26,23,39
+2026-05-27,Salbutamol aerosol,26,23,39
+2026-05-28,Salbutamol aerosol,26,23,39
+2026-05-29,Salbutamol aerosol,26,23,39
+2026-05-30,Salbutamol aerosol,25,23,39
+2026-05-31,Salbutamol aerosol,24,23,39
+2026-06-01,Salbutamol aerosol,23,23,39
+2026-06-02,Salbutamol aerosol,22,23,39
+2026-06-03,Salbutamol aerosol,21,23,39
+2026-06-04,Salbutamol aerosol,19,23,39
+2026-06-05,Salbutamol aerosol,16,23,39
+2026-06-06,Salbutamol aerosol,15,23,39
+2026-06-07,Salbutamol aerosol,14,23,39
+2026-06-08,Salbutamol aerosol,13,23,39
+2026-06-09,Salbutamol aerosol,13,23,39
+2026-06-10,Salbutamol aerosol,13,23,39
+2026-06-11,Salbutamol aerosol,12,23,39
+2026-06-12,Salbutamol aerosol,12,23,39
+2026-06-13,Salbutamol aerosol,11,23,39
+2026-06-14,Salbutamol aerosol,26,23,39
+2026-06-15,Salbutamol aerosol,22,23,39
+2026-06-16,Salbutamol aerosol,21,23,39
+2026-06-17,Salbutamol aerosol,20,23,39
+2026-06-18,Salbutamol aerosol,17,23,39
+2026-06-19,Salbutamol aerosol,17,23,39
+2026-06-20,Salbutamol aerosol,16,23,39
+2026-06-21,Salbutamol aerosol,14,23,39
+2026-06-22,Salbutamol aerosol,14,23,39
+2026-06-23,Salbutamol aerosol,14,23,39
+2026-06-24,Salbutamol aerosol,12,23,39
+2026-06-25,Salbutamol aerosol,11,23,39
+2026-06-26,Salbutamol aerosol,9,23,39
+2026-06-27,Salbutamol aerosol,7,23,39
+2026-06-28,Salbutamol aerosol,7,23,39
+2026-06-29,Salbutamol aerosol,23,23,39
+2026-06-30,Salbutamol aerosol,23,23,39
+2026-07-01,Salbutamol aerosol,23,23,39
+2026-07-02,Salbutamol aerosol,22,23,39
+2026-07-03,Salbutamol aerosol,20,23,39
+2026-07-04,Salbutamol aerosol,19,23,39
+2026-07-05,Salbutamol aerosol,15,23,39
+2026-07-06,Salbutamol aerosol,12,23,39
+2026-07-07,Salbutamol aerosol,12,23,39
+2026-07-08,Salbutamol aerosol,10,23,39
+2026-07-09,Salbutamol aerosol,9,23,39
+2026-07-10,Salbutamol aerosol,8,23,39
+2026-07-11,Salbutamol aerosol,7,23,39
+2026-07-12,Salbutamol aerosol,6,23,39
+2026-07-13,Salbutamol aerosol,21,23,39
+2026-07-14,Salbutamol aerosol,20,23,39
+2026-07-15,Salbutamol aerosol,17,23,39
+2026-07-16,Salbutamol aerosol,16,23,39
+2026-07-17,Salbutamol aerosol,15,23,39
+2026-07-18,Salbutamol aerosol,14,23,39
+2026-07-19,Salbutamol aerosol,13,23,39
+2026-07-20,Salbutamol aerosol,12,23,39
+2026-07-21,Salbutamol aerosol,11,23,39
+2026-07-22,Salbutamol aerosol,7,23,39
+2026-07-23,Salbutamol aerosol,7,23,39
+2026-07-24,Salbutamol aerosol,6,23,39
+2026-07-25,Salbutamol aerosol,5,23,39
+2026-07-26,Salbutamol aerosol,5,23,39
+2026-07-27,Salbutamol aerosol,21,23,39
+2026-07-28,Salbutamol aerosol,20,23,39
+2026-07-29,Salbutamol aerosol,18,23,39
+2026-07-30,Salbutamol aerosol,17,23,39
+2026-07-31,Salbutamol aerosol,12,23,39
+2026-08-01,Salbutamol aerosol,10,23,39
+2026-08-02,Salbutamol aerosol,10,23,39
+2026-08-03,Salbutamol aerosol,10,23,39
+2026-08-04,Salbutamol aerosol,10,23,39
+2026-08-05,Salbutamol aerosol,8,23,39
+2026-08-06,Salbutamol aerosol,6,23,39
+2026-08-07,Salbutamol aerosol,5,23,39
+2026-08-08,Salbutamol aerosol,21,23,39
+2026-08-09,Salbutamol aerosol,19,23,39
+2026-08-10,Salbutamol aerosol,18,23,39
+2026-08-11,Salbutamol aerosol,17,23,39
+2026-08-12,Salbutamol aerosol,15,23,39
+2026-08-13,Salbutamol aerosol,14,23,39
+2026-08-14,Salbutamol aerosol,14,23,39
+2026-08-15,Salbutamol aerosol,14,23,39
+2026-08-16,Salbutamol aerosol,13,23,39
+2026-08-17,Salbutamol aerosol,13,23,39
+2026-08-18,Salbutamol aerosol,11,23,39
+2026-08-19,Salbutamol aerosol,9,23,39
+2026-08-20,Salbutamol aerosol,8,23,39
+2026-08-21,Salbutamol aerosol,7,23,39
+2026-08-22,Salbutamol aerosol,25,23,39
+2026-08-23,Salbutamol aerosol,24,23,39
+2026-08-24,Salbutamol aerosol,23,23,39
+2026-08-25,Salbutamol aerosol,20,23,39
+2026-08-26,Salbutamol aerosol,18,23,39
+2026-08-27,Salbutamol aerosol,16,23,39
+2026-08-28,Salbutamol aerosol,15,23,39
+2026-08-29,Salbutamol aerosol,13,23,39
+2026-08-30,Salbutamol aerosol,13,23,39
+2026-08-31,Salbutamol aerosol,12,23,39
+2026-09-01,Salbutamol aerosol,12,23,39
+2026-09-02,Salbutamol aerosol,12,23,39
+2026-09-03,Salbutamol aerosol,11,23,39
+2026-09-04,Salbutamol aerosol,10,23,39
+2026-09-05,Salbutamol aerosol,10,23,39
+2026-09-06,Salbutamol aerosol,10,23,39
+2026-09-07,Salbutamol aerosol,9,23,39
+2026-09-08,Salbutamol aerosol,25,23,39
+2026-09-09,Salbutamol aerosol,22,23,39
+2026-09-10,Salbutamol aerosol,21,23,39
+2026-09-11,Salbutamol aerosol,20,23,39
+2026-09-12,Salbutamol aerosol,20,23,39
+2026-09-13,Salbutamol aerosol,20,23,39
+2026-09-14,Salbutamol aerosol,19,23,39
+2026-09-15,Salbutamol aerosol,18,23,39
+2026-09-16,Salbutamol aerosol,18,23,39
+2026-09-17,Salbutamol aerosol,16,23,39
+2026-09-18,Salbutamol aerosol,15,23,39
+2026-09-19,Salbutamol aerosol,31,23,39
+2026-09-20,Salbutamol aerosol,30,23,39
+2026-09-21,Salbutamol aerosol,28,23,39
+2026-09-22,Salbutamol aerosol,27,23,39
+2026-09-23,Salbutamol aerosol,26,23,39
+2026-09-24,Salbutamol aerosol,26,23,39
+2026-09-25,Salbutamol aerosol,26,23,39
+2026-09-26,Salbutamol aerosol,24,23,39
+2026-09-27,Salbutamol aerosol,22,23,39
+2026-09-28,Salbutamol aerosol,20,23,39
+2026-09-29,Salbutamol aerosol,20,23,39
+2026-09-30,Salbutamol aerosol,20,23,39
+2026-10-01,Salbutamol aerosol,20,23,39
+2026-10-02,Salbutamol aerosol,20,23,39
+2026-10-03,Salbutamol aerosol,20,23,39
+2026-10-04,Salbutamol aerosol,20,23,39
+2026-10-05,Salbutamol aerosol,20,23,39
+2026-10-06,Salbutamol aerosol,18,23,39
+2026-10-07,Salbutamol aerosol,34,23,39
+2026-10-08,Salbutamol aerosol,32,23,39
+2026-10-09,Salbutamol aerosol,32,23,39
+2026-10-10,Salbutamol aerosol,32,23,39
+2026-10-11,Salbutamol aerosol,32,23,39
+2026-10-12,Salbutamol aerosol,32,23,39
+2026-10-13,Salbutamol aerosol,31,23,39
+2026-10-14,Salbutamol aerosol,30,23,39
+2026-10-15,Salbutamol aerosol,30,23,39
+2026-10-16,Salbutamol aerosol,29,23,39
+2026-10-17,Salbutamol aerosol,28,23,39
+2026-10-18,Salbutamol aerosol,28,23,39
+2025-10-20,Ibuprofeno 400 mg (caja),70,25,70
+2025-10-21,Ibuprofeno 400 mg (caja),68,25,70
+2025-10-22,Ibuprofeno 400 mg (caja),66,25,70
+2025-10-23,Ibuprofeno 400 mg (caja),66,25,70
+2025-10-24,Ibuprofeno 400 mg (caja),64,25,70
+2025-10-25,Ibuprofeno 400 mg (caja),60,25,70
+2025-10-26,Ibuprofeno 400 mg (caja),60,25,70
+2025-10-27,Ibuprofeno 400 mg (caja),60,25,70
+2025-10-28,Ibuprofeno 400 mg (caja),57,25,70
+2025-10-29,Ibuprofeno 400 mg (caja),57,25,70
+2025-10-30,Ibuprofeno 400 mg (caja),56,25,70
+2025-10-31,Ibuprofeno 400 mg (caja),53,25,70
+2025-11-01,Ibuprofeno 400 mg (caja),51,25,70
+2025-11-02,Ibuprofeno 400 mg (caja),49,25,70
+2025-11-03,Ibuprofeno 400 mg (caja),48,25,70
+2025-11-04,Ibuprofeno 400 mg (caja),46,25,70
+2025-11-05,Ibuprofeno 400 mg (caja),45,25,70
+2025-11-06,Ibuprofeno 400 mg (caja),43,25,70
+2025-11-07,Ibuprofeno 400 mg (caja),43,25,70
+2025-11-08,Ibuprofeno 400 mg (caja),42,25,70
+2025-11-09,Ibuprofeno 400 mg (caja),41,25,70
+2025-11-10,Ibuprofeno 400 mg (caja),39,25,70
+2025-11-11,Ibuprofeno 400 mg (caja),38,25,70
+2025-11-12,Ibuprofeno 400 mg (caja),36,25,70
+2025-11-13,Ibuprofeno 400 mg (caja),34,25,70
+2025-11-14,Ibuprofeno 400 mg (caja),33,25,70
+2025-11-15,Ibuprofeno 400 mg (caja),30,25,70
+2025-11-16,Ibuprofeno 400 mg (caja),29,25,70
+2025-11-17,Ibuprofeno 400 mg (caja),27,25,70
+2025-11-18,Ibuprofeno 400 mg (caja),25,25,70
+2025-11-19,Ibuprofeno 400 mg (caja),25,25,70
+2025-11-20,Ibuprofeno 400 mg (caja),23,25,70
+2025-11-21,Ibuprofeno 400 mg (caja),22,25,70
+2025-11-22,Ibuprofeno 400 mg (caja),20,25,70
+2025-11-23,Ibuprofeno 400 mg (caja),19,25,70
+2025-11-24,Ibuprofeno 400 mg (caja),19,25,70
+2025-11-25,Ibuprofeno 400 mg (caja),17,25,70
+2025-11-26,Ibuprofeno 400 mg (caja),16,25,70
+2025-11-27,Ibuprofeno 400 mg (caja),15,25,70
+2025-11-28,Ibuprofeno 400 mg (caja),12,25,70
+2025-11-29,Ibuprofeno 400 mg (caja),9,25,70
+2025-11-30,Ibuprofeno 400 mg (caja),7,25,70
+2025-12-01,Ibuprofeno 400 mg (caja),5,25,70
+2025-12-02,Ibuprofeno 400 mg (caja),1,25,70
+2025-12-03,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-04,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-05,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-06,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-07,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-08,Ibuprofeno 400 mg (caja),0,25,70
+2025-12-09,Ibuprofeno 400 mg (caja),41,25,70
+2025-12-10,Ibuprofeno 400 mg (caja),36,25,70
+2025-12-11,Ibuprofeno 400 mg (caja),35,25,70
+2025-12-12,Ibuprofeno 400 mg (caja),31,25,70
+2025-12-13,Ibuprofeno 400 mg (caja),31,25,70
+2025-12-14,Ibuprofeno 400 mg (caja),30,25,70
+2025-12-15,Ibuprofeno 400 mg (caja),28,25,70
+2025-12-16,Ibuprofeno 400 mg (caja),28,25,70
+2025-12-17,Ibuprofeno 400 mg (caja),27,25,70
+2025-12-18,Ibuprofeno 400 mg (caja),27,25,70
+2025-12-19,Ibuprofeno 400 mg (caja),24,25,70
+2025-12-20,Ibuprofeno 400 mg (caja),24,25,70
+2025-12-21,Ibuprofeno 400 mg (caja),24,25,70
+2025-12-22,Ibuprofeno 400 mg (caja),23,25,70
+2025-12-23,Ibuprofeno 400 mg (caja),20,25,70
+2025-12-24,Ibuprofeno 400 mg (caja),20,25,70
+2025-12-25,Ibuprofeno 400 mg (caja),20,25,70
+2025-12-26,Ibuprofeno 400 mg (caja),18,25,70
+2025-12-27,Ibuprofeno 400 mg (caja),16,25,70
+2025-12-28,Ibuprofeno 400 mg (caja),15,25,70
+2025-12-29,Ibuprofeno 400 mg (caja),11,25,70
+2025-12-30,Ibuprofeno 400 mg (caja),10,25,70
+2025-12-31,Ibuprofeno 400 mg (caja),7,25,70
+2026-01-01,Ibuprofeno 400 mg (caja),6,25,70
+2026-01-02,Ibuprofeno 400 mg (caja),4,25,70
+2026-01-03,Ibuprofeno 400 mg (caja),2,25,70
+2026-01-04,Ibuprofeno 400 mg (caja),1,25,70
+2026-01-05,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-06,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-07,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-08,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-09,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-10,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-11,Ibuprofeno 400 mg (caja),0,25,70
+2026-01-12,Ibuprofeno 400 mg (caja),41,25,70
+2026-01-13,Ibuprofeno 400 mg (caja),40,25,70
+2026-01-14,Ibuprofeno 400 mg (caja),40,25,70
+2026-01-15,Ibuprofeno 400 mg (caja),39,25,70
+2026-01-16,Ibuprofeno 400 mg (caja),35,25,70
+2026-01-17,Ibuprofeno 400 mg (caja),33,25,70
+2026-01-18,Ibuprofeno 400 mg (caja),32,25,70
+2026-01-19,Ibuprofeno 400 mg (caja),30,25,70
+2026-01-20,Ibuprofeno 400 mg (caja),28,25,70
+2026-01-21,Ibuprofeno 400 mg (caja),28,25,70
+2026-01-22,Ibuprofeno 400 mg (caja),25,25,70
+2026-01-23,Ibuprofeno 400 mg (caja),23,25,70
+2026-01-24,Ibuprofeno 400 mg (caja),22,25,70
+2026-01-25,Ibuprofeno 400 mg (caja),20,25,70
+2026-01-26,Ibuprofeno 400 mg (caja),18,25,70
+2026-01-27,Ibuprofeno 400 mg (caja),17,25,70
+2026-01-28,Ibuprofeno 400 mg (caja),12,25,70
+2026-01-29,Ibuprofeno 400 mg (caja),10,25,70
+2026-01-30,Ibuprofeno 400 mg (caja),6,25,70
+2026-01-31,Ibuprofeno 400 mg (caja),3,25,70
+2026-02-01,Ibuprofeno 400 mg (caja),2,25,70
+2026-02-02,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-03,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-04,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-05,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-06,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-07,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-08,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-09,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-10,Ibuprofeno 400 mg (caja),0,25,70
+2026-02-11,Ibuprofeno 400 mg (caja),46,25,70
+2026-02-12,Ibuprofeno 400 mg (caja),41,25,70
+2026-02-13,Ibuprofeno 400 mg (caja),41,25,70
+2026-02-14,Ibuprofeno 400 mg (caja),39,25,70
+2026-02-15,Ibuprofeno 400 mg (caja),35,25,70
+2026-02-16,Ibuprofeno 400 mg (caja),33,25,70
+2026-02-17,Ibuprofeno 400 mg (caja),31,25,70
+2026-02-18,Ibuprofeno 400 mg (caja),31,25,70
+2026-02-19,Ibuprofeno 400 mg (caja),29,25,70
+2026-02-20,Ibuprofeno 400 mg (caja),27,25,70
+2026-02-21,Ibuprofeno 400 mg (caja),25,25,70
+2026-02-22,Ibuprofeno 400 mg (caja),23,25,70
+2026-02-23,Ibuprofeno 400 mg (caja),21,25,70
+2026-02-24,Ibuprofeno 400 mg (caja),21,25,70
+2026-02-25,Ibuprofeno 400 mg (caja),19,25,70
+2026-02-26,Ibuprofeno 400 mg (caja),19,25,70
+2026-02-27,Ibuprofeno 400 mg (caja),16,25,70
+2026-02-28,Ibuprofeno 400 mg (caja),12,25,70
+2026-03-01,Ibuprofeno 400 mg (caja),12,25,70
+2026-03-02,Ibuprofeno 400 mg (caja),10,25,70
+2026-03-03,Ibuprofeno 400 mg (caja),10,25,70
+2026-03-04,Ibuprofeno 400 mg (caja),9,25,70
+2026-03-05,Ibuprofeno 400 mg (caja),9,25,70
+2026-03-06,Ibuprofeno 400 mg (caja),6,25,70
+2026-03-07,Ibuprofeno 400 mg (caja),3,25,70
+2026-03-08,Ibuprofeno 400 mg (caja),1,25,70
+2026-03-09,Ibuprofeno 400 mg (caja),0,25,70
+2026-03-10,Ibuprofeno 400 mg (caja),0,25,70
+2026-03-11,Ibuprofeno 400 mg (caja),0,25,70
+2026-03-12,Ibuprofeno 400 mg (caja),0,25,70
+2026-03-13,Ibuprofeno 400 mg (caja),35,25,70
+2026-03-14,Ibuprofeno 400 mg (caja),33,25,70
+2026-03-15,Ibuprofeno 400 mg (caja),32,25,70
+2026-03-16,Ibuprofeno 400 mg (caja),32,25,70
+2026-03-17,Ibuprofeno 400 mg (caja),31,25,70
+2026-03-18,Ibuprofeno 400 mg (caja),31,25,70
+2026-03-19,Ibuprofeno 400 mg (caja),30,25,70
+2026-03-20,Ibuprofeno 400 mg (caja),27,25,70
+2026-03-21,Ibuprofeno 400 mg (caja),25,25,70
+2026-03-22,Ibuprofeno 400 mg (caja),24,25,70
+2026-03-23,Ibuprofeno 400 mg (caja),23,25,70
+2026-03-24,Ibuprofeno 400 mg (caja),20,25,70
+2026-03-25,Ibuprofeno 400 mg (caja),18,25,70
+2026-03-26,Ibuprofeno 400 mg (caja),15,25,70
+2026-03-27,Ibuprofeno 400 mg (caja),12,25,70
+2026-03-28,Ibuprofeno 400 mg (caja),11,25,70
+2026-03-29,Ibuprofeno 400 mg (caja),9,25,70
+2026-03-30,Ibuprofeno 400 mg (caja),8,25,70
+2026-03-31,Ibuprofeno 400 mg (caja),7,25,70
+2026-04-01,Ibuprofeno 400 mg (caja),6,31,76
+2026-04-02,Ibuprofeno 400 mg (caja),4,31,76
+2026-04-03,Ibuprofeno 400 mg (caja),3,31,76
+2026-04-04,Ibuprofeno 400 mg (caja),3,31,76
+2026-04-05,Ibuprofeno 400 mg (caja),2,31,76
+2026-04-06,Ibuprofeno 400 mg (caja),1,31,76
+2026-04-07,Ibuprofeno 400 mg (caja),1,31,76
+2026-04-08,Ibuprofeno 400 mg (caja),0,31,76
+2026-04-09,Ibuprofeno 400 mg (caja),0,31,76
+2026-04-10,Ibuprofeno 400 mg (caja),68,31,76
+2026-04-11,Ibuprofeno 400 mg (caja),66,31,76
+2026-04-12,Ibuprofeno 400 mg (caja),65,31,76
+2026-04-13,Ibuprofeno 400 mg (caja),64,31,76
+2026-04-14,Ibuprofeno 400 mg (caja),61,31,76
+2026-04-15,Ibuprofeno 400 mg (caja),60,31,76
+2026-04-16,Ibuprofeno 400 mg (caja),57,31,76
+2026-04-17,Ibuprofeno 400 mg (caja),55,31,76
+2026-04-18,Ibuprofeno 400 mg (caja),53,31,76
+2026-04-19,Ibuprofeno 400 mg (caja),51,31,76
+2026-04-20,Ibuprofeno 400 mg (caja),50,31,76
+2026-04-21,Ibuprofeno 400 mg (caja),48,31,76
+2026-04-22,Ibuprofeno 400 mg (caja),45,31,76
+2026-04-23,Ibuprofeno 400 mg (caja),41,31,76
+2026-04-24,Ibuprofeno 400 mg (caja),40,31,76
+2026-04-25,Ibuprofeno 400 mg (caja),35,31,76
+2026-04-26,Ibuprofeno 400 mg (caja),33,31,76
+2026-04-27,Ibuprofeno 400 mg (caja),32,31,76
+2026-04-28,Ibuprofeno 400 mg (caja),29,31,76
+2026-04-29,Ibuprofeno 400 mg (caja),28,31,76
+2026-04-30,Ibuprofeno 400 mg (caja),28,31,76
+2026-05-01,Ibuprofeno 400 mg (caja),24,31,76
+2026-05-02,Ibuprofeno 400 mg (caja),20,31,76
+2026-05-03,Ibuprofeno 400 mg (caja),18,31,76
+2026-05-04,Ibuprofeno 400 mg (caja),17,31,76
+2026-05-05,Ibuprofeno 400 mg (caja),14,31,76
+2026-05-06,Ibuprofeno 400 mg (caja),12,31,76
+2026-05-07,Ibuprofeno 400 mg (caja),11,31,76
+2026-05-08,Ibuprofeno 400 mg (caja),57,31,76
+2026-05-09,Ibuprofeno 400 mg (caja),54,31,76
+2026-05-10,Ibuprofeno 400 mg (caja),54,31,76
+2026-05-11,Ibuprofeno 400 mg (caja),52,31,76
+2026-05-12,Ibuprofeno 400 mg (caja),51,31,76
+2026-05-13,Ibuprofeno 400 mg (caja),51,31,76
+2026-05-14,Ibuprofeno 400 mg (caja),51,31,76
+2026-05-15,Ibuprofeno 400 mg (caja),50,31,76
+2026-05-16,Ibuprofeno 400 mg (caja),42,31,76
+2026-05-17,Ibuprofeno 400 mg (caja),40,31,76
+2026-05-18,Ibuprofeno 400 mg (caja),37,31,76
+2026-05-19,Ibuprofeno 400 mg (caja),34,31,76
+2026-05-20,Ibuprofeno 400 mg (caja),30,31,76
+2026-05-21,Ibuprofeno 400 mg (caja),27,31,76
+2026-05-22,Ibuprofeno 400 mg (caja),27,31,76
+2026-05-23,Ibuprofeno 400 mg (caja),25,31,76
+2026-05-24,Ibuprofeno 400 mg (caja),21,31,76
+2026-05-25,Ibuprofeno 400 mg (caja),20,31,76
+2026-05-26,Ibuprofeno 400 mg (caja),19,31,76
+2026-05-27,Ibuprofeno 400 mg (caja),18,31,76
+2026-05-28,Ibuprofeno 400 mg (caja),17,31,76
+2026-05-29,Ibuprofeno 400 mg (caja),15,31,76
+2026-05-30,Ibuprofeno 400 mg (caja),12,31,76
+2026-05-31,Ibuprofeno 400 mg (caja),8,31,76
+2026-06-01,Ibuprofeno 400 mg (caja),49,31,76
+2026-06-02,Ibuprofeno 400 mg (caja),47,31,76
+2026-06-03,Ibuprofeno 400 mg (caja),45,31,76
+2026-06-04,Ibuprofeno 400 mg (caja),41,31,76
+2026-06-05,Ibuprofeno 400 mg (caja),40,31,76
+2026-06-06,Ibuprofeno 400 mg (caja),40,31,76
+2026-06-07,Ibuprofeno 400 mg (caja),36,31,76
+2026-06-08,Ibuprofeno 400 mg (caja),32,31,76
+2026-06-09,Ibuprofeno 400 mg (caja),29,31,76
+2026-06-10,Ibuprofeno 400 mg (caja),27,31,76
+2026-06-11,Ibuprofeno 400 mg (caja),26,31,76
+2026-06-12,Ibuprofeno 400 mg (caja),24,31,76
+2026-06-13,Ibuprofeno 400 mg (caja),19,31,76
+2026-06-14,Ibuprofeno 400 mg (caja),18,31,76
+2026-06-15,Ibuprofeno 400 mg (caja),13,31,76
+2026-06-16,Ibuprofeno 400 mg (caja),13,31,76
+2026-06-17,Ibuprofeno 400 mg (caja),58,31,76
+2026-06-18,Ibuprofeno 400 mg (caja),57,31,76
+2026-06-19,Ibuprofeno 400 mg (caja),56,31,76
+2026-06-20,Ibuprofeno 400 mg (caja),56,31,76
+2026-06-21,Ibuprofeno 400 mg (caja),54,31,76
+2026-06-22,Ibuprofeno 400 mg (caja),50,31,76
+2026-06-23,Ibuprofeno 400 mg (caja),46,31,76
+2026-06-24,Ibuprofeno 400 mg (caja),45,31,76
+2026-06-25,Ibuprofeno 400 mg (caja),44,31,76
+2026-06-26,Ibuprofeno 400 mg (caja),42,31,76
+2026-06-27,Ibuprofeno 400 mg (caja),40,31,76
+2026-06-28,Ibuprofeno 400 mg (caja),39,31,76
+2026-06-29,Ibuprofeno 400 mg (caja),35,31,76
+2026-06-30,Ibuprofeno 400 mg (caja),32,31,76
+2026-07-01,Ibuprofeno 400 mg (caja),32,31,76
+2026-07-02,Ibuprofeno 400 mg (caja),31,31,76
+2026-07-03,Ibuprofeno 400 mg (caja),27,31,76
+2026-07-04,Ibuprofeno 400 mg (caja),26,31,76
+2026-07-05,Ibuprofeno 400 mg (caja),23,31,76
+2026-07-06,Ibuprofeno 400 mg (caja),21,31,76
+2026-07-07,Ibuprofeno 400 mg (caja),17,31,76
+2026-07-08,Ibuprofeno 400 mg (caja),17,31,76
+2026-07-09,Ibuprofeno 400 mg (caja),16,31,76
+2026-07-10,Ibuprofeno 400 mg (caja),13,31,76
+2026-07-11,Ibuprofeno 400 mg (caja),56,31,76
+2026-07-12,Ibuprofeno 400 mg (caja),53,31,76
+2026-07-13,Ibuprofeno 400 mg (caja),51,31,76
+2026-07-14,Ibuprofeno 400 mg (caja),51,31,76
+2026-07-15,Ibuprofeno 400 mg (caja),49,31,76
+2026-07-16,Ibuprofeno 400 mg (caja),47,31,76
+2026-07-17,Ibuprofeno 400 mg (caja),46,31,76
+2026-07-18,Ibuprofeno 400 mg (caja),44,31,76
+2026-07-19,Ibuprofeno 400 mg (caja),43,31,76
+2026-07-20,Ibuprofeno 400 mg (caja),41,31,76
+2026-07-21,Ibuprofeno 400 mg (caja),36,31,76
+2026-07-22,Ibuprofeno 400 mg (caja),36,31,76
+2026-07-23,Ibuprofeno 400 mg (caja),35,31,76
+2026-07-24,Ibuprofeno 400 mg (caja),32,31,76
+2026-07-25,Ibuprofeno 400 mg (caja),31,31,76
+2026-07-26,Ibuprofeno 400 mg (caja),31,31,76
+2026-07-27,Ibuprofeno 400 mg (caja),30,31,76
+2026-07-28,Ibuprofeno 400 mg (caja),29,31,76
+2026-07-29,Ibuprofeno 400 mg (caja),29,31,76
+2026-07-30,Ibuprofeno 400 mg (caja),26,31,76
+2026-07-31,Ibuprofeno 400 mg (caja),24,31,76
+2026-08-01,Ibuprofeno 400 mg (caja),22,31,76
+2026-08-02,Ibuprofeno 400 mg (caja),20,31,76
+2026-08-03,Ibuprofeno 400 mg (caja),13,31,76
+2026-08-04,Ibuprofeno 400 mg (caja),13,31,76
+2026-08-05,Ibuprofeno 400 mg (caja),13,31,76
+2026-08-06,Ibuprofeno 400 mg (caja),11,31,76
+2026-08-07,Ibuprofeno 400 mg (caja),55,31,76
+2026-08-08,Ibuprofeno 400 mg (caja),55,31,76
+2026-08-09,Ibuprofeno 400 mg (caja),52,31,76
+2026-08-10,Ibuprofeno 400 mg (caja),49,31,76
+2026-08-11,Ibuprofeno 400 mg (caja),48,31,76
+2026-08-12,Ibuprofeno 400 mg (caja),43,31,76
+2026-08-13,Ibuprofeno 400 mg (caja),42,31,76
+2026-08-14,Ibuprofeno 400 mg (caja),40,31,76
+2026-08-15,Ibuprofeno 400 mg (caja),39,31,76
+2026-08-16,Ibuprofeno 400 mg (caja),37,31,76
+2026-08-17,Ibuprofeno 400 mg (caja),36,31,76
+2026-08-18,Ibuprofeno 400 mg (caja),34,31,76
+2026-08-19,Ibuprofeno 400 mg (caja),33,31,76
+2026-08-20,Ibuprofeno 400 mg (caja),33,31,76
+2026-08-21,Ibuprofeno 400 mg (caja),30,31,76
+2026-08-22,Ibuprofeno 400 mg (caja),29,31,76
+2026-08-23,Ibuprofeno 400 mg (caja),26,31,76
+2026-08-24,Ibuprofeno 400 mg (caja),23,31,76
+2026-08-25,Ibuprofeno 400 mg (caja),23,31,76
+2026-08-26,Ibuprofeno 400 mg (caja),22,31,76
+2026-08-27,Ibuprofeno 400 mg (caja),20,31,76
+2026-08-28,Ibuprofeno 400 mg (caja),18,31,76
+2026-08-29,Ibuprofeno 400 mg (caja),63,31,76
+2026-08-30,Ibuprofeno 400 mg (caja),61,31,76
+2026-08-31,Ibuprofeno 400 mg (caja),60,31,76
+2026-09-01,Ibuprofeno 400 mg (caja),60,31,76
+2026-09-02,Ibuprofeno 400 mg (caja),58,31,76
+2026-09-03,Ibuprofeno 400 mg (caja),57,31,76
+2026-09-04,Ibuprofeno 400 mg (caja),56,31,76
+2026-09-05,Ibuprofeno 400 mg (caja),51,31,76
+2026-09-06,Ibuprofeno 400 mg (caja),50,31,76
+2026-09-07,Ibuprofeno 400 mg (caja),48,31,76
+2026-09-08,Ibuprofeno 400 mg (caja),45,31,76
+2026-09-09,Ibuprofeno 400 mg (caja),44,31,76
+2026-09-10,Ibuprofeno 400 mg (caja),42,31,76
+2026-09-11,Ibuprofeno 400 mg (caja),42,31,76
+2026-09-12,Ibuprofeno 400 mg (caja),37,31,76
+2026-09-13,Ibuprofeno 400 mg (caja),33,31,76
+2026-09-14,Ibuprofeno 400 mg (caja),32,31,76
+2026-09-15,Ibuprofeno 400 mg (caja),31,31,76
+2026-09-16,Ibuprofeno 400 mg (caja),31,31,76
+2026-09-17,Ibuprofeno 400 mg (caja),30,31,76
+2026-09-18,Ibuprofeno 400 mg (caja),28,31,76
+2026-09-19,Ibuprofeno 400 mg (caja),27,31,76
+2026-09-20,Ibuprofeno 400 mg (caja),26,31,76
+2026-09-21,Ibuprofeno 400 mg (caja),21,31,76
+2026-09-22,Ibuprofeno 400 mg (caja),18,31,76
+2026-09-23,Ibuprofeno 400 mg (caja),18,31,76
+2026-09-24,Ibuprofeno 400 mg (caja),17,31,76
+2026-09-25,Ibuprofeno 400 mg (caja),14,31,76
+2026-09-26,Ibuprofeno 400 mg (caja),10,31,76
+2026-09-27,Ibuprofeno 400 mg (caja),51,31,76
+2026-09-28,Ibuprofeno 400 mg (caja),49,31,76
+2026-09-29,Ibuprofeno 400 mg (caja),49,31,76
+2026-09-30,Ibuprofeno 400 mg (caja),46,31,76
+2026-10-01,Ibuprofeno 400 mg (caja),46,31,76
+2026-10-02,Ibuprofeno 400 mg (caja),45,31,76
+2026-10-03,Ibuprofeno 400 mg (caja),45,31,76
+2026-10-04,Ibuprofeno 400 mg (caja),43,31,76
+2026-10-05,Ibuprofeno 400 mg (caja),43,31,76
+2026-10-06,Ibuprofeno 400 mg (caja),41,31,76
+2026-10-07,Ibuprofeno 400 mg (caja),41,31,76
+2026-10-08,Ibuprofeno 400 mg (caja),37,31,76
+2026-10-09,Ibuprofeno 400 mg (caja),33,31,76
+2026-10-10,Ibuprofeno 400 mg (caja),32,31,76
+2026-10-11,Ibuprofeno 400 mg (caja),32,31,76
+2026-10-12,Ibuprofeno 400 mg (caja),30,31,76
+2026-10-13,Ibuprofeno 400 mg (caja),29,31,76
+2026-10-14,Ibuprofeno 400 mg (caja),26,31,76
+2026-10-15,Ibuprofeno 400 mg (caja),20,31,76
+2026-10-16,Ibuprofeno 400 mg (caja),19,31,76
+2026-10-17,Ibuprofeno 400 mg (caja),18,31,76
+2026-10-18,Ibuprofeno 400 mg (caja),14,31,76
+2025-10-20,Boquillas alcoholímetro,408,150,420
+2025-10-21,Boquillas alcoholímetro,396,150,420
+2025-10-22,Boquillas alcoholímetro,386,150,420
+2025-10-23,Boquillas alcoholímetro,377,150,420
+2025-10-24,Boquillas alcoholímetro,366,150,420
+2025-10-25,Boquillas alcoholímetro,355,150,420
+2025-10-26,Boquillas alcoholímetro,350,150,420
+2025-10-27,Boquillas alcoholímetro,341,150,420
+2025-10-28,Boquillas alcoholímetro,332,150,420
+2025-10-29,Boquillas alcoholímetro,321,150,420
+2025-10-30,Boquillas alcoholímetro,310,150,420
+2025-10-31,Boquillas alcoholímetro,301,150,420
+2025-11-01,Boquillas alcoholímetro,289,150,420
+2025-11-02,Boquillas alcoholímetro,282,150,420
+2025-11-03,Boquillas alcoholímetro,271,150,420
+2025-11-04,Boquillas alcoholímetro,261,150,420
+2025-11-05,Boquillas alcoholímetro,251,150,420
+2025-11-06,Boquillas alcoholímetro,243,150,420
+2025-11-07,Boquillas alcoholímetro,230,150,420
+2025-11-08,Boquillas alcoholímetro,226,150,420
+2025-11-09,Boquillas alcoholímetro,217,150,420
+2025-11-10,Boquillas alcoholímetro,203,150,420
+2025-11-11,Boquillas alcoholímetro,196,150,420
+2025-11-12,Boquillas alcoholímetro,187,150,420
+2025-11-13,Boquillas alcoholímetro,180,150,420
+2025-11-14,Boquillas alcoholímetro,174,150,420
+2025-11-15,Boquillas alcoholímetro,168,150,420
+2025-11-16,Boquillas alcoholímetro,157,150,420
+2025-11-17,Boquillas alcoholímetro,147,150,420
+2025-11-18,Boquillas alcoholímetro,138,150,420
+2025-11-19,Boquillas alcoholímetro,131,150,420
+2025-11-20,Boquillas alcoholímetro,125,150,420
+2025-11-21,Boquillas alcoholímetro,115,150,420
+2025-11-22,Boquillas alcoholímetro,104,150,420
+2025-11-23,Boquillas alcoholímetro,97,150,420
+2025-11-24,Boquillas alcoholímetro,87,150,420
+2025-11-25,Boquillas alcoholímetro,80,150,420
+2025-11-26,Boquillas alcoholímetro,76,150,420
+2025-11-27,Boquillas alcoholímetro,70,150,420
+2025-11-28,Boquillas alcoholímetro,59,150,420
+2025-11-29,Boquillas alcoholímetro,46,150,420
+2025-11-30,Boquillas alcoholímetro,36,150,420
+2025-12-01,Boquillas alcoholímetro,21,150,420
+2025-12-02,Boquillas alcoholímetro,12,150,420
+2025-12-03,Boquillas alcoholímetro,3,150,420
+2025-12-04,Boquillas alcoholímetro,0,150,420
+2025-12-05,Boquillas alcoholímetro,0,150,420
+2025-12-06,Boquillas alcoholímetro,0,150,420
+2025-12-07,Boquillas alcoholímetro,0,150,420
+2025-12-08,Boquillas alcoholímetro,0,150,420
+2025-12-09,Boquillas alcoholímetro,0,150,420
+2025-12-10,Boquillas alcoholímetro,0,150,420
+2025-12-11,Boquillas alcoholímetro,0,150,420
+2025-12-12,Boquillas alcoholímetro,0,150,420
+2025-12-13,Boquillas alcoholímetro,0,150,420
+2025-12-14,Boquillas alcoholímetro,0,150,420
+2025-12-15,Boquillas alcoholímetro,266,150,420
+2025-12-16,Boquillas alcoholímetro,258,150,420
+2025-12-17,Boquillas alcoholímetro,248,150,420
+2025-12-18,Boquillas alcoholímetro,240,150,420
+2025-12-19,Boquillas alcoholímetro,230,150,420
+2025-12-20,Boquillas alcoholímetro,221,150,420
+2025-12-21,Boquillas alcoholímetro,209,150,420
+2025-12-22,Boquillas alcoholímetro,196,150,420
+2025-12-23,Boquillas alcoholímetro,185,150,420
+2025-12-24,Boquillas alcoholímetro,180,150,420
+2025-12-25,Boquillas alcoholímetro,170,150,420
+2025-12-26,Boquillas alcoholímetro,156,150,420
+2025-12-27,Boquillas alcoholímetro,147,150,420
+2025-12-28,Boquillas alcoholímetro,139,150,420
+2025-12-29,Boquillas alcoholímetro,128,150,420
+2025-12-30,Boquillas alcoholímetro,120,150,420
+2025-12-31,Boquillas alcoholímetro,114,150,420
+2026-01-01,Boquillas alcoholímetro,102,150,420
+2026-01-02,Boquillas alcoholímetro,94,150,420
+2026-01-03,Boquillas alcoholímetro,85,150,420
+2026-01-04,Boquillas alcoholímetro,73,150,420
+2026-01-05,Boquillas alcoholímetro,55,150,420
+2026-01-06,Boquillas alcoholímetro,43,150,420
+2026-01-07,Boquillas alcoholímetro,36,150,420
+2026-01-08,Boquillas alcoholímetro,28,150,420
+2026-01-09,Boquillas alcoholímetro,12,150,420
+2026-01-10,Boquillas alcoholímetro,1,150,420
+2026-01-11,Boquillas alcoholímetro,0,150,420
+2026-01-12,Boquillas alcoholímetro,0,150,420
+2026-01-13,Boquillas alcoholímetro,0,150,420
+2026-01-14,Boquillas alcoholímetro,0,150,420
+2026-01-15,Boquillas alcoholímetro,190,150,420
+2026-01-16,Boquillas alcoholímetro,183,150,420
+2026-01-17,Boquillas alcoholímetro,173,150,420
+2026-01-18,Boquillas alcoholímetro,158,150,420
+2026-01-19,Boquillas alcoholímetro,147,150,420
+2026-01-20,Boquillas alcoholímetro,140,150,420
+2026-01-21,Boquillas alcoholímetro,135,150,420
+2026-01-22,Boquillas alcoholímetro,128,150,420
+2026-01-23,Boquillas alcoholímetro,114,150,420
+2026-01-24,Boquillas alcoholímetro,110,150,420
+2026-01-25,Boquillas alcoholímetro,102,150,420
+2026-01-26,Boquillas alcoholímetro,95,150,420
+2026-01-27,Boquillas alcoholímetro,89,150,420
+2026-01-28,Boquillas alcoholímetro,83,150,420
+2026-01-29,Boquillas alcoholímetro,74,150,420
+2026-01-30,Boquillas alcoholímetro,68,150,420
+2026-01-31,Boquillas alcoholímetro,60,150,420
+2026-02-01,Boquillas alcoholímetro,51,150,420
+2026-02-02,Boquillas alcoholímetro,42,150,420
+2026-02-03,Boquillas alcoholímetro,37,150,420
+2026-02-04,Boquillas alcoholímetro,26,150,420
+2026-02-05,Boquillas alcoholímetro,18,150,420
+2026-02-06,Boquillas alcoholímetro,8,150,420
+2026-02-07,Boquillas alcoholímetro,0,150,420
+2026-02-08,Boquillas alcoholímetro,0,150,420
+2026-02-09,Boquillas alcoholímetro,0,150,420
+2026-02-10,Boquillas alcoholímetro,0,150,420
+2026-02-11,Boquillas alcoholímetro,0,150,420
+2026-02-12,Boquillas alcoholímetro,0,150,420
+2026-02-13,Boquillas alcoholímetro,0,150,420
+2026-02-14,Boquillas alcoholímetro,236,150,420
+2026-02-15,Boquillas alcoholímetro,226,150,420
+2026-02-16,Boquillas alcoholímetro,213,150,420
+2026-02-17,Boquillas alcoholímetro,206,150,420
+2026-02-18,Boquillas alcoholímetro,197,150,420
+2026-02-19,Boquillas alcoholímetro,189,150,420
+2026-02-20,Boquillas alcoholímetro,177,150,420
+2026-02-21,Boquillas alcoholímetro,170,150,420
+2026-02-22,Boquillas alcoholímetro,163,150,420
+2026-02-23,Boquillas alcoholímetro,156,150,420
+2026-02-24,Boquillas alcoholímetro,149,150,420
+2026-02-25,Boquillas alcoholímetro,139,150,420
+2026-02-26,Boquillas alcoholímetro,130,150,420
+2026-02-27,Boquillas alcoholímetro,120,150,420
+2026-02-28,Boquillas alcoholímetro,112,150,420
+2026-03-01,Boquillas alcoholímetro,100,150,420
+2026-03-02,Boquillas alcoholímetro,94,150,420
+2026-03-03,Boquillas alcoholímetro,88,150,420
+2026-03-04,Boquillas alcoholímetro,79,150,420
+2026-03-05,Boquillas alcoholímetro,71,150,420
+2026-03-06,Boquillas alcoholímetro,63,150,420
+2026-03-07,Boquillas alcoholímetro,56,150,420
+2026-03-08,Boquillas alcoholímetro,50,150,420
+2026-03-09,Boquillas alcoholímetro,45,150,420
+2026-03-10,Boquillas alcoholímetro,39,150,420
+2026-03-11,Boquillas alcoholímetro,32,150,420
+2026-03-12,Boquillas alcoholímetro,15,150,420
+2026-03-13,Boquillas alcoholímetro,201,150,420
+2026-03-14,Boquillas alcoholímetro,197,150,420
+2026-03-15,Boquillas alcoholímetro,185,150,420
+2026-03-16,Boquillas alcoholímetro,179,150,420
+2026-03-17,Boquillas alcoholímetro,169,150,420
+2026-03-18,Boquillas alcoholímetro,168,150,420
+2026-03-19,Boquillas alcoholímetro,159,150,420
+2026-03-20,Boquillas alcoholímetro,146,150,420
+2026-03-21,Boquillas alcoholímetro,141,150,420
+2026-03-22,Boquillas alcoholímetro,131,150,420
+2026-03-23,Boquillas alcoholímetro,125,150,420
+2026-03-24,Boquillas alcoholímetro,117,150,420
+2026-03-25,Boquillas alcoholímetro,108,150,420
+2026-03-26,Boquillas alcoholímetro,102,150,420
+2026-03-27,Boquillas alcoholímetro,93,150,420
+2026-03-28,Boquillas alcoholímetro,83,150,420
+2026-03-29,Boquillas alcoholímetro,72,150,420
+2026-03-30,Boquillas alcoholímetro,61,150,420
+2026-03-31,Boquillas alcoholímetro,56,150,420
+2026-04-01,Boquillas alcoholímetro,47,193,463
+2026-04-02,Boquillas alcoholímetro,40,193,463
+2026-04-03,Boquillas alcoholímetro,25,193,463
+2026-04-04,Boquillas alcoholímetro,13,193,463
+2026-04-05,Boquillas alcoholímetro,5,193,463
+2026-04-06,Boquillas alcoholímetro,0,193,463
+2026-04-07,Boquillas alcoholímetro,0,193,463
+2026-04-08,Boquillas alcoholímetro,0,193,463
+2026-04-09,Boquillas alcoholímetro,0,193,463
+2026-04-10,Boquillas alcoholímetro,0,193,463
+2026-04-11,Boquillas alcoholímetro,0,193,463
+2026-04-12,Boquillas alcoholímetro,0,193,463
+2026-04-13,Boquillas alcoholímetro,0,193,463
+2026-04-14,Boquillas alcoholímetro,0,193,463
+2026-04-15,Boquillas alcoholímetro,0,193,463
+2026-04-16,Boquillas alcoholímetro,0,193,463
+2026-04-17,Boquillas alcoholímetro,407,193,463
+2026-04-18,Boquillas alcoholímetro,400,193,463
+2026-04-19,Boquillas alcoholímetro,388,193,463
+2026-04-20,Boquillas alcoholímetro,379,193,463
+2026-04-21,Boquillas alcoholímetro,372,193,463
+2026-04-22,Boquillas alcoholímetro,361,193,463
+2026-04-23,Boquillas alcoholímetro,355,193,463
+2026-04-24,Boquillas alcoholímetro,347,193,463
+2026-04-25,Boquillas alcoholímetro,334,193,463
+2026-04-26,Boquillas alcoholímetro,321,193,463
+2026-04-27,Boquillas alcoholímetro,318,193,463
+2026-04-28,Boquillas alcoholímetro,311,193,463
+2026-04-29,Boquillas alcoholímetro,302,193,463
+2026-04-30,Boquillas alcoholímetro,293,193,463
+2026-05-01,Boquillas alcoholímetro,286,193,463
+2026-05-02,Boquillas alcoholímetro,274,193,463
+2026-05-03,Boquillas alcoholímetro,261,193,463
+2026-05-04,Boquillas alcoholímetro,256,193,463
+2026-05-05,Boquillas alcoholímetro,250,193,463
+2026-05-06,Boquillas alcoholímetro,234,193,463
+2026-05-07,Boquillas alcoholímetro,219,193,463
+2026-05-08,Boquillas alcoholímetro,215,193,463
+2026-05-09,Boquillas alcoholímetro,203,193,463
+2026-05-10,Boquillas alcoholímetro,189,193,463
+2026-05-11,Boquillas alcoholímetro,177,193,463
+2026-05-12,Boquillas alcoholímetro,162,193,463
+2026-05-13,Boquillas alcoholímetro,150,193,463
+2026-05-14,Boquillas alcoholímetro,140,193,463
+2026-05-15,Boquillas alcoholímetro,132,193,463
+2026-05-16,Boquillas alcoholímetro,120,193,463
+2026-05-17,Boquillas alcoholímetro,113,193,463
+2026-05-18,Boquillas alcoholímetro,109,193,463
+2026-05-19,Boquillas alcoholímetro,105,193,463
+2026-05-20,Boquillas alcoholímetro,92,193,463
+2026-05-21,Boquillas alcoholímetro,87,193,463
+2026-05-22,Boquillas alcoholímetro,76,193,463
+2026-05-23,Boquillas alcoholímetro,67,193,463
+2026-05-24,Boquillas alcoholímetro,62,193,463
+2026-05-25,Boquillas alcoholímetro,319,193,463
+2026-05-26,Boquillas alcoholímetro,309,193,463
+2026-05-27,Boquillas alcoholímetro,296,193,463
+2026-05-28,Boquillas alcoholímetro,289,193,463
+2026-05-29,Boquillas alcoholímetro,288,193,463
+2026-05-30,Boquillas alcoholímetro,278,193,463
+2026-05-31,Boquillas alcoholímetro,270,193,463
+2026-06-01,Boquillas alcoholímetro,259,193,463
+2026-06-02,Boquillas alcoholímetro,253,193,463
+2026-06-03,Boquillas alcoholímetro,248,193,463
+2026-06-04,Boquillas alcoholímetro,238,193,463
+2026-06-05,Boquillas alcoholímetro,224,193,463
+2026-06-06,Boquillas alcoholímetro,214,193,463
+2026-06-07,Boquillas alcoholímetro,205,193,463
+2026-06-08,Boquillas alcoholímetro,201,193,463
+2026-06-09,Boquillas alcoholímetro,191,193,463
+2026-06-10,Boquillas alcoholímetro,184,193,463
+2026-06-11,Boquillas alcoholímetro,177,193,463
+2026-06-12,Boquillas alcoholímetro,172,193,463
+2026-06-13,Boquillas alcoholímetro,167,193,463
+2026-06-14,Boquillas alcoholímetro,157,193,463
+2026-06-15,Boquillas alcoholímetro,151,193,463
+2026-06-16,Boquillas alcoholímetro,136,193,463
+2026-06-17,Boquillas alcoholímetro,127,193,463
+2026-06-18,Boquillas alcoholímetro,122,193,463
+2026-06-19,Boquillas alcoholímetro,118,193,463
+2026-06-20,Boquillas alcoholímetro,108,193,463
+2026-06-21,Boquillas alcoholímetro,371,193,463
+2026-06-22,Boquillas alcoholímetro,367,193,463
+2026-06-23,Boquillas alcoholímetro,357,193,463
+2026-06-24,Boquillas alcoholímetro,349,193,463
+2026-06-25,Boquillas alcoholímetro,341,193,463
+2026-06-26,Boquillas alcoholímetro,329,193,463
+2026-06-27,Boquillas alcoholímetro,319,193,463
+2026-06-28,Boquillas alcoholímetro,307,193,463
+2026-06-29,Boquillas alcoholímetro,291,193,463
+2026-06-30,Boquillas alcoholímetro,280,193,463
+2026-07-01,Boquillas alcoholímetro,272,193,463
+2026-07-02,Boquillas alcoholímetro,265,193,463
+2026-07-03,Boquillas alcoholímetro,255,193,463
+2026-07-04,Boquillas alcoholímetro,241,193,463
+2026-07-05,Boquillas alcoholímetro,228,193,463
+2026-07-06,Boquillas alcoholímetro,218,193,463
+2026-07-07,Boquillas alcoholímetro,209,193,463
+2026-07-08,Boquillas alcoholímetro,205,193,463
+2026-07-09,Boquillas alcoholímetro,198,193,463
+2026-07-10,Boquillas alcoholímetro,188,193,463
+2026-07-11,Boquillas alcoholímetro,180,193,463
+2026-07-12,Boquillas alcoholímetro,169,193,463
+2026-07-13,Boquillas alcoholímetro,158,193,463
+2026-07-14,Boquillas alcoholímetro,151,193,463
+2026-07-15,Boquillas alcoholímetro,137,193,463
+2026-07-16,Boquillas alcoholímetro,129,193,463
+2026-07-17,Boquillas alcoholímetro,121,193,463
+2026-07-18,Boquillas alcoholímetro,109,193,463
+2026-07-19,Boquillas alcoholímetro,102,193,463
+2026-07-20,Boquillas alcoholímetro,90,193,463
+2026-07-21,Boquillas alcoholímetro,86,193,463
+2026-07-22,Boquillas alcoholímetro,79,193,463
+2026-07-23,Boquillas alcoholímetro,68,193,463
+2026-07-24,Boquillas alcoholímetro,57,193,463
+2026-07-25,Boquillas alcoholímetro,48,193,463
+2026-07-26,Boquillas alcoholímetro,40,193,463
+2026-07-27,Boquillas alcoholímetro,308,193,463
+2026-07-28,Boquillas alcoholímetro,298,193,463
+2026-07-29,Boquillas alcoholímetro,294,193,463
+2026-07-30,Boquillas alcoholímetro,283,193,463
+2026-07-31,Boquillas alcoholímetro,268,193,463
+2026-08-01,Boquillas alcoholímetro,260,193,463
+2026-08-02,Boquillas alcoholímetro,249,193,463
+2026-08-03,Boquillas alcoholímetro,237,193,463
+2026-08-04,Boquillas alcoholímetro,229,193,463
+2026-08-05,Boquillas alcoholímetro,219,193,463
+2026-08-06,Boquillas alcoholímetro,210,193,463
+2026-08-07,Boquillas alcoholímetro,201,193,463
+2026-08-08,Boquillas alcoholímetro,189,193,463
+2026-08-09,Boquillas alcoholímetro,180,193,463
+2026-08-10,Boquillas alcoholímetro,174,193,463
+2026-08-11,Boquillas alcoholímetro,162,193,463
+2026-08-12,Boquillas alcoholímetro,157,193,463
+2026-08-13,Boquillas alcoholímetro,146,193,463
+2026-08-14,Boquillas alcoholímetro,137,193,463
+2026-08-15,Boquillas alcoholímetro,126,193,463
+2026-08-16,Boquillas alcoholímetro,119,193,463
+2026-08-17,Boquillas alcoholímetro,107,193,463
+2026-08-18,Boquillas alcoholímetro,96,193,463
+2026-08-19,Boquillas alcoholímetro,87,193,463
+2026-08-20,Boquillas alcoholímetro,79,193,463
+2026-08-21,Boquillas alcoholímetro,343,193,463
+2026-08-22,Boquillas alcoholímetro,335,193,463
+2026-08-23,Boquillas alcoholímetro,326,193,463
+2026-08-24,Boquillas alcoholímetro,316,193,463
+2026-08-25,Boquillas alcoholímetro,306,193,463
+2026-08-26,Boquillas alcoholímetro,295,193,463
+2026-08-27,Boquillas alcoholímetro,281,193,463
+2026-08-28,Boquillas alcoholímetro,275,193,463
+2026-08-29,Boquillas alcoholímetro,267,193,463
+2026-08-30,Boquillas alcoholímetro,260,193,463
+2026-08-31,Boquillas alcoholímetro,249,193,463
+2026-09-01,Boquillas alcoholímetro,240,193,463
+2026-09-02,Boquillas alcoholímetro,231,193,463
+2026-09-03,Boquillas alcoholímetro,222,193,463
+2026-09-04,Boquillas alcoholímetro,212,193,463
+2026-09-05,Boquillas alcoholímetro,208,193,463
+2026-09-06,Boquillas alcoholímetro,197,193,463
+2026-09-07,Boquillas alcoholímetro,193,193,463
+2026-09-08,Boquillas alcoholímetro,184,193,463
+2026-09-09,Boquillas alcoholímetro,175,193,463
+2026-09-10,Boquillas alcoholímetro,168,193,463
+2026-09-11,Boquillas alcoholímetro,155,193,463
+2026-09-12,Boquillas alcoholímetro,149,193,463
+2026-09-13,Boquillas alcoholímetro,136,193,463
+2026-09-14,Boquillas alcoholímetro,126,193,463
+2026-09-15,Boquillas alcoholímetro,121,193,463
+2026-09-16,Boquillas alcoholímetro,114,193,463
+2026-09-17,Boquillas alcoholímetro,99,193,463
+2026-09-18,Boquillas alcoholímetro,91,193,463
+2026-09-19,Boquillas alcoholímetro,88,193,463
+2026-09-20,Boquillas alcoholímetro,83,193,463
+2026-09-21,Boquillas alcoholímetro,75,193,463
+2026-09-22,Boquillas alcoholímetro,66,193,463
+2026-09-23,Boquillas alcoholímetro,58,193,463
+2026-09-24,Boquillas alcoholímetro,316,193,463
+2026-09-25,Boquillas alcoholímetro,311,193,463
+2026-09-26,Boquillas alcoholímetro,301,193,463
+2026-09-27,Boquillas alcoholímetro,291,193,463
+2026-09-28,Boquillas alcoholímetro,284,193,463
+2026-09-29,Boquillas alcoholímetro,277,193,463
+2026-09-30,Boquillas alcoholímetro,265,193,463
+2026-10-01,Boquillas alcoholímetro,251,193,463
+2026-10-02,Boquillas alcoholímetro,235,193,463
+2026-10-03,Boquillas alcoholímetro,231,193,463
+2026-10-04,Boquillas alcoholímetro,221,193,463
+2026-10-05,Boquillas alcoholímetro,208,193,463
+2026-10-06,Boquillas alcoholímetro,204,193,463
+2026-10-07,Boquillas alcoholímetro,199,193,463
+2026-10-08,Boquillas alcoholímetro,189,193,463
+2026-10-09,Boquillas alcoholímetro,183,193,463
+2026-10-10,Boquillas alcoholímetro,175,193,463
+2026-10-11,Boquillas alcoholímetro,166,193,463
+2026-10-12,Boquillas alcoholímetro,157,193,463
+2026-10-13,Boquillas alcoholímetro,148,193,463
+2026-10-14,Boquillas alcoholímetro,139,193,463
+2026-10-15,Boquillas alcoholímetro,129,193,463
+2026-10-16,Boquillas alcoholímetro,115,193,463
+2026-10-17,Boquillas alcoholímetro,103,193,463
+2026-10-18,Boquillas alcoholímetro,87,193,463
+2025-10-20,Test de drogas en orina,110,40,110
+2025-10-21,Test de drogas en orina,107,40,110
+2025-10-22,Test de drogas en orina,104,40,110
+2025-10-23,Test de drogas en orina,102,40,110
+2025-10-24,Test de drogas en orina,98,40,110
+2025-10-25,Test de drogas en orina,93,40,110
+2025-10-26,Test de drogas en orina,92,40,110
+2025-10-27,Test de drogas en orina,92,40,110
+2025-10-28,Test de drogas en orina,90,40,110
+2025-10-29,Test de drogas en orina,88,40,110
+2025-10-30,Test de drogas en orina,88,40,110
+2025-10-31,Test de drogas en orina,84,40,110
+2025-11-01,Test de drogas en orina,80,40,110
+2025-11-02,Test de drogas en orina,78,40,110
+2025-11-03,Test de drogas en orina,77,40,110
+2025-11-04,Test de drogas en orina,76,40,110
+2025-11-05,Test de drogas en orina,73,40,110
+2025-11-06,Test de drogas en orina,72,40,110
+2025-11-07,Test de drogas en orina,67,40,110
+2025-11-08,Test de drogas en orina,64,40,110
+2025-11-09,Test de drogas en orina,63,40,110
+2025-11-10,Test de drogas en orina,61,40,110
+2025-11-11,Test de drogas en orina,58,40,110
+2025-11-12,Test de drogas en orina,55,40,110
+2025-11-13,Test de drogas en orina,50,40,110
+2025-11-14,Test de drogas en orina,48,40,110
+2025-11-15,Test de drogas en orina,47,40,110
+2025-11-16,Test de drogas en orina,46,40,110
+2025-11-17,Test de drogas en orina,44,40,110
+2025-11-18,Test de drogas en orina,41,40,110
+2025-11-19,Test de drogas en orina,39,40,110
+2025-11-20,Test de drogas en orina,38,40,110
+2025-11-21,Test de drogas en orina,35,40,110
+2025-11-22,Test de drogas en orina,31,40,110
+2025-11-23,Test de drogas en orina,29,40,110
+2025-11-24,Test de drogas en orina,27,40,110
+2025-11-25,Test de drogas en orina,24,40,110
+2025-11-26,Test de drogas en orina,23,40,110
+2025-11-27,Test de drogas en orina,21,40,110
+2025-11-28,Test de drogas en orina,17,40,110
+2025-11-29,Test de drogas en orina,11,40,110
+2025-11-30,Test de drogas en orina,11,40,110
+2025-12-01,Test de drogas en orina,10,40,110
+2025-12-02,Test de drogas en orina,9,40,110
+2025-12-03,Test de drogas en orina,8,40,110
+2025-12-04,Test de drogas en orina,5,40,110
+2025-12-05,Test de drogas en orina,4,40,110
+2025-12-06,Test de drogas en orina,2,40,110
+2025-12-07,Test de drogas en orina,0,40,110
+2025-12-08,Test de drogas en orina,0,40,110
+2025-12-09,Test de drogas en orina,0,40,110
+2025-12-10,Test de drogas en orina,0,40,110
+2025-12-11,Test de drogas en orina,0,40,110
+2025-12-12,Test de drogas en orina,0,40,110
+2025-12-13,Test de drogas en orina,64,40,110
+2025-12-14,Test de drogas en orina,61,40,110
+2025-12-15,Test de drogas en orina,58,40,110
+2025-12-16,Test de drogas en orina,54,40,110
+2025-12-17,Test de drogas en orina,53,40,110
+2025-12-18,Test de drogas en orina,53,40,110
+2025-12-19,Test de drogas en orina,48,40,110
+2025-12-20,Test de drogas en orina,47,40,110
+2025-12-21,Test de drogas en orina,44,40,110
+2025-12-22,Test de drogas en orina,43,40,110
+2025-12-23,Test de drogas en orina,41,40,110
+2025-12-24,Test de drogas en orina,40,40,110
+2025-12-25,Test de drogas en orina,39,40,110
+2025-12-26,Test de drogas en orina,35,40,110
+2025-12-27,Test de drogas en orina,32,40,110
+2025-12-28,Test de drogas en orina,32,40,110
+2025-12-29,Test de drogas en orina,29,40,110
+2025-12-30,Test de drogas en orina,27,40,110
+2025-12-31,Test de drogas en orina,25,40,110
+2026-01-01,Test de drogas en orina,20,40,110
+2026-01-02,Test de drogas en orina,17,40,110
+2026-01-03,Test de drogas en orina,15,40,110
+2026-01-04,Test de drogas en orina,14,40,110
+2026-01-05,Test de drogas en orina,12,40,110
+2026-01-06,Test de drogas en orina,10,40,110
+2026-01-07,Test de drogas en orina,9,40,110
+2026-01-08,Test de drogas en orina,8,40,110
+2026-01-09,Test de drogas en orina,6,40,110
+2026-01-10,Test de drogas en orina,0,40,110
+2026-01-11,Test de drogas en orina,0,40,110
+2026-01-12,Test de drogas en orina,0,40,110
+2026-01-13,Test de drogas en orina,0,40,110
+2026-01-14,Test de drogas en orina,55,40,110
+2026-01-15,Test de drogas en orina,53,40,110
+2026-01-16,Test de drogas en orina,53,40,110
+2026-01-17,Test de drogas en orina,52,40,110
+2026-01-18,Test de drogas en orina,47,40,110
+2026-01-19,Test de drogas en orina,43,40,110
+2026-01-20,Test de drogas en orina,40,40,110
+2026-01-21,Test de drogas en orina,38,40,110
+2026-01-22,Test de drogas en orina,36,40,110
+2026-01-23,Test de drogas en orina,33,40,110
+2026-01-24,Test de drogas en orina,31,40,110
+2026-01-25,Test de drogas en orina,28,40,110
+2026-01-26,Test de drogas en orina,26,40,110
+2026-01-27,Test de drogas en orina,26,40,110
+2026-01-28,Test de drogas en orina,24,40,110
+2026-01-29,Test de drogas en orina,22,40,110
+2026-01-30,Test de drogas en orina,22,40,110
+2026-01-31,Test de drogas en orina,22,40,110
+2026-02-01,Test de drogas en orina,19,40,110
+2026-02-02,Test de drogas en orina,18,40,110
+2026-02-03,Test de drogas en orina,15,40,110
+2026-02-04,Test de drogas en orina,13,40,110
+2026-02-05,Test de drogas en orina,13,40,110
+2026-02-06,Test de drogas en orina,12,40,110
+2026-02-07,Test de drogas en orina,10,40,110
+2026-02-08,Test de drogas en orina,9,40,110
+2026-02-09,Test de drogas en orina,8,40,110
+2026-02-10,Test de drogas en orina,6,40,110
+2026-02-11,Test de drogas en orina,5,40,110
+2026-02-12,Test de drogas en orina,4,40,110
+2026-02-13,Test de drogas en orina,4,40,110
+2026-02-14,Test de drogas en orina,1,40,110
+2026-02-15,Test de drogas en orina,0,40,110
+2026-02-16,Test de drogas en orina,0,40,110
+2026-02-17,Test de drogas en orina,55,40,110
+2026-02-18,Test de drogas en orina,53,40,110
+2026-02-19,Test de drogas en orina,50,40,110
+2026-02-20,Test de drogas en orina,47,40,110
+2026-02-21,Test de drogas en orina,44,40,110
+2026-02-22,Test de drogas en orina,38,40,110
+2026-02-23,Test de drogas en orina,36,40,110
+2026-02-24,Test de drogas en orina,34,40,110
+2026-02-25,Test de drogas en orina,31,40,110
+2026-02-26,Test de drogas en orina,27,40,110
+2026-02-27,Test de drogas en orina,27,40,110
+2026-02-28,Test de drogas en orina,26,40,110
+2026-03-01,Test de drogas en orina,24,40,110
+2026-03-02,Test de drogas en orina,24,40,110
+2026-03-03,Test de drogas en orina,23,40,110
+2026-03-04,Test de drogas en orina,21,40,110
+2026-03-05,Test de drogas en orina,20,40,110
+2026-03-06,Test de drogas en orina,19,40,110
+2026-03-07,Test de drogas en orina,16,40,110
+2026-03-08,Test de drogas en orina,14,40,110
+2026-03-09,Test de drogas en orina,12,40,110
+2026-03-10,Test de drogas en orina,7,40,110
+2026-03-11,Test de drogas en orina,7,40,110
+2026-03-12,Test de drogas en orina,3,40,110
+2026-03-13,Test de drogas en orina,0,40,110
+2026-03-14,Test de drogas en orina,53,40,110
+2026-03-15,Test de drogas en orina,51,40,110
+2026-03-16,Test de drogas en orina,49,40,110
+2026-03-17,Test de drogas en orina,47,40,110
+2026-03-18,Test de drogas en orina,45,40,110
+2026-03-19,Test de drogas en orina,44,40,110
+2026-03-20,Test de drogas en orina,41,40,110
+2026-03-21,Test de drogas en orina,40,40,110
+2026-03-22,Test de drogas en orina,35,40,110
+2026-03-23,Test de drogas en orina,31,40,110
+2026-03-24,Test de drogas en orina,31,40,110
+2026-03-25,Test de drogas en orina,29,40,110
+2026-03-26,Test de drogas en orina,28,40,110
+2026-03-27,Test de drogas en orina,27,40,110
+2026-03-28,Test de drogas en orina,26,40,110
+2026-03-29,Test de drogas en orina,24,40,110
+2026-03-30,Test de drogas en orina,21,40,110
+2026-03-31,Test de drogas en orina,18,40,110
+2026-04-01,Test de drogas en orina,16,48,118
+2026-04-02,Test de drogas en orina,16,48,118
+2026-04-03,Test de drogas en orina,15,48,118
+2026-04-04,Test de drogas en orina,11,48,118
+2026-04-05,Test de drogas en orina,9,48,118
+2026-04-06,Test de drogas en orina,7,48,118
+2026-04-07,Test de drogas en orina,5,48,118
+2026-04-08,Test de drogas en orina,2,48,118
+2026-04-09,Test de drogas en orina,0,48,118
+2026-04-10,Test de drogas en orina,0,48,118
+2026-04-11,Test de drogas en orina,0,48,118
+2026-04-12,Test de drogas en orina,0,48,118
+2026-04-13,Test de drogas en orina,0,48,118
+2026-04-14,Test de drogas en orina,0,48,118
+2026-04-15,Test de drogas en orina,0,48,118
+2026-04-16,Test de drogas en orina,0,48,118
+2026-04-17,Test de drogas en orina,0,48,118
+2026-04-18,Test de drogas en orina,98,48,118
+2026-04-19,Test de drogas en orina,98,48,118
+2026-04-20,Test de drogas en orina,96,48,118
+2026-04-21,Test de drogas en orina,94,48,118
+2026-04-22,Test de drogas en orina,91,48,118
+2026-04-23,Test de drogas en orina,88,48,118
+2026-04-24,Test de drogas en orina,86,48,118
+2026-04-25,Test de drogas en orina,82,48,118
+2026-04-26,Test de drogas en orina,82,48,118
+2026-04-27,Test de drogas en orina,77,48,118
+2026-04-28,Test de drogas en orina,77,48,118
+2026-04-29,Test de drogas en orina,70,48,118
+2026-04-30,Test de drogas en orina,67,48,118
+2026-05-01,Test de drogas en orina,66,48,118
+2026-05-02,Test de drogas en orina,66,48,118
+2026-05-03,Test de drogas en orina,61,48,118
+2026-05-04,Test de drogas en orina,61,48,118
+2026-05-05,Test de drogas en orina,58,48,118
+2026-05-06,Test de drogas en orina,56,48,118
+2026-05-07,Test de drogas en orina,54,48,118
+2026-05-08,Test de drogas en orina,53,48,118
+2026-05-09,Test de drogas en orina,49,48,118
+2026-05-10,Test de drogas en orina,47,48,118
+2026-05-11,Test de drogas en orina,46,48,118
+2026-05-12,Test de drogas en orina,45,48,118
+2026-05-13,Test de drogas en orina,43,48,118
+2026-05-14,Test de drogas en orina,40,48,118
+2026-05-15,Test de drogas en orina,37,48,118
+2026-05-16,Test de drogas en orina,33,48,118
+2026-05-17,Test de drogas en orina,32,48,118
+2026-05-18,Test de drogas en orina,30,48,118
+2026-05-19,Test de drogas en orina,25,48,118
+2026-05-20,Test de drogas en orina,23,48,118
+2026-05-21,Test de drogas en orina,20,48,118
+2026-05-22,Test de drogas en orina,17,48,118
+2026-05-23,Test de drogas en orina,15,48,118
+2026-05-24,Test de drogas en orina,14,48,118
+2026-05-25,Test de drogas en orina,10,48,118
+2026-05-26,Test de drogas en orina,7,48,118
+2026-05-27,Test de drogas en orina,75,48,118
+2026-05-28,Test de drogas en orina,75,48,118
+2026-05-29,Test de drogas en orina,73,48,118
+2026-05-30,Test de drogas en orina,72,48,118
+2026-05-31,Test de drogas en orina,71,48,118
+2026-06-01,Test de drogas en orina,70,48,118
+2026-06-02,Test de drogas en orina,69,48,118
+2026-06-03,Test de drogas en orina,66,48,118
+2026-06-04,Test de drogas en orina,65,48,118
+2026-06-05,Test de drogas en orina,62,48,118
+2026-06-06,Test de drogas en orina,60,48,118
+2026-06-07,Test de drogas en orina,56,48,118
+2026-06-08,Test de drogas en orina,56,48,118
+2026-06-09,Test de drogas en orina,52,48,118
+2026-06-10,Test de drogas en orina,47,48,118
+2026-06-11,Test de drogas en orina,47,48,118
+2026-06-12,Test de drogas en orina,44,48,118
+2026-06-13,Test de drogas en orina,42,48,118
+2026-06-14,Test de drogas en orina,38,48,118
+2026-06-15,Test de drogas en orina,36,48,118
+2026-06-16,Test de drogas en orina,34,48,118
+2026-06-17,Test de drogas en orina,32,48,118
+2026-06-18,Test de drogas en orina,29,48,118
+2026-06-19,Test de drogas en orina,26,48,118
+2026-06-20,Test de drogas en orina,24,48,118
+2026-06-21,Test de drogas en orina,24,48,118
+2026-06-22,Test de drogas en orina,20,48,118
+2026-06-23,Test de drogas en orina,18,48,118
+2026-06-24,Test de drogas en orina,15,48,118
+2026-06-25,Test de drogas en orina,15,48,118
+2026-06-26,Test de drogas en orina,11,48,118
+2026-06-27,Test de drogas en orina,81,48,118
+2026-06-28,Test de drogas en orina,80,48,118
+2026-06-29,Test de drogas en orina,77,48,118
+2026-06-30,Test de drogas en orina,73,48,118
+2026-07-01,Test de drogas en orina,70,48,118
+2026-07-02,Test de drogas en orina,68,48,118
+2026-07-03,Test de drogas en orina,64,48,118
+2026-07-04,Test de drogas en orina,63,48,118
+2026-07-05,Test de drogas en orina,62,48,118
+2026-07-06,Test de drogas en orina,57,48,118
+2026-07-07,Test de drogas en orina,55,48,118
+2026-07-08,Test de drogas en orina,53,48,118
+2026-07-09,Test de drogas en orina,52,48,118
+2026-07-10,Test de drogas en orina,50,48,118
+2026-07-11,Test de drogas en orina,49,48,118
+2026-07-12,Test de drogas en orina,48,48,118
+2026-07-13,Test de drogas en orina,46,48,118
+2026-07-14,Test de drogas en orina,43,48,118
+2026-07-15,Test de drogas en orina,38,48,118
+2026-07-16,Test de drogas en orina,34,48,118
+2026-07-17,Test de drogas en orina,33,48,118
+2026-07-18,Test de drogas en orina,31,48,118
+2026-07-19,Test de drogas en orina,30,48,118
+2026-07-20,Test de drogas en orina,28,48,118
+2026-07-21,Test de drogas en orina,27,48,118
+2026-07-22,Test de drogas en orina,20,48,118
+2026-07-23,Test de drogas en orina,18,48,118
+2026-07-24,Test de drogas en orina,16,48,118
+2026-07-25,Test de drogas en orina,85,48,118
+2026-07-26,Test de drogas en orina,83,48,118
+2026-07-27,Test de drogas en orina,83,48,118
+2026-07-28,Test de drogas en orina,82,48,118
+2026-07-29,Test de drogas en orina,80,48,118
+2026-07-30,Test de drogas en orina,78,48,118
+2026-07-31,Test de drogas en orina,77,48,118
+2026-08-01,Test de drogas en orina,74,48,118
+2026-08-02,Test de drogas en orina,71,48,118
+2026-08-03,Test de drogas en orina,67,48,118
+2026-08-04,Test de drogas en orina,64,48,118
+2026-08-05,Test de drogas en orina,61,48,118
+2026-08-06,Test de drogas en orina,59,48,118
+2026-08-07,Test de drogas en orina,57,48,118
+2026-08-08,Test de drogas en orina,56,48,118
+2026-08-09,Test de drogas en orina,54,48,118
+2026-08-10,Test de drogas en orina,53,48,118
+2026-08-11,Test de drogas en orina,52,48,118
+2026-08-12,Test de drogas en orina,51,48,118
+2026-08-13,Test de drogas en orina,50,48,118
+2026-08-14,Test de drogas en orina,49,48,118
+2026-08-15,Test de drogas en orina,45,48,118
+2026-08-16,Test de drogas en orina,42,48,118
+2026-08-17,Test de drogas en orina,39,48,118
+2026-08-18,Test de drogas en orina,37,48,118
+2026-08-19,Test de drogas en orina,36,48,118
+2026-08-20,Test de drogas en orina,36,48,118
+2026-08-21,Test de drogas en orina,34,48,118
+2026-08-22,Test de drogas en orina,34,48,118
+2026-08-23,Test de drogas en orina,34,48,118
+2026-08-24,Test de drogas en orina,30,48,118
+2026-08-25,Test de drogas en orina,29,48,118
+2026-08-26,Test de drogas en orina,27,48,118
+2026-08-27,Test de drogas en orina,24,48,118
+2026-08-28,Test de drogas en orina,24,48,118
+2026-08-29,Test de drogas en orina,93,48,118
+2026-08-30,Test de drogas en orina,93,48,118
+2026-08-31,Test de drogas en orina,92,48,118
+2026-09-01,Test de drogas en orina,91,48,118
+2026-09-02,Test de drogas en orina,90,48,118
+2026-09-03,Test de drogas en orina,89,48,118
+2026-09-04,Test de drogas en orina,88,48,118
+2026-09-05,Test de drogas en orina,87,48,118
+2026-09-06,Test de drogas en orina,84,48,118
+2026-09-07,Test de drogas en orina,81,48,118
+2026-09-08,Test de drogas en orina,81,48,118
+2026-09-09,Test de drogas en orina,78,48,118
+2026-09-10,Test de drogas en orina,78,48,118
+2026-09-11,Test de drogas en orina,77,48,118
+2026-09-12,Test de drogas en orina,73,48,118
+2026-09-13,Test de drogas en orina,71,48,118
+2026-09-14,Test de drogas en orina,70,48,118
+2026-09-15,Test de drogas en orina,69,48,118
+2026-09-16,Test de drogas en orina,66,48,118
+2026-09-17,Test de drogas en orina,63,48,118
+2026-09-18,Test de drogas en orina,59,48,118
+2026-09-19,Test de drogas en orina,58,48,118
+2026-09-20,Test de drogas en orina,58,48,118
+2026-09-21,Test de drogas en orina,57,48,118
+2026-09-22,Test de drogas en orina,54,48,118
+2026-09-23,Test de drogas en orina,50,48,118
+2026-09-24,Test de drogas en orina,48,48,118
+2026-09-25,Test de drogas en orina,44,48,118
+2026-09-26,Test de drogas en orina,44,48,118
+2026-09-27,Test de drogas en orina,43,48,118
+2026-09-28,Test de drogas en orina,39,48,118
+2026-09-29,Test de drogas en orina,37,48,118
+2026-09-30,Test de drogas en orina,33,48,118
+2026-10-01,Test de drogas en orina,31,48,118
+2026-10-02,Test de drogas en orina,31,48,118
+2026-10-03,Test de drogas en orina,29,48,118
+2026-10-04,Test de drogas en orina,29,48,118
+2026-10-05,Test de drogas en orina,26,48,118
+2026-10-06,Test de drogas en orina,22,48,118
+2026-10-07,Test de drogas en orina,90,48,118
+2026-10-08,Test de drogas en orina,89,48,118
+2026-10-09,Test de drogas en orina,85,48,118
+2026-10-10,Test de drogas en orina,79,48,118
+2026-10-11,Test de drogas en orina,78,48,118
+2026-10-12,Test de drogas en orina,77,48,118
+2026-10-13,Test de drogas en orina,75,48,118
+2026-10-14,Test de drogas en orina,74,48,118
+2026-10-15,Test de drogas en orina,70,48,118
+2026-10-16,Test de drogas en orina,69,48,118
+2026-10-17,Test de drogas en orina,65,48,118
+2026-10-18,Test de drogas en orina,60,48,118
+2025-10-20,Guantes de nitrilo (caja),87,30,90
+2025-10-21,Guantes de nitrilo (caja),82,30,90
+2025-10-22,Guantes de nitrilo (caja),82,30,90
+2025-10-23,Guantes de nitrilo (caja),80,30,90
+2025-10-24,Guantes de nitrilo (caja),77,30,90
+2025-10-25,Guantes de nitrilo (caja),74,30,90
+2025-10-26,Guantes de nitrilo (caja),72,30,90
+2025-10-27,Guantes de nitrilo (caja),70,30,90
+2025-10-28,Guantes de nitrilo (caja),69,30,90
+2025-10-29,Guantes de nitrilo (caja),68,30,90
+2025-10-30,Guantes de nitrilo (caja),66,30,90
+2025-10-31,Guantes de nitrilo (caja),62,30,90
+2025-11-01,Guantes de nitrilo (caja),60,30,90
+2025-11-02,Guantes de nitrilo (caja),56,30,90
+2025-11-03,Guantes de nitrilo (caja),55,30,90
+2025-11-04,Guantes de nitrilo (caja),54,30,90
+2025-11-05,Guantes de nitrilo (caja),50,30,90
+2025-11-06,Guantes de nitrilo (caja),46,30,90
+2025-11-07,Guantes de nitrilo (caja),42,30,90
+2025-11-08,Guantes de nitrilo (caja),36,30,90
+2025-11-09,Guantes de nitrilo (caja),31,30,90
+2025-11-10,Guantes de nitrilo (caja),26,30,90
+2025-11-11,Guantes de nitrilo (caja),24,30,90
+2025-11-12,Guantes de nitrilo (caja),21,30,90
+2025-11-13,Guantes de nitrilo (caja),19,30,90
+2025-11-14,Guantes de nitrilo (caja),16,30,90
+2025-11-15,Guantes de nitrilo (caja),15,30,90
+2025-11-16,Guantes de nitrilo (caja),11,30,90
+2025-11-17,Guantes de nitrilo (caja),4,30,90
+2025-11-18,Guantes de nitrilo (caja),3,30,90
+2025-11-19,Guantes de nitrilo (caja),2,30,90
+2025-11-20,Guantes de nitrilo (caja),0,30,90
+2025-11-21,Guantes de nitrilo (caja),0,30,90
+2025-11-22,Guantes de nitrilo (caja),0,30,90
+2025-11-23,Guantes de nitrilo (caja),0,30,90
+2025-11-24,Guantes de nitrilo (caja),0,30,90
+2025-11-25,Guantes de nitrilo (caja),0,30,90
+2025-11-26,Guantes de nitrilo (caja),0,30,90
+2025-11-27,Guantes de nitrilo (caja),0,30,90
+2025-11-28,Guantes de nitrilo (caja),0,30,90
+2025-11-29,Guantes de nitrilo (caja),0,30,90
+2025-11-30,Guantes de nitrilo (caja),0,30,90
+2025-12-01,Guantes de nitrilo (caja),0,30,90
+2025-12-02,Guantes de nitrilo (caja),0,30,90
+2025-12-03,Guantes de nitrilo (caja),0,30,90
+2025-12-04,Guantes de nitrilo (caja),0,30,90
+2025-12-05,Guantes de nitrilo (caja),0,30,90
+2025-12-06,Guantes de nitrilo (caja),0,30,90
+2025-12-07,Guantes de nitrilo (caja),0,30,90
+2025-12-08,Guantes de nitrilo (caja),0,30,90
+2025-12-09,Guantes de nitrilo (caja),57,30,90
+2025-12-10,Guantes de nitrilo (caja),54,30,90
+2025-12-11,Guantes de nitrilo (caja),51,30,90
+2025-12-12,Guantes de nitrilo (caja),47,30,90
+2025-12-13,Guantes de nitrilo (caja),46,30,90
+2025-12-14,Guantes de nitrilo (caja),43,30,90
+2025-12-15,Guantes de nitrilo (caja),42,30,90
+2025-12-16,Guantes de nitrilo (caja),39,30,90
+2025-12-17,Guantes de nitrilo (caja),36,30,90
+2025-12-18,Guantes de nitrilo (caja),33,30,90
+2025-12-19,Guantes de nitrilo (caja),33,30,90
+2025-12-20,Guantes de nitrilo (caja),31,30,90
+2025-12-21,Guantes de nitrilo (caja),29,30,90
+2025-12-22,Guantes de nitrilo (caja),29,30,90
+2025-12-23,Guantes de nitrilo (caja),28,30,90
+2025-12-24,Guantes de nitrilo (caja),28,30,90
+2025-12-25,Guantes de nitrilo (caja),24,30,90
+2025-12-26,Guantes de nitrilo (caja),21,30,90
+2025-12-27,Guantes de nitrilo (caja),19,30,90
+2025-12-28,Guantes de nitrilo (caja),18,30,90
+2025-12-29,Guantes de nitrilo (caja),16,30,90
+2025-12-30,Guantes de nitrilo (caja),10,30,90
+2025-12-31,Guantes de nitrilo (caja),9,30,90
+2026-01-01,Guantes de nitrilo (caja),7,30,90
+2026-01-02,Guantes de nitrilo (caja),5,30,90
+2026-01-03,Guantes de nitrilo (caja),1,30,90
+2026-01-04,Guantes de nitrilo (caja),0,30,90
+2026-01-05,Guantes de nitrilo (caja),0,30,90
+2026-01-06,Guantes de nitrilo (caja),0,30,90
+2026-01-07,Guantes de nitrilo (caja),0,30,90
+2026-01-08,Guantes de nitrilo (caja),0,30,90
+2026-01-09,Guantes de nitrilo (caja),0,30,90
+2026-01-10,Guantes de nitrilo (caja),0,30,90
+2026-01-11,Guantes de nitrilo (caja),0,30,90
+2026-01-12,Guantes de nitrilo (caja),53,30,90
+2026-01-13,Guantes de nitrilo (caja),53,30,90
+2026-01-14,Guantes de nitrilo (caja),53,30,90
+2026-01-15,Guantes de nitrilo (caja),52,30,90
+2026-01-16,Guantes de nitrilo (caja),49,30,90
+2026-01-17,Guantes de nitrilo (caja),47,30,90
+2026-01-18,Guantes de nitrilo (caja),42,30,90
+2026-01-19,Guantes de nitrilo (caja),39,30,90
+2026-01-20,Guantes de nitrilo (caja),38,30,90
+2026-01-21,Guantes de nitrilo (caja),33,30,90
+2026-01-22,Guantes de nitrilo (caja),32,30,90
+2026-01-23,Guantes de nitrilo (caja),31,30,90
+2026-01-24,Guantes de nitrilo (caja),30,30,90
+2026-01-25,Guantes de nitrilo (caja),30,30,90
+2026-01-26,Guantes de nitrilo (caja),30,30,90
+2026-01-27,Guantes de nitrilo (caja),28,30,90
+2026-01-28,Guantes de nitrilo (caja),26,30,90
+2026-01-29,Guantes de nitrilo (caja),24,30,90
+2026-01-30,Guantes de nitrilo (caja),21,30,90
+2026-01-31,Guantes de nitrilo (caja),18,30,90
+2026-02-01,Guantes de nitrilo (caja),14,30,90
+2026-02-02,Guantes de nitrilo (caja),10,30,90
+2026-02-03,Guantes de nitrilo (caja),7,30,90
+2026-02-04,Guantes de nitrilo (caja),6,30,90
+2026-02-05,Guantes de nitrilo (caja),2,30,90
+2026-02-06,Guantes de nitrilo (caja),2,30,90
+2026-02-07,Guantes de nitrilo (caja),0,30,90
+2026-02-08,Guantes de nitrilo (caja),0,30,90
+2026-02-09,Guantes de nitrilo (caja),0,30,90
+2026-02-10,Guantes de nitrilo (caja),0,30,90
+2026-02-11,Guantes de nitrilo (caja),0,30,90
+2026-02-12,Guantes de nitrilo (caja),0,30,90
+2026-02-13,Guantes de nitrilo (caja),0,30,90
+2026-02-14,Guantes de nitrilo (caja),46,30,90
+2026-02-15,Guantes de nitrilo (caja),43,30,90
+2026-02-16,Guantes de nitrilo (caja),41,30,90
+2026-02-17,Guantes de nitrilo (caja),41,30,90
+2026-02-18,Guantes de nitrilo (caja),37,30,90
+2026-02-19,Guantes de nitrilo (caja),34,30,90
+2026-02-20,Guantes de nitrilo (caja),33,30,90
+2026-02-21,Guantes de nitrilo (caja),29,30,90
+2026-02-22,Guantes de nitrilo (caja),26,30,90
+2026-02-23,Guantes de nitrilo (caja),24,30,90
+2026-02-24,Guantes de nitrilo (caja),24,30,90
+2026-02-25,Guantes de nitrilo (caja),22,30,90
+2026-02-26,Guantes de nitrilo (caja),19,30,90
+2026-02-27,Guantes de nitrilo (caja),16,30,90
+2026-02-28,Guantes de nitrilo (caja),15,30,90
+2026-03-01,Guantes de nitrilo (caja),14,30,90
+2026-03-02,Guantes de nitrilo (caja),9,30,90
+2026-03-03,Guantes de nitrilo (caja),8,30,90
+2026-03-04,Guantes de nitrilo (caja),5,30,90
+2026-03-05,Guantes de nitrilo (caja),1,30,90
+2026-03-06,Guantes de nitrilo (caja),0,30,90
+2026-03-07,Guantes de nitrilo (caja),0,30,90
+2026-03-08,Guantes de nitrilo (caja),0,30,90
+2026-03-09,Guantes de nitrilo (caja),0,30,90
+2026-03-10,Guantes de nitrilo (caja),0,30,90
+2026-03-11,Guantes de nitrilo (caja),0,30,90
+2026-03-12,Guantes de nitrilo (caja),43,30,90
+2026-03-13,Guantes de nitrilo (caja),42,30,90
+2026-03-14,Guantes de nitrilo (caja),40,30,90
+2026-03-15,Guantes de nitrilo (caja),36,30,90
+2026-03-16,Guantes de nitrilo (caja),33,30,90
+2026-03-17,Guantes de nitrilo (caja),27,30,90
+2026-03-18,Guantes de nitrilo (caja),26,30,90
+2026-03-19,Guantes de nitrilo (caja),24,30,90
+2026-03-20,Guantes de nitrilo (caja),24,30,90
+2026-03-21,Guantes de nitrilo (caja),23,30,90
+2026-03-22,Guantes de nitrilo (caja),22,30,90
+2026-03-23,Guantes de nitrilo (caja),19,30,90
+2026-03-24,Guantes de nitrilo (caja),15,30,90
+2026-03-25,Guantes de nitrilo (caja),11,30,90
+2026-03-26,Guantes de nitrilo (caja),9,30,90
+2026-03-27,Guantes de nitrilo (caja),8,30,90
+2026-03-28,Guantes de nitrilo (caja),7,30,90
+2026-03-29,Guantes de nitrilo (caja),5,30,90
+2026-03-30,Guantes de nitrilo (caja),3,30,90
+2026-03-31,Guantes de nitrilo (caja),1,30,90
+2026-04-01,Guantes de nitrilo (caja),0,42,102
+2026-04-02,Guantes de nitrilo (caja),0,42,102
+2026-04-03,Guantes de nitrilo (caja),0,42,102
+2026-04-04,Guantes de nitrilo (caja),0,42,102
+2026-04-05,Guantes de nitrilo (caja),0,42,102
+2026-04-06,Guantes de nitrilo (caja),0,42,102
+2026-04-07,Guantes de nitrilo (caja),0,42,102
+2026-04-08,Guantes de nitrilo (caja),0,42,102
+2026-04-09,Guantes de nitrilo (caja),0,42,102
+2026-04-10,Guantes de nitrilo (caja),0,42,102
+2026-04-11,Guantes de nitrilo (caja),0,42,102
+2026-04-12,Guantes de nitrilo (caja),0,42,102
+2026-04-13,Guantes de nitrilo (caja),99,42,102
+2026-04-14,Guantes de nitrilo (caja),98,42,102
+2026-04-15,Guantes de nitrilo (caja),92,42,102
+2026-04-16,Guantes de nitrilo (caja),88,42,102
+2026-04-17,Guantes de nitrilo (caja),83,42,102
+2026-04-18,Guantes de nitrilo (caja),78,42,102
+2026-04-19,Guantes de nitrilo (caja),76,42,102
+2026-04-20,Guantes de nitrilo (caja),74,42,102
+2026-04-21,Guantes de nitrilo (caja),74,42,102
+2026-04-22,Guantes de nitrilo (caja),72,42,102
+2026-04-23,Guantes de nitrilo (caja),70,42,102
+2026-04-24,Guantes de nitrilo (caja),65,42,102
+2026-04-25,Guantes de nitrilo (caja),62,42,102
+2026-04-26,Guantes de nitrilo (caja),58,42,102
+2026-04-27,Guantes de nitrilo (caja),57,42,102
+2026-04-28,Guantes de nitrilo (caja),57,42,102
+2026-04-29,Guantes de nitrilo (caja),55,42,102
+2026-04-30,Guantes de nitrilo (caja),51,42,102
+2026-05-01,Guantes de nitrilo (caja),42,42,102
+2026-05-02,Guantes de nitrilo (caja),38,42,102
+2026-05-03,Guantes de nitrilo (caja),32,42,102
+2026-05-04,Guantes de nitrilo (caja),27,42,102
+2026-05-05,Guantes de nitrilo (caja),23,42,102
+2026-05-06,Guantes de nitrilo (caja),16,42,102
+2026-05-07,Guantes de nitrilo (caja),10,42,102
+2026-05-08,Guantes de nitrilo (caja),7,42,102
+2026-05-09,Guantes de nitrilo (caja),5,42,102
+2026-05-10,Guantes de nitrilo (caja),63,42,102
+2026-05-11,Guantes de nitrilo (caja),59,42,102
+2026-05-12,Guantes de nitrilo (caja),54,42,102
+2026-05-13,Guantes de nitrilo (caja),52,42,102
+2026-05-14,Guantes de nitrilo (caja),51,42,102
+2026-05-15,Guantes de nitrilo (caja),50,42,102
+2026-05-16,Guantes de nitrilo (caja),49,42,102
+2026-05-17,Guantes de nitrilo (caja),47,42,102
+2026-05-18,Guantes de nitrilo (caja),46,42,102
+2026-05-19,Guantes de nitrilo (caja),45,42,102
+2026-05-20,Guantes de nitrilo (caja),42,42,102
+2026-05-21,Guantes de nitrilo (caja),41,42,102
+2026-05-22,Guantes de nitrilo (caja),36,42,102
+2026-05-23,Guantes de nitrilo (caja),33,42,102
+2026-05-24,Guantes de nitrilo (caja),29,42,102
+2026-05-25,Guantes de nitrilo (caja),28,42,102
+2026-05-26,Guantes de nitrilo (caja),26,42,102
+2026-05-27,Guantes de nitrilo (caja),20,42,102
+2026-05-28,Guantes de nitrilo (caja),17,42,102
+2026-05-29,Guantes de nitrilo (caja),15,42,102
+2026-05-30,Guantes de nitrilo (caja),75,42,102
+2026-05-31,Guantes de nitrilo (caja),74,42,102
+2026-06-01,Guantes de nitrilo (caja),72,42,102
+2026-06-02,Guantes de nitrilo (caja),68,42,102
+2026-06-03,Guantes de nitrilo (caja),66,42,102
+2026-06-04,Guantes de nitrilo (caja),63,42,102
+2026-06-05,Guantes de nitrilo (caja),60,42,102
+2026-06-06,Guantes de nitrilo (caja),56,42,102
+2026-06-07,Guantes de nitrilo (caja),53,42,102
+2026-06-08,Guantes de nitrilo (caja),51,42,102
+2026-06-09,Guantes de nitrilo (caja),47,42,102
+2026-06-10,Guantes de nitrilo (caja),47,42,102
+2026-06-11,Guantes de nitrilo (caja),45,42,102
+2026-06-12,Guantes de nitrilo (caja),45,42,102
+2026-06-13,Guantes de nitrilo (caja),45,42,102
+2026-06-14,Guantes de nitrilo (caja),41,42,102
+2026-06-15,Guantes de nitrilo (caja),38,42,102
+2026-06-16,Guantes de nitrilo (caja),35,42,102
+2026-06-17,Guantes de nitrilo (caja),32,42,102
+2026-06-18,Guantes de nitrilo (caja),32,42,102
+2026-06-19,Guantes de nitrilo (caja),30,42,102
+2026-06-20,Guantes de nitrilo (caja),27,42,102
+2026-06-21,Guantes de nitrilo (caja),22,42,102
+2026-06-22,Guantes de nitrilo (caja),16,42,102
+2026-06-23,Guantes de nitrilo (caja),75,42,102
+2026-06-24,Guantes de nitrilo (caja),74,42,102
+2026-06-25,Guantes de nitrilo (caja),73,42,102
+2026-06-26,Guantes de nitrilo (caja),67,42,102
+2026-06-27,Guantes de nitrilo (caja),63,42,102
+2026-06-28,Guantes de nitrilo (caja),59,42,102
+2026-06-29,Guantes de nitrilo (caja),56,42,102
+2026-06-30,Guantes de nitrilo (caja),54,42,102
+2026-07-01,Guantes de nitrilo (caja),53,42,102
+2026-07-02,Guantes de nitrilo (caja),53,42,102
+2026-07-03,Guantes de nitrilo (caja),51,42,102
+2026-07-04,Guantes de nitrilo (caja),49,42,102
+2026-07-05,Guantes de nitrilo (caja),46,42,102
+2026-07-06,Guantes de nitrilo (caja),41,42,102
+2026-07-07,Guantes de nitrilo (caja),39,42,102
+2026-07-08,Guantes de nitrilo (caja),36,42,102
+2026-07-09,Guantes de nitrilo (caja),30,42,102
+2026-07-10,Guantes de nitrilo (caja),29,42,102
+2026-07-11,Guantes de nitrilo (caja),24,42,102
+2026-07-12,Guantes de nitrilo (caja),20,42,102
+2026-07-13,Guantes de nitrilo (caja),18,42,102
+2026-07-14,Guantes de nitrilo (caja),15,42,102
+2026-07-15,Guantes de nitrilo (caja),76,42,102
+2026-07-16,Guantes de nitrilo (caja),73,42,102
+2026-07-17,Guantes de nitrilo (caja),71,42,102
+2026-07-18,Guantes de nitrilo (caja),69,42,102
+2026-07-19,Guantes de nitrilo (caja),66,42,102
+2026-07-20,Guantes de nitrilo (caja),63,42,102
+2026-07-21,Guantes de nitrilo (caja),63,42,102
+2026-07-22,Guantes de nitrilo (caja),62,42,102
+2026-07-23,Guantes de nitrilo (caja),58,42,102
+2026-07-24,Guantes de nitrilo (caja),53,42,102
+2026-07-25,Guantes de nitrilo (caja),53,42,102
+2026-07-26,Guantes de nitrilo (caja),43,42,102
+2026-07-27,Guantes de nitrilo (caja),39,42,102
+2026-07-28,Guantes de nitrilo (caja),35,42,102
+2026-07-29,Guantes de nitrilo (caja),35,42,102
+2026-07-30,Guantes de nitrilo (caja),30,42,102
+2026-07-31,Guantes de nitrilo (caja),27,42,102
+2026-08-01,Guantes de nitrilo (caja),24,42,102
+2026-08-02,Guantes de nitrilo (caja),24,42,102
+2026-08-03,Guantes de nitrilo (caja),23,42,102
+2026-08-04,Guantes de nitrilo (caja),23,42,102
+2026-08-05,Guantes de nitrilo (caja),21,42,102
+2026-08-06,Guantes de nitrilo (caja),17,42,102
+2026-08-07,Guantes de nitrilo (caja),76,42,102
+2026-08-08,Guantes de nitrilo (caja),71,42,102
+2026-08-09,Guantes de nitrilo (caja),68,42,102
+2026-08-10,Guantes de nitrilo (caja),67,42,102
+2026-08-11,Guantes de nitrilo (caja),65,42,102
+2026-08-12,Guantes de nitrilo (caja),65,42,102
+2026-08-13,Guantes de nitrilo (caja),65,42,102
+2026-08-14,Guantes de nitrilo (caja),62,42,102
+2026-08-15,Guantes de nitrilo (caja),60,42,102
+2026-08-16,Guantes de nitrilo (caja),59,42,102
+2026-08-17,Guantes de nitrilo (caja),56,42,102
+2026-08-18,Guantes de nitrilo (caja),54,42,102
+2026-08-19,Guantes de nitrilo (caja),53,42,102
+2026-08-20,Guantes de nitrilo (caja),48,42,102
+2026-08-21,Guantes de nitrilo (caja),45,42,102
+2026-08-22,Guantes de nitrilo (caja),40,42,102
+2026-08-23,Guantes de nitrilo (caja),38,42,102
+2026-08-24,Guantes de nitrilo (caja),37,42,102
+2026-08-25,Guantes de nitrilo (caja),35,42,102
+2026-08-26,Guantes de nitrilo (caja),30,42,102
+2026-08-27,Guantes de nitrilo (caja),26,42,102
+2026-08-28,Guantes de nitrilo (caja),23,42,102
+2026-08-29,Guantes de nitrilo (caja),21,42,102
+2026-08-30,Guantes de nitrilo (caja),20,42,102
+2026-08-31,Guantes de nitrilo (caja),16,42,102
+2026-09-01,Guantes de nitrilo (caja),15,42,102
+2026-09-02,Guantes de nitrilo (caja),76,42,102
+2026-09-03,Guantes de nitrilo (caja),74,42,102
+2026-09-04,Guantes de nitrilo (caja),72,42,102
+2026-09-05,Guantes de nitrilo (caja),71,42,102
+2026-09-06,Guantes de nitrilo (caja),68,42,102
+2026-09-07,Guantes de nitrilo (caja),66,42,102
+2026-09-08,Guantes de nitrilo (caja),64,42,102
+2026-09-09,Guantes de nitrilo (caja),60,42,102
+2026-09-10,Guantes de nitrilo (caja),59,42,102
+2026-09-11,Guantes de nitrilo (caja),54,42,102
+2026-09-12,Guantes de nitrilo (caja),52,42,102
+2026-09-13,Guantes de nitrilo (caja),48,42,102
+2026-09-14,Guantes de nitrilo (caja),42,42,102
+2026-09-15,Guantes de nitrilo (caja),39,42,102
+2026-09-16,Guantes de nitrilo (caja),38,42,102
+2026-09-17,Guantes de nitrilo (caja),38,42,102
+2026-09-18,Guantes de nitrilo (caja),35,42,102
+2026-09-19,Guantes de nitrilo (caja),31,42,102
+2026-09-20,Guantes de nitrilo (caja),26,42,102
+2026-09-21,Guantes de nitrilo (caja),24,42,102
+2026-09-22,Guantes de nitrilo (caja),18,42,102
+2026-09-23,Guantes de nitrilo (caja),12,42,102
+2026-09-24,Guantes de nitrilo (caja),12,42,102
+2026-09-25,Guantes de nitrilo (caja),70,42,102
+2026-09-26,Guantes de nitrilo (caja),66,42,102
+2026-09-27,Guantes de nitrilo (caja),62,42,102
+2026-09-28,Guantes de nitrilo (caja),58,42,102
+2026-09-29,Guantes de nitrilo (caja),54,42,102
+2026-09-30,Guantes de nitrilo (caja),53,42,102
+2026-10-01,Guantes de nitrilo (caja),51,42,102
+2026-10-02,Guantes de nitrilo (caja),51,42,102
+2026-10-03,Guantes de nitrilo (caja),50,42,102
+2026-10-04,Guantes de nitrilo (caja),44,42,102
+2026-10-05,Guantes de nitrilo (caja),43,42,102
+2026-10-06,Guantes de nitrilo (caja),40,42,102
+2026-10-07,Guantes de nitrilo (caja),36,42,102
+2026-10-08,Guantes de nitrilo (caja),34,42,102
+2026-10-09,Guantes de nitrilo (caja),31,42,102
+2026-10-10,Guantes de nitrilo (caja),28,42,102
+2026-10-11,Guantes de nitrilo (caja),25,42,102
+2026-10-12,Guantes de nitrilo (caja),21,42,102
+2026-10-13,Guantes de nitrilo (caja),19,42,102
+2026-10-14,Guantes de nitrilo (caja),13,42,102
+2026-10-15,Guantes de nitrilo (caja),12,42,102
+2026-10-16,Guantes de nitrilo (caja),72,42,102
+2026-10-17,Guantes de nitrilo (caja),70,42,102
+2026-10-18,Guantes de nitrilo (caja),68,42,102
+2025-10-20,Suero oral (sobres),78,30,80
+2025-10-21,Suero oral (sobres),75,30,80
+2025-10-22,Suero oral (sobres),74,30,80
+2025-10-23,Suero oral (sobres),73,30,80
+2025-10-24,Suero oral (sobres),72,30,80
+2025-10-25,Suero oral (sobres),69,30,80
+2025-10-26,Suero oral (sobres),66,30,80
+2025-10-27,Suero oral (sobres),62,30,80
+2025-10-28,Suero oral (sobres),60,30,80
+2025-10-29,Suero oral (sobres),57,30,80
+2025-10-30,Suero oral (sobres),54,30,80
+2025-10-31,Suero oral (sobres),53,30,80
+2025-11-01,Suero oral (sobres),53,30,80
+2025-11-02,Suero oral (sobres),51,30,80
+2025-11-03,Suero oral (sobres),50,30,80
+2025-11-04,Suero oral (sobres),49,30,80
+2025-11-05,Suero oral (sobres),49,30,80
+2025-11-06,Suero oral (sobres),47,30,80
+2025-11-07,Suero oral (sobres),45,30,80
+2025-11-08,Suero oral (sobres),45,30,80
+2025-11-09,Suero oral (sobres),44,30,80
+2025-11-10,Suero oral (sobres),41,30,80
+2025-11-11,Suero oral (sobres),38,30,80
+2025-11-12,Suero oral (sobres),36,30,80
+2025-11-13,Suero oral (sobres),36,30,80
+2025-11-14,Suero oral (sobres),35,30,80
+2025-11-15,Suero oral (sobres),32,30,80
+2025-11-16,Suero oral (sobres),32,30,80
+2025-11-17,Suero oral (sobres),30,30,80
+2025-11-18,Suero oral (sobres),30,30,80
+2025-11-19,Suero oral (sobres),26,30,80
+2025-11-20,Suero oral (sobres),24,30,80
+2025-11-21,Suero oral (sobres),24,30,80
+2025-11-22,Suero oral (sobres),23,30,80
+2025-11-23,Suero oral (sobres),21,30,80
+2025-11-24,Suero oral (sobres),20,30,80
+2025-11-25,Suero oral (sobres),18,30,80
+2025-11-26,Suero oral (sobres),16,30,80
+2025-11-27,Suero oral (sobres),13,30,80
+2025-11-28,Suero oral (sobres),13,30,80
+2025-11-29,Suero oral (sobres),10,30,80
+2025-11-30,Suero oral (sobres),9,30,80
+2025-12-01,Suero oral (sobres),8,30,80
+2025-12-02,Suero oral (sobres),6,30,80
+2025-12-03,Suero oral (sobres),3,30,80
+2025-12-04,Suero oral (sobres),1,30,80
+2025-12-05,Suero oral (sobres),0,30,80
+2025-12-06,Suero oral (sobres),0,30,80
+2025-12-07,Suero oral (sobres),0,30,80
+2025-12-08,Suero oral (sobres),0,30,80
+2025-12-09,Suero oral (sobres),0,30,80
+2025-12-10,Suero oral (sobres),0,30,80
+2025-12-11,Suero oral (sobres),0,30,80
+2025-12-12,Suero oral (sobres),0,30,80
+2025-12-13,Suero oral (sobres),0,30,80
+2025-12-14,Suero oral (sobres),0,30,80
+2025-12-15,Suero oral (sobres),0,30,80
+2025-12-16,Suero oral (sobres),45,30,80
+2025-12-17,Suero oral (sobres),41,30,80
+2025-12-18,Suero oral (sobres),40,30,80
+2025-12-19,Suero oral (sobres),40,30,80
+2025-12-20,Suero oral (sobres),39,30,80
+2025-12-21,Suero oral (sobres),39,30,80
+2025-12-22,Suero oral (sobres),35,30,80
+2025-12-23,Suero oral (sobres),32,30,80
+2025-12-24,Suero oral (sobres),30,30,80
+2025-12-25,Suero oral (sobres),28,30,80
+2025-12-26,Suero oral (sobres),27,30,80
+2025-12-27,Suero oral (sobres),23,30,80
+2025-12-28,Suero oral (sobres),20,30,80
+2025-12-29,Suero oral (sobres),18,30,80
+2025-12-30,Suero oral (sobres),16,30,80
+2025-12-31,Suero oral (sobres),11,30,80
+2026-01-01,Suero oral (sobres),11,30,80
+2026-01-02,Suero oral (sobres),5,30,80
+2026-01-03,Suero oral (sobres),4,30,80
+2026-01-04,Suero oral (sobres),3,30,80
+2026-01-05,Suero oral (sobres),0,30,80
+2026-01-06,Suero oral (sobres),0,30,80
+2026-01-07,Suero oral (sobres),0,30,80
+2026-01-08,Suero oral (sobres),0,30,80
+2026-01-09,Suero oral (sobres),0,30,80
+2026-01-10,Suero oral (sobres),0,30,80
+2026-01-11,Suero oral (sobres),0,30,80
+2026-01-12,Suero oral (sobres),0,30,80
+2026-01-13,Suero oral (sobres),0,30,80
+2026-01-14,Suero oral (sobres),0,30,80
+2026-01-15,Suero oral (sobres),0,30,80
+2026-01-16,Suero oral (sobres),45,30,80
+2026-01-17,Suero oral (sobres),43,30,80
+2026-01-18,Suero oral (sobres),40,30,80
+2026-01-19,Suero oral (sobres),35,30,80
+2026-01-20,Suero oral (sobres),30,30,80
+2026-01-21,Suero oral (sobres),27,30,80
+2026-01-22,Suero oral (sobres),23,30,80
+2026-01-23,Suero oral (sobres),22,30,80
+2026-01-24,Suero oral (sobres),20,30,80
+2026-01-25,Suero oral (sobres),16,30,80
+2026-01-26,Suero oral (sobres),14,30,80
+2026-01-27,Suero oral (sobres),11,30,80
+2026-01-28,Suero oral (sobres),9,30,80
+2026-01-29,Suero oral (sobres),7,30,80
+2026-01-30,Suero oral (sobres),5,30,80
+2026-01-31,Suero oral (sobres),4,30,80
+2026-02-01,Suero oral (sobres),2,30,80
+2026-02-02,Suero oral (sobres),0,30,80
+2026-02-03,Suero oral (sobres),0,30,80
+2026-02-04,Suero oral (sobres),0,30,80
+2026-02-05,Suero oral (sobres),0,30,80
+2026-02-06,Suero oral (sobres),0,30,80
+2026-02-07,Suero oral (sobres),0,30,80
+2026-02-08,Suero oral (sobres),0,30,80
+2026-02-09,Suero oral (sobres),0,30,80
+2026-02-10,Suero oral (sobres),0,30,80
+2026-02-11,Suero oral (sobres),0,30,80
+2026-02-12,Suero oral (sobres),0,30,80
+2026-02-13,Suero oral (sobres),53,30,80
+2026-02-14,Suero oral (sobres),50,30,80
+2026-02-15,Suero oral (sobres),48,30,80
+2026-02-16,Suero oral (sobres),48,30,80
+2026-02-17,Suero oral (sobres),46,30,80
+2026-02-18,Suero oral (sobres),43,30,80
+2026-02-19,Suero oral (sobres),40,30,80
+2026-02-20,Suero oral (sobres),35,30,80
+2026-02-21,Suero oral (sobres),33,30,80
+2026-02-22,Suero oral (sobres),30,30,80
+2026-02-23,Suero oral (sobres),29,30,80
+2026-02-24,Suero oral (sobres),29,30,80
+2026-02-25,Suero oral (sobres),24,30,80
+2026-02-26,Suero oral (sobres),23,30,80
+2026-02-27,Suero oral (sobres),23,30,80
+2026-02-28,Suero oral (sobres),20,30,80
+2026-03-01,Suero oral (sobres),20,30,80
+2026-03-02,Suero oral (sobres),18,30,80
+2026-03-03,Suero oral (sobres),15,30,80
+2026-03-04,Suero oral (sobres),13,30,80
+2026-03-05,Suero oral (sobres),11,30,80
+2026-03-06,Suero oral (sobres),7,30,80
+2026-03-07,Suero oral (sobres),2,30,80
+2026-03-08,Suero oral (sobres),1,30,80
+2026-03-09,Suero oral (sobres),0,30,80
+2026-03-10,Suero oral (sobres),0,30,80
+2026-03-11,Suero oral (sobres),0,30,80
+2026-03-12,Suero oral (sobres),20,30,80
+2026-03-13,Suero oral (sobres),16,30,80
+2026-03-14,Suero oral (sobres),15,30,80
+2026-03-15,Suero oral (sobres),11,30,80
+2026-03-16,Suero oral (sobres),7,30,80
+2026-03-17,Suero oral (sobres),5,30,80
+2026-03-18,Suero oral (sobres),2,30,80
+2026-03-19,Suero oral (sobres),2,30,80
+2026-03-20,Suero oral (sobres),0,30,80
+2026-03-21,Suero oral (sobres),0,30,80
+2026-03-22,Suero oral (sobres),0,30,80
+2026-03-23,Suero oral (sobres),0,30,80
+2026-03-24,Suero oral (sobres),0,30,80
+2026-03-25,Suero oral (sobres),0,30,80
+2026-03-26,Suero oral (sobres),0,30,80
+2026-03-27,Suero oral (sobres),0,30,80
+2026-03-28,Suero oral (sobres),0,30,80
+2026-03-29,Suero oral (sobres),0,30,80
+2026-03-30,Suero oral (sobres),0,30,80
+2026-03-31,Suero oral (sobres),0,30,80
+2026-04-01,Suero oral (sobres),0,39,89
+2026-04-02,Suero oral (sobres),0,39,89
+2026-04-03,Suero oral (sobres),0,39,89
+2026-04-04,Suero oral (sobres),0,39,89
+2026-04-05,Suero oral (sobres),0,39,89
+2026-04-06,Suero oral (sobres),0,39,89
+2026-04-07,Suero oral (sobres),0,39,89
+2026-04-08,Suero oral (sobres),0,39,89
+2026-04-09,Suero oral (sobres),0,39,89
+2026-04-10,Suero oral (sobres),0,39,89
+2026-04-11,Suero oral (sobres),0,39,89
+2026-04-12,Suero oral (sobres),0,39,89
+2026-04-13,Suero oral (sobres),0,39,89
+2026-04-14,Suero oral (sobres),0,39,89
+2026-04-15,Suero oral (sobres),86,39,89
+2026-04-16,Suero oral (sobres),85,39,89
+2026-04-17,Suero oral (sobres),85,39,89
+2026-04-18,Suero oral (sobres),83,39,89
+2026-04-19,Suero oral (sobres),81,39,89
+2026-04-20,Suero oral (sobres),79,39,89
+2026-04-21,Suero oral (sobres),79,39,89
+2026-04-22,Suero oral (sobres),78,39,89
+2026-04-23,Suero oral (sobres),75,39,89
+2026-04-24,Suero oral (sobres),72,39,89
+2026-04-25,Suero oral (sobres),71,39,89
+2026-04-26,Suero oral (sobres),69,39,89
+2026-04-27,Suero oral (sobres),67,39,89
+2026-04-28,Suero oral (sobres),64,39,89
+2026-04-29,Suero oral (sobres),60,39,89
+2026-04-30,Suero oral (sobres),58,39,89
+2026-05-01,Suero oral (sobres),58,39,89
+2026-05-02,Suero oral (sobres),56,39,89
+2026-05-03,Suero oral (sobres),55,39,89
+2026-05-04,Suero oral (sobres),53,39,89
+2026-05-05,Suero oral (sobres),53,39,89
+2026-05-06,Suero oral (sobres),50,39,89
+2026-05-07,Suero oral (sobres),49,39,89
+2026-05-08,Suero oral (sobres),48,39,89
+2026-05-09,Suero oral (sobres),48,39,89
+2026-05-10,Suero oral (sobres),45,39,89
+2026-05-11,Suero oral (sobres),42,39,89
+2026-05-12,Suero oral (sobres),39,39,89
+2026-05-13,Suero oral (sobres),36,39,89
+2026-05-14,Suero oral (sobres),35,39,89
+2026-05-15,Suero oral (sobres),31,39,89
+2026-05-16,Suero oral (sobres),29,39,89
+2026-05-17,Suero oral (sobres),25,39,89
+2026-05-18,Suero oral (sobres),23,39,89
+2026-05-19,Suero oral (sobres),23,39,89
+2026-05-20,Suero oral (sobres),22,39,89
+2026-05-21,Suero oral (sobres),18,39,89
+2026-05-22,Suero oral (sobres),12,39,89
+2026-05-23,Suero oral (sobres),12,39,89
+2026-05-24,Suero oral (sobres),59,39,89
+2026-05-25,Suero oral (sobres),53,39,89
+2026-05-26,Suero oral (sobres),51,39,89
+2026-05-27,Suero oral (sobres),47,39,89
+2026-05-28,Suero oral (sobres),44,39,89
+2026-05-29,Suero oral (sobres),42,39,89
+2026-05-30,Suero oral (sobres),40,39,89
+2026-05-31,Suero oral (sobres),38,39,89
+2026-06-01,Suero oral (sobres),36,39,89
+2026-06-02,Suero oral (sobres),35,39,89
+2026-06-03,Suero oral (sobres),32,39,89
+2026-06-04,Suero oral (sobres),31,39,89
+2026-06-05,Suero oral (sobres),31,39,89
+2026-06-06,Suero oral (sobres),29,39,89
+2026-06-07,Suero oral (sobres),28,39,89
+2026-06-08,Suero oral (sobres),27,39,89
+2026-06-09,Suero oral (sobres),23,39,89
+2026-06-10,Suero oral (sobres),20,39,89
+2026-06-11,Suero oral (sobres),20,39,89
+2026-06-12,Suero oral (sobres),16,39,89
+2026-06-13,Suero oral (sobres),12,39,89
+2026-06-14,Suero oral (sobres),59,39,89
+2026-06-15,Suero oral (sobres),56,39,89
+2026-06-16,Suero oral (sobres),52,39,89
+2026-06-17,Suero oral (sobres),52,39,89
+2026-06-18,Suero oral (sobres),49,39,89
+2026-06-19,Suero oral (sobres),48,39,89
+2026-06-20,Suero oral (sobres),47,39,89
+2026-06-21,Suero oral (sobres),44,39,89
+2026-06-22,Suero oral (sobres),40,39,89
+2026-06-23,Suero oral (sobres),39,39,89
+2026-06-24,Suero oral (sobres),37,39,89
+2026-06-25,Suero oral (sobres),37,39,89
+2026-06-26,Suero oral (sobres),34,39,89
+2026-06-27,Suero oral (sobres),30,39,89
+2026-06-28,Suero oral (sobres),30,39,89
+2026-06-29,Suero oral (sobres),29,39,89
+2026-06-30,Suero oral (sobres),28,39,89
+2026-07-01,Suero oral (sobres),25,39,89
+2026-07-02,Suero oral (sobres),22,39,89
+2026-07-03,Suero oral (sobres),21,39,89
+2026-07-04,Suero oral (sobres),69,39,89
+2026-07-05,Suero oral (sobres),67,39,89
+2026-07-06,Suero oral (sobres),64,39,89
+2026-07-07,Suero oral (sobres),59,39,89
+2026-07-08,Suero oral (sobres),54,39,89
+2026-07-09,Suero oral (sobres),52,39,89
+2026-07-10,Suero oral (sobres),52,39,89
+2026-07-11,Suero oral (sobres),50,39,89
+2026-07-12,Suero oral (sobres),46,39,89
+2026-07-13,Suero oral (sobres),45,39,89
+2026-07-14,Suero oral (sobres),44,39,89
+2026-07-15,Suero oral (sobres),40,39,89
+2026-07-16,Suero oral (sobres),40,39,89
+2026-07-17,Suero oral (sobres),38,39,89
+2026-07-18,Suero oral (sobres),37,39,89
+2026-07-19,Suero oral (sobres),35,39,89
+2026-07-20,Suero oral (sobres),34,39,89
+2026-07-21,Suero oral (sobres),34,39,89
+2026-07-22,Suero oral (sobres),33,39,89
+2026-07-23,Suero oral (sobres),29,39,89
+2026-07-24,Suero oral (sobres),27,39,89
+2026-07-25,Suero oral (sobres),27,39,89
+2026-07-26,Suero oral (sobres),24,39,89
+2026-07-27,Suero oral (sobres),20,39,89
+2026-07-28,Suero oral (sobres),17,39,89
+2026-07-29,Suero oral (sobres),16,39,89
+2026-07-30,Suero oral (sobres),15,39,89
+2026-07-31,Suero oral (sobres),15,39,89
+2026-08-01,Suero oral (sobres),62,39,89
+2026-08-02,Suero oral (sobres),60,39,89
+2026-08-03,Suero oral (sobres),58,39,89
+2026-08-04,Suero oral (sobres),58,39,89
+2026-08-05,Suero oral (sobres),57,39,89
+2026-08-06,Suero oral (sobres),57,39,89
+2026-08-07,Suero oral (sobres),54,39,89
+2026-08-08,Suero oral (sobres),51,39,89
+2026-08-09,Suero oral (sobres),50,39,89
+2026-08-10,Suero oral (sobres),48,39,89
+2026-08-11,Suero oral (sobres),46,39,89
+2026-08-12,Suero oral (sobres),43,39,89
+2026-08-13,Suero oral (sobres),37,39,89
+2026-08-14,Suero oral (sobres),35,39,89
+2026-08-15,Suero oral (sobres),30,39,89
+2026-08-16,Suero oral (sobres),29,39,89
+2026-08-17,Suero oral (sobres),26,39,89
+2026-08-18,Suero oral (sobres),24,39,89
+2026-08-19,Suero oral (sobres),21,39,89
+2026-08-20,Suero oral (sobres),21,39,89
+2026-08-21,Suero oral (sobres),21,39,89
+2026-08-22,Suero oral (sobres),18,39,89
+2026-08-23,Suero oral (sobres),16,39,89
+2026-08-24,Suero oral (sobres),14,39,89
+2026-08-25,Suero oral (sobres),13,39,89
+2026-08-26,Suero oral (sobres),9,39,89
+2026-08-27,Suero oral (sobres),7,39,89
+2026-08-28,Suero oral (sobres),57,39,89
+2026-08-29,Suero oral (sobres),54,39,89
+2026-08-30,Suero oral (sobres),54,39,89
+2026-08-31,Suero oral (sobres),53,39,89
+2026-09-01,Suero oral (sobres),48,39,89
+2026-09-02,Suero oral (sobres),46,39,89
+2026-09-03,Suero oral (sobres),42,39,89
+2026-09-04,Suero oral (sobres),42,39,89
+2026-09-05,Suero oral (sobres),40,39,89
+2026-09-06,Suero oral (sobres),37,39,89
+2026-09-07,Suero oral (sobres),37,39,89
+2026-09-08,Suero oral (sobres),34,39,89
+2026-09-09,Suero oral (sobres),33,39,89
+2026-09-10,Suero oral (sobres),33,39,89
+2026-09-11,Suero oral (sobres),33,39,89
+2026-09-12,Suero oral (sobres),30,39,89
+2026-09-13,Suero oral (sobres),27,39,89
+2026-09-14,Suero oral (sobres),24,39,89
+2026-09-15,Suero oral (sobres),23,39,89
+2026-09-16,Suero oral (sobres),18,39,89
+2026-09-17,Suero oral (sobres),17,39,89
+2026-09-18,Suero oral (sobres),67,39,89
+2026-09-19,Suero oral (sobres),67,39,89
+2026-09-20,Suero oral (sobres),66,39,89
+2026-09-21,Suero oral (sobres),64,39,89
+2026-09-22,Suero oral (sobres),63,39,89
+2026-09-23,Suero oral (sobres),62,39,89
+2026-09-24,Suero oral (sobres),60,39,89
+2026-09-25,Suero oral (sobres),59,39,89
+2026-09-26,Suero oral (sobres),55,39,89
+2026-09-27,Suero oral (sobres),53,39,89
+2026-09-28,Suero oral (sobres),51,39,89
+2026-09-29,Suero oral (sobres),50,39,89
+2026-09-30,Suero oral (sobres),45,39,89
+2026-10-01,Suero oral (sobres),42,39,89
+2026-10-02,Suero oral (sobres),39,39,89
+2026-10-03,Suero oral (sobres),36,39,89
+2026-10-04,Suero oral (sobres),36,39,89
+2026-10-05,Suero oral (sobres),35,39,89
+2026-10-06,Suero oral (sobres),33,39,89
+2026-10-07,Suero oral (sobres),33,39,89
+2026-10-08,Suero oral (sobres),32,39,89
+2026-10-09,Suero oral (sobres),30,39,89
+2026-10-10,Suero oral (sobres),29,39,89
+2026-10-11,Suero oral (sobres),25,39,89
+2026-10-12,Suero oral (sobres),21,39,89
+2026-10-13,Suero oral (sobres),19,39,89
+2026-10-14,Suero oral (sobres),68,39,89
+2026-10-15,Suero oral (sobres),64,39,89
+2026-10-16,Suero oral (sobres),63,39,89
+2026-10-17,Suero oral (sobres),62,39,89
+2026-10-18,Suero oral (sobres),60,39,89
+2025-10-20,Férula inmovilizadora,8,4,8
+2025-10-21,Férula inmovilizadora,8,4,8
+2025-10-22,Férula inmovilizadora,8,4,8
+2025-10-23,Férula inmovilizadora,8,4,8
+2025-10-24,Férula inmovilizadora,8,4,8
+2025-10-25,Férula inmovilizadora,8,4,8
+2025-10-26,Férula inmovilizadora,8,4,8
+2025-10-27,Férula inmovilizadora,8,4,8
+2025-10-28,Férula inmovilizadora,8,4,8
+2025-10-29,Férula inmovilizadora,8,4,8
+2025-10-30,Férula inmovilizadora,8,4,8
+2025-10-31,Férula inmovilizadora,8,4,8
+2025-11-01,Férula inmovilizadora,8,4,8
+2025-11-02,Férula inmovilizadora,8,4,8
+2025-11-03,Férula inmovilizadora,8,4,8
+2025-11-04,Férula inmovilizadora,8,4,8
+2025-11-05,Férula inmovilizadora,8,4,8
+2025-11-06,Férula inmovilizadora,8,4,8
+2025-11-07,Férula inmovilizadora,8,4,8
+2025-11-08,Férula inmovilizadora,8,4,8
+2025-11-09,Férula inmovilizadora,8,4,8
+2025-11-10,Férula inmovilizadora,8,4,8
+2025-11-11,Férula inmovilizadora,8,4,8
+2025-11-12,Férula inmovilizadora,8,4,8
+2025-11-13,Férula inmovilizadora,8,4,8
+2025-11-14,Férula inmovilizadora,8,4,8
+2025-11-15,Férula inmovilizadora,8,4,8
+2025-11-16,Férula inmovilizadora,7,4,8
+2025-11-17,Férula inmovilizadora,7,4,8
+2025-11-18,Férula inmovilizadora,7,4,8
+2025-11-19,Férula inmovilizadora,7,4,8
+2025-11-20,Férula inmovilizadora,7,4,8
+2025-11-21,Férula inmovilizadora,6,4,8
+2025-11-22,Férula inmovilizadora,6,4,8
+2025-11-23,Férula inmovilizadora,6,4,8
+2025-11-24,Férula inmovilizadora,6,4,8
+2025-11-25,Férula inmovilizadora,6,4,8
+2025-11-26,Férula inmovilizadora,6,4,8
+2025-11-27,Férula inmovilizadora,6,4,8
+2025-11-28,Férula inmovilizadora,6,4,8
+2025-11-29,Férula inmovilizadora,6,4,8
+2025-11-30,Férula inmovilizadora,6,4,8
+2025-12-01,Férula inmovilizadora,6,4,8
+2025-12-02,Férula inmovilizadora,6,4,8
+2025-12-03,Férula inmovilizadora,6,4,8
+2025-12-04,Férula inmovilizadora,6,4,8
+2025-12-05,Férula inmovilizadora,6,4,8
+2025-12-06,Férula inmovilizadora,6,4,8
+2025-12-07,Férula inmovilizadora,5,4,8
+2025-12-08,Férula inmovilizadora,5,4,8
+2025-12-09,Férula inmovilizadora,5,4,8
+2025-12-10,Férula inmovilizadora,5,4,8
+2025-12-11,Férula inmovilizadora,5,4,8
+2025-12-12,Férula inmovilizadora,5,4,8
+2025-12-13,Férula inmovilizadora,5,4,8
+2025-12-14,Férula inmovilizadora,5,4,8
+2025-12-15,Férula inmovilizadora,3,4,8
+2025-12-16,Férula inmovilizadora,3,4,8
+2025-12-17,Férula inmovilizadora,3,4,8
+2025-12-18,Férula inmovilizadora,3,4,8
+2025-12-19,Férula inmovilizadora,3,4,8
+2025-12-20,Férula inmovilizadora,3,4,8
+2025-12-21,Férula inmovilizadora,3,4,8
+2025-12-22,Férula inmovilizadora,3,4,8
+2025-12-23,Férula inmovilizadora,3,4,8
+2025-12-24,Férula inmovilizadora,3,4,8
+2025-12-25,Férula inmovilizadora,3,4,8
+2025-12-26,Férula inmovilizadora,3,4,8
+2025-12-27,Férula inmovilizadora,3,4,8
+2025-12-28,Férula inmovilizadora,3,4,8
+2025-12-29,Férula inmovilizadora,3,4,8
+2025-12-30,Férula inmovilizadora,3,4,8
+2025-12-31,Férula inmovilizadora,3,4,8
+2026-01-01,Férula inmovilizadora,3,4,8
+2026-01-02,Férula inmovilizadora,3,4,8
+2026-01-03,Férula inmovilizadora,3,4,8
+2026-01-04,Férula inmovilizadora,3,4,8
+2026-01-05,Férula inmovilizadora,3,4,8
+2026-01-06,Férula inmovilizadora,3,4,8
+2026-01-07,Férula inmovilizadora,3,4,8
+2026-01-08,Férula inmovilizadora,2,4,8
+2026-01-09,Férula inmovilizadora,2,4,8
+2026-01-10,Férula inmovilizadora,2,4,8
+2026-01-11,Férula inmovilizadora,2,4,8
+2026-01-12,Férula inmovilizadora,2,4,8
+2026-01-13,Férula inmovilizadora,2,4,8
+2026-01-14,Férula inmovilizadora,2,4,8
+2026-01-15,Férula inmovilizadora,2,4,8
+2026-01-16,Férula inmovilizadora,2,4,8
+2026-01-17,Férula inmovilizadora,2,4,8
+2026-01-18,Férula inmovilizadora,4,4,8
+2026-01-19,Férula inmovilizadora,4,4,8
+2026-01-20,Férula inmovilizadora,4,4,8
+2026-01-21,Férula inmovilizadora,4,4,8
+2026-01-22,Férula inmovilizadora,4,4,8
+2026-01-23,Férula inmovilizadora,4,4,8
+2026-01-24,Férula inmovilizadora,3,4,8
+2026-01-25,Férula inmovilizadora,3,4,8
+2026-01-26,Férula inmovilizadora,3,4,8
+2026-01-27,Férula inmovilizadora,3,4,8
+2026-01-28,Férula inmovilizadora,3,4,8
+2026-01-29,Férula inmovilizadora,3,4,8
+2026-01-30,Férula inmovilizadora,3,4,8
+2026-01-31,Férula inmovilizadora,3,4,8
+2026-02-01,Férula inmovilizadora,3,4,8
+2026-02-02,Férula inmovilizadora,3,4,8
+2026-02-03,Férula inmovilizadora,3,4,8
+2026-02-04,Férula inmovilizadora,3,4,8
+2026-02-05,Férula inmovilizadora,2,4,8
+2026-02-06,Férula inmovilizadora,2,4,8
+2026-02-07,Férula inmovilizadora,1,4,8
+2026-02-08,Férula inmovilizadora,1,4,8
+2026-02-09,Férula inmovilizadora,1,4,8
+2026-02-10,Férula inmovilizadora,1,4,8
+2026-02-11,Férula inmovilizadora,1,4,8
+2026-02-12,Férula inmovilizadora,1,4,8
+2026-02-13,Férula inmovilizadora,3,4,8
+2026-02-14,Férula inmovilizadora,3,4,8
+2026-02-15,Férula inmovilizadora,3,4,8
+2026-02-16,Férula inmovilizadora,3,4,8
+2026-02-17,Férula inmovilizadora,3,4,8
+2026-02-18,Férula inmovilizadora,3,4,8
+2026-02-19,Férula inmovilizadora,2,4,8
+2026-02-20,Férula inmovilizadora,1,4,8
+2026-02-21,Férula inmovilizadora,1,4,8
+2026-02-22,Férula inmovilizadora,0,4,8
+2026-02-23,Férula inmovilizadora,0,4,8
+2026-02-24,Férula inmovilizadora,0,4,8
+2026-02-25,Férula inmovilizadora,0,4,8
+2026-02-26,Férula inmovilizadora,0,4,8
+2026-02-27,Férula inmovilizadora,0,4,8
+2026-02-28,Férula inmovilizadora,0,4,8
+2026-03-01,Férula inmovilizadora,0,4,8
+2026-03-02,Férula inmovilizadora,0,4,8
+2026-03-03,Férula inmovilizadora,0,4,8
+2026-03-04,Férula inmovilizadora,0,4,8
+2026-03-05,Férula inmovilizadora,0,4,8
+2026-03-06,Férula inmovilizadora,0,4,8
+2026-03-07,Férula inmovilizadora,0,4,8
+2026-03-08,Férula inmovilizadora,0,4,8
+2026-03-09,Férula inmovilizadora,0,4,8
+2026-03-10,Férula inmovilizadora,0,4,8
+2026-03-11,Férula inmovilizadora,0,4,8
+2026-03-12,Férula inmovilizadora,0,4,8
+2026-03-13,Férula inmovilizadora,0,4,8
+2026-03-14,Férula inmovilizadora,0,4,8
+2026-03-15,Férula inmovilizadora,0,4,8
+2026-03-16,Férula inmovilizadora,5,4,8
+2026-03-17,Férula inmovilizadora,5,4,8
+2026-03-18,Férula inmovilizadora,5,4,8
+2026-03-19,Férula inmovilizadora,5,4,8
+2026-03-20,Férula inmovilizadora,5,4,8
+2026-03-21,Férula inmovilizadora,5,4,8
+2026-03-22,Férula inmovilizadora,5,4,8
+2026-03-23,Férula inmovilizadora,5,4,8
+2026-03-24,Férula inmovilizadora,5,4,8
+2026-03-25,Férula inmovilizadora,5,4,8
+2026-03-26,Férula inmovilizadora,5,4,8
+2026-03-27,Férula inmovilizadora,5,4,8
+2026-03-28,Férula inmovilizadora,5,4,8
+2026-03-29,Férula inmovilizadora,5,4,8
+2026-03-30,Férula inmovilizadora,5,4,8
+2026-03-31,Férula inmovilizadora,5,4,8
+2026-04-01,Férula inmovilizadora,5,3,8
+2026-04-02,Férula inmovilizadora,5,3,8
+2026-04-03,Férula inmovilizadora,5,3,8
+2026-04-04,Férula inmovilizadora,5,3,8
+2026-04-05,Férula inmovilizadora,5,3,8
+2026-04-06,Férula inmovilizadora,5,3,8
+2026-04-07,Férula inmovilizadora,5,3,8
+2026-04-08,Férula inmovilizadora,5,3,8
+2026-04-09,Férula inmovilizadora,4,3,8
+2026-04-10,Férula inmovilizadora,4,3,8
+2026-04-11,Férula inmovilizadora,4,3,8
+2026-04-12,Férula inmovilizadora,4,3,8
+2026-04-13,Férula inmovilizadora,4,3,8
+2026-04-14,Férula inmovilizadora,4,3,8
+2026-04-15,Férula inmovilizadora,4,3,8
+2026-04-16,Férula inmovilizadora,4,3,8
+2026-04-17,Férula inmovilizadora,4,3,8
+2026-04-18,Férula inmovilizadora,4,3,8
+2026-04-19,Férula inmovilizadora,4,3,8
+2026-04-20,Férula inmovilizadora,4,3,8
+2026-04-21,Férula inmovilizadora,4,3,8
+2026-04-22,Férula inmovilizadora,4,3,8
+2026-04-23,Férula inmovilizadora,4,3,8
+2026-04-24,Férula inmovilizadora,4,3,8
+2026-04-25,Férula inmovilizadora,4,3,8
+2026-04-26,Férula inmovilizadora,4,3,8
+2026-04-27,Férula inmovilizadora,4,3,8
+2026-04-28,Férula inmovilizadora,4,3,8
+2026-04-29,Férula inmovilizadora,4,3,8
+2026-04-30,Férula inmovilizadora,4,3,8
+2026-05-01,Férula inmovilizadora,3,3,8
+2026-05-02,Férula inmovilizadora,3,3,8
+2026-05-03,Férula inmovilizadora,3,3,8
+2026-05-04,Férula inmovilizadora,3,3,8
+2026-05-05,Férula inmovilizadora,3,3,8
+2026-05-06,Férula inmovilizadora,2,3,8
+2026-05-07,Férula inmovilizadora,1,3,8
+2026-05-08,Férula inmovilizadora,1,3,8
+2026-05-09,Férula inmovilizadora,1,3,8
+2026-05-10,Férula inmovilizadora,1,3,8
+2026-05-11,Férula inmovilizadora,1,3,8
+2026-05-12,Férula inmovilizadora,1,3,8
+2026-05-13,Férula inmovilizadora,1,3,8
+2026-05-14,Férula inmovilizadora,6,3,8
+2026-05-15,Férula inmovilizadora,6,3,8
+2026-05-16,Férula inmovilizadora,6,3,8
+2026-05-17,Férula inmovilizadora,6,3,8
+2026-05-18,Férula inmovilizadora,6,3,8
+2026-05-19,Férula inmovilizadora,6,3,8
+2026-05-20,Férula inmovilizadora,6,3,8
+2026-05-21,Férula inmovilizadora,6,3,8
+2026-05-22,Férula inmovilizadora,6,3,8
+2026-05-23,Férula inmovilizadora,6,3,8
+2026-05-24,Férula inmovilizadora,6,3,8
+2026-05-25,Férula inmovilizadora,6,3,8
+2026-05-26,Férula inmovilizadora,6,3,8
+2026-05-27,Férula inmovilizadora,6,3,8
+2026-05-28,Férula inmovilizadora,6,3,8
+2026-05-29,Férula inmovilizadora,6,3,8
+2026-05-30,Férula inmovilizadora,5,3,8
+2026-05-31,Férula inmovilizadora,5,3,8
+2026-06-01,Férula inmovilizadora,5,3,8
+2026-06-02,Férula inmovilizadora,4,3,8
+2026-06-03,Férula inmovilizadora,4,3,8
+2026-06-04,Férula inmovilizadora,4,3,8
+2026-06-05,Férula inmovilizadora,4,3,8
+2026-06-06,Férula inmovilizadora,3,3,8
+2026-06-07,Férula inmovilizadora,3,3,8
+2026-06-08,Férula inmovilizadora,3,3,8
+2026-06-09,Férula inmovilizadora,3,3,8
+2026-06-10,Férula inmovilizadora,3,3,8
+2026-06-11,Férula inmovilizadora,3,3,8
+2026-06-12,Férula inmovilizadora,3,3,8
+2026-06-13,Férula inmovilizadora,3,3,8
+2026-06-14,Férula inmovilizadora,3,3,8
+2026-06-15,Férula inmovilizadora,3,3,8
+2026-06-16,Férula inmovilizadora,3,3,8
+2026-06-17,Férula inmovilizadora,3,3,8
+2026-06-18,Férula inmovilizadora,8,3,8
+2026-06-19,Férula inmovilizadora,8,3,8
+2026-06-20,Férula inmovilizadora,8,3,8
+2026-06-21,Férula inmovilizadora,8,3,8
+2026-06-22,Férula inmovilizadora,8,3,8
+2026-06-23,Férula inmovilizadora,8,3,8
+2026-06-24,Férula inmovilizadora,7,3,8
+2026-06-25,Férula inmovilizadora,7,3,8
+2026-06-26,Férula inmovilizadora,7,3,8
+2026-06-27,Férula inmovilizadora,7,3,8
+2026-06-28,Férula inmovilizadora,7,3,8
+2026-06-29,Férula inmovilizadora,7,3,8
+2026-06-30,Férula inmovilizadora,7,3,8
+2026-07-01,Férula inmovilizadora,7,3,8
+2026-07-02,Férula inmovilizadora,7,3,8
+2026-07-03,Férula inmovilizadora,7,3,8
+2026-07-04,Férula inmovilizadora,7,3,8
+2026-07-05,Férula inmovilizadora,7,3,8
+2026-07-06,Férula inmovilizadora,7,3,8
+2026-07-07,Férula inmovilizadora,7,3,8
+2026-07-08,Férula inmovilizadora,7,3,8
+2026-07-09,Férula inmovilizadora,7,3,8
+2026-07-10,Férula inmovilizadora,7,3,8
+2026-07-11,Férula inmovilizadora,7,3,8
+2026-07-12,Férula inmovilizadora,7,3,8
+2026-07-13,Férula inmovilizadora,7,3,8
+2026-07-14,Férula inmovilizadora,7,3,8
+2026-07-15,Férula inmovilizadora,7,3,8
+2026-07-16,Férula inmovilizadora,7,3,8
+2026-07-17,Férula inmovilizadora,7,3,8
+2026-07-18,Férula inmovilizadora,7,3,8
+2026-07-19,Férula inmovilizadora,6,3,8
+2026-07-20,Férula inmovilizadora,6,3,8
+2026-07-21,Férula inmovilizadora,6,3,8
+2026-07-22,Férula inmovilizadora,6,3,8
+2026-07-23,Férula inmovilizadora,6,3,8
+2026-07-24,Férula inmovilizadora,6,3,8
+2026-07-25,Férula inmovilizadora,6,3,8
+2026-07-26,Férula inmovilizadora,6,3,8
+2026-07-27,Férula inmovilizadora,5,3,8
+2026-07-28,Férula inmovilizadora,5,3,8
+2026-07-29,Férula inmovilizadora,5,3,8
+2026-07-30,Férula inmovilizadora,5,3,8
+2026-07-31,Férula inmovilizadora,5,3,8
+2026-08-01,Férula inmovilizadora,4,3,8
+2026-08-02,Férula inmovilizadora,4,3,8
+2026-08-03,Férula inmovilizadora,4,3,8
+2026-08-04,Férula inmovilizadora,3,3,8
+2026-08-05,Férula inmovilizadora,3,3,8
+2026-08-06,Férula inmovilizadora,1,3,8
+2026-08-07,Férula inmovilizadora,1,3,8
+2026-08-08,Férula inmovilizadora,1,3,8
+2026-08-09,Férula inmovilizadora,1,3,8
+2026-08-10,Férula inmovilizadora,1,3,8
+2026-08-11,Férula inmovilizadora,1,3,8
+2026-08-12,Férula inmovilizadora,1,3,8
+2026-08-13,Férula inmovilizadora,1,3,8
+2026-08-14,Férula inmovilizadora,1,3,8
+2026-08-15,Férula inmovilizadora,1,3,8
+2026-08-16,Férula inmovilizadora,1,3,8
+2026-08-17,Férula inmovilizadora,6,3,8
+2026-08-18,Férula inmovilizadora,6,3,8
+2026-08-19,Férula inmovilizadora,6,3,8
+2026-08-20,Férula inmovilizadora,6,3,8
+2026-08-21,Férula inmovilizadora,6,3,8
+2026-08-22,Férula inmovilizadora,6,3,8
+2026-08-23,Férula inmovilizadora,6,3,8
+2026-08-24,Férula inmovilizadora,6,3,8
+2026-08-25,Férula inmovilizadora,6,3,8
+2026-08-26,Férula inmovilizadora,6,3,8
+2026-08-27,Férula inmovilizadora,6,3,8
+2026-08-28,Férula inmovilizadora,6,3,8
+2026-08-29,Férula inmovilizadora,6,3,8
+2026-08-30,Férula inmovilizadora,6,3,8
+2026-08-31,Férula inmovilizadora,6,3,8
+2026-09-01,Férula inmovilizadora,6,3,8
+2026-09-02,Férula inmovilizadora,6,3,8
+2026-09-03,Férula inmovilizadora,6,3,8
+2026-09-04,Férula inmovilizadora,6,3,8
+2026-09-05,Férula inmovilizadora,6,3,8
+2026-09-06,Férula inmovilizadora,5,3,8
+2026-09-07,Férula inmovilizadora,5,3,8
+2026-09-08,Férula inmovilizadora,5,3,8
+2026-09-09,Férula inmovilizadora,5,3,8
+2026-09-10,Férula inmovilizadora,5,3,8
+2026-09-11,Férula inmovilizadora,5,3,8
+2026-09-12,Férula inmovilizadora,5,3,8
+2026-09-13,Férula inmovilizadora,4,3,8
+2026-09-14,Férula inmovilizadora,4,3,8
+2026-09-15,Férula inmovilizadora,4,3,8
+2026-09-16,Férula inmovilizadora,4,3,8
+2026-09-17,Férula inmovilizadora,4,3,8
+2026-09-18,Férula inmovilizadora,4,3,8
+2026-09-19,Férula inmovilizadora,4,3,8
+2026-09-20,Férula inmovilizadora,4,3,8
+2026-09-21,Férula inmovilizadora,4,3,8
+2026-09-22,Férula inmovilizadora,3,3,8
+2026-09-23,Férula inmovilizadora,3,3,8
+2026-09-24,Férula inmovilizadora,3,3,8
+2026-09-25,Férula inmovilizadora,3,3,8
+2026-09-26,Férula inmovilizadora,3,3,8
+2026-09-27,Férula inmovilizadora,3,3,8
+2026-09-28,Férula inmovilizadora,3,3,8
+2026-09-29,Férula inmovilizadora,3,3,8
+2026-09-30,Férula inmovilizadora,3,3,8
+2026-10-01,Férula inmovilizadora,3,3,8
+2026-10-02,Férula inmovilizadora,3,3,8
+2026-10-03,Férula inmovilizadora,3,3,8
+2026-10-04,Férula inmovilizadora,8,3,8
+2026-10-05,Férula inmovilizadora,7,3,8
+2026-10-06,Férula inmovilizadora,7,3,8
+2026-10-07,Férula inmovilizadora,7,3,8
+2026-10-08,Férula inmovilizadora,7,3,8
+2026-10-09,Férula inmovilizadora,7,3,8
+2026-10-10,Férula inmovilizadora,7,3,8
+2026-10-11,Férula inmovilizadora,6,3,8
+2026-10-12,Férula inmovilizadora,6,3,8
+2026-10-13,Férula inmovilizadora,5,3,8
+2026-10-14,Férula inmovilizadora,4,3,8
+2026-10-15,Férula inmovilizadora,4,3,8
+2026-10-16,Férula inmovilizadora,4,3,8
+2026-10-17,Férula inmovilizadora,4,3,8
+2026-10-18,Férula inmovilizadora,4,3,8

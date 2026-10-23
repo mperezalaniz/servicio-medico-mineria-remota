@@ -1,0 +1,2913 @@
+fecha,motivo,consultas
+2025-10-20,Respiratorio,6
+2025-10-21,Respiratorio,6
+2025-10-22,Respiratorio,12
+2025-10-23,Respiratorio,8
+2025-10-24,Respiratorio,7
+2025-10-25,Respiratorio,3
+2025-10-26,Respiratorio,6
+2025-10-27,Respiratorio,7
+2025-10-28,Respiratorio,10
+2025-10-29,Respiratorio,5
+2025-10-30,Respiratorio,8
+2025-10-31,Respiratorio,6
+2025-11-01,Respiratorio,9
+2025-11-02,Respiratorio,4
+2025-11-03,Respiratorio,6
+2025-11-04,Respiratorio,10
+2025-11-05,Respiratorio,6
+2025-11-06,Respiratorio,10
+2025-11-07,Respiratorio,11
+2025-11-08,Respiratorio,9
+2025-11-09,Respiratorio,7
+2025-11-10,Respiratorio,5
+2025-11-11,Respiratorio,9
+2025-11-12,Respiratorio,4
+2025-11-13,Respiratorio,8
+2025-11-14,Respiratorio,9
+2025-11-15,Respiratorio,5
+2025-11-16,Respiratorio,8
+2025-11-17,Respiratorio,5
+2025-11-18,Respiratorio,12
+2025-11-19,Respiratorio,9
+2025-11-20,Respiratorio,7
+2025-11-21,Respiratorio,8
+2025-11-22,Respiratorio,7
+2025-11-23,Respiratorio,8
+2025-11-24,Respiratorio,8
+2025-11-25,Respiratorio,9
+2025-11-26,Respiratorio,13
+2025-11-27,Respiratorio,11
+2025-11-28,Respiratorio,8
+2025-11-29,Respiratorio,7
+2025-11-30,Respiratorio,15
+2025-12-01,Respiratorio,13
+2025-12-02,Respiratorio,7
+2025-12-03,Respiratorio,7
+2025-12-04,Respiratorio,13
+2025-12-05,Respiratorio,11
+2025-12-06,Respiratorio,7
+2025-12-07,Respiratorio,3
+2025-12-08,Respiratorio,7
+2025-12-09,Respiratorio,5
+2025-12-10,Respiratorio,6
+2025-12-11,Respiratorio,11
+2025-12-12,Respiratorio,2
+2025-12-13,Respiratorio,7
+2025-12-14,Respiratorio,2
+2025-12-15,Respiratorio,6
+2025-12-16,Respiratorio,9
+2025-12-17,Respiratorio,7
+2025-12-18,Respiratorio,14
+2025-12-19,Respiratorio,9
+2025-12-20,Respiratorio,3
+2025-12-21,Respiratorio,8
+2025-12-22,Respiratorio,3
+2025-12-23,Respiratorio,9
+2025-12-24,Respiratorio,9
+2025-12-25,Respiratorio,9
+2025-12-26,Respiratorio,8
+2025-12-27,Respiratorio,5
+2025-12-28,Respiratorio,9
+2025-12-29,Respiratorio,5
+2025-12-30,Respiratorio,7
+2025-12-31,Respiratorio,7
+2026-01-01,Respiratorio,6
+2026-01-02,Respiratorio,5
+2026-01-03,Respiratorio,9
+2026-01-04,Respiratorio,7
+2026-01-05,Respiratorio,10
+2026-01-06,Respiratorio,9
+2026-01-07,Respiratorio,8
+2026-01-08,Respiratorio,5
+2026-01-09,Respiratorio,7
+2026-01-10,Respiratorio,8
+2026-01-11,Respiratorio,4
+2026-01-12,Respiratorio,8
+2026-01-13,Respiratorio,8
+2026-01-14,Respiratorio,5
+2026-01-15,Respiratorio,8
+2026-01-16,Respiratorio,9
+2026-01-17,Respiratorio,5
+2026-01-18,Respiratorio,3
+2026-01-19,Respiratorio,7
+2026-01-20,Respiratorio,2
+2026-01-21,Respiratorio,4
+2026-01-22,Respiratorio,1
+2026-01-23,Respiratorio,7
+2026-01-24,Respiratorio,4
+2026-01-25,Respiratorio,10
+2026-01-26,Respiratorio,9
+2026-01-27,Respiratorio,6
+2026-01-28,Respiratorio,8
+2026-01-29,Respiratorio,6
+2026-01-30,Respiratorio,3
+2026-01-31,Respiratorio,8
+2026-02-01,Respiratorio,7
+2026-02-02,Respiratorio,7
+2026-02-03,Respiratorio,10
+2026-02-04,Respiratorio,10
+2026-02-05,Respiratorio,5
+2026-02-06,Respiratorio,11
+2026-02-07,Respiratorio,10
+2026-02-08,Respiratorio,5
+2026-02-09,Respiratorio,11
+2026-02-10,Respiratorio,9
+2026-02-11,Respiratorio,9
+2026-02-12,Respiratorio,3
+2026-02-13,Respiratorio,6
+2026-02-14,Respiratorio,9
+2026-02-15,Respiratorio,9
+2026-02-16,Respiratorio,6
+2026-02-17,Respiratorio,13
+2026-02-18,Respiratorio,8
+2026-02-19,Respiratorio,5
+2026-02-20,Respiratorio,5
+2026-02-21,Respiratorio,6
+2026-02-22,Respiratorio,5
+2026-02-23,Respiratorio,9
+2026-02-24,Respiratorio,13
+2026-02-25,Respiratorio,4
+2026-02-26,Respiratorio,5
+2026-02-27,Respiratorio,6
+2026-02-28,Respiratorio,4
+2026-03-01,Respiratorio,4
+2026-03-02,Respiratorio,6
+2026-03-03,Respiratorio,7
+2026-03-04,Respiratorio,9
+2026-03-05,Respiratorio,11
+2026-03-06,Respiratorio,7
+2026-03-07,Respiratorio,8
+2026-03-08,Respiratorio,8
+2026-03-09,Respiratorio,6
+2026-03-10,Respiratorio,5
+2026-03-11,Respiratorio,8
+2026-03-12,Respiratorio,8
+2026-03-13,Respiratorio,10
+2026-03-14,Respiratorio,8
+2026-03-15,Respiratorio,1
+2026-03-16,Respiratorio,12
+2026-03-17,Respiratorio,6
+2026-03-18,Respiratorio,5
+2026-03-19,Respiratorio,10
+2026-03-20,Respiratorio,9
+2026-03-21,Respiratorio,8
+2026-03-22,Respiratorio,7
+2026-03-23,Respiratorio,4
+2026-03-24,Respiratorio,6
+2026-03-25,Respiratorio,8
+2026-03-26,Respiratorio,6
+2026-03-27,Respiratorio,8
+2026-03-28,Respiratorio,7
+2026-03-29,Respiratorio,3
+2026-03-30,Respiratorio,4
+2026-03-31,Respiratorio,14
+2026-04-01,Respiratorio,7
+2026-04-02,Respiratorio,7
+2026-04-03,Respiratorio,8
+2026-04-04,Respiratorio,3
+2026-04-05,Respiratorio,7
+2026-04-06,Respiratorio,8
+2026-04-07,Respiratorio,5
+2026-04-08,Respiratorio,4
+2026-04-09,Respiratorio,12
+2026-04-10,Respiratorio,4
+2026-04-11,Respiratorio,7
+2026-04-12,Respiratorio,12
+2026-04-13,Respiratorio,6
+2026-04-14,Respiratorio,11
+2026-04-15,Respiratorio,6
+2026-04-16,Respiratorio,9
+2026-04-17,Respiratorio,6
+2026-04-18,Respiratorio,10
+2026-04-19,Respiratorio,8
+2026-04-20,Respiratorio,8
+2026-04-21,Respiratorio,6
+2026-04-22,Respiratorio,8
+2026-04-23,Respiratorio,10
+2026-04-24,Respiratorio,14
+2026-04-25,Respiratorio,6
+2026-04-26,Respiratorio,8
+2026-04-27,Respiratorio,3
+2026-04-28,Respiratorio,7
+2026-04-29,Respiratorio,6
+2026-04-30,Respiratorio,9
+2026-05-01,Respiratorio,8
+2026-05-02,Respiratorio,9
+2026-05-03,Respiratorio,9
+2026-05-04,Respiratorio,9
+2026-05-05,Respiratorio,16
+2026-05-06,Respiratorio,14
+2026-05-07,Respiratorio,13
+2026-05-08,Respiratorio,4
+2026-05-09,Respiratorio,7
+2026-05-10,Respiratorio,10
+2026-05-11,Respiratorio,16
+2026-05-12,Respiratorio,11
+2026-05-13,Respiratorio,11
+2026-05-14,Respiratorio,8
+2026-05-15,Respiratorio,13
+2026-05-16,Respiratorio,6
+2026-05-17,Respiratorio,7
+2026-05-18,Respiratorio,13
+2026-05-19,Respiratorio,11
+2026-05-20,Respiratorio,16
+2026-05-21,Respiratorio,15
+2026-05-22,Respiratorio,13
+2026-05-23,Respiratorio,11
+2026-05-24,Respiratorio,14
+2026-05-25,Respiratorio,8
+2026-05-26,Respiratorio,6
+2026-05-27,Respiratorio,7
+2026-05-28,Respiratorio,12
+2026-05-29,Respiratorio,9
+2026-05-30,Respiratorio,7
+2026-05-31,Respiratorio,8
+2026-06-01,Respiratorio,10
+2026-06-02,Respiratorio,10
+2026-06-03,Respiratorio,17
+2026-06-04,Respiratorio,14
+2026-06-05,Respiratorio,13
+2026-06-06,Respiratorio,13
+2026-06-07,Respiratorio,15
+2026-06-08,Respiratorio,13
+2026-06-09,Respiratorio,14
+2026-06-10,Respiratorio,15
+2026-06-11,Respiratorio,13
+2026-06-12,Respiratorio,11
+2026-06-13,Respiratorio,11
+2026-06-14,Respiratorio,12
+2026-06-15,Respiratorio,15
+2026-06-16,Respiratorio,13
+2026-06-17,Respiratorio,17
+2026-06-18,Respiratorio,20
+2026-06-19,Respiratorio,14
+2026-06-20,Respiratorio,24
+2026-06-21,Respiratorio,13
+2026-06-22,Respiratorio,11
+2026-06-23,Respiratorio,14
+2026-06-24,Respiratorio,18
+2026-06-25,Respiratorio,11
+2026-06-26,Respiratorio,18
+2026-06-27,Respiratorio,15
+2026-06-28,Respiratorio,20
+2026-06-29,Respiratorio,15
+2026-06-30,Respiratorio,10
+2026-07-01,Respiratorio,15
+2026-07-02,Respiratorio,10
+2026-07-03,Respiratorio,10
+2026-07-04,Respiratorio,10
+2026-07-05,Respiratorio,15
+2026-07-06,Respiratorio,9
+2026-07-07,Respiratorio,10
+2026-07-08,Respiratorio,14
+2026-07-09,Respiratorio,16
+2026-07-10,Respiratorio,20
+2026-07-11,Respiratorio,9
+2026-07-12,Respiratorio,11
+2026-07-13,Respiratorio,7
+2026-07-14,Respiratorio,21
+2026-07-15,Respiratorio,13
+2026-07-16,Respiratorio,11
+2026-07-17,Respiratorio,9
+2026-07-18,Respiratorio,9
+2026-07-19,Respiratorio,17
+2026-07-20,Respiratorio,12
+2026-07-21,Respiratorio,19
+2026-07-22,Respiratorio,13
+2026-07-23,Respiratorio,16
+2026-07-24,Respiratorio,14
+2026-07-25,Respiratorio,17
+2026-07-26,Respiratorio,12
+2026-07-27,Respiratorio,10
+2026-07-28,Respiratorio,14
+2026-07-29,Respiratorio,11
+2026-07-30,Respiratorio,13
+2026-07-31,Respiratorio,12
+2026-08-01,Respiratorio,12
+2026-08-02,Respiratorio,16
+2026-08-03,Respiratorio,22
+2026-08-04,Respiratorio,12
+2026-08-05,Respiratorio,13
+2026-08-06,Respiratorio,12
+2026-08-07,Respiratorio,12
+2026-08-08,Respiratorio,15
+2026-08-09,Respiratorio,13
+2026-08-10,Respiratorio,10
+2026-08-11,Respiratorio,11
+2026-08-12,Respiratorio,18
+2026-08-13,Respiratorio,9
+2026-08-14,Respiratorio,9
+2026-08-15,Respiratorio,7
+2026-08-16,Respiratorio,20
+2026-08-17,Respiratorio,16
+2026-08-18,Respiratorio,21
+2026-08-19,Respiratorio,14
+2026-08-20,Respiratorio,16
+2026-08-21,Respiratorio,13
+2026-08-22,Respiratorio,10
+2026-08-23,Respiratorio,16
+2026-08-24,Respiratorio,9
+2026-08-25,Respiratorio,10
+2026-08-26,Respiratorio,19
+2026-08-27,Respiratorio,16
+2026-08-28,Respiratorio,10
+2026-08-29,Respiratorio,15
+2026-08-30,Respiratorio,19
+2026-08-31,Respiratorio,14
+2026-09-01,Respiratorio,9
+2026-09-02,Respiratorio,7
+2026-09-03,Respiratorio,5
+2026-09-04,Respiratorio,14
+2026-09-05,Respiratorio,7
+2026-09-06,Respiratorio,8
+2026-09-07,Respiratorio,12
+2026-09-08,Respiratorio,11
+2026-09-09,Respiratorio,6
+2026-09-10,Respiratorio,12
+2026-09-11,Respiratorio,13
+2026-09-12,Respiratorio,5
+2026-09-13,Respiratorio,5
+2026-09-14,Respiratorio,10
+2026-09-15,Respiratorio,8
+2026-09-16,Respiratorio,4
+2026-09-17,Respiratorio,3
+2026-09-18,Respiratorio,8
+2026-09-19,Respiratorio,9
+2026-09-20,Respiratorio,11
+2026-09-21,Respiratorio,5
+2026-09-22,Respiratorio,8
+2026-09-23,Respiratorio,7
+2026-09-24,Respiratorio,16
+2026-09-25,Respiratorio,7
+2026-09-26,Respiratorio,11
+2026-09-27,Respiratorio,4
+2026-09-28,Respiratorio,8
+2026-09-29,Respiratorio,10
+2026-09-30,Respiratorio,11
+2026-10-01,Respiratorio,5
+2026-10-02,Respiratorio,8
+2026-10-03,Respiratorio,10
+2026-10-04,Respiratorio,11
+2026-10-05,Respiratorio,11
+2026-10-06,Respiratorio,7
+2026-10-07,Respiratorio,6
+2026-10-08,Respiratorio,4
+2026-10-09,Respiratorio,7
+2026-10-10,Respiratorio,11
+2026-10-11,Respiratorio,8
+2026-10-12,Respiratorio,10
+2026-10-13,Respiratorio,6
+2026-10-14,Respiratorio,5
+2026-10-15,Respiratorio,4
+2026-10-16,Respiratorio,7
+2026-10-17,Respiratorio,7
+2026-10-18,Respiratorio,6
+2025-10-20,Musculoesquelético,11
+2025-10-21,Musculoesquelético,3
+2025-10-22,Musculoesquelético,10
+2025-10-23,Musculoesquelético,9
+2025-10-24,Musculoesquelético,5
+2025-10-25,Musculoesquelético,5
+2025-10-26,Musculoesquelético,10
+2025-10-27,Musculoesquelético,4
+2025-10-28,Musculoesquelético,9
+2025-10-29,Musculoesquelético,4
+2025-10-30,Musculoesquelético,7
+2025-10-31,Musculoesquelético,3
+2025-11-01,Musculoesquelético,5
+2025-11-02,Musculoesquelético,5
+2025-11-03,Musculoesquelético,5
+2025-11-04,Musculoesquelético,6
+2025-11-05,Musculoesquelético,7
+2025-11-06,Musculoesquelético,3
+2025-11-07,Musculoesquelético,10
+2025-11-08,Musculoesquelético,8
+2025-11-09,Musculoesquelético,6
+2025-11-10,Musculoesquelético,6
+2025-11-11,Musculoesquelético,3
+2025-11-12,Musculoesquelético,8
+2025-11-13,Musculoesquelético,7
+2025-11-14,Musculoesquelético,6
+2025-11-15,Musculoesquelético,1
+2025-11-16,Musculoesquelético,6
+2025-11-17,Musculoesquelético,12
+2025-11-18,Musculoesquelético,4
+2025-11-19,Musculoesquelético,10
+2025-11-20,Musculoesquelético,8
+2025-11-21,Musculoesquelético,9
+2025-11-22,Musculoesquelético,7
+2025-11-23,Musculoesquelético,8
+2025-11-24,Musculoesquelético,9
+2025-11-25,Musculoesquelético,10
+2025-11-26,Musculoesquelético,8
+2025-11-27,Musculoesquelético,8
+2025-11-28,Musculoesquelético,11
+2025-11-29,Musculoesquelético,10
+2025-11-30,Musculoesquelético,4
+2025-12-01,Musculoesquelético,4
+2025-12-02,Musculoesquelético,4
+2025-12-03,Musculoesquelético,8
+2025-12-04,Musculoesquelético,4
+2025-12-05,Musculoesquelético,5
+2025-12-06,Musculoesquelético,6
+2025-12-07,Musculoesquelético,2
+2025-12-08,Musculoesquelético,4
+2025-12-09,Musculoesquelético,10
+2025-12-10,Musculoesquelético,6
+2025-12-11,Musculoesquelético,8
+2025-12-12,Musculoesquelético,8
+2025-12-13,Musculoesquelético,11
+2025-12-14,Musculoesquelético,5
+2025-12-15,Musculoesquelético,8
+2025-12-16,Musculoesquelético,8
+2025-12-17,Musculoesquelético,4
+2025-12-18,Musculoesquelético,11
+2025-12-19,Musculoesquelético,11
+2025-12-20,Musculoesquelético,9
+2025-12-21,Musculoesquelético,3
+2025-12-22,Musculoesquelético,6
+2025-12-23,Musculoesquelético,9
+2025-12-24,Musculoesquelético,10
+2025-12-25,Musculoesquelético,6
+2025-12-26,Musculoesquelético,6
+2025-12-27,Musculoesquelético,6
+2025-12-28,Musculoesquelético,8
+2025-12-29,Musculoesquelético,3
+2025-12-30,Musculoesquelético,4
+2025-12-31,Musculoesquelético,8
+2026-01-01,Musculoesquelético,6
+2026-01-02,Musculoesquelético,7
+2026-01-03,Musculoesquelético,7
+2026-01-04,Musculoesquelético,7
+2026-01-05,Musculoesquelético,5
+2026-01-06,Musculoesquelético,7
+2026-01-07,Musculoesquelético,5
+2026-01-08,Musculoesquelético,5
+2026-01-09,Musculoesquelético,12
+2026-01-10,Musculoesquelético,5
+2026-01-11,Musculoesquelético,4
+2026-01-12,Musculoesquelético,4
+2026-01-13,Musculoesquelético,5
+2026-01-14,Musculoesquelético,6
+2026-01-15,Musculoesquelético,11
+2026-01-16,Musculoesquelético,11
+2026-01-17,Musculoesquelético,5
+2026-01-18,Musculoesquelético,8
+2026-01-19,Musculoesquelético,3
+2026-01-20,Musculoesquelético,8
+2026-01-21,Musculoesquelético,5
+2026-01-22,Musculoesquelético,7
+2026-01-23,Musculoesquelético,8
+2026-01-24,Musculoesquelético,7
+2026-01-25,Musculoesquelético,7
+2026-01-26,Musculoesquelético,5
+2026-01-27,Musculoesquelético,7
+2026-01-28,Musculoesquelético,7
+2026-01-29,Musculoesquelético,9
+2026-01-30,Musculoesquelético,10
+2026-01-31,Musculoesquelético,8
+2026-02-01,Musculoesquelético,8
+2026-02-02,Musculoesquelético,2
+2026-02-03,Musculoesquelético,11
+2026-02-04,Musculoesquelético,8
+2026-02-05,Musculoesquelético,6
+2026-02-06,Musculoesquelético,7
+2026-02-07,Musculoesquelético,4
+2026-02-08,Musculoesquelético,8
+2026-02-09,Musculoesquelético,9
+2026-02-10,Musculoesquelético,6
+2026-02-11,Musculoesquelético,10
+2026-02-12,Musculoesquelético,7
+2026-02-13,Musculoesquelético,7
+2026-02-14,Musculoesquelético,9
+2026-02-15,Musculoesquelético,4
+2026-02-16,Musculoesquelético,8
+2026-02-17,Musculoesquelético,7
+2026-02-18,Musculoesquelético,4
+2026-02-19,Musculoesquelético,7
+2026-02-20,Musculoesquelético,4
+2026-02-21,Musculoesquelético,7
+2026-02-22,Musculoesquelético,8
+2026-02-23,Musculoesquelético,5
+2026-02-24,Musculoesquelético,12
+2026-02-25,Musculoesquelético,6
+2026-02-26,Musculoesquelético,10
+2026-02-27,Musculoesquelético,6
+2026-02-28,Musculoesquelético,5
+2026-03-01,Musculoesquelético,5
+2026-03-02,Musculoesquelético,6
+2026-03-03,Musculoesquelético,6
+2026-03-04,Musculoesquelético,6
+2026-03-05,Musculoesquelético,6
+2026-03-06,Musculoesquelético,3
+2026-03-07,Musculoesquelético,4
+2026-03-08,Musculoesquelético,10
+2026-03-09,Musculoesquelético,2
+2026-03-10,Musculoesquelético,3
+2026-03-11,Musculoesquelético,3
+2026-03-12,Musculoesquelético,7
+2026-03-13,Musculoesquelético,6
+2026-03-14,Musculoesquelético,8
+2026-03-15,Musculoesquelético,6
+2026-03-16,Musculoesquelético,7
+2026-03-17,Musculoesquelético,9
+2026-03-18,Musculoesquelético,7
+2026-03-19,Musculoesquelético,7
+2026-03-20,Musculoesquelético,5
+2026-03-21,Musculoesquelético,6
+2026-03-22,Musculoesquelético,11
+2026-03-23,Musculoesquelético,5
+2026-03-24,Musculoesquelético,6
+2026-03-25,Musculoesquelético,5
+2026-03-26,Musculoesquelético,2
+2026-03-27,Musculoesquelético,4
+2026-03-28,Musculoesquelético,9
+2026-03-29,Musculoesquelético,7
+2026-03-30,Musculoesquelético,7
+2026-03-31,Musculoesquelético,7
+2026-04-01,Musculoesquelético,5
+2026-04-02,Musculoesquelético,5
+2026-04-03,Musculoesquelético,9
+2026-04-04,Musculoesquelético,3
+2026-04-05,Musculoesquelético,7
+2026-04-06,Musculoesquelético,8
+2026-04-07,Musculoesquelético,7
+2026-04-08,Musculoesquelético,2
+2026-04-09,Musculoesquelético,8
+2026-04-10,Musculoesquelético,4
+2026-04-11,Musculoesquelético,7
+2026-04-12,Musculoesquelético,5
+2026-04-13,Musculoesquelético,5
+2026-04-14,Musculoesquelético,5
+2026-04-15,Musculoesquelético,10
+2026-04-16,Musculoesquelético,6
+2026-04-17,Musculoesquelético,5
+2026-04-18,Musculoesquelético,5
+2026-04-19,Musculoesquelético,5
+2026-04-20,Musculoesquelético,4
+2026-04-21,Musculoesquelético,5
+2026-04-22,Musculoesquelético,9
+2026-04-23,Musculoesquelético,5
+2026-04-24,Musculoesquelético,6
+2026-04-25,Musculoesquelético,12
+2026-04-26,Musculoesquelético,8
+2026-04-27,Musculoesquelético,6
+2026-04-28,Musculoesquelético,4
+2026-04-29,Musculoesquelético,3
+2026-04-30,Musculoesquelético,7
+2026-05-01,Musculoesquelético,4
+2026-05-02,Musculoesquelético,8
+2026-05-03,Musculoesquelético,11
+2026-05-04,Musculoesquelético,6
+2026-05-05,Musculoesquelético,12
+2026-05-06,Musculoesquelético,8
+2026-05-07,Musculoesquelético,4
+2026-05-08,Musculoesquelético,6
+2026-05-09,Musculoesquelético,6
+2026-05-10,Musculoesquelético,9
+2026-05-11,Musculoesquelético,8
+2026-05-12,Musculoesquelético,6
+2026-05-13,Musculoesquelético,5
+2026-05-14,Musculoesquelético,5
+2026-05-15,Musculoesquelético,9
+2026-05-16,Musculoesquelético,6
+2026-05-17,Musculoesquelético,3
+2026-05-18,Musculoesquelético,3
+2026-05-19,Musculoesquelético,4
+2026-05-20,Musculoesquelético,6
+2026-05-21,Musculoesquelético,5
+2026-05-22,Musculoesquelético,7
+2026-05-23,Musculoesquelético,3
+2026-05-24,Musculoesquelético,6
+2026-05-25,Musculoesquelético,9
+2026-05-26,Musculoesquelético,11
+2026-05-27,Musculoesquelético,5
+2026-05-28,Musculoesquelético,4
+2026-05-29,Musculoesquelético,8
+2026-05-30,Musculoesquelético,5
+2026-05-31,Musculoesquelético,8
+2026-06-01,Musculoesquelético,2
+2026-06-02,Musculoesquelético,6
+2026-06-03,Musculoesquelético,10
+2026-06-04,Musculoesquelético,7
+2026-06-05,Musculoesquelético,9
+2026-06-06,Musculoesquelético,8
+2026-06-07,Musculoesquelético,8
+2026-06-08,Musculoesquelético,9
+2026-06-09,Musculoesquelético,8
+2026-06-10,Musculoesquelético,7
+2026-06-11,Musculoesquelético,9
+2026-06-12,Musculoesquelético,5
+2026-06-13,Musculoesquelético,7
+2026-06-14,Musculoesquelético,6
+2026-06-15,Musculoesquelético,4
+2026-06-16,Musculoesquelético,6
+2026-06-17,Musculoesquelético,8
+2026-06-18,Musculoesquelético,6
+2026-06-19,Musculoesquelético,5
+2026-06-20,Musculoesquelético,6
+2026-06-21,Musculoesquelético,2
+2026-06-22,Musculoesquelético,7
+2026-06-23,Musculoesquelético,4
+2026-06-24,Musculoesquelético,12
+2026-06-25,Musculoesquelético,6
+2026-06-26,Musculoesquelético,3
+2026-06-27,Musculoesquelético,5
+2026-06-28,Musculoesquelético,5
+2026-06-29,Musculoesquelético,10
+2026-06-30,Musculoesquelético,4
+2026-07-01,Musculoesquelético,5
+2026-07-02,Musculoesquelético,4
+2026-07-03,Musculoesquelético,3
+2026-07-04,Musculoesquelético,6
+2026-07-05,Musculoesquelético,9
+2026-07-06,Musculoesquelético,10
+2026-07-07,Musculoesquelético,9
+2026-07-08,Musculoesquelético,7
+2026-07-09,Musculoesquelético,7
+2026-07-10,Musculoesquelético,7
+2026-07-11,Musculoesquelético,10
+2026-07-12,Musculoesquelético,16
+2026-07-13,Musculoesquelético,3
+2026-07-14,Musculoesquelético,5
+2026-07-15,Musculoesquelético,9
+2026-07-16,Musculoesquelético,6
+2026-07-17,Musculoesquelético,6
+2026-07-18,Musculoesquelético,3
+2026-07-19,Musculoesquelético,4
+2026-07-20,Musculoesquelético,10
+2026-07-21,Musculoesquelético,9
+2026-07-22,Musculoesquelético,4
+2026-07-23,Musculoesquelético,11
+2026-07-24,Musculoesquelético,6
+2026-07-25,Musculoesquelético,5
+2026-07-26,Musculoesquelético,8
+2026-07-27,Musculoesquelético,12
+2026-07-28,Musculoesquelético,11
+2026-07-29,Musculoesquelético,7
+2026-07-30,Musculoesquelético,11
+2026-07-31,Musculoesquelético,4
+2026-08-01,Musculoesquelético,4
+2026-08-02,Musculoesquelético,13
+2026-08-03,Musculoesquelético,3
+2026-08-04,Musculoesquelético,6
+2026-08-05,Musculoesquelético,10
+2026-08-06,Musculoesquelético,8
+2026-08-07,Musculoesquelético,6
+2026-08-08,Musculoesquelético,4
+2026-08-09,Musculoesquelético,3
+2026-08-10,Musculoesquelético,10
+2026-08-11,Musculoesquelético,8
+2026-08-12,Musculoesquelético,7
+2026-08-13,Musculoesquelético,8
+2026-08-14,Musculoesquelético,9
+2026-08-15,Musculoesquelético,10
+2026-08-16,Musculoesquelético,11
+2026-08-17,Musculoesquelético,6
+2026-08-18,Musculoesquelético,8
+2026-08-19,Musculoesquelético,6
+2026-08-20,Musculoesquelético,6
+2026-08-21,Musculoesquelético,6
+2026-08-22,Musculoesquelético,12
+2026-08-23,Musculoesquelético,7
+2026-08-24,Musculoesquelético,7
+2026-08-25,Musculoesquelético,5
+2026-08-26,Musculoesquelético,4
+2026-08-27,Musculoesquelético,7
+2026-08-28,Musculoesquelético,11
+2026-08-29,Musculoesquelético,10
+2026-08-30,Musculoesquelético,8
+2026-08-31,Musculoesquelético,7
+2026-09-01,Musculoesquelético,5
+2026-09-02,Musculoesquelético,6
+2026-09-03,Musculoesquelético,3
+2026-09-04,Musculoesquelético,9
+2026-09-05,Musculoesquelético,5
+2026-09-06,Musculoesquelético,6
+2026-09-07,Musculoesquelético,4
+2026-09-08,Musculoesquelético,15
+2026-09-09,Musculoesquelético,4
+2026-09-10,Musculoesquelético,5
+2026-09-11,Musculoesquelético,9
+2026-09-12,Musculoesquelético,6
+2026-09-13,Musculoesquelético,6
+2026-09-14,Musculoesquelético,6
+2026-09-15,Musculoesquelético,4
+2026-09-16,Musculoesquelético,4
+2026-09-17,Musculoesquelético,6
+2026-09-18,Musculoesquelético,7
+2026-09-19,Musculoesquelético,3
+2026-09-20,Musculoesquelético,8
+2026-09-21,Musculoesquelético,6
+2026-09-22,Musculoesquelético,8
+2026-09-23,Musculoesquelético,1
+2026-09-24,Musculoesquelético,7
+2026-09-25,Musculoesquelético,6
+2026-09-26,Musculoesquelético,4
+2026-09-27,Musculoesquelético,8
+2026-09-28,Musculoesquelético,8
+2026-09-29,Musculoesquelético,8
+2026-09-30,Musculoesquelético,5
+2026-10-01,Musculoesquelético,7
+2026-10-02,Musculoesquelético,10
+2026-10-03,Musculoesquelético,7
+2026-10-04,Musculoesquelético,8
+2026-10-05,Musculoesquelético,7
+2026-10-06,Musculoesquelético,8
+2026-10-07,Musculoesquelético,6
+2026-10-08,Musculoesquelético,4
+2026-10-09,Musculoesquelético,6
+2026-10-10,Musculoesquelético,5
+2026-10-11,Musculoesquelético,4
+2026-10-12,Musculoesquelético,5
+2026-10-13,Musculoesquelético,8
+2026-10-14,Musculoesquelético,3
+2026-10-15,Musculoesquelético,8
+2026-10-16,Musculoesquelético,7
+2026-10-17,Musculoesquelético,12
+2026-10-18,Musculoesquelético,7
+2025-10-20,Cefalea y malestar general,6
+2025-10-21,Cefalea y malestar general,7
+2025-10-22,Cefalea y malestar general,3
+2025-10-23,Cefalea y malestar general,3
+2025-10-24,Cefalea y malestar general,5
+2025-10-25,Cefalea y malestar general,8
+2025-10-26,Cefalea y malestar general,5
+2025-10-27,Cefalea y malestar general,2
+2025-10-28,Cefalea y malestar general,3
+2025-10-29,Cefalea y malestar general,2
+2025-10-30,Cefalea y malestar general,2
+2025-10-31,Cefalea y malestar general,5
+2025-11-01,Cefalea y malestar general,4
+2025-11-02,Cefalea y malestar general,5
+2025-11-03,Cefalea y malestar general,6
+2025-11-04,Cefalea y malestar general,8
+2025-11-05,Cefalea y malestar general,3
+2025-11-06,Cefalea y malestar general,1
+2025-11-07,Cefalea y malestar general,5
+2025-11-08,Cefalea y malestar general,6
+2025-11-09,Cefalea y malestar general,4
+2025-11-10,Cefalea y malestar general,3
+2025-11-11,Cefalea y malestar general,2
+2025-11-12,Cefalea y malestar general,7
+2025-11-13,Cefalea y malestar general,7
+2025-11-14,Cefalea y malestar general,3
+2025-11-15,Cefalea y malestar general,6
+2025-11-16,Cefalea y malestar general,4
+2025-11-17,Cefalea y malestar general,4
+2025-11-18,Cefalea y malestar general,2
+2025-11-19,Cefalea y malestar general,4
+2025-11-20,Cefalea y malestar general,4
+2025-11-21,Cefalea y malestar general,2
+2025-11-22,Cefalea y malestar general,7
+2025-11-23,Cefalea y malestar general,4
+2025-11-24,Cefalea y malestar general,4
+2025-11-25,Cefalea y malestar general,7
+2025-11-26,Cefalea y malestar general,8
+2025-11-27,Cefalea y malestar general,5
+2025-11-28,Cefalea y malestar general,7
+2025-11-29,Cefalea y malestar general,5
+2025-11-30,Cefalea y malestar general,0
+2025-12-01,Cefalea y malestar general,5
+2025-12-02,Cefalea y malestar general,6
+2025-12-03,Cefalea y malestar general,2
+2025-12-04,Cefalea y malestar general,5
+2025-12-05,Cefalea y malestar general,5
+2025-12-06,Cefalea y malestar general,4
+2025-12-07,Cefalea y malestar general,3
+2025-12-08,Cefalea y malestar general,3
+2025-12-09,Cefalea y malestar general,1
+2025-12-10,Cefalea y malestar general,2
+2025-12-11,Cefalea y malestar general,6
+2025-12-12,Cefalea y malestar general,4
+2025-12-13,Cefalea y malestar general,3
+2025-12-14,Cefalea y malestar general,4
+2025-12-15,Cefalea y malestar general,3
+2025-12-16,Cefalea y malestar general,2
+2025-12-17,Cefalea y malestar general,2
+2025-12-18,Cefalea y malestar general,4
+2025-12-19,Cefalea y malestar general,6
+2025-12-20,Cefalea y malestar general,4
+2025-12-21,Cefalea y malestar general,4
+2025-12-22,Cefalea y malestar general,1
+2025-12-23,Cefalea y malestar general,4
+2025-12-24,Cefalea y malestar general,7
+2025-12-25,Cefalea y malestar general,3
+2025-12-26,Cefalea y malestar general,4
+2025-12-27,Cefalea y malestar general,3
+2025-12-28,Cefalea y malestar general,4
+2025-12-29,Cefalea y malestar general,5
+2025-12-30,Cefalea y malestar general,5
+2025-12-31,Cefalea y malestar general,3
+2026-01-01,Cefalea y malestar general,5
+2026-01-02,Cefalea y malestar general,9
+2026-01-03,Cefalea y malestar general,6
+2026-01-04,Cefalea y malestar general,7
+2026-01-05,Cefalea y malestar general,3
+2026-01-06,Cefalea y malestar general,7
+2026-01-07,Cefalea y malestar general,5
+2026-01-08,Cefalea y malestar general,3
+2026-01-09,Cefalea y malestar general,3
+2026-01-10,Cefalea y malestar general,1
+2026-01-11,Cefalea y malestar general,2
+2026-01-12,Cefalea y malestar general,7
+2026-01-13,Cefalea y malestar general,5
+2026-01-14,Cefalea y malestar general,6
+2026-01-15,Cefalea y malestar general,5
+2026-01-16,Cefalea y malestar general,5
+2026-01-17,Cefalea y malestar general,2
+2026-01-18,Cefalea y malestar general,4
+2026-01-19,Cefalea y malestar general,5
+2026-01-20,Cefalea y malestar general,3
+2026-01-21,Cefalea y malestar general,3
+2026-01-22,Cefalea y malestar general,3
+2026-01-23,Cefalea y malestar general,5
+2026-01-24,Cefalea y malestar general,3
+2026-01-25,Cefalea y malestar general,3
+2026-01-26,Cefalea y malestar general,4
+2026-01-27,Cefalea y malestar general,8
+2026-01-28,Cefalea y malestar general,3
+2026-01-29,Cefalea y malestar general,4
+2026-01-30,Cefalea y malestar general,5
+2026-01-31,Cefalea y malestar general,3
+2026-02-01,Cefalea y malestar general,4
+2026-02-02,Cefalea y malestar general,1
+2026-02-03,Cefalea y malestar general,3
+2026-02-04,Cefalea y malestar general,6
+2026-02-05,Cefalea y malestar general,5
+2026-02-06,Cefalea y malestar general,4
+2026-02-07,Cefalea y malestar general,3
+2026-02-08,Cefalea y malestar general,6
+2026-02-09,Cefalea y malestar general,5
+2026-02-10,Cefalea y malestar general,6
+2026-02-11,Cefalea y malestar general,6
+2026-02-12,Cefalea y malestar general,4
+2026-02-13,Cefalea y malestar general,2
+2026-02-14,Cefalea y malestar general,8
+2026-02-15,Cefalea y malestar general,2
+2026-02-16,Cefalea y malestar general,3
+2026-02-17,Cefalea y malestar general,4
+2026-02-18,Cefalea y malestar general,4
+2026-02-19,Cefalea y malestar general,8
+2026-02-20,Cefalea y malestar general,6
+2026-02-21,Cefalea y malestar general,4
+2026-02-22,Cefalea y malestar general,2
+2026-02-23,Cefalea y malestar general,7
+2026-02-24,Cefalea y malestar general,5
+2026-02-25,Cefalea y malestar general,3
+2026-02-26,Cefalea y malestar general,5
+2026-02-27,Cefalea y malestar general,2
+2026-02-28,Cefalea y malestar general,3
+2026-03-01,Cefalea y malestar general,5
+2026-03-02,Cefalea y malestar general,3
+2026-03-03,Cefalea y malestar general,0
+2026-03-04,Cefalea y malestar general,3
+2026-03-05,Cefalea y malestar general,6
+2026-03-06,Cefalea y malestar general,3
+2026-03-07,Cefalea y malestar general,7
+2026-03-08,Cefalea y malestar general,4
+2026-03-09,Cefalea y malestar general,4
+2026-03-10,Cefalea y malestar general,4
+2026-03-11,Cefalea y malestar general,6
+2026-03-12,Cefalea y malestar general,3
+2026-03-13,Cefalea y malestar general,0
+2026-03-14,Cefalea y malestar general,4
+2026-03-15,Cefalea y malestar general,6
+2026-03-16,Cefalea y malestar general,4
+2026-03-17,Cefalea y malestar general,1
+2026-03-18,Cefalea y malestar general,6
+2026-03-19,Cefalea y malestar general,5
+2026-03-20,Cefalea y malestar general,4
+2026-03-21,Cefalea y malestar general,3
+2026-03-22,Cefalea y malestar general,5
+2026-03-23,Cefalea y malestar general,8
+2026-03-24,Cefalea y malestar general,4
+2026-03-25,Cefalea y malestar general,6
+2026-03-26,Cefalea y malestar general,4
+2026-03-27,Cefalea y malestar general,3
+2026-03-28,Cefalea y malestar general,3
+2026-03-29,Cefalea y malestar general,5
+2026-03-30,Cefalea y malestar general,2
+2026-03-31,Cefalea y malestar general,5
+2026-04-01,Cefalea y malestar general,3
+2026-04-02,Cefalea y malestar general,3
+2026-04-03,Cefalea y malestar general,3
+2026-04-04,Cefalea y malestar general,6
+2026-04-05,Cefalea y malestar general,3
+2026-04-06,Cefalea y malestar general,6
+2026-04-07,Cefalea y malestar general,3
+2026-04-08,Cefalea y malestar general,4
+2026-04-09,Cefalea y malestar general,4
+2026-04-10,Cefalea y malestar general,9
+2026-04-11,Cefalea y malestar general,1
+2026-04-12,Cefalea y malestar general,2
+2026-04-13,Cefalea y malestar general,6
+2026-04-14,Cefalea y malestar general,1
+2026-04-15,Cefalea y malestar general,2
+2026-04-16,Cefalea y malestar general,6
+2026-04-17,Cefalea y malestar general,5
+2026-04-18,Cefalea y malestar general,1
+2026-04-19,Cefalea y malestar general,3
+2026-04-20,Cefalea y malestar general,6
+2026-04-21,Cefalea y malestar general,5
+2026-04-22,Cefalea y malestar general,4
+2026-04-23,Cefalea y malestar general,1
+2026-04-24,Cefalea y malestar general,2
+2026-04-25,Cefalea y malestar general,2
+2026-04-26,Cefalea y malestar general,5
+2026-04-27,Cefalea y malestar general,6
+2026-04-28,Cefalea y malestar general,3
+2026-04-29,Cefalea y malestar general,4
+2026-04-30,Cefalea y malestar general,5
+2026-05-01,Cefalea y malestar general,3
+2026-05-02,Cefalea y malestar general,4
+2026-05-03,Cefalea y malestar general,5
+2026-05-04,Cefalea y malestar general,6
+2026-05-05,Cefalea y malestar general,6
+2026-05-06,Cefalea y malestar general,5
+2026-05-07,Cefalea y malestar general,2
+2026-05-08,Cefalea y malestar general,4
+2026-05-09,Cefalea y malestar general,1
+2026-05-10,Cefalea y malestar general,3
+2026-05-11,Cefalea y malestar general,2
+2026-05-12,Cefalea y malestar general,1
+2026-05-13,Cefalea y malestar general,5
+2026-05-14,Cefalea y malestar general,1
+2026-05-15,Cefalea y malestar general,1
+2026-05-16,Cefalea y malestar general,4
+2026-05-17,Cefalea y malestar general,1
+2026-05-18,Cefalea y malestar general,8
+2026-05-19,Cefalea y malestar general,5
+2026-05-20,Cefalea y malestar general,3
+2026-05-21,Cefalea y malestar general,7
+2026-05-22,Cefalea y malestar general,6
+2026-05-23,Cefalea y malestar general,7
+2026-05-24,Cefalea y malestar general,4
+2026-05-25,Cefalea y malestar general,7
+2026-05-26,Cefalea y malestar general,5
+2026-05-27,Cefalea y malestar general,2
+2026-05-28,Cefalea y malestar general,2
+2026-05-29,Cefalea y malestar general,4
+2026-05-30,Cefalea y malestar general,2
+2026-05-31,Cefalea y malestar general,1
+2026-06-01,Cefalea y malestar general,2
+2026-06-02,Cefalea y malestar general,5
+2026-06-03,Cefalea y malestar general,7
+2026-06-04,Cefalea y malestar general,2
+2026-06-05,Cefalea y malestar general,3
+2026-06-06,Cefalea y malestar general,2
+2026-06-07,Cefalea y malestar general,5
+2026-06-08,Cefalea y malestar general,4
+2026-06-09,Cefalea y malestar general,6
+2026-06-10,Cefalea y malestar general,4
+2026-06-11,Cefalea y malestar general,3
+2026-06-12,Cefalea y malestar general,6
+2026-06-13,Cefalea y malestar general,4
+2026-06-14,Cefalea y malestar general,2
+2026-06-15,Cefalea y malestar general,2
+2026-06-16,Cefalea y malestar general,1
+2026-06-17,Cefalea y malestar general,7
+2026-06-18,Cefalea y malestar general,10
+2026-06-19,Cefalea y malestar general,2
+2026-06-20,Cefalea y malestar general,0
+2026-06-21,Cefalea y malestar general,3
+2026-06-22,Cefalea y malestar general,5
+2026-06-23,Cefalea y malestar general,2
+2026-06-24,Cefalea y malestar general,0
+2026-06-25,Cefalea y malestar general,2
+2026-06-26,Cefalea y malestar general,2
+2026-06-27,Cefalea y malestar general,5
+2026-06-28,Cefalea y malestar general,4
+2026-06-29,Cefalea y malestar general,3
+2026-06-30,Cefalea y malestar general,5
+2026-07-01,Cefalea y malestar general,7
+2026-07-02,Cefalea y malestar general,3
+2026-07-03,Cefalea y malestar general,7
+2026-07-04,Cefalea y malestar general,2
+2026-07-05,Cefalea y malestar general,2
+2026-07-06,Cefalea y malestar general,2
+2026-07-07,Cefalea y malestar general,3
+2026-07-08,Cefalea y malestar general,9
+2026-07-09,Cefalea y malestar general,6
+2026-07-10,Cefalea y malestar general,2
+2026-07-11,Cefalea y malestar general,4
+2026-07-12,Cefalea y malestar general,9
+2026-07-13,Cefalea y malestar general,0
+2026-07-14,Cefalea y malestar general,5
+2026-07-15,Cefalea y malestar general,3
+2026-07-16,Cefalea y malestar general,4
+2026-07-17,Cefalea y malestar general,3
+2026-07-18,Cefalea y malestar general,4
+2026-07-19,Cefalea y malestar general,2
+2026-07-20,Cefalea y malestar general,11
+2026-07-21,Cefalea y malestar general,6
+2026-07-22,Cefalea y malestar general,5
+2026-07-23,Cefalea y malestar general,6
+2026-07-24,Cefalea y malestar general,3
+2026-07-25,Cefalea y malestar general,4
+2026-07-26,Cefalea y malestar general,7
+2026-07-27,Cefalea y malestar general,6
+2026-07-28,Cefalea y malestar general,5
+2026-07-29,Cefalea y malestar general,8
+2026-07-30,Cefalea y malestar general,4
+2026-07-31,Cefalea y malestar general,3
+2026-08-01,Cefalea y malestar general,4
+2026-08-02,Cefalea y malestar general,5
+2026-08-03,Cefalea y malestar general,9
+2026-08-04,Cefalea y malestar general,3
+2026-08-05,Cefalea y malestar general,2
+2026-08-06,Cefalea y malestar general,3
+2026-08-07,Cefalea y malestar general,6
+2026-08-08,Cefalea y malestar general,1
+2026-08-09,Cefalea y malestar general,5
+2026-08-10,Cefalea y malestar general,4
+2026-08-11,Cefalea y malestar general,5
+2026-08-12,Cefalea y malestar general,4
+2026-08-13,Cefalea y malestar general,5
+2026-08-14,Cefalea y malestar general,1
+2026-08-15,Cefalea y malestar general,2
+2026-08-16,Cefalea y malestar general,5
+2026-08-17,Cefalea y malestar general,6
+2026-08-18,Cefalea y malestar general,3
+2026-08-19,Cefalea y malestar general,4
+2026-08-20,Cefalea y malestar general,10
+2026-08-21,Cefalea y malestar general,3
+2026-08-22,Cefalea y malestar general,4
+2026-08-23,Cefalea y malestar general,4
+2026-08-24,Cefalea y malestar general,2
+2026-08-25,Cefalea y malestar general,4
+2026-08-26,Cefalea y malestar general,7
+2026-08-27,Cefalea y malestar general,3
+2026-08-28,Cefalea y malestar general,3
+2026-08-29,Cefalea y malestar general,4
+2026-08-30,Cefalea y malestar general,3
+2026-08-31,Cefalea y malestar general,3
+2026-09-01,Cefalea y malestar general,4
+2026-09-02,Cefalea y malestar general,5
+2026-09-03,Cefalea y malestar general,4
+2026-09-04,Cefalea y malestar general,3
+2026-09-05,Cefalea y malestar general,3
+2026-09-06,Cefalea y malestar general,6
+2026-09-07,Cefalea y malestar general,1
+2026-09-08,Cefalea y malestar general,4
+2026-09-09,Cefalea y malestar general,8
+2026-09-10,Cefalea y malestar general,9
+2026-09-11,Cefalea y malestar general,4
+2026-09-12,Cefalea y malestar general,3
+2026-09-13,Cefalea y malestar general,3
+2026-09-14,Cefalea y malestar general,5
+2026-09-15,Cefalea y malestar general,2
+2026-09-16,Cefalea y malestar general,6
+2026-09-17,Cefalea y malestar general,2
+2026-09-18,Cefalea y malestar general,3
+2026-09-19,Cefalea y malestar general,5
+2026-09-20,Cefalea y malestar general,0
+2026-09-21,Cefalea y malestar general,4
+2026-09-22,Cefalea y malestar general,4
+2026-09-23,Cefalea y malestar general,7
+2026-09-24,Cefalea y malestar general,5
+2026-09-25,Cefalea y malestar general,4
+2026-09-26,Cefalea y malestar general,5
+2026-09-27,Cefalea y malestar general,4
+2026-09-28,Cefalea y malestar general,4
+2026-09-29,Cefalea y malestar general,9
+2026-09-30,Cefalea y malestar general,3
+2026-10-01,Cefalea y malestar general,4
+2026-10-02,Cefalea y malestar general,0
+2026-10-03,Cefalea y malestar general,1
+2026-10-04,Cefalea y malestar general,2
+2026-10-05,Cefalea y malestar general,4
+2026-10-06,Cefalea y malestar general,8
+2026-10-07,Cefalea y malestar general,1
+2026-10-08,Cefalea y malestar general,5
+2026-10-09,Cefalea y malestar general,6
+2026-10-10,Cefalea y malestar general,6
+2026-10-11,Cefalea y malestar general,3
+2026-10-12,Cefalea y malestar general,5
+2026-10-13,Cefalea y malestar general,3
+2026-10-14,Cefalea y malestar general,1
+2026-10-15,Cefalea y malestar general,4
+2026-10-16,Cefalea y malestar general,1
+2026-10-17,Cefalea y malestar general,7
+2026-10-18,Cefalea y malestar general,1
+2025-10-20,Digestivo,5
+2025-10-21,Digestivo,0
+2025-10-22,Digestivo,1
+2025-10-23,Digestivo,1
+2025-10-24,Digestivo,4
+2025-10-25,Digestivo,5
+2025-10-26,Digestivo,3
+2025-10-27,Digestivo,1
+2025-10-28,Digestivo,2
+2025-10-29,Digestivo,2
+2025-10-30,Digestivo,1
+2025-10-31,Digestivo,3
+2025-11-01,Digestivo,2
+2025-11-02,Digestivo,4
+2025-11-03,Digestivo,4
+2025-11-04,Digestivo,4
+2025-11-05,Digestivo,4
+2025-11-06,Digestivo,3
+2025-11-07,Digestivo,5
+2025-11-08,Digestivo,2
+2025-11-09,Digestivo,2
+2025-11-10,Digestivo,5
+2025-11-11,Digestivo,1
+2025-11-12,Digestivo,3
+2025-11-13,Digestivo,7
+2025-11-14,Digestivo,1
+2025-11-15,Digestivo,2
+2025-11-16,Digestivo,1
+2025-11-17,Digestivo,2
+2025-11-18,Digestivo,5
+2025-11-19,Digestivo,5
+2025-11-20,Digestivo,3
+2025-11-21,Digestivo,0
+2025-11-22,Digestivo,5
+2025-11-23,Digestivo,6
+2025-11-24,Digestivo,4
+2025-11-25,Digestivo,0
+2025-11-26,Digestivo,3
+2025-11-27,Digestivo,2
+2025-11-28,Digestivo,5
+2025-11-29,Digestivo,1
+2025-11-30,Digestivo,7
+2025-12-01,Digestivo,1
+2025-12-02,Digestivo,6
+2025-12-03,Digestivo,1
+2025-12-04,Digestivo,4
+2025-12-05,Digestivo,2
+2025-12-06,Digestivo,2
+2025-12-07,Digestivo,0
+2025-12-08,Digestivo,4
+2025-12-09,Digestivo,4
+2025-12-10,Digestivo,1
+2025-12-11,Digestivo,2
+2025-12-12,Digestivo,2
+2025-12-13,Digestivo,1
+2025-12-14,Digestivo,6
+2025-12-15,Digestivo,2
+2025-12-16,Digestivo,2
+2025-12-17,Digestivo,2
+2025-12-18,Digestivo,6
+2025-12-19,Digestivo,5
+2025-12-20,Digestivo,6
+2025-12-21,Digestivo,3
+2025-12-22,Digestivo,3
+2025-12-23,Digestivo,8
+2025-12-24,Digestivo,5
+2025-12-25,Digestivo,6
+2025-12-26,Digestivo,2
+2025-12-27,Digestivo,0
+2025-12-28,Digestivo,3
+2025-12-29,Digestivo,3
+2025-12-30,Digestivo,4
+2025-12-31,Digestivo,4
+2026-01-01,Digestivo,3
+2026-01-02,Digestivo,4
+2026-01-03,Digestivo,2
+2026-01-04,Digestivo,2
+2026-01-05,Digestivo,4
+2026-01-06,Digestivo,2
+2026-01-07,Digestivo,1
+2026-01-08,Digestivo,5
+2026-01-09,Digestivo,6
+2026-01-10,Digestivo,1
+2026-01-11,Digestivo,5
+2026-01-12,Digestivo,0
+2026-01-13,Digestivo,4
+2026-01-14,Digestivo,3
+2026-01-15,Digestivo,3
+2026-01-16,Digestivo,2
+2026-01-17,Digestivo,3
+2026-01-18,Digestivo,1
+2026-01-19,Digestivo,6
+2026-01-20,Digestivo,6
+2026-01-21,Digestivo,2
+2026-01-22,Digestivo,4
+2026-01-23,Digestivo,2
+2026-01-24,Digestivo,1
+2026-01-25,Digestivo,7
+2026-01-26,Digestivo,2
+2026-01-27,Digestivo,2
+2026-01-28,Digestivo,4
+2026-01-29,Digestivo,2
+2026-01-30,Digestivo,1
+2026-01-31,Digestivo,2
+2026-02-01,Digestivo,6
+2026-02-02,Digestivo,3
+2026-02-03,Digestivo,7
+2026-02-04,Digestivo,3
+2026-02-05,Digestivo,9
+2026-02-06,Digestivo,4
+2026-02-07,Digestivo,5
+2026-02-08,Digestivo,4
+2026-02-09,Digestivo,3
+2026-02-10,Digestivo,2
+2026-02-11,Digestivo,0
+2026-02-12,Digestivo,3
+2026-02-13,Digestivo,6
+2026-02-14,Digestivo,4
+2026-02-15,Digestivo,5
+2026-02-16,Digestivo,3
+2026-02-17,Digestivo,3
+2026-02-18,Digestivo,1
+2026-02-19,Digestivo,6
+2026-02-20,Digestivo,6
+2026-02-21,Digestivo,2
+2026-02-22,Digestivo,3
+2026-02-23,Digestivo,1
+2026-02-24,Digestivo,4
+2026-02-25,Digestivo,0
+2026-02-26,Digestivo,5
+2026-02-27,Digestivo,2
+2026-02-28,Digestivo,3
+2026-03-01,Digestivo,4
+2026-03-02,Digestivo,5
+2026-03-03,Digestivo,5
+2026-03-04,Digestivo,7
+2026-03-05,Digestivo,3
+2026-03-06,Digestivo,2
+2026-03-07,Digestivo,2
+2026-03-08,Digestivo,2
+2026-03-09,Digestivo,10
+2026-03-10,Digestivo,16
+2026-03-11,Digestivo,11
+2026-03-12,Digestivo,19
+2026-03-13,Digestivo,20
+2026-03-14,Digestivo,9
+2026-03-15,Digestivo,2
+2026-03-16,Digestivo,1
+2026-03-17,Digestivo,2
+2026-03-18,Digestivo,3
+2026-03-19,Digestivo,5
+2026-03-20,Digestivo,5
+2026-03-21,Digestivo,3
+2026-03-22,Digestivo,4
+2026-03-23,Digestivo,4
+2026-03-24,Digestivo,0
+2026-03-25,Digestivo,4
+2026-03-26,Digestivo,4
+2026-03-27,Digestivo,0
+2026-03-28,Digestivo,6
+2026-03-29,Digestivo,2
+2026-03-30,Digestivo,8
+2026-03-31,Digestivo,5
+2026-04-01,Digestivo,3
+2026-04-02,Digestivo,3
+2026-04-03,Digestivo,2
+2026-04-04,Digestivo,4
+2026-04-05,Digestivo,4
+2026-04-06,Digestivo,1
+2026-04-07,Digestivo,5
+2026-04-08,Digestivo,5
+2026-04-09,Digestivo,3
+2026-04-10,Digestivo,3
+2026-04-11,Digestivo,1
+2026-04-12,Digestivo,5
+2026-04-13,Digestivo,2
+2026-04-14,Digestivo,2
+2026-04-15,Digestivo,4
+2026-04-16,Digestivo,2
+2026-04-17,Digestivo,1
+2026-04-18,Digestivo,2
+2026-04-19,Digestivo,6
+2026-04-20,Digestivo,4
+2026-04-21,Digestivo,4
+2026-04-22,Digestivo,2
+2026-04-23,Digestivo,3
+2026-04-24,Digestivo,1
+2026-04-25,Digestivo,2
+2026-04-26,Digestivo,2
+2026-04-27,Digestivo,4
+2026-04-28,Digestivo,1
+2026-04-29,Digestivo,3
+2026-04-30,Digestivo,6
+2026-05-01,Digestivo,1
+2026-05-02,Digestivo,2
+2026-05-03,Digestivo,1
+2026-05-04,Digestivo,1
+2026-05-05,Digestivo,3
+2026-05-06,Digestivo,3
+2026-05-07,Digestivo,8
+2026-05-08,Digestivo,3
+2026-05-09,Digestivo,3
+2026-05-10,Digestivo,4
+2026-05-11,Digestivo,2
+2026-05-12,Digestivo,4
+2026-05-13,Digestivo,1
+2026-05-14,Digestivo,3
+2026-05-15,Digestivo,8
+2026-05-16,Digestivo,4
+2026-05-17,Digestivo,4
+2026-05-18,Digestivo,3
+2026-05-19,Digestivo,6
+2026-05-20,Digestivo,3
+2026-05-21,Digestivo,5
+2026-05-22,Digestivo,6
+2026-05-23,Digestivo,4
+2026-05-24,Digestivo,3
+2026-05-25,Digestivo,4
+2026-05-26,Digestivo,3
+2026-05-27,Digestivo,4
+2026-05-28,Digestivo,5
+2026-05-29,Digestivo,3
+2026-05-30,Digestivo,1
+2026-05-31,Digestivo,3
+2026-06-01,Digestivo,1
+2026-06-02,Digestivo,4
+2026-06-03,Digestivo,2
+2026-06-04,Digestivo,4
+2026-06-05,Digestivo,0
+2026-06-06,Digestivo,6
+2026-06-07,Digestivo,4
+2026-06-08,Digestivo,6
+2026-06-09,Digestivo,8
+2026-06-10,Digestivo,2
+2026-06-11,Digestivo,4
+2026-06-12,Digestivo,3
+2026-06-13,Digestivo,1
+2026-06-14,Digestivo,5
+2026-06-15,Digestivo,5
+2026-06-16,Digestivo,3
+2026-06-17,Digestivo,3
+2026-06-18,Digestivo,4
+2026-06-19,Digestivo,3
+2026-06-20,Digestivo,5
+2026-06-21,Digestivo,5
+2026-06-22,Digestivo,2
+2026-06-23,Digestivo,2
+2026-06-24,Digestivo,4
+2026-06-25,Digestivo,2
+2026-06-26,Digestivo,1
+2026-06-27,Digestivo,3
+2026-06-28,Digestivo,4
+2026-06-29,Digestivo,2
+2026-06-30,Digestivo,3
+2026-07-01,Digestivo,3
+2026-07-02,Digestivo,6
+2026-07-03,Digestivo,2
+2026-07-04,Digestivo,2
+2026-07-05,Digestivo,6
+2026-07-06,Digestivo,4
+2026-07-07,Digestivo,6
+2026-07-08,Digestivo,2
+2026-07-09,Digestivo,3
+2026-07-10,Digestivo,5
+2026-07-11,Digestivo,2
+2026-07-12,Digestivo,5
+2026-07-13,Digestivo,3
+2026-07-14,Digestivo,2
+2026-07-15,Digestivo,1
+2026-07-16,Digestivo,0
+2026-07-17,Digestivo,6
+2026-07-18,Digestivo,2
+2026-07-19,Digestivo,1
+2026-07-20,Digestivo,2
+2026-07-21,Digestivo,0
+2026-07-22,Digestivo,3
+2026-07-23,Digestivo,5
+2026-07-24,Digestivo,3
+2026-07-25,Digestivo,3
+2026-07-26,Digestivo,0
+2026-07-27,Digestivo,2
+2026-07-28,Digestivo,2
+2026-07-29,Digestivo,3
+2026-07-30,Digestivo,2
+2026-07-31,Digestivo,2
+2026-08-01,Digestivo,3
+2026-08-02,Digestivo,3
+2026-08-03,Digestivo,3
+2026-08-04,Digestivo,2
+2026-08-05,Digestivo,2
+2026-08-06,Digestivo,5
+2026-08-07,Digestivo,1
+2026-08-08,Digestivo,4
+2026-08-09,Digestivo,5
+2026-08-10,Digestivo,1
+2026-08-11,Digestivo,2
+2026-08-12,Digestivo,2
+2026-08-13,Digestivo,1
+2026-08-14,Digestivo,4
+2026-08-15,Digestivo,5
+2026-08-16,Digestivo,5
+2026-08-17,Digestivo,4
+2026-08-18,Digestivo,6
+2026-08-19,Digestivo,2
+2026-08-20,Digestivo,6
+2026-08-21,Digestivo,3
+2026-08-22,Digestivo,2
+2026-08-23,Digestivo,0
+2026-08-24,Digestivo,2
+2026-08-25,Digestivo,2
+2026-08-26,Digestivo,2
+2026-08-27,Digestivo,3
+2026-08-28,Digestivo,1
+2026-08-29,Digestivo,5
+2026-08-30,Digestivo,4
+2026-08-31,Digestivo,4
+2026-09-01,Digestivo,3
+2026-09-02,Digestivo,8
+2026-09-03,Digestivo,4
+2026-09-04,Digestivo,3
+2026-09-05,Digestivo,3
+2026-09-06,Digestivo,3
+2026-09-07,Digestivo,2
+2026-09-08,Digestivo,5
+2026-09-09,Digestivo,2
+2026-09-10,Digestivo,7
+2026-09-11,Digestivo,1
+2026-09-12,Digestivo,4
+2026-09-13,Digestivo,2
+2026-09-14,Digestivo,5
+2026-09-15,Digestivo,3
+2026-09-16,Digestivo,4
+2026-09-17,Digestivo,1
+2026-09-18,Digestivo,2
+2026-09-19,Digestivo,2
+2026-09-20,Digestivo,4
+2026-09-21,Digestivo,4
+2026-09-22,Digestivo,8
+2026-09-23,Digestivo,4
+2026-09-24,Digestivo,1
+2026-09-25,Digestivo,6
+2026-09-26,Digestivo,3
+2026-09-27,Digestivo,1
+2026-09-28,Digestivo,1
+2026-09-29,Digestivo,4
+2026-09-30,Digestivo,5
+2026-10-01,Digestivo,1
+2026-10-02,Digestivo,4
+2026-10-03,Digestivo,6
+2026-10-04,Digestivo,5
+2026-10-05,Digestivo,3
+2026-10-06,Digestivo,0
+2026-10-07,Digestivo,1
+2026-10-08,Digestivo,4
+2026-10-09,Digestivo,0
+2026-10-10,Digestivo,2
+2026-10-11,Digestivo,2
+2026-10-12,Digestivo,5
+2026-10-13,Digestivo,4
+2026-10-14,Digestivo,5
+2026-10-15,Digestivo,0
+2026-10-16,Digestivo,2
+2026-10-17,Digestivo,3
+2026-10-18,Digestivo,3
+2025-10-20,Dermatológico,0
+2025-10-21,Dermatológico,0
+2025-10-22,Dermatológico,2
+2025-10-23,Dermatológico,1
+2025-10-24,Dermatológico,2
+2025-10-25,Dermatológico,1
+2025-10-26,Dermatológico,5
+2025-10-27,Dermatológico,4
+2025-10-28,Dermatológico,3
+2025-10-29,Dermatológico,4
+2025-10-30,Dermatológico,1
+2025-10-31,Dermatológico,3
+2025-11-01,Dermatológico,1
+2025-11-02,Dermatológico,1
+2025-11-03,Dermatológico,3
+2025-11-04,Dermatológico,2
+2025-11-05,Dermatológico,0
+2025-11-06,Dermatológico,0
+2025-11-07,Dermatológico,7
+2025-11-08,Dermatológico,3
+2025-11-09,Dermatológico,3
+2025-11-10,Dermatológico,1
+2025-11-11,Dermatológico,1
+2025-11-12,Dermatológico,0
+2025-11-13,Dermatológico,2
+2025-11-14,Dermatológico,2
+2025-11-15,Dermatológico,1
+2025-11-16,Dermatológico,2
+2025-11-17,Dermatológico,3
+2025-11-18,Dermatológico,1
+2025-11-19,Dermatológico,0
+2025-11-20,Dermatológico,1
+2025-11-21,Dermatológico,3
+2025-11-22,Dermatológico,2
+2025-11-23,Dermatológico,2
+2025-11-24,Dermatológico,3
+2025-11-25,Dermatológico,2
+2025-11-26,Dermatológico,2
+2025-11-27,Dermatológico,0
+2025-11-28,Dermatológico,2
+2025-11-29,Dermatológico,4
+2025-11-30,Dermatológico,5
+2025-12-01,Dermatológico,3
+2025-12-02,Dermatológico,2
+2025-12-03,Dermatológico,1
+2025-12-04,Dermatológico,1
+2025-12-05,Dermatológico,1
+2025-12-06,Dermatológico,1
+2025-12-07,Dermatológico,5
+2025-12-08,Dermatológico,4
+2025-12-09,Dermatológico,2
+2025-12-10,Dermatológico,6
+2025-12-11,Dermatológico,2
+2025-12-12,Dermatológico,1
+2025-12-13,Dermatológico,4
+2025-12-14,Dermatológico,2
+2025-12-15,Dermatológico,4
+2025-12-16,Dermatológico,0
+2025-12-17,Dermatológico,3
+2025-12-18,Dermatológico,3
+2025-12-19,Dermatológico,2
+2025-12-20,Dermatológico,1
+2025-12-21,Dermatológico,3
+2025-12-22,Dermatológico,0
+2025-12-23,Dermatológico,2
+2025-12-24,Dermatológico,1
+2025-12-25,Dermatológico,3
+2025-12-26,Dermatológico,2
+2025-12-27,Dermatológico,3
+2025-12-28,Dermatológico,4
+2025-12-29,Dermatológico,1
+2025-12-30,Dermatológico,2
+2025-12-31,Dermatológico,1
+2026-01-01,Dermatológico,1
+2026-01-02,Dermatológico,1
+2026-01-03,Dermatológico,2
+2026-01-04,Dermatológico,2
+2026-01-05,Dermatológico,2
+2026-01-06,Dermatológico,3
+2026-01-07,Dermatológico,5
+2026-01-08,Dermatológico,1
+2026-01-09,Dermatológico,3
+2026-01-10,Dermatológico,3
+2026-01-11,Dermatológico,2
+2026-01-12,Dermatológico,0
+2026-01-13,Dermatológico,2
+2026-01-14,Dermatológico,2
+2026-01-15,Dermatológico,2
+2026-01-16,Dermatológico,7
+2026-01-17,Dermatológico,2
+2026-01-18,Dermatológico,2
+2026-01-19,Dermatológico,5
+2026-01-20,Dermatológico,3
+2026-01-21,Dermatológico,1
+2026-01-22,Dermatológico,3
+2026-01-23,Dermatológico,2
+2026-01-24,Dermatológico,4
+2026-01-25,Dermatológico,2
+2026-01-26,Dermatológico,2
+2026-01-27,Dermatológico,1
+2026-01-28,Dermatológico,2
+2026-01-29,Dermatológico,2
+2026-01-30,Dermatológico,3
+2026-01-31,Dermatológico,3
+2026-02-01,Dermatológico,2
+2026-02-02,Dermatológico,2
+2026-02-03,Dermatológico,1
+2026-02-04,Dermatológico,3
+2026-02-05,Dermatológico,2
+2026-02-06,Dermatológico,2
+2026-02-07,Dermatológico,4
+2026-02-08,Dermatológico,1
+2026-02-09,Dermatológico,2
+2026-02-10,Dermatológico,2
+2026-02-11,Dermatológico,4
+2026-02-12,Dermatológico,2
+2026-02-13,Dermatológico,3
+2026-02-14,Dermatológico,1
+2026-02-15,Dermatológico,3
+2026-02-16,Dermatológico,2
+2026-02-17,Dermatológico,3
+2026-02-18,Dermatológico,1
+2026-02-19,Dermatológico,2
+2026-02-20,Dermatológico,5
+2026-02-21,Dermatológico,0
+2026-02-22,Dermatológico,0
+2026-02-23,Dermatológico,3
+2026-02-24,Dermatológico,4
+2026-02-25,Dermatológico,0
+2026-02-26,Dermatológico,3
+2026-02-27,Dermatológico,3
+2026-02-28,Dermatológico,2
+2026-03-01,Dermatológico,1
+2026-03-02,Dermatológico,1
+2026-03-03,Dermatológico,1
+2026-03-04,Dermatológico,1
+2026-03-05,Dermatológico,2
+2026-03-06,Dermatológico,2
+2026-03-07,Dermatológico,1
+2026-03-08,Dermatológico,5
+2026-03-09,Dermatológico,3
+2026-03-10,Dermatológico,0
+2026-03-11,Dermatológico,0
+2026-03-12,Dermatológico,0
+2026-03-13,Dermatológico,2
+2026-03-14,Dermatológico,4
+2026-03-15,Dermatológico,4
+2026-03-16,Dermatológico,6
+2026-03-17,Dermatológico,1
+2026-03-18,Dermatológico,3
+2026-03-19,Dermatológico,1
+2026-03-20,Dermatológico,0
+2026-03-21,Dermatológico,1
+2026-03-22,Dermatológico,3
+2026-03-23,Dermatológico,1
+2026-03-24,Dermatológico,0
+2026-03-25,Dermatológico,2
+2026-03-26,Dermatológico,3
+2026-03-27,Dermatológico,4
+2026-03-28,Dermatológico,1
+2026-03-29,Dermatológico,7
+2026-03-30,Dermatológico,0
+2026-03-31,Dermatológico,1
+2026-04-01,Dermatológico,1
+2026-04-02,Dermatológico,5
+2026-04-03,Dermatológico,1
+2026-04-04,Dermatológico,1
+2026-04-05,Dermatológico,1
+2026-04-06,Dermatológico,0
+2026-04-07,Dermatológico,1
+2026-04-08,Dermatológico,7
+2026-04-09,Dermatológico,2
+2026-04-10,Dermatológico,1
+2026-04-11,Dermatológico,2
+2026-04-12,Dermatológico,4
+2026-04-13,Dermatológico,2
+2026-04-14,Dermatológico,0
+2026-04-15,Dermatológico,1
+2026-04-16,Dermatológico,5
+2026-04-17,Dermatológico,1
+2026-04-18,Dermatológico,4
+2026-04-19,Dermatológico,2
+2026-04-20,Dermatológico,3
+2026-04-21,Dermatológico,3
+2026-04-22,Dermatológico,1
+2026-04-23,Dermatológico,1
+2026-04-24,Dermatológico,3
+2026-04-25,Dermatológico,0
+2026-04-26,Dermatológico,4
+2026-04-27,Dermatológico,1
+2026-04-28,Dermatológico,1
+2026-04-29,Dermatológico,4
+2026-04-30,Dermatológico,3
+2026-05-01,Dermatológico,0
+2026-05-02,Dermatológico,3
+2026-05-03,Dermatológico,0
+2026-05-04,Dermatológico,1
+2026-05-05,Dermatológico,2
+2026-05-06,Dermatológico,2
+2026-05-07,Dermatológico,3
+2026-05-08,Dermatológico,3
+2026-05-09,Dermatológico,1
+2026-05-10,Dermatológico,4
+2026-05-11,Dermatológico,3
+2026-05-12,Dermatológico,1
+2026-05-13,Dermatológico,0
+2026-05-14,Dermatológico,3
+2026-05-15,Dermatológico,4
+2026-05-16,Dermatológico,1
+2026-05-17,Dermatológico,3
+2026-05-18,Dermatológico,3
+2026-05-19,Dermatológico,2
+2026-05-20,Dermatológico,1
+2026-05-21,Dermatológico,1
+2026-05-22,Dermatológico,4
+2026-05-23,Dermatológico,2
+2026-05-24,Dermatológico,2
+2026-05-25,Dermatológico,2
+2026-05-26,Dermatológico,0
+2026-05-27,Dermatológico,1
+2026-05-28,Dermatológico,2
+2026-05-29,Dermatológico,2
+2026-05-30,Dermatológico,1
+2026-05-31,Dermatológico,1
+2026-06-01,Dermatológico,0
+2026-06-02,Dermatológico,1
+2026-06-03,Dermatológico,4
+2026-06-04,Dermatológico,2
+2026-06-05,Dermatológico,1
+2026-06-06,Dermatológico,2
+2026-06-07,Dermatológico,2
+2026-06-08,Dermatológico,1
+2026-06-09,Dermatológico,0
+2026-06-10,Dermatológico,5
+2026-06-11,Dermatológico,0
+2026-06-12,Dermatológico,4
+2026-06-13,Dermatológico,2
+2026-06-14,Dermatológico,2
+2026-06-15,Dermatológico,2
+2026-06-16,Dermatológico,1
+2026-06-17,Dermatológico,1
+2026-06-18,Dermatológico,1
+2026-06-19,Dermatológico,0
+2026-06-20,Dermatológico,1
+2026-06-21,Dermatológico,0
+2026-06-22,Dermatológico,2
+2026-06-23,Dermatológico,7
+2026-06-24,Dermatológico,2
+2026-06-25,Dermatológico,2
+2026-06-26,Dermatológico,4
+2026-06-27,Dermatológico,1
+2026-06-28,Dermatológico,1
+2026-06-29,Dermatológico,4
+2026-06-30,Dermatológico,1
+2026-07-01,Dermatológico,6
+2026-07-02,Dermatológico,3
+2026-07-03,Dermatológico,3
+2026-07-04,Dermatológico,4
+2026-07-05,Dermatológico,0
+2026-07-06,Dermatológico,1
+2026-07-07,Dermatológico,0
+2026-07-08,Dermatológico,2
+2026-07-09,Dermatológico,3
+2026-07-10,Dermatológico,0
+2026-07-11,Dermatológico,3
+2026-07-12,Dermatológico,4
+2026-07-13,Dermatológico,2
+2026-07-14,Dermatológico,2
+2026-07-15,Dermatológico,0
+2026-07-16,Dermatológico,1
+2026-07-17,Dermatológico,4
+2026-07-18,Dermatológico,1
+2026-07-19,Dermatológico,3
+2026-07-20,Dermatológico,1
+2026-07-21,Dermatológico,2
+2026-07-22,Dermatológico,0
+2026-07-23,Dermatológico,1
+2026-07-24,Dermatológico,4
+2026-07-25,Dermatológico,1
+2026-07-26,Dermatológico,2
+2026-07-27,Dermatológico,1
+2026-07-28,Dermatológico,1
+2026-07-29,Dermatológico,2
+2026-07-30,Dermatológico,1
+2026-07-31,Dermatológico,1
+2026-08-01,Dermatológico,1
+2026-08-02,Dermatológico,0
+2026-08-03,Dermatológico,4
+2026-08-04,Dermatológico,3
+2026-08-05,Dermatológico,3
+2026-08-06,Dermatológico,7
+2026-08-07,Dermatológico,1
+2026-08-08,Dermatológico,0
+2026-08-09,Dermatológico,2
+2026-08-10,Dermatológico,2
+2026-08-11,Dermatológico,4
+2026-08-12,Dermatológico,0
+2026-08-13,Dermatológico,2
+2026-08-14,Dermatológico,0
+2026-08-15,Dermatológico,1
+2026-08-16,Dermatológico,3
+2026-08-17,Dermatológico,3
+2026-08-18,Dermatológico,5
+2026-08-19,Dermatológico,2
+2026-08-20,Dermatológico,2
+2026-08-21,Dermatológico,1
+2026-08-22,Dermatológico,6
+2026-08-23,Dermatológico,3
+2026-08-24,Dermatológico,0
+2026-08-25,Dermatológico,5
+2026-08-26,Dermatológico,0
+2026-08-27,Dermatológico,1
+2026-08-28,Dermatológico,1
+2026-08-29,Dermatológico,3
+2026-08-30,Dermatológico,1
+2026-08-31,Dermatológico,1
+2026-09-01,Dermatológico,2
+2026-09-02,Dermatológico,1
+2026-09-03,Dermatológico,5
+2026-09-04,Dermatológico,2
+2026-09-05,Dermatológico,1
+2026-09-06,Dermatológico,0
+2026-09-07,Dermatológico,2
+2026-09-08,Dermatológico,3
+2026-09-09,Dermatológico,2
+2026-09-10,Dermatológico,0
+2026-09-11,Dermatológico,1
+2026-09-12,Dermatológico,2
+2026-09-13,Dermatológico,2
+2026-09-14,Dermatológico,5
+2026-09-15,Dermatológico,0
+2026-09-16,Dermatológico,1
+2026-09-17,Dermatológico,4
+2026-09-18,Dermatológico,0
+2026-09-19,Dermatológico,0
+2026-09-20,Dermatológico,1
+2026-09-21,Dermatológico,0
+2026-09-22,Dermatológico,3
+2026-09-23,Dermatológico,3
+2026-09-24,Dermatológico,2
+2026-09-25,Dermatológico,0
+2026-09-26,Dermatológico,3
+2026-09-27,Dermatológico,1
+2026-09-28,Dermatológico,2
+2026-09-29,Dermatológico,2
+2026-09-30,Dermatológico,1
+2026-10-01,Dermatológico,1
+2026-10-02,Dermatológico,0
+2026-10-03,Dermatológico,2
+2026-10-04,Dermatológico,0
+2026-10-05,Dermatológico,1
+2026-10-06,Dermatológico,3
+2026-10-07,Dermatológico,2
+2026-10-08,Dermatológico,4
+2026-10-09,Dermatológico,2
+2026-10-10,Dermatológico,3
+2026-10-11,Dermatológico,1
+2026-10-12,Dermatológico,3
+2026-10-13,Dermatológico,4
+2026-10-14,Dermatológico,3
+2026-10-15,Dermatológico,1
+2026-10-16,Dermatológico,2
+2026-10-17,Dermatológico,1
+2026-10-18,Dermatológico,2
+2025-10-20,Trauma leve,3
+2025-10-21,Trauma leve,2
+2025-10-22,Trauma leve,4
+2025-10-23,Trauma leve,2
+2025-10-24,Trauma leve,0
+2025-10-25,Trauma leve,2
+2025-10-26,Trauma leve,3
+2025-10-27,Trauma leve,4
+2025-10-28,Trauma leve,5
+2025-10-29,Trauma leve,0
+2025-10-30,Trauma leve,3
+2025-10-31,Trauma leve,5
+2025-11-01,Trauma leve,4
+2025-11-02,Trauma leve,2
+2025-11-03,Trauma leve,2
+2025-11-04,Trauma leve,4
+2025-11-05,Trauma leve,2
+2025-11-06,Trauma leve,7
+2025-11-07,Trauma leve,3
+2025-11-08,Trauma leve,3
+2025-11-09,Trauma leve,0
+2025-11-10,Trauma leve,2
+2025-11-11,Trauma leve,2
+2025-11-12,Trauma leve,0
+2025-11-13,Trauma leve,3
+2025-11-14,Trauma leve,2
+2025-11-15,Trauma leve,2
+2025-11-16,Trauma leve,1
+2025-11-17,Trauma leve,4
+2025-11-18,Trauma leve,2
+2025-11-19,Trauma leve,1
+2025-11-20,Trauma leve,3
+2025-11-21,Trauma leve,4
+2025-11-22,Trauma leve,1
+2025-11-23,Trauma leve,1
+2025-11-24,Trauma leve,2
+2025-11-25,Trauma leve,4
+2025-11-26,Trauma leve,2
+2025-11-27,Trauma leve,2
+2025-11-28,Trauma leve,1
+2025-11-29,Trauma leve,2
+2025-11-30,Trauma leve,2
+2025-12-01,Trauma leve,1
+2025-12-02,Trauma leve,1
+2025-12-03,Trauma leve,2
+2025-12-04,Trauma leve,1
+2025-12-05,Trauma leve,2
+2025-12-06,Trauma leve,1
+2025-12-07,Trauma leve,3
+2025-12-08,Trauma leve,2
+2025-12-09,Trauma leve,4
+2025-12-10,Trauma leve,1
+2025-12-11,Trauma leve,0
+2025-12-12,Trauma leve,3
+2025-12-13,Trauma leve,0
+2025-12-14,Trauma leve,2
+2025-12-15,Trauma leve,5
+2025-12-16,Trauma leve,1
+2025-12-17,Trauma leve,1
+2025-12-18,Trauma leve,5
+2025-12-19,Trauma leve,2
+2025-12-20,Trauma leve,3
+2025-12-21,Trauma leve,1
+2025-12-22,Trauma leve,2
+2025-12-23,Trauma leve,1
+2025-12-24,Trauma leve,4
+2025-12-25,Trauma leve,5
+2025-12-26,Trauma leve,1
+2025-12-27,Trauma leve,2
+2025-12-28,Trauma leve,0
+2025-12-29,Trauma leve,4
+2025-12-30,Trauma leve,2
+2025-12-31,Trauma leve,1
+2026-01-01,Trauma leve,2
+2026-01-02,Trauma leve,3
+2026-01-03,Trauma leve,3
+2026-01-04,Trauma leve,3
+2026-01-05,Trauma leve,4
+2026-01-06,Trauma leve,1
+2026-01-07,Trauma leve,3
+2026-01-08,Trauma leve,2
+2026-01-09,Trauma leve,1
+2026-01-10,Trauma leve,2
+2026-01-11,Trauma leve,3
+2026-01-12,Trauma leve,1
+2026-01-13,Trauma leve,3
+2026-01-14,Trauma leve,4
+2026-01-15,Trauma leve,1
+2026-01-16,Trauma leve,5
+2026-01-17,Trauma leve,2
+2026-01-18,Trauma leve,4
+2026-01-19,Trauma leve,1
+2026-01-20,Trauma leve,3
+2026-01-21,Trauma leve,2
+2026-01-22,Trauma leve,4
+2026-01-23,Trauma leve,0
+2026-01-24,Trauma leve,3
+2026-01-25,Trauma leve,2
+2026-01-26,Trauma leve,2
+2026-01-27,Trauma leve,6
+2026-01-28,Trauma leve,4
+2026-01-29,Trauma leve,3
+2026-01-30,Trauma leve,3
+2026-01-31,Trauma leve,4
+2026-02-01,Trauma leve,3
+2026-02-02,Trauma leve,4
+2026-02-03,Trauma leve,2
+2026-02-04,Trauma leve,3
+2026-02-05,Trauma leve,2
+2026-02-06,Trauma leve,1
+2026-02-07,Trauma leve,4
+2026-02-08,Trauma leve,3
+2026-02-09,Trauma leve,1
+2026-02-10,Trauma leve,2
+2026-02-11,Trauma leve,0
+2026-02-12,Trauma leve,1
+2026-02-13,Trauma leve,4
+2026-02-14,Trauma leve,4
+2026-02-15,Trauma leve,3
+2026-02-16,Trauma leve,2
+2026-02-17,Trauma leve,0
+2026-02-18,Trauma leve,0
+2026-02-19,Trauma leve,2
+2026-02-20,Trauma leve,1
+2026-02-21,Trauma leve,3
+2026-02-22,Trauma leve,0
+2026-02-23,Trauma leve,1
+2026-02-24,Trauma leve,0
+2026-02-25,Trauma leve,2
+2026-02-26,Trauma leve,0
+2026-02-27,Trauma leve,5
+2026-02-28,Trauma leve,2
+2026-03-01,Trauma leve,1
+2026-03-02,Trauma leve,3
+2026-03-03,Trauma leve,4
+2026-03-04,Trauma leve,3
+2026-03-05,Trauma leve,2
+2026-03-06,Trauma leve,2
+2026-03-07,Trauma leve,1
+2026-03-08,Trauma leve,3
+2026-03-09,Trauma leve,2
+2026-03-10,Trauma leve,1
+2026-03-11,Trauma leve,6
+2026-03-12,Trauma leve,1
+2026-03-13,Trauma leve,4
+2026-03-14,Trauma leve,1
+2026-03-15,Trauma leve,5
+2026-03-16,Trauma leve,1
+2026-03-17,Trauma leve,1
+2026-03-18,Trauma leve,2
+2026-03-19,Trauma leve,4
+2026-03-20,Trauma leve,1
+2026-03-21,Trauma leve,0
+2026-03-22,Trauma leve,3
+2026-03-23,Trauma leve,3
+2026-03-24,Trauma leve,3
+2026-03-25,Trauma leve,6
+2026-03-26,Trauma leve,1
+2026-03-27,Trauma leve,1
+2026-03-28,Trauma leve,9
+2026-03-29,Trauma leve,11
+2026-03-30,Trauma leve,1
+2026-03-31,Trauma leve,3
+2026-04-01,Trauma leve,8
+2026-04-02,Trauma leve,5
+2026-04-03,Trauma leve,2
+2026-04-04,Trauma leve,0
+2026-04-05,Trauma leve,3
+2026-04-06,Trauma leve,3
+2026-04-07,Trauma leve,1
+2026-04-08,Trauma leve,4
+2026-04-09,Trauma leve,2
+2026-04-10,Trauma leve,2
+2026-04-11,Trauma leve,2
+2026-04-12,Trauma leve,0
+2026-04-13,Trauma leve,2
+2026-04-14,Trauma leve,2
+2026-04-15,Trauma leve,1
+2026-04-16,Trauma leve,1
+2026-04-17,Trauma leve,2
+2026-04-18,Trauma leve,0
+2026-04-19,Trauma leve,1
+2026-04-20,Trauma leve,1
+2026-04-21,Trauma leve,3
+2026-04-22,Trauma leve,4
+2026-04-23,Trauma leve,3
+2026-04-24,Trauma leve,4
+2026-04-25,Trauma leve,4
+2026-04-26,Trauma leve,3
+2026-04-27,Trauma leve,4
+2026-04-28,Trauma leve,5
+2026-04-29,Trauma leve,1
+2026-04-30,Trauma leve,1
+2026-05-01,Trauma leve,1
+2026-05-02,Trauma leve,5
+2026-05-03,Trauma leve,2
+2026-05-04,Trauma leve,1
+2026-05-05,Trauma leve,2
+2026-05-06,Trauma leve,6
+2026-05-07,Trauma leve,1
+2026-05-08,Trauma leve,4
+2026-05-09,Trauma leve,1
+2026-05-10,Trauma leve,3
+2026-05-11,Trauma leve,5
+2026-05-12,Trauma leve,3
+2026-05-13,Trauma leve,2
+2026-05-14,Trauma leve,0
+2026-05-15,Trauma leve,0
+2026-05-16,Trauma leve,4
+2026-05-17,Trauma leve,3
+2026-05-18,Trauma leve,1
+2026-05-19,Trauma leve,2
+2026-05-20,Trauma leve,1
+2026-05-21,Trauma leve,0
+2026-05-22,Trauma leve,6
+2026-05-23,Trauma leve,1
+2026-05-24,Trauma leve,3
+2026-05-25,Trauma leve,2
+2026-05-26,Trauma leve,2
+2026-05-27,Trauma leve,2
+2026-05-28,Trauma leve,3
+2026-05-29,Trauma leve,2
+2026-05-30,Trauma leve,2
+2026-05-31,Trauma leve,2
+2026-06-01,Trauma leve,1
+2026-06-02,Trauma leve,2
+2026-06-03,Trauma leve,2
+2026-06-04,Trauma leve,5
+2026-06-05,Trauma leve,3
+2026-06-06,Trauma leve,4
+2026-06-07,Trauma leve,2
+2026-06-08,Trauma leve,1
+2026-06-09,Trauma leve,1
+2026-06-10,Trauma leve,3
+2026-06-11,Trauma leve,3
+2026-06-12,Trauma leve,2
+2026-06-13,Trauma leve,1
+2026-06-14,Trauma leve,4
+2026-06-15,Trauma leve,2
+2026-06-16,Trauma leve,1
+2026-06-17,Trauma leve,0
+2026-06-18,Trauma leve,3
+2026-06-19,Trauma leve,2
+2026-06-20,Trauma leve,2
+2026-06-21,Trauma leve,4
+2026-06-22,Trauma leve,3
+2026-06-23,Trauma leve,2
+2026-06-24,Trauma leve,2
+2026-06-25,Trauma leve,4
+2026-06-26,Trauma leve,4
+2026-06-27,Trauma leve,5
+2026-06-28,Trauma leve,2
+2026-06-29,Trauma leve,4
+2026-06-30,Trauma leve,2
+2026-07-01,Trauma leve,0
+2026-07-02,Trauma leve,5
+2026-07-03,Trauma leve,1
+2026-07-04,Trauma leve,2
+2026-07-05,Trauma leve,0
+2026-07-06,Trauma leve,2
+2026-07-07,Trauma leve,2
+2026-07-08,Trauma leve,3
+2026-07-09,Trauma leve,3
+2026-07-10,Trauma leve,2
+2026-07-11,Trauma leve,3
+2026-07-12,Trauma leve,3
+2026-07-13,Trauma leve,2
+2026-07-14,Trauma leve,1
+2026-07-15,Trauma leve,1
+2026-07-16,Trauma leve,2
+2026-07-17,Trauma leve,1
+2026-07-18,Trauma leve,1
+2026-07-19,Trauma leve,3
+2026-07-20,Trauma leve,3
+2026-07-21,Trauma leve,2
+2026-07-22,Trauma leve,2
+2026-07-23,Trauma leve,1
+2026-07-24,Trauma leve,2
+2026-07-25,Trauma leve,0
+2026-07-26,Trauma leve,1
+2026-07-27,Trauma leve,0
+2026-07-28,Trauma leve,2
+2026-07-29,Trauma leve,4
+2026-07-30,Trauma leve,0
+2026-07-31,Trauma leve,6
+2026-08-01,Trauma leve,4
+2026-08-02,Trauma leve,3
+2026-08-03,Trauma leve,1
+2026-08-04,Trauma leve,1
+2026-08-05,Trauma leve,4
+2026-08-06,Trauma leve,3
+2026-08-07,Trauma leve,3
+2026-08-08,Trauma leve,1
+2026-08-09,Trauma leve,1
+2026-08-10,Trauma leve,4
+2026-08-11,Trauma leve,0
+2026-08-12,Trauma leve,6
+2026-08-13,Trauma leve,6
+2026-08-14,Trauma leve,4
+2026-08-15,Trauma leve,2
+2026-08-16,Trauma leve,0
+2026-08-17,Trauma leve,3
+2026-08-18,Trauma leve,3
+2026-08-19,Trauma leve,2
+2026-08-20,Trauma leve,5
+2026-08-21,Trauma leve,2
+2026-08-22,Trauma leve,2
+2026-08-23,Trauma leve,1
+2026-08-24,Trauma leve,3
+2026-08-25,Trauma leve,2
+2026-08-26,Trauma leve,2
+2026-08-27,Trauma leve,3
+2026-08-28,Trauma leve,0
+2026-08-29,Trauma leve,2
+2026-08-30,Trauma leve,2
+2026-08-31,Trauma leve,5
+2026-09-01,Trauma leve,6
+2026-09-02,Trauma leve,2
+2026-09-03,Trauma leve,4
+2026-09-04,Trauma leve,3
+2026-09-05,Trauma leve,5
+2026-09-06,Trauma leve,2
+2026-09-07,Trauma leve,0
+2026-09-08,Trauma leve,1
+2026-09-09,Trauma leve,3
+2026-09-10,Trauma leve,1
+2026-09-11,Trauma leve,4
+2026-09-12,Trauma leve,3
+2026-09-13,Trauma leve,4
+2026-09-14,Trauma leve,2
+2026-09-15,Trauma leve,0
+2026-09-16,Trauma leve,2
+2026-09-17,Trauma leve,1
+2026-09-18,Trauma leve,1
+2026-09-19,Trauma leve,2
+2026-09-20,Trauma leve,2
+2026-09-21,Trauma leve,7
+2026-09-22,Trauma leve,1
+2026-09-23,Trauma leve,0
+2026-09-24,Trauma leve,1
+2026-09-25,Trauma leve,6
+2026-09-26,Trauma leve,2
+2026-09-27,Trauma leve,4
+2026-09-28,Trauma leve,5
+2026-09-29,Trauma leve,4
+2026-09-30,Trauma leve,3
+2026-10-01,Trauma leve,3
+2026-10-02,Trauma leve,3
+2026-10-03,Trauma leve,3
+2026-10-04,Trauma leve,7
+2026-10-05,Trauma leve,3
+2026-10-06,Trauma leve,1
+2026-10-07,Trauma leve,2
+2026-10-08,Trauma leve,2
+2026-10-09,Trauma leve,2
+2026-10-10,Trauma leve,3
+2026-10-11,Trauma leve,1
+2026-10-12,Trauma leve,3
+2026-10-13,Trauma leve,1
+2026-10-14,Trauma leve,2
+2026-10-15,Trauma leve,3
+2026-10-16,Trauma leve,1
+2026-10-17,Trauma leve,5
+2026-10-18,Trauma leve,4
+2025-10-20,Control de crónicos,3
+2025-10-21,Control de crónicos,1
+2025-10-22,Control de crónicos,4
+2025-10-23,Control de crónicos,7
+2025-10-24,Control de crónicos,4
+2025-10-25,Control de crónicos,7
+2025-10-26,Control de crónicos,2
+2025-10-27,Control de crónicos,3
+2025-10-28,Control de crónicos,5
+2025-10-29,Control de crónicos,3
+2025-10-30,Control de crónicos,4
+2025-10-31,Control de crónicos,3
+2025-11-01,Control de crónicos,3
+2025-11-02,Control de crónicos,1
+2025-11-03,Control de crónicos,1
+2025-11-04,Control de crónicos,8
+2025-11-05,Control de crónicos,3
+2025-11-06,Control de crónicos,2
+2025-11-07,Control de crónicos,3
+2025-11-08,Control de crónicos,2
+2025-11-09,Control de crónicos,3
+2025-11-10,Control de crónicos,3
+2025-11-11,Control de crónicos,1
+2025-11-12,Control de crónicos,3
+2025-11-13,Control de crónicos,4
+2025-11-14,Control de crónicos,0
+2025-11-15,Control de crónicos,4
+2025-11-16,Control de crónicos,6
+2025-11-17,Control de crónicos,3
+2025-11-18,Control de crónicos,2
+2025-11-19,Control de crónicos,5
+2025-11-20,Control de crónicos,6
+2025-11-21,Control de crónicos,3
+2025-11-22,Control de crónicos,4
+2025-11-23,Control de crónicos,7
+2025-11-24,Control de crónicos,5
+2025-11-25,Control de crónicos,1
+2025-11-26,Control de crónicos,2
+2025-11-27,Control de crónicos,5
+2025-11-28,Control de crónicos,1
+2025-11-29,Control de crónicos,6
+2025-11-30,Control de crónicos,2
+2025-12-01,Control de crónicos,6
+2025-12-02,Control de crónicos,4
+2025-12-03,Control de crónicos,4
+2025-12-04,Control de crónicos,7
+2025-12-05,Control de crónicos,3
+2025-12-06,Control de crónicos,8
+2025-12-07,Control de crónicos,4
+2025-12-08,Control de crónicos,6
+2025-12-09,Control de crónicos,5
+2025-12-10,Control de crónicos,4
+2025-12-11,Control de crónicos,2
+2025-12-12,Control de crónicos,1
+2025-12-13,Control de crónicos,5
+2025-12-14,Control de crónicos,3
+2025-12-15,Control de crónicos,3
+2025-12-16,Control de crónicos,3
+2025-12-17,Control de crónicos,5
+2025-12-18,Control de crónicos,2
+2025-12-19,Control de crónicos,3
+2025-12-20,Control de crónicos,4
+2025-12-21,Control de crónicos,6
+2025-12-22,Control de crónicos,3
+2025-12-23,Control de crónicos,3
+2025-12-24,Control de crónicos,3
+2025-12-25,Control de crónicos,1
+2025-12-26,Control de crónicos,6
+2025-12-27,Control de crónicos,2
+2025-12-28,Control de crónicos,3
+2025-12-29,Control de crónicos,3
+2025-12-30,Control de crónicos,4
+2025-12-31,Control de crónicos,0
+2026-01-01,Control de crónicos,2
+2026-01-02,Control de crónicos,3
+2026-01-03,Control de crónicos,4
+2026-01-04,Control de crónicos,2
+2026-01-05,Control de crónicos,3
+2026-01-06,Control de crónicos,4
+2026-01-07,Control de crónicos,4
+2026-01-08,Control de crónicos,4
+2026-01-09,Control de crónicos,3
+2026-01-10,Control de crónicos,3
+2026-01-11,Control de crónicos,2
+2026-01-12,Control de crónicos,5
+2026-01-13,Control de crónicos,6
+2026-01-14,Control de crónicos,5
+2026-01-15,Control de crónicos,2
+2026-01-16,Control de crónicos,2
+2026-01-17,Control de crónicos,5
+2026-01-18,Control de crónicos,6
+2026-01-19,Control de crónicos,5
+2026-01-20,Control de crónicos,5
+2026-01-21,Control de crónicos,2
+2026-01-22,Control de crónicos,4
+2026-01-23,Control de crónicos,4
+2026-01-24,Control de crónicos,2
+2026-01-25,Control de crónicos,5
+2026-01-26,Control de crónicos,4
+2026-01-27,Control de crónicos,4
+2026-01-28,Control de crónicos,2
+2026-01-29,Control de crónicos,8
+2026-01-30,Control de crónicos,6
+2026-01-31,Control de crónicos,3
+2026-02-01,Control de crónicos,3
+2026-02-02,Control de crónicos,6
+2026-02-03,Control de crónicos,2
+2026-02-04,Control de crónicos,6
+2026-02-05,Control de crónicos,2
+2026-02-06,Control de crónicos,2
+2026-02-07,Control de crónicos,1
+2026-02-08,Control de crónicos,5
+2026-02-09,Control de crónicos,3
+2026-02-10,Control de crónicos,8
+2026-02-11,Control de crónicos,4
+2026-02-12,Control de crónicos,5
+2026-02-13,Control de crónicos,1
+2026-02-14,Control de crónicos,6
+2026-02-15,Control de crónicos,6
+2026-02-16,Control de crónicos,4
+2026-02-17,Control de crónicos,2
+2026-02-18,Control de crónicos,2
+2026-02-19,Control de crónicos,5
+2026-02-20,Control de crónicos,4
+2026-02-21,Control de crónicos,1
+2026-02-22,Control de crónicos,2
+2026-02-23,Control de crónicos,4
+2026-02-24,Control de crónicos,2
+2026-02-25,Control de crónicos,5
+2026-02-26,Control de crónicos,7
+2026-02-27,Control de crónicos,3
+2026-02-28,Control de crónicos,3
+2026-03-01,Control de crónicos,4
+2026-03-02,Control de crónicos,3
+2026-03-03,Control de crónicos,2
+2026-03-04,Control de crónicos,1
+2026-03-05,Control de crónicos,3
+2026-03-06,Control de crónicos,3
+2026-03-07,Control de crónicos,5
+2026-03-08,Control de crónicos,3
+2026-03-09,Control de crónicos,2
+2026-03-10,Control de crónicos,2
+2026-03-11,Control de crónicos,4
+2026-03-12,Control de crónicos,5
+2026-03-13,Control de crónicos,5
+2026-03-14,Control de crónicos,4
+2026-03-15,Control de crónicos,3
+2026-03-16,Control de crónicos,4
+2026-03-17,Control de crónicos,3
+2026-03-18,Control de crónicos,5
+2026-03-19,Control de crónicos,1
+2026-03-20,Control de crónicos,3
+2026-03-21,Control de crónicos,3
+2026-03-22,Control de crónicos,3
+2026-03-23,Control de crónicos,3
+2026-03-24,Control de crónicos,1
+2026-03-25,Control de crónicos,3
+2026-03-26,Control de crónicos,3
+2026-03-27,Control de crónicos,3
+2026-03-28,Control de crónicos,2
+2026-03-29,Control de crónicos,4
+2026-03-30,Control de crónicos,5
+2026-03-31,Control de crónicos,6
+2026-04-01,Control de crónicos,6
+2026-04-02,Control de crónicos,5
+2026-04-03,Control de crónicos,5
+2026-04-04,Control de crónicos,3
+2026-04-05,Control de crónicos,0
+2026-04-06,Control de crónicos,6
+2026-04-07,Control de crónicos,4
+2026-04-08,Control de crónicos,7
+2026-04-09,Control de crónicos,6
+2026-04-10,Control de crónicos,5
+2026-04-11,Control de crónicos,3
+2026-04-12,Control de crónicos,3
+2026-04-13,Control de crónicos,4
+2026-04-14,Control de crónicos,4
+2026-04-15,Control de crónicos,6
+2026-04-16,Control de crónicos,3
+2026-04-17,Control de crónicos,3
+2026-04-18,Control de crónicos,5
+2026-04-19,Control de crónicos,2
+2026-04-20,Control de crónicos,3
+2026-04-21,Control de crónicos,3
+2026-04-22,Control de crónicos,3
+2026-04-23,Control de crónicos,5
+2026-04-24,Control de crónicos,2
+2026-04-25,Control de crónicos,1
+2026-04-26,Control de crónicos,8
+2026-04-27,Control de crónicos,2
+2026-04-28,Control de crónicos,5
+2026-04-29,Control de crónicos,4
+2026-04-30,Control de crónicos,0
+2026-05-01,Control de crónicos,4
+2026-05-02,Control de crónicos,4
+2026-05-03,Control de crónicos,2
+2026-05-04,Control de crónicos,6
+2026-05-05,Control de crónicos,2
+2026-05-06,Control de crónicos,5
+2026-05-07,Control de crónicos,3
+2026-05-08,Control de crónicos,3
+2026-05-09,Control de crónicos,6
+2026-05-10,Control de crónicos,4
+2026-05-11,Control de crónicos,2
+2026-05-12,Control de crónicos,4
+2026-05-13,Control de crónicos,3
+2026-05-14,Control de crónicos,0
+2026-05-15,Control de crónicos,3
+2026-05-16,Control de crónicos,2
+2026-05-17,Control de crónicos,4
+2026-05-18,Control de crónicos,2
+2026-05-19,Control de crónicos,3
+2026-05-20,Control de crónicos,3
+2026-05-21,Control de crónicos,3
+2026-05-22,Control de crónicos,3
+2026-05-23,Control de crónicos,6
+2026-05-24,Control de crónicos,4
+2026-05-25,Control de crónicos,4
+2026-05-26,Control de crónicos,3
+2026-05-27,Control de crónicos,3
+2026-05-28,Control de crónicos,1
+2026-05-29,Control de crónicos,5
+2026-05-30,Control de crónicos,5
+2026-05-31,Control de crónicos,4
+2026-06-01,Control de crónicos,8
+2026-06-02,Control de crónicos,7
+2026-06-03,Control de crónicos,7
+2026-06-04,Control de crónicos,3
+2026-06-05,Control de crónicos,4
+2026-06-06,Control de crónicos,3
+2026-06-07,Control de crónicos,1
+2026-06-08,Control de crónicos,2
+2026-06-09,Control de crónicos,2
+2026-06-10,Control de crónicos,7
+2026-06-11,Control de crónicos,1
+2026-06-12,Control de crónicos,1
+2026-06-13,Control de crónicos,3
+2026-06-14,Control de crónicos,5
+2026-06-15,Control de crónicos,10
+2026-06-16,Control de crónicos,4
+2026-06-17,Control de crónicos,2
+2026-06-18,Control de crónicos,5
+2026-06-19,Control de crónicos,5
+2026-06-20,Control de crónicos,7
+2026-06-21,Control de crónicos,3
+2026-06-22,Control de crónicos,3
+2026-06-23,Control de crónicos,4
+2026-06-24,Control de crónicos,4
+2026-06-25,Control de crónicos,3
+2026-06-26,Control de crónicos,5
+2026-06-27,Control de crónicos,0
+2026-06-28,Control de crónicos,4
+2026-06-29,Control de crónicos,5
+2026-06-30,Control de crónicos,5
+2026-07-01,Control de crónicos,3
+2026-07-02,Control de crónicos,2
+2026-07-03,Control de crónicos,3
+2026-07-04,Control de crónicos,3
+2026-07-05,Control de crónicos,3
+2026-07-06,Control de crónicos,3
+2026-07-07,Control de crónicos,2
+2026-07-08,Control de crónicos,1
+2026-07-09,Control de crónicos,3
+2026-07-10,Control de crónicos,1
+2026-07-11,Control de crónicos,4
+2026-07-12,Control de crónicos,2
+2026-07-13,Control de crónicos,3
+2026-07-14,Control de crónicos,5
+2026-07-15,Control de crónicos,2
+2026-07-16,Control de crónicos,6
+2026-07-17,Control de crónicos,6
+2026-07-18,Control de crónicos,3
+2026-07-19,Control de crónicos,4
+2026-07-20,Control de crónicos,1
+2026-07-21,Control de crónicos,3
+2026-07-22,Control de crónicos,10
+2026-07-23,Control de crónicos,4
+2026-07-24,Control de crónicos,7
+2026-07-25,Control de crónicos,3
+2026-07-26,Control de crónicos,4
+2026-07-27,Control de crónicos,1
+2026-07-28,Control de crónicos,5
+2026-07-29,Control de crónicos,3
+2026-07-30,Control de crónicos,5
+2026-07-31,Control de crónicos,1
+2026-08-01,Control de crónicos,5
+2026-08-02,Control de crónicos,3
+2026-08-03,Control de crónicos,2
+2026-08-04,Control de crónicos,3
+2026-08-05,Control de crónicos,1
+2026-08-06,Control de crónicos,2
+2026-08-07,Control de crónicos,3
+2026-08-08,Control de crónicos,6
+2026-08-09,Control de crónicos,4
+2026-08-10,Control de crónicos,2
+2026-08-11,Control de crónicos,3
+2026-08-12,Control de crónicos,4
+2026-08-13,Control de crónicos,3
+2026-08-14,Control de crónicos,5
+2026-08-15,Control de crónicos,9
+2026-08-16,Control de crónicos,4
+2026-08-17,Control de crónicos,0
+2026-08-18,Control de crónicos,4
+2026-08-19,Control de crónicos,3
+2026-08-20,Control de crónicos,5
+2026-08-21,Control de crónicos,1
+2026-08-22,Control de crónicos,3
+2026-08-23,Control de crónicos,5
+2026-08-24,Control de crónicos,5
+2026-08-25,Control de crónicos,2
+2026-08-26,Control de crónicos,3
+2026-08-27,Control de crónicos,0
+2026-08-28,Control de crónicos,3
+2026-08-29,Control de crónicos,8
+2026-08-30,Control de crónicos,5
+2026-08-31,Control de crónicos,1
+2026-09-01,Control de crónicos,4
+2026-09-02,Control de crónicos,4
+2026-09-03,Control de crónicos,1
+2026-09-04,Control de crónicos,4
+2026-09-05,Control de crónicos,5
+2026-09-06,Control de crónicos,5
+2026-09-07,Control de crónicos,1
+2026-09-08,Control de crónicos,2
+2026-09-09,Control de crónicos,1
+2026-09-10,Control de crónicos,2
+2026-09-11,Control de crónicos,0
+2026-09-12,Control de crónicos,3
+2026-09-13,Control de crónicos,0
+2026-09-14,Control de crónicos,2
+2026-09-15,Control de crónicos,3
+2026-09-16,Control de crónicos,2
+2026-09-17,Control de crónicos,0
+2026-09-18,Control de crónicos,6
+2026-09-19,Control de crónicos,5
+2026-09-20,Control de crónicos,4
+2026-09-21,Control de crónicos,0
+2026-09-22,Control de crónicos,0
+2026-09-23,Control de crónicos,1
+2026-09-24,Control de crónicos,1
+2026-09-25,Control de crónicos,5
+2026-09-26,Control de crónicos,4
+2026-09-27,Control de crónicos,3
+2026-09-28,Control de crónicos,4
+2026-09-29,Control de crónicos,3
+2026-09-30,Control de crónicos,2
+2026-10-01,Control de crónicos,3
+2026-10-02,Control de crónicos,1
+2026-10-03,Control de crónicos,3
+2026-10-04,Control de crónicos,2
+2026-10-05,Control de crónicos,3
+2026-10-06,Control de crónicos,3
+2026-10-07,Control de crónicos,2
+2026-10-08,Control de crónicos,3
+2026-10-09,Control de crónicos,1
+2026-10-10,Control de crónicos,2
+2026-10-11,Control de crónicos,1
+2026-10-12,Control de crónicos,6
+2026-10-13,Control de crónicos,5
+2026-10-14,Control de crónicos,3
+2026-10-15,Control de crónicos,8
+2026-10-16,Control de crónicos,1
+2026-10-17,Control de crónicos,2
+2026-10-18,Control de crónicos,3
+2025-10-20,Oftalmológico,2
+2025-10-21,Oftalmológico,2
+2025-10-22,Oftalmológico,0
+2025-10-23,Oftalmológico,0
+2025-10-24,Oftalmológico,1
+2025-10-25,Oftalmológico,0
+2025-10-26,Oftalmológico,1
+2025-10-27,Oftalmológico,1
+2025-10-28,Oftalmológico,0
+2025-10-29,Oftalmológico,1
+2025-10-30,Oftalmológico,2
+2025-10-31,Oftalmológico,2
+2025-11-01,Oftalmológico,3
+2025-11-02,Oftalmológico,0
+2025-11-03,Oftalmológico,0
+2025-11-04,Oftalmológico,1
+2025-11-05,Oftalmológico,1
+2025-11-06,Oftalmológico,0
+2025-11-07,Oftalmológico,1
+2025-11-08,Oftalmológico,1
+2025-11-09,Oftalmológico,1
+2025-11-10,Oftalmológico,2
+2025-11-11,Oftalmológico,0
+2025-11-12,Oftalmológico,1
+2025-11-13,Oftalmológico,2
+2025-11-14,Oftalmológico,0
+2025-11-15,Oftalmológico,1
+2025-11-16,Oftalmológico,2
+2025-11-17,Oftalmológico,1
+2025-11-18,Oftalmológico,3
+2025-11-19,Oftalmológico,2
+2025-11-20,Oftalmológico,2
+2025-11-21,Oftalmológico,1
+2025-11-22,Oftalmológico,2
+2025-11-23,Oftalmológico,2
+2025-11-24,Oftalmológico,2
+2025-11-25,Oftalmológico,2
+2025-11-26,Oftalmológico,1
+2025-11-27,Oftalmológico,2
+2025-11-28,Oftalmológico,1
+2025-11-29,Oftalmológico,2
+2025-11-30,Oftalmológico,2
+2025-12-01,Oftalmológico,2
+2025-12-02,Oftalmológico,1
+2025-12-03,Oftalmológico,0
+2025-12-04,Oftalmológico,3
+2025-12-05,Oftalmológico,3
+2025-12-06,Oftalmológico,0
+2025-12-07,Oftalmológico,2
+2025-12-08,Oftalmológico,0
+2025-12-09,Oftalmológico,2
+2025-12-10,Oftalmológico,1
+2025-12-11,Oftalmológico,1
+2025-12-12,Oftalmológico,0
+2025-12-13,Oftalmológico,1
+2025-12-14,Oftalmológico,2
+2025-12-15,Oftalmológico,1
+2025-12-16,Oftalmológico,1
+2025-12-17,Oftalmológico,0
+2025-12-18,Oftalmológico,1
+2025-12-19,Oftalmológico,0
+2025-12-20,Oftalmológico,1
+2025-12-21,Oftalmológico,0
+2025-12-22,Oftalmológico,1
+2025-12-23,Oftalmológico,0
+2025-12-24,Oftalmológico,1
+2025-12-25,Oftalmológico,1
+2025-12-26,Oftalmológico,2
+2025-12-27,Oftalmológico,2
+2025-12-28,Oftalmológico,1
+2025-12-29,Oftalmológico,1
+2025-12-30,Oftalmológico,2
+2025-12-31,Oftalmológico,1
+2026-01-01,Oftalmológico,2
+2026-01-02,Oftalmológico,0
+2026-01-03,Oftalmológico,0
+2026-01-04,Oftalmológico,2
+2026-01-05,Oftalmológico,2
+2026-01-06,Oftalmológico,2
+2026-01-07,Oftalmológico,2
+2026-01-08,Oftalmológico,2
+2026-01-09,Oftalmológico,1
+2026-01-10,Oftalmológico,2
+2026-01-11,Oftalmológico,3
+2026-01-12,Oftalmológico,1
+2026-01-13,Oftalmológico,1
+2026-01-14,Oftalmológico,0
+2026-01-15,Oftalmológico,1
+2026-01-16,Oftalmológico,2
+2026-01-17,Oftalmológico,1
+2026-01-18,Oftalmológico,1
+2026-01-19,Oftalmológico,0
+2026-01-20,Oftalmológico,0
+2026-01-21,Oftalmológico,1
+2026-01-22,Oftalmológico,3
+2026-01-23,Oftalmológico,1
+2026-01-24,Oftalmológico,0
+2026-01-25,Oftalmológico,0
+2026-01-26,Oftalmológico,1
+2026-01-27,Oftalmológico,0
+2026-01-28,Oftalmológico,0
+2026-01-29,Oftalmológico,1
+2026-01-30,Oftalmológico,2
+2026-01-31,Oftalmológico,2
+2026-02-01,Oftalmológico,2
+2026-02-02,Oftalmológico,0
+2026-02-03,Oftalmológico,1
+2026-02-04,Oftalmológico,0
+2026-02-05,Oftalmológico,4
+2026-02-06,Oftalmológico,3
+2026-02-07,Oftalmológico,0
+2026-02-08,Oftalmológico,1
+2026-02-09,Oftalmológico,1
+2026-02-10,Oftalmológico,0
+2026-02-11,Oftalmológico,2
+2026-02-12,Oftalmológico,1
+2026-02-13,Oftalmológico,3
+2026-02-14,Oftalmológico,2
+2026-02-15,Oftalmológico,1
+2026-02-16,Oftalmológico,1
+2026-02-17,Oftalmológico,0
+2026-02-18,Oftalmológico,0
+2026-02-19,Oftalmológico,2
+2026-02-20,Oftalmológico,3
+2026-02-21,Oftalmológico,2
+2026-02-22,Oftalmológico,1
+2026-02-23,Oftalmológico,0
+2026-02-24,Oftalmológico,3
+2026-02-25,Oftalmológico,1
+2026-02-26,Oftalmológico,1
+2026-02-27,Oftalmológico,0
+2026-02-28,Oftalmológico,1
+2026-03-01,Oftalmológico,3
+2026-03-02,Oftalmológico,3
+2026-03-03,Oftalmológico,2
+2026-03-04,Oftalmológico,1
+2026-03-05,Oftalmológico,2
+2026-03-06,Oftalmológico,1
+2026-03-07,Oftalmológico,3
+2026-03-08,Oftalmológico,1
+2026-03-09,Oftalmológico,1
+2026-03-10,Oftalmológico,2
+2026-03-11,Oftalmológico,0
+2026-03-12,Oftalmológico,4
+2026-03-13,Oftalmológico,5
+2026-03-14,Oftalmológico,1
+2026-03-15,Oftalmológico,0
+2026-03-16,Oftalmológico,1
+2026-03-17,Oftalmológico,2
+2026-03-18,Oftalmológico,0
+2026-03-19,Oftalmológico,2
+2026-03-20,Oftalmológico,3
+2026-03-21,Oftalmológico,2
+2026-03-22,Oftalmológico,2
+2026-03-23,Oftalmológico,2
+2026-03-24,Oftalmológico,0
+2026-03-25,Oftalmológico,1
+2026-03-26,Oftalmológico,2
+2026-03-27,Oftalmológico,2
+2026-03-28,Oftalmológico,2
+2026-03-29,Oftalmológico,3
+2026-03-30,Oftalmológico,2
+2026-03-31,Oftalmológico,2
+2026-04-01,Oftalmológico,1
+2026-04-02,Oftalmológico,0
+2026-04-03,Oftalmológico,0
+2026-04-04,Oftalmológico,1
+2026-04-05,Oftalmológico,1
+2026-04-06,Oftalmológico,2
+2026-04-07,Oftalmológico,1
+2026-04-08,Oftalmológico,1
+2026-04-09,Oftalmológico,2
+2026-04-10,Oftalmológico,2
+2026-04-11,Oftalmológico,2
+2026-04-12,Oftalmológico,3
+2026-04-13,Oftalmológico,3
+2026-04-14,Oftalmológico,0
+2026-04-15,Oftalmológico,0
+2026-04-16,Oftalmológico,1
+2026-04-17,Oftalmológico,2
+2026-04-18,Oftalmológico,0
+2026-04-19,Oftalmológico,4
+2026-04-20,Oftalmológico,0
+2026-04-21,Oftalmológico,1
+2026-04-22,Oftalmológico,1
+2026-04-23,Oftalmológico,2
+2026-04-24,Oftalmológico,0
+2026-04-25,Oftalmológico,1
+2026-04-26,Oftalmológico,2
+2026-04-27,Oftalmológico,2
+2026-04-28,Oftalmológico,0
+2026-04-29,Oftalmológico,1
+2026-04-30,Oftalmológico,2
+2026-05-01,Oftalmológico,0
+2026-05-02,Oftalmológico,2
+2026-05-03,Oftalmológico,0
+2026-05-04,Oftalmológico,1
+2026-05-05,Oftalmológico,1
+2026-05-06,Oftalmológico,1
+2026-05-07,Oftalmológico,2
+2026-05-08,Oftalmológico,4
+2026-05-09,Oftalmológico,0
+2026-05-10,Oftalmológico,1
+2026-05-11,Oftalmológico,1
+2026-05-12,Oftalmológico,0
+2026-05-13,Oftalmológico,0
+2026-05-14,Oftalmológico,3
+2026-05-15,Oftalmológico,1
+2026-05-16,Oftalmológico,0
+2026-05-17,Oftalmológico,0
+2026-05-18,Oftalmológico,1
+2026-05-19,Oftalmológico,2
+2026-05-20,Oftalmológico,2
+2026-05-21,Oftalmológico,1
+2026-05-22,Oftalmológico,1
+2026-05-23,Oftalmológico,1
+2026-05-24,Oftalmológico,2
+2026-05-25,Oftalmológico,1
+2026-05-26,Oftalmológico,2
+2026-05-27,Oftalmológico,1
+2026-05-28,Oftalmológico,1
+2026-05-29,Oftalmológico,1
+2026-05-30,Oftalmológico,3
+2026-05-31,Oftalmológico,2
+2026-06-01,Oftalmológico,0
+2026-06-02,Oftalmológico,1
+2026-06-03,Oftalmológico,0
+2026-06-04,Oftalmológico,2
+2026-06-05,Oftalmológico,1
+2026-06-06,Oftalmológico,3
+2026-06-07,Oftalmológico,1
+2026-06-08,Oftalmológico,0
+2026-06-09,Oftalmológico,0
+2026-06-10,Oftalmológico,4
+2026-06-11,Oftalmológico,1
+2026-06-12,Oftalmológico,1
+2026-06-13,Oftalmológico,1
+2026-06-14,Oftalmológico,1
+2026-06-15,Oftalmológico,1
+2026-06-16,Oftalmológico,3
+2026-06-17,Oftalmológico,1
+2026-06-18,Oftalmológico,1
+2026-06-19,Oftalmológico,0
+2026-06-20,Oftalmológico,3
+2026-06-21,Oftalmológico,0
+2026-06-22,Oftalmológico,1
+2026-06-23,Oftalmológico,0
+2026-06-24,Oftalmológico,1
+2026-06-25,Oftalmológico,2
+2026-06-26,Oftalmológico,2
+2026-06-27,Oftalmológico,0
+2026-06-28,Oftalmológico,1
+2026-06-29,Oftalmológico,2
+2026-06-30,Oftalmológico,3
+2026-07-01,Oftalmológico,1
+2026-07-02,Oftalmológico,1
+2026-07-03,Oftalmológico,2
+2026-07-04,Oftalmológico,2
+2026-07-05,Oftalmológico,0
+2026-07-06,Oftalmológico,0
+2026-07-07,Oftalmológico,0
+2026-07-08,Oftalmológico,0
+2026-07-09,Oftalmológico,0
+2026-07-10,Oftalmológico,1
+2026-07-11,Oftalmológico,1
+2026-07-12,Oftalmológico,0
+2026-07-13,Oftalmológico,1
+2026-07-14,Oftalmológico,2
+2026-07-15,Oftalmológico,1
+2026-07-16,Oftalmológico,1
+2026-07-17,Oftalmológico,3
+2026-07-18,Oftalmológico,1
+2026-07-19,Oftalmológico,1
+2026-07-20,Oftalmológico,1
+2026-07-21,Oftalmológico,1
+2026-07-22,Oftalmológico,2
+2026-07-23,Oftalmológico,3
+2026-07-24,Oftalmológico,2
+2026-07-25,Oftalmológico,2
+2026-07-26,Oftalmológico,1
+2026-07-27,Oftalmológico,2
+2026-07-28,Oftalmológico,2
+2026-07-29,Oftalmológico,2
+2026-07-30,Oftalmológico,1
+2026-07-31,Oftalmológico,0
+2026-08-01,Oftalmológico,1
+2026-08-02,Oftalmológico,2
+2026-08-03,Oftalmológico,0
+2026-08-04,Oftalmológico,1
+2026-08-05,Oftalmológico,2
+2026-08-06,Oftalmológico,0
+2026-08-07,Oftalmológico,0
+2026-08-08,Oftalmológico,1
+2026-08-09,Oftalmológico,1
+2026-08-10,Oftalmológico,3
+2026-08-11,Oftalmológico,0
+2026-08-12,Oftalmológico,2
+2026-08-13,Oftalmológico,2
+2026-08-14,Oftalmológico,1
+2026-08-15,Oftalmológico,1
+2026-08-16,Oftalmológico,0
+2026-08-17,Oftalmológico,3
+2026-08-18,Oftalmológico,1
+2026-08-19,Oftalmológico,2
+2026-08-20,Oftalmológico,0
+2026-08-21,Oftalmológico,2
+2026-08-22,Oftalmológico,0
+2026-08-23,Oftalmológico,2
+2026-08-24,Oftalmológico,3
+2026-08-25,Oftalmológico,0
+2026-08-26,Oftalmológico,0
+2026-08-27,Oftalmológico,0
+2026-08-28,Oftalmológico,2
+2026-08-29,Oftalmológico,3
+2026-08-30,Oftalmológico,5
+2026-08-31,Oftalmológico,2
+2026-09-01,Oftalmológico,3
+2026-09-02,Oftalmológico,4
+2026-09-03,Oftalmológico,1
+2026-09-04,Oftalmológico,0
+2026-09-05,Oftalmológico,1
+2026-09-06,Oftalmológico,1
+2026-09-07,Oftalmológico,1
+2026-09-08,Oftalmológico,0
+2026-09-09,Oftalmológico,6
+2026-09-10,Oftalmológico,1
+2026-09-11,Oftalmológico,1
+2026-09-12,Oftalmológico,2
+2026-09-13,Oftalmológico,1
+2026-09-14,Oftalmológico,1
+2026-09-15,Oftalmológico,0
+2026-09-16,Oftalmológico,1
+2026-09-17,Oftalmológico,0
+2026-09-18,Oftalmológico,1
+2026-09-19,Oftalmológico,3
+2026-09-20,Oftalmológico,2
+2026-09-21,Oftalmológico,2
+2026-09-22,Oftalmológico,1
+2026-09-23,Oftalmológico,3
+2026-09-24,Oftalmológico,2
+2026-09-25,Oftalmológico,1
+2026-09-26,Oftalmológico,2
+2026-09-27,Oftalmológico,3
+2026-09-28,Oftalmológico,1
+2026-09-29,Oftalmológico,0
+2026-09-30,Oftalmológico,3
+2026-10-01,Oftalmológico,1
+2026-10-02,Oftalmológico,1
+2026-10-03,Oftalmológico,0
+2026-10-04,Oftalmológico,0
+2026-10-05,Oftalmológico,3
+2026-10-06,Oftalmológico,1
+2026-10-07,Oftalmológico,0
+2026-10-08,Oftalmológico,4
+2026-10-09,Oftalmológico,1
+2026-10-10,Oftalmológico,1
+2026-10-11,Oftalmológico,2
+2026-10-12,Oftalmológico,2
+2026-10-13,Oftalmológico,0
+2026-10-14,Oftalmológico,0
+2026-10-15,Oftalmológico,3
+2026-10-16,Oftalmológico,0
+2026-10-17,Oftalmológico,0
+2026-10-18,Oftalmológico,1

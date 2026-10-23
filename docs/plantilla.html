@@ -1,0 +1,458 @@
+<title>Respuesta Médica en Mina Remota</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: bitácora de una emergencia. Banda de aviso arriba, tesis con tres cifras, simulador como pieza central
+   (controles a la izquierda, cronómetro del caso a la derecha), mapa de rutas reales, tablero sintético del servicio,
+   plan de 100 días y fuentes. Paleta del portfolio: azul marino, azul, naranja de alerta. */
+:root{
+  --bg:#F2F4F7; --panel:#FFFFFF; --ink:#0B2545; --ink2:#46546B; --muted:#7D879A; --line:#DCE1E9;
+  --blue:#1F5FA8; --blue-soft:#C9D8EC; --blue-mid:#8FB0DA; --orange:#D9731A; --orange-soft:#F4D3B5;
+  --ok:#2E7D5B; --ok-soft:#D7EDE3; --crit:#C0392B; --crit-soft:#F6D8D4; --band:#0B2545; --band-ink:#EAF0F8; --land:#E7EBF1; --land-line:#C3CBD8;
+  --f-display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0A1424; --panel:#111E33; --ink:#E8EEF7; --ink2:#AEBBD0; --muted:#7F8DA5; --line:#22324D;
+  --blue:#6FA4E8; --blue-soft:#24406A; --blue-mid:#3D6496; --orange:#F0954A; --orange-soft:#5A3618;
+  --ok:#5BC293; --ok-soft:#173A2C; --crit:#F0705F; --crit-soft:#4A1E1A; --band:#060E1B; --band-ink:#DCE6F4; --land:#16263F; --land-line:#2A3D5C; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0A1424; --panel:#111E33; --ink:#E8EEF7; --ink2:#AEBBD0; --muted:#7F8DA5; --line:#22324D;
+  --blue:#6FA4E8; --blue-soft:#24406A; --blue-mid:#3D6496; --orange:#F0954A; --orange-soft:#5A3618;
+  --ok:#5BC293; --ok-soft:#173A2C; --crit:#F0705F; --crit-soft:#4A1E1A; --band:#060E1B; --band-ink:#DCE6F4; --land:#16263F; --land-line:#2A3D5C; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f-body);margin:0}
+.wrap{max-width:1220px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+h1,h2,h3{font-family:var(--f-display);font-stretch:85%;letter-spacing:-.01em;text-wrap:balance;margin:0}
+.num{font-variant-numeric:tabular-nums}
+.eyebrow{font:500 11.5px/1.2 var(--f-mono);letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+a{color:var(--blue)}
+.band{background:var(--band);color:var(--band-ink)}
+.band .wrap{display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center;padding-block:10px;font:12.5px/1.4 var(--f-mono)}
+.band b{font-weight:500}
+.chip{display:inline-flex;align-items:center;gap:6px;font:500 11.5px var(--f-mono);letter-spacing:.03em;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.chip.warn{background:var(--orange-soft);color:var(--ink)} .chip.ok{background:var(--ok-soft);color:var(--ok)} .chip.info{background:var(--blue-soft);color:var(--ink)}
+header.hero{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:32px;align-items:end;padding-block:34px 26px;border-bottom:1px solid var(--line)}
+header.hero h1{font-size:clamp(32px,5vw,56px);line-height:1;font-weight:800}
+header.hero h1 em{font-style:normal;color:var(--orange)}
+header.hero p{color:var(--ink2);max-width:62ch;margin:14px 0 0}
+.big{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border-left:1px solid var(--line)}
+.big div{padding:4px 14px;border-right:1px solid var(--line)}
+.big .v{font:700 clamp(24px,2.5vw,34px)/1 var(--f-display);font-stretch:78%;white-space:nowrap}
+.big .l{font-size:12.5px;color:var(--ink2);line-height:1.35;margin-top:6px}
+section{padding-top:30px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:22px;min-width:0}
+.ph{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:10px 20px;margin-bottom:14px}
+.ph h2{font-size:26px;font-weight:700;line-height:1.1;margin-top:6px}
+.ph h3{font-size:19px;font-weight:700;line-height:1.15;margin-top:6px}
+.ph p{margin:6px 0 0;color:var(--ink2);font-size:14px;max-width:72ch}
+.note{font-size:13px;color:var(--ink2);margin-top:12px;padding-top:10px;border-top:1px solid var(--line)}
+.note b{color:var(--ink);font-weight:600}
+
+/* Simulador */
+.sim{display:grid;grid-template-columns:280px minmax(0,1fr);gap:24px}
+.ctrl{display:grid;gap:12px;align-content:start}
+.tog{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;align-items:start;padding:12px;border:1px solid var(--line);border-radius:6px;cursor:pointer;background:var(--bg)}
+.tog input{width:18px;height:18px;margin:2px 0 0;accent-color:var(--orange)}
+.tog b{font:700 15px/1.2 var(--f-display);font-stretch:88%}
+.tog span{grid-column:2;font-size:12.5px;color:var(--ink2);line-height:1.4}
+.tog:has(input:checked){border-color:var(--orange);background:var(--panel)}
+.tog:focus-within{outline:2px solid var(--orange);outline-offset:1px}
+.miles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-bottom:16px}
+.mile{padding:12px 12px 12px 0;display:grid;gap:4px}
+.mile + .mile{padding-left:12px;border-left:1px solid var(--line)}
+.mile .v{font:700 28px/1 var(--f-display);font-stretch:80%}
+.mile .d{font:500 12px var(--f-mono);color:var(--ink2)}
+.mile .d.good{color:var(--ok)}
+.chain{width:100%;height:auto;display:block}
+.chart{position:relative;width:100%}
+.h-md{height:260px}.h-sm{height:220px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font:12px var(--f-mono);color:var(--ink2)}
+.legend i{display:inline-block;width:12px;height:12px;vertical-align:-2px;margin-right:6px;border-radius:2px}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th{font:500 11px var(--f-mono);letter-spacing:.07em;text-transform:uppercase;color:var(--muted);text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+td{padding:8px 10px;border-bottom:1px solid var(--line)}
+td.r,th.r{text-align:right}
+
+/* Mapa */
+.mapgrid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:22px;align-items:start}
+.map{width:100%;height:auto;display:block;border-radius:4px;background:var(--bg)}
+.dest{display:grid;gap:0}
+.dest button{all:unset;display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:11px 10px;border-bottom:1px solid var(--line);cursor:pointer;border-radius:4px}
+.dest button:hover,.dest button[aria-pressed="true"]{background:var(--bg)}
+.dest button:focus-visible{outline:2px solid var(--orange)}
+.dest b{font:700 16px/1.2 var(--f-display);font-stretch:88%}
+.dest small{grid-column:1/-1;color:var(--ink2);font-size:12.5px}
+.dest .t{font:500 13px var(--f-mono);text-align:right}
+
+/* Tablero sintético */
+.synth{border:2px dashed var(--orange);border-radius:8px;padding:18px;background:color-mix(in srgb,var(--orange-soft) 25%,var(--bg))}
+.kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));background:var(--panel);border:1px solid var(--line);border-radius:6px;margin-bottom:18px}
+.kpi{padding:16px 14px;border-right:1px solid var(--line);display:grid;gap:5px;align-content:start}
+.kpi:last-child{border-right:0}
+.kpi .v{font:700 30px/1 var(--f-display);font-stretch:80%}
+.kpi .d{font:500 12px/1.3 var(--f-mono);color:var(--ok)}
+.kpi .l{font-size:12.5px;color:var(--ink2);line-height:1.35}
+.grid2{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px}
+.grid3{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:18px;margin-top:18px}
+.stockbar{position:relative;height:10px;background:var(--line);border-radius:5px;min-width:90px}
+.stockbar .fill{position:absolute;inset:0 auto 0 0;border-radius:5px;background:var(--blue)}
+.stockbar .min{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--orange)}
+.badge{font:500 11px var(--f-mono);padding:2px 7px;border-radius:999px;white-space:nowrap}
+.badge.alert{background:var(--orange-soft);color:var(--ink)} .badge.fine{background:var(--ok-soft);color:var(--ok)}
+
+/* Plan */
+.fases{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.fase{border-top:3px solid var(--blue);background:var(--panel);padding:14px;border-radius:0 0 6px 6px;border-left:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.fase .k{font:500 11px var(--f-mono);color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.fase h4{font:700 17px/1.2 var(--f-display);font-stretch:88%;margin:6px 0}
+.fase p{margin:0;font-size:13px;color:var(--ink2)}
+.files{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.files a{display:inline-flex;gap:8px;align-items:center;font:500 13px var(--f-mono);padding:9px 14px;border:1px solid var(--ink);border-radius:5px;color:var(--ink);text-decoration:none}
+.files a:hover{background:var(--ink);color:var(--panel)}
+footer{margin-top:36px;padding-top:18px;border-top:1px solid var(--line);display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:24px;font-size:12.8px;color:var(--ink2)}
+footer p{margin:0 0 6px}
+@media (max-width:1000px){
+  .sim,.mapgrid{grid-template-columns:minmax(0,1fr)}
+  .ctrl{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .kpis{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .kpi:nth-child(3n){border-right:0} .kpi:nth-child(-n+3){border-bottom:1px solid var(--line)}
+  .fases{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:760px){
+  header.hero,.grid2,.grid3,footer{grid-template-columns:minmax(0,1fr)}
+  .ctrl{grid-template-columns:minmax(0,1fr)}
+  .miles{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .mile:nth-child(3){padding-left:0;border-left:0}
+  .mile:nth-child(-n+2){border-bottom:1px solid var(--line)}
+  .kpis{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .kpi{border-right:1px solid var(--line)!important;border-bottom:1px solid var(--line)}
+  .kpi:nth-child(2n){border-right:0!important}
+  .fases{grid-template-columns:minmax(0,1fr)}
+  .big{grid-template-columns:minmax(0,1fr);border-left:0;border-top:1px solid var(--line)}
+  .big div{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;align-items:center;border-right:0;border-bottom:1px solid var(--line);padding:10px 0}
+  .big .l{margin-top:0}
+  .synth{padding:12px}
+}
+</style>
+
+<div class="band"><div class="wrap">
+  <span class="chip warn">Escenario de demostración</span>
+  <span>Rutas y hospitales <b>reales</b> (OpenStreetMap)</span>
+  <span>Tiempos internos <b>supuestos</b></span>
+  <span>Indicadores del servicio <b>sintéticos</b></span>
+  <span>Sin datos de ninguna empresa</span>
+</div></div>
+
+<div class="wrap">
+<header class="hero">
+  <div>
+    <div class="eyebrow">Mina subterránea remota · Santa Cruz · Lean Six Sigma</div>
+    <h1 style="margin-top:10px">En una mina remota, la hora de oro <em>se juega dentro del sitio.</em></h1>
+    <p>El hospital más cercano está a casi tres horas por ruta y eso no se puede cambiar. Lo que pasa entre el aviso y la salida de la ambulancia sí. Este modelo simula __N__ emergencias graves para medir cuánto pesa cada tramo y qué mejora cada cambio de proceso.</p>
+  </div>
+  <div class="big">
+    <div><div class="v num">__PCT__%</div><div class="l">del tiempo hasta el hospital más cercano pasa dentro del sitio</div></div>
+    <div><div class="v num">−__A50__ min</div><div class="l">en la mediana de salida con dos mejoras de proceso</div></div>
+    <div><div class="v num">−__A90__ min</div><div class="l">en el percentil 90, los casos más difíciles</div></div>
+  </div>
+</header>
+
+<section id="simulador">
+  <div class="panel">
+    <div class="ph"><div>
+      <div class="eyebrow">Simulador Monte Carlo · 6.000 casos por escenario, calculados en tu navegador</div>
+      <h2>Prendé las mejoras y mirá cómo se mueve el reloj</h2>
+      <p>Cada caso sortea los tiempos de cada tramo dentro de un rango (mínimo, más probable, máximo). Los números de abajo son medianas y percentil 90 de todos los casos.</p>
+    </div></div>
+    <div class="sim">
+      <div class="ctrl" role="group" aria-label="Mejoras y condiciones">
+        <label class="tog" for="tProt"><input type="checkbox" id="tProt"><b>Derivación pre acordada</b><span>Criterios escritos y un contacto único por hospital. La coordinación arranca en paralelo a la estabilización.</span></label>
+        <label class="tog" for="tBrig"><input type="checkbox" id="tBrig"><b>Brigadistas bajo mina</b><span>Primera respuesta en cada frente y rescate practicado con roles fijos.</span></label>
+        <label class="tog" for="tInv"><input type="checkbox" id="tInv"><b>Invierno</b><span>Sube de 12% a 35% la chance de demoras de 30 a 120 minutos en ruta.</span></label>
+      </div>
+      <div style="min-width:0">
+        <div class="miles" id="miles"></div>
+        <div class="eyebrow" style="margin-bottom:6px">Cronómetro del caso típico (minutos por tramo, escalados a la mediana de salida)</div>
+        <svg class="chain" id="chain" viewBox="0 0 860 150" role="img" aria-label="Tramos de la respuesta en el caso típico"></svg>
+        <div class="legend" id="chainLegend" style="margin:6px 0 16px"></div>
+        <div class="eyebrow" style="margin-bottom:6px">Cuándo sale la ambulancia del sitio (distribución de los casos)</div>
+        <div class="chart h-sm"><canvas id="cHist" role="img" aria-label="Distribución del tiempo de salida del sitio"></canvas></div>
+        <div class="legend" style="margin-top:8px"><span><i style="background:var(--line)"></i>Escenario de referencia</span><span><i style="background:var(--blue)"></i>Escenario elegido</span></div>
+      </div>
+    </div>
+    <div class="note" id="simNote"></div>
+  </div>
+</section>
+
+<section id="mapa">
+  <div class="panel">
+    <div class="ph"><div>
+      <div class="eyebrow">Rutas reales · OpenStreetMap y OSRM</div>
+      <h2>Cuatro hospitales, ninguno a menos de dos horas</h2>
+      <p>Tiempos de ruta calculados por OSRM desde la ubicación pública de la mina. El modelo los ajusta entre 65% y 100% para cubrir las dos horas hasta la localidad más cercana que menciona el aviso del puesto.</p>
+    </div></div>
+    <div class="mapgrid">
+      <svg class="map" id="map" viewBox="0 0 760 420" role="img" aria-label="Mapa del norte de Santa Cruz con las rutas a los hospitales"></svg>
+      <div class="dest" id="dest"></div>
+    </div>
+  </div>
+</section>
+
+<section id="tablero">
+  <div class="synth">
+    <div class="ph"><div>
+      <div class="eyebrow">Tablero del servicio médico · datos sintéticos · 52 semanas</div>
+      <h2>Lo que mira un Team Lead cada lunes</h2>
+      <p>Los indicadores que pide el puesto, con datos inventados pero coherentes para un campamento de unas 820 personas por día. Desde abril corre un plan de mejora: recordatorios de exámenes, kanban de insumos, capacitación de brigadistas y simulacros mensuales.</p>
+    </div><span class="chip warn">Datos sintéticos</span></div>
+    <div class="kpis" id="kpis"></div>
+    <div class="grid2">
+      <div class="panel">
+        <div class="ph"><div><div class="eyebrow">Carta U · consultas por 1.000 personas-día</div><h3>La carta marca el brote y el invierno</h3></div></div>
+        <div class="chart h-md"><canvas id="cU" role="img" aria-label="Carta U semanal de consultas"></canvas></div>
+        <div class="note" id="uNote"></div>
+      </div>
+      <div class="panel">
+        <div class="ph"><div><div class="eyebrow">Pareto · consultas del año por motivo</div><h3>Dos motivos explican casi la mitad</h3></div></div>
+        <div class="chart h-md"><canvas id="cPar" role="img" aria-label="Pareto de motivos de consulta"></canvas></div>
+        <div class="note" id="parNote"></div>
+      </div>
+    </div>
+    <div class="grid3">
+      <div class="panel">
+        <div class="ph"><div><div class="eyebrow">Stock crítico · hoy</div><h3>Mínimos recalculados con la demora real</h3></div><span class="chip ok" id="stockChip"></span></div>
+        <div class="tbl"><table><thead><tr><th>Insumo</th><th style="width:34%">Stock vs mínimo y máximo</th><th class="r">Días de cobertura</th><th>Estado</th></tr></thead><tbody id="tStock"></tbody></table></div>
+      </div>
+      <div class="panel">
+        <div class="ph"><div><div class="eyebrow">Prevención y respuesta · por mes</div><h3>Exámenes, brigadistas y llegada del equipo</h3></div></div>
+        <div class="chart h-md"><canvas id="cPrev" role="img" aria-label="Cobertura de exámenes y brigadistas por mes"></canvas></div>
+        <div class="legend" style="margin-top:8px"><span><i style="background:var(--blue)"></i>Exámenes al día (%)</span><span><i style="background:var(--orange)"></i>Brigadistas vigentes (%)</span></div>
+        <div class="chart h-sm" style="margin-top:14px"><canvas id="cEm" role="img" aria-label="Tiempo de llegada del equipo por mes"></canvas></div>
+        <div class="legend" style="margin-top:8px"><span><i style="background:var(--blue-mid)"></i>Llegada del equipo, P90 (min)</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="plan">
+  <div class="ph"><div>
+    <div class="eyebrow">Plan de 100 días · Team Lead, Servicios Médicos</div>
+    <h2>Cómo lo llevaría a la práctica</h2>
+    <p>Acta del proyecto, cronograma, matriz RACI, registro de riesgos, árbol de indicadores y dos proyectos DMAIC. El PDF es para leer e imprimir; el Excel tiene el Gantt y los riesgos con fórmulas.</p>
+  </div></div>
+  <div class="fases" id="fases"></div>
+  <div class="files">
+    <a href="__REPO__/blob/main/plan/Plan_100_dias_Servicio_Medico.pdf">Plan en PDF ↗</a>
+    <a href="__REPO__/blob/main/plan/Plan_100_dias_Servicio_Medico.xlsx">Plan en Excel ↗</a>
+    <a href="__REPO__">Código y datos en GitHub ↗</a>
+  </div>
+</section>
+
+<footer>
+  <div>
+    <p><b>Método.</b> Monte Carlo con distribuciones triangulares por tramo y __N__ casos por escenario (modelo/hora_de_oro.py, semilla fija). La versión de esta página corre el mismo modelo en el navegador. Rutas: OSRM sobre OpenStreetMap, consulta del 23/10/2026. Ubicación de la mina: artículo "Cerro Negro mine" de Wikipedia. Nivel de cada hospital según su denominación oficial (distrital, zonal, regional); la capacidad real de cada uno hay que confirmarla con el sistema de salud.</p>
+    <p><b>Límites.</b> Los tiempos internos y las probabilidades son supuestos documentados en modelo/supuestos.csv. Los indicadores del tablero son sintéticos. Con registros reales de simulacros y eventos, el modelo se recalibra en una semana.</p>
+  </div>
+  <div>
+    <p><b>Autor.</b> Emiliano Pérez Alaniz, Enfermero Profesional. Salud ocupacional en minería en Santa Cruz, Lean Six Sigma y análisis de datos.</p>
+    <p><b>Repositorio.</b> <a href="__REPO__">github.com/mperezalaniz/servicio-medico-mineria-remota</a></p>
+    <p>Mapa: © colaboradores de OpenStreetMap (ODbL).</p>
+  </div>
+</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const GEO = __GEO__, RUTAS = __RUTAS__, CENTROS = __CENTROS__, T = __TABLERO__, PLAN_FASES = __FASES__, VUELO = __VUELO__;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const nf = new Intl.NumberFormat('es-AR');
+const f1 = v => v.toFixed(1).replace('.', ',');
+const hm = m => { m = Math.round(m); const h = Math.floor(m / 60), r = m % 60; return h ? `${h} h ${String(r).padStart(2, '0')}` : `${r} min`; };
+const MES = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+const mesLab = s => { const [y, m] = s.split('-'); return `${MES[+m - 1]} ${y.slice(2)}`; };
+
+// ---------------------------------------------------------------- modelo (misma lógica que modelo/hora_de_oro.py)
+const N = 6000;
+function rng(seed){ return function(){ seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function simular({protocolo = false, brigada = false, invierno = false}){
+  const R = rng(2026);
+  const tri = (a, m, b) => { const u = R(), c = (m - a) / (b - a); return u < c ? a + Math.sqrt(u * (b - a) * (m - a)) : b - Math.sqrt((1 - u) * (b - a) * (b - m)); };
+  const clima = invierno ? 0.35 : 0.12, o = {primer:[], sva:[], salida:[], hosp:[], alta:[], tr:{aviso:[], llegada:[], extraccion:[], estab:[], coord:[], prep:[], ruta:[]}};
+  for (let i = 0; i < N; i++){
+    const det = tri(1, 3, 10), lleg = tri(8, 15, 35), bajo = R() < 0.6;
+    const extr = bajo ? (brigada ? tri(8, 18, 40) : tri(10, 25, 60)) : tri(5, 10, 20);
+    const primer = det + (brigada ? tri(2, 4, 8) : lleg), sva = det + lleg, posta = sva + extr;
+    const est = tri(20, 35, 60), coord = protocolo ? tri(5, 12, 30) : tri(10, 30, 90), prep = protocolo ? tri(3, 6, 12) : tri(5, 10, 20);
+    const salida = protocolo ? posta + Math.max(est, coord + prep) : posta + est + coord + prep;
+    const finCoord = protocolo ? posta + coord : posta + est + coord;
+    const fac = 0.65 + 0.35 * R(), dem = R() < clima ? 30 + 90 * R() : 0;
+    const ruta = RUTAS.LH * fac + dem, hosp = salida + ruta;
+    const terr = salida + RUTAS.CR * fac + dem;
+    const aerea = Math.max(finCoord + tri(60, 120, 240), salida + RUTAS.PM * fac + dem) + VUELO;
+    o.primer.push(primer); o.sva.push(sva); o.salida.push(salida); o.hosp.push(hosp); o.alta.push(Math.min(terr, aerea));
+    o.tr.aviso.push(det); o.tr.llegada.push(lleg); o.tr.extraccion.push(extr); o.tr.estab.push(est); o.tr.coord.push(coord); o.tr.prep.push(prep); o.tr.ruta.push(ruta);
+  }
+  return o;
+}
+const q = (a, p) => { const s = Float64Array.from(a).sort(); const i = (s.length - 1) * p, lo = Math.floor(i); return s[lo] + (s[Math.min(lo + 1, s.length - 1)] - s[lo]) * (i - lo); };
+const REF = simular({});
+
+function milestones(o){
+  const base = REF, card = (k, lab, sub) => {
+    const p50 = q(o[k], .5), p90 = q(o[k], .9), d = q(base[k], .5) - p50;
+    return `<div class="mile"><div class="eyebrow">${lab}</div><div class="v num">${hm(p50)}</div>
+      <div class="d">P90 ${hm(p90)}</div><div class="d ${d > 1 ? 'good' : ''}">${d > 1 ? '−' + Math.round(d) + ' min vs referencia' : sub}</div></div>`; };
+  const pct6 = 100 * o.alta.filter(v => v <= 360).length / N, pct6r = 100 * REF.alta.filter(v => v <= 360).length / N;
+  document.getElementById('miles').innerHTML = card('primer', 'Primer contacto', 'referencia') + card('sva', 'Soporte vital avanzado', 'referencia') +
+    card('salida', 'Sale la ambulancia', 'referencia') +
+    `<div class="mile"><div class="eyebrow">Alta complejidad en 6 h</div><div class="v num">${Math.round(pct6)}%</div><div class="d">de los casos, por ruta o avión</div><div class="d ${pct6 - pct6r > 1 ? 'good' : ''}">${pct6 - pct6r > 1 ? '+' + Math.round(pct6 - pct6r) + ' puntos vs referencia' : 'referencia: ' + Math.round(pct6r) + '%'}</div></div>`;
+}
+
+function chain(o, protocolo){
+  const C = {aviso:css('--blue-mid'), llegada:css('--blue-mid'), extraccion:css('--blue-mid'), estab:css('--blue'), coord:css('--orange'), prep:css('--orange-soft'), ruta:css('--line')};
+  const med = k => q(o.tr[k], .5);
+  const serie = protocolo ? med('aviso') + med('llegada') + med('extraccion') + Math.max(med('estab'), med('coord') + med('prep')) : ['aviso', 'llegada', 'extraccion', 'estab', 'coord', 'prep'].reduce((a, k) => a + med(k), 0);
+  const fz = q(o.salida, .5) / serie, m = k => k === 'ruta' ? med(k) : med(k) * fz, L = 10, W = 850, maxT = 300, x = t => L + t / maxT * (W - L - 10);
+  const seg = (t0, d, y, k, lab) => `<rect x="${x(t0).toFixed(1)}" y="${y}" width="${Math.max(1, x(t0 + d) - x(t0)).toFixed(1)}" height="26" fill="${C[k]}" stroke="${css('--panel')}" stroke-width="1"/>` +
+    (x(t0 + d) - x(t0) > 34 ? `<text x="${(x(t0) + x(t0 + d)) / 2}" y="${y + 17}" text-anchor="middle" font-size="11" font-family="IBM Plex Mono, monospace" fill="${k === 'estab' || k === 'coord' ? css('--panel') : css('--ink')}">${lab ?? Math.round(d)}</text>` : '');
+  let s = '', t = 0, y = 34;
+  for (const k of ['aviso', 'llegada', 'extraccion']){ s += seg(t, m(k), y, k); t += m(k); }
+  const posta = t;
+  s += seg(t, m('estab'), y, 'estab');
+  let salida;
+  if (protocolo){ s += seg(posta, m('coord'), y + 32, 'coord'); s += seg(posta + m('coord'), m('prep'), y + 32, 'prep'); salida = posta + Math.max(m('estab'), m('coord') + m('prep')); }
+  else { t = posta + m('estab'); s += seg(t, m('coord'), y, 'coord'); t += m('coord'); s += seg(t, m('prep'), y, 'prep'); salida = t + m('prep'); }
+  s += seg(salida, Math.min(m('ruta'), maxT - salida), y, 'ruta', 'ruta al hospital ' + hm(m('ruta')) + ' →');
+  s += `<line x1="${x(salida)}" y1="18" x2="${x(salida)}" y2="${y + 66}" stroke="${css('--ink')}" stroke-width="1.5" stroke-dasharray="3 3"/>` +
+       `<text x="${x(salida) + 6}" y="22" font-size="12" font-weight="600" font-family="IBM Plex Sans, sans-serif" fill="${css('--ink')}">Sale la ambulancia: ${hm(salida)}</text>`;
+  for (let tt = 0; tt <= maxT; tt += 60) s += `<line x1="${x(tt)}" y1="${y + 72}" x2="${x(tt)}" y2="${y + 78}" stroke="${css('--muted')}"/><text x="${x(tt)}" y="${y + 92}" font-size="11" text-anchor="${tt === 0 ? 'start' : 'middle'}" font-family="IBM Plex Mono, monospace" fill="${css('--muted')}">${tt === 0 ? 'aviso' : tt / 60 + ' h'}</text>`;
+  if (protocolo) s += `<text x="${x(posta)}" y="${y + 70}" font-size="11" font-family="IBM Plex Sans, sans-serif" fill="${css('--ink2')}" dy="0">en paralelo</text>`;
+  document.getElementById('chain').innerHTML = s;
+  document.getElementById('chainLegend').innerHTML = [['Aviso, llegada y extracción', C.aviso], ['Estabilización', C.estab], ['Coordinación de la derivación', C.coord], ['Preparación de salida', C.prep], ['Ruta', C.ruta]]
+    .map(([l, c]) => `<span><i style="background:${c}"></i>${l}</span>`).join('');
+}
+
+let hist;
+function histo(o){
+  const bins = Array.from({length: 30}, (_, i) => i * 10), cnt = a => bins.map(b => a.filter(v => v >= b && v < b + 10).length / N * 100);
+  const data = {labels: bins.map(b => b), datasets: [{data: cnt(REF.salida), backgroundColor: css('--line'), barPercentage: 1, categoryPercentage: .92, order: 2},
+    {data: cnt(o.salida), backgroundColor: css('--blue'), barPercentage: .55, categoryPercentage: .92, order: 1}]};
+  if (hist) hist.destroy();
+  hist = new Chart(cHist, {type: 'bar', data, options: {maintainAspectRatio: false, animation: false,
+    plugins: {legend: {display: false}, tooltip: {callbacks: {title: i => `${i[0].label} a ${+i[0].label + 10} min`, label: i => `${i.datasetIndex ? 'Elegido' : 'Referencia'}: ${f1(i.raw)}% de los casos`}}},
+    scales: {x: {grid: {display: false}, ticks: {callback: (v, i) => i % 6 === 0 ? (bins[i] / 60) + ' h' : null, maxRotation: 0, autoSkip: false}},
+      y: {grid: {color: css('--line')}, border: {display: false}, ticks: {callback: v => v + '%'}}}}});
+}
+
+function runSim(){
+  const opt = {protocolo: tProt.checked, brigada: tBrig.checked, invierno: tInv.checked}, o = simular(opt);
+  milestones(o); chain(o, opt.protocolo); histo(o);
+  const s50 = q(o.salida, .5), h50 = q(o.hosp, .5);
+  document.getElementById('simNote').innerHTML = `<b>Lectura:</b> en este escenario la ambulancia sale a las ${hm(s50)} del aviso y llega al hospital de Las Heras a las ${hm(h50)}. ` +
+    `El ${Math.round(100 * s50 / h50)}% de ese tiempo pasa dentro del sitio. ` + (opt.protocolo ? 'La coordinación ya no espera a que termine la estabilización.' : 'La coordinación de la derivación (naranja) es la espera más larga y arranca recién cuando termina la estabilización.');
+}
+[tProt, tBrig, tInv].forEach(el => el.addEventListener('change', runSim));
+
+// ---------------------------------------------------------------- mapa
+let sel = 'LH';
+function drawMap(){
+  const B = {w: -71.35, e: -66.05, n: -45.62, s: -47.22}, W = 760, k = Math.cos(46.5 * Math.PI / 180);
+  const sx = W / ((B.e - B.w) * k), H = Math.round((B.n - B.s) * sx); document.getElementById('map').setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const P = ([lon, lat]) => [((lon - B.w) * k * sx).toFixed(1), ((B.n - lat) * sx).toFixed(1)];
+  const path = pts => 'M' + pts.map(p => P(p).join(',')).join('L');
+  const C = {PM: css('--blue-mid'), LH: css('--blue'), CO: css('--orange'), CR: css('--crit')};
+  let s = `<rect width="${W}" height="${H}" fill="${css('--bg')}"/><path d="${path(GEO.santa_cruz)}Z" fill="${css('--land')}" stroke="${css('--land-line')}" stroke-width="1.2"/>`;
+  s += `<text x="${P([-69.4, -45.8])[0]}" y="${P([-69.4, -45.8])[1]}" font-size="12" font-family="IBM Plex Mono, monospace" fill="${css('--muted')}" letter-spacing="2">CHUBUT</text>`;
+  s += `<text x="${P([-69.6, -47.12])[0]}" y="${P([-69.6, -47.12])[1]}" font-size="12" font-family="IBM Plex Mono, monospace" fill="${css('--muted')}" letter-spacing="2">SANTA CRUZ</text>`;
+  s += `<text x="${P([-66.45, -47.0])[0]}" y="${P([-66.45, -47.0])[1]}" text-anchor="middle" font-size="12" font-family="IBM Plex Mono, monospace" fill="${css('--muted')}" letter-spacing="2">MAR</text>`;
+  for (const id of ['PM', 'CO', 'CR', 'LH'].sort(a => a === sel ? 1 : -1)){
+    const on = id === sel;
+    s += `<path d="${path(GEO.rutas[id])}" fill="none" stroke="${C[id]}" stroke-width="${on ? 4 : 2}" stroke-opacity="${on ? 1 : .45}" stroke-linejoin="round" stroke-linecap="round"/>`;
+  }
+  for (const c of CENTROS){
+    const [x, y] = P([c.lon, c.lat]), on = c.id === sel, right = c.id === 'PM';
+    s += `<circle cx="${x}" cy="${y}" r="${on ? 7 : 5}" fill="${C[c.id]}" stroke="${css('--panel')}" stroke-width="2"/>`;
+    s += `<text x="${+x + (right ? 10 : -10)}" y="${+y - 10}" text-anchor="${right ? 'start' : 'end'}" font-size="13" font-weight="${on ? 600 : 400}" font-family="IBM Plex Sans, sans-serif" fill="${css('--ink')}">${c.localidad}</text>`;
+  }
+  const [mx, my] = P([GEO.mina.lon, GEO.mina.lat]);
+  s += `<rect x="${mx - 8}" y="${my - 8}" width="16" height="16" transform="rotate(45 ${mx} ${my})" fill="${css('--ink')}" stroke="${css('--panel')}" stroke-width="2"/>`;
+  s += `<text x="${mx}" y="${+my + 28}" text-anchor="middle" font-size="13" font-weight="600" font-family="IBM Plex Sans, sans-serif" fill="${css('--ink')}">Mina</text>`;
+  const L0 = P([-71.2, -47.15]);
+  s += `<line x1="${L0[0]}" y1="${L0[1]}" x2="${+L0[0] + 50 * sx / (111.32 * k) * k}" y2="${L0[1]}" stroke="${css('--ink2')}" stroke-width="2"/>`;
+  s += `<text x="${L0[0]}" y="${+L0[1] - 6}" font-size="11" font-family="IBM Plex Mono, monospace" fill="${css('--ink2')}">50 km</text>`;
+  document.getElementById('map').innerHTML = s;
+  document.getElementById('dest').innerHTML = CENTROS.map(c => `<button type="button" aria-pressed="${c.id === sel}" data-id="${c.id}">
+    <b>${c.localidad}</b><span class="t">${nf.format(c.km)} km</span>
+    <small>${c.nombre} · nivel ${c.nivel.toLowerCase()}<br>Ruta: ${hm(c.min * .65)} a ${hm(c.min)} según OSRM ajustado</small></button>`).join('');
+  document.querySelectorAll('#dest button').forEach(b => b.onclick = () => { sel = b.dataset.id; drawMap(); });
+}
+
+// ---------------------------------------------------------------- tablero sintético
+let charts = [];
+function tablero(){
+  charts.forEach(c => c.destroy()); charts = [];
+  const K = T.kpi, Cc = {ink: css('--ink'), ink2: css('--ink2'), line: css('--line'), blue: css('--blue'), blueM: css('--blue-mid'), orange: css('--orange'), crit: css('--crit'), muted: css('--muted')};
+  Chart.defaults.font.family = css('--f-mono'); Chart.defaults.font.size = 11; Chart.defaults.color = Cc.ink2;
+  const tip = {backgroundColor: Cc.ink, titleColor: css('--panel'), bodyColor: css('--panel'), displayColors: false, padding: 9};
+  document.getElementById('kpis').innerHTML = [
+    ['Exámenes al día', f1(K.cobertura_examenes) + '%', `desde ${f1(K.cobertura_examenes_ini)}%`, 'Evaluaciones periódicas vigentes'],
+    ['Brigadistas vigentes', f1(K.brigadistas_vigentes) + '%', `desde ${f1(K.brigadistas_ini)}%`, 'Primeros auxilios certificados'],
+    ['Llegada del equipo P90', f1(K.llegada_p90_ult3) + ' min', `desde ${f1(K.llegada_p90_ini3)} min`, 'Últimos 3 meses vs primeros 3'],
+    ['Quiebres de stock', String(K.quiebres_eventos_despues), `desde ${K.quiebres_eventos_antes} días-ítem`, `En ${K.dias_despues} días con kanban`],
+    ['Consultas', f1(K.tasa_consultas), 'por 1.000 personas-día', 'Últimas 4 semanas'],
+    ['Insumos en reposición', `${K.items_bajo_min} de ${K.items_total}`, 'pedido en camino', 'Tocaron el mínimo y ya se pidió'],
+  ].map(([e, v, d, l]) => `<div class="kpi"><div class="eyebrow">${e}</div><div class="v num">${v}</div><div class="d">${d}</div><div class="l">${l}</div></div>`).join('');
+
+  const S = T.semanal, out = new Set(T.fuera);
+  charts.push(new Chart(cU, {type: 'line', data: {labels: S.map(s => s.s), datasets: [
+    {data: S.map(s => s.t), borderColor: Cc.blue, borderWidth: 1.8, tension: .15, pointRadius: S.map(s => out.has(s.s) ? 4.5 : 0), pointBackgroundColor: S.map(s => out.has(s.s) ? Cc.crit : Cc.blue), pointBorderColor: css('--panel')},
+    {data: S.map(s => s.lcs), borderColor: Cc.crit, borderWidth: 1.1, borderDash: [5, 4], pointRadius: 0, stepped: true},
+    {data: S.map(() => T.ubar), borderColor: Cc.muted, borderWidth: 1.1, pointRadius: 0},
+    {data: S.map(s => s.lci), borderColor: Cc.crit, borderWidth: 1.1, borderDash: [5, 4], pointRadius: 0, stepped: true}]},
+    options: {maintainAspectRatio: false, animation: false, interaction: {mode: 'index', intersect: false},
+      plugins: {legend: {display: false}, tooltip: {...tip, filter: i => i.datasetIndex === 0, callbacks: {title: i => 'Semana al ' + i[0].label.split('-').reverse().join('/'), label: i => f1(i.raw) + ' por 1.000' + (out.has(S[i.dataIndex].s) ? ' · fuera de control' : '')}}},
+      scales: {x: {grid: {display: false}, ticks: {autoSkip: false, maxRotation: 0, callback: (v, i) => { const s = S[i].s; return (i === 0 || S[i - 1].s.slice(5, 7) !== s.slice(5, 7)) && ['01', '04', '07', '10'].includes(s.slice(5, 7)) ? mesLab(s) : null; }}},
+        y: {grid: {color: Cc.line}, border: {display: false}}}}}));
+  document.getElementById('uNote').innerHTML = `<b>Lectura:</b> línea central ${f1(T.ubar)} por 1.000 personas-día, calculada con los meses sin invierno. La semana del 15 de marzo salta por un brote digestivo simulado: la carta lo marca en la misma semana. Los puntos de junio a agosto son el invierno respiratorio, una causa conocida que se planifica con dotación.`;
+
+  const Pa = T.pareto, tot = Pa.reduce((a, b) => a + b.n, 0); let acc = 0; const cum = Pa.map(p => (acc += p.n) / tot * 100);
+  charts.push(new Chart(cPar, {data: {labels: Pa.map(p => p.m), datasets: [
+    {type: 'line', data: cum, yAxisID: 'y1', borderColor: Cc.orange, backgroundColor: Cc.orange, borderWidth: 2, pointRadius: 3},
+    {type: 'bar', data: Pa.map(p => p.n), backgroundColor: Pa.map((p, i) => i < 2 ? Cc.blue : css('--blue-soft')), borderRadius: 2}]},
+    options: {maintainAspectRatio: false, animation: false, plugins: {legend: {display: false}, tooltip: {...tip, callbacks: {label: i => i.datasetIndex ? nf.format(i.raw) + ' consultas' : f1(i.raw) + '% acumulado'}}},
+      scales: {x: {grid: {display: false}, ticks: {maxRotation: 0, autoSkip: false, callback: (v, i) => ({'Respiratorio': 'Resp.', 'Musculoesquelético': 'Musc.', 'Cefalea y malestar general': 'Cefalea', 'Control de crónicos': 'Crónicos', 'Digestivo': 'Digest.', 'Trauma leve': 'Trauma', 'Dermatológico': 'Derm.', 'Oftalmológico': 'Oftalm.'})[Pa[i].m] || Pa[i].m}},
+        y: {grid: {color: Cc.line}, border: {display: false}, ticks: {callback: v => nf.format(v)}},
+        y1: {position: 'right', min: 0, max: 100, grid: {display: false}, border: {display: false}, ticks: {callback: v => v + '%', color: Cc.orange}}}}}));
+  document.getElementById('parNote').innerHTML = `<b>Lectura:</b> respiratorio y musculoesquelético suman ${f1(cum[1])}% de las consultas. Son los dos frentes para el programa de bienestar: vacunación antes del invierno y pausas activas por puesto.`;
+
+  const St = T.stock; document.getElementById('stockChip').textContent = `${K.quiebres_eventos_despues} quiebres desde mayo`;
+  document.getElementById('tStock').innerHTML = St.map(s => {
+    const low = s.stock < s.min; return `<tr><td>${s.item}<div class="eyebrow" style="text-transform:none;letter-spacing:0">mín. ${s.min} (antes ${s.min_anterior}) · máx. ${s.max}</div></td>
+    <td><div class="stockbar"><span class="fill" style="width:${Math.min(100, 100 * s.stock / s.max).toFixed(1)}%;background:${low ? Cc.orange : Cc.blue}"></span><span class="min" style="left:${(100 * s.min / s.max).toFixed(1)}%"></span></div></td>
+    <td class="r num">${s.cob == null ? '–' : f1(s.cob)}</td><td><span class="badge ${low ? 'alert' : 'fine'}">${low ? 'Pedido en camino' : 'En rango'}</span></td></tr>`; }).join('');
+
+  const CM = T.cobertura_mes, BR = T.brigadistas;
+  charts.push(new Chart(cPrev, {type: 'line', data: {labels: CM.map(c => mesLab(c.mes)), datasets: [
+    {data: CM.map(c => c.pct), borderColor: Cc.blue, backgroundColor: Cc.blue, borderWidth: 2.2, pointRadius: 3},
+    {data: BR.map(b => b.pct), borderColor: Cc.orange, backgroundColor: Cc.orange, borderWidth: 2.2, pointRadius: 3}]},
+    options: {maintainAspectRatio: false, animation: false, plugins: {legend: {display: false}, tooltip: {...tip, callbacks: {label: i => (i.datasetIndex ? 'Brigadistas ' : 'Exámenes ') + f1(i.raw) + '%'}}},
+      scales: {x: {grid: {display: false}, ticks: {maxRotation: 0, autoSkip: true}}, y: {min: 60, max: 100, grid: {color: Cc.line}, border: {display: false}, ticks: {callback: v => v + '%'}}}}}));
+  const EM = T.emergencias;
+  charts.push(new Chart(cEm, {type: 'bar', data: {labels: EM.map(e => mesLab(e.mes)), datasets: [{data: EM.map(e => e.p90), backgroundColor: EM.map((e, i) => i >= 6 ? Cc.blue : Cc.blueM), borderRadius: 2}]},
+    options: {maintainAspectRatio: false, animation: false, plugins: {legend: {display: false}, tooltip: {...tip, callbacks: {label: i => `P90 ${f1(i.raw)} min · ${EM[i.dataIndex].n} emergencias`}}},
+      scales: {x: {grid: {display: false}, ticks: {maxRotation: 0, autoSkip: true}}, y: {beginAtZero: true, grid: {color: Cc.line}, border: {display: false}, ticks: {callback: v => v + ' min'}}}}}));
+}
+
+document.getElementById('fases').innerHTML = PLAN_FASES.map((f, i) => `<div class="fase" style="border-top-color:${['var(--blue-mid)', 'var(--blue)', 'var(--orange)', 'var(--ink)'][i]}"><div class="k">Días ${f[0]} · ${f[2]}</div><h4>${f[1]}</h4><p>${f[3]}</p></div>`).join('');
+
+function all(){ drawMap(); runSim(); if (window.Chart) tablero(); }
+function start(){ if (window.Chart) all(); else setTimeout(start, 60); }
+drawMap(); start();
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', all);
+new MutationObserver(all).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
+</script>

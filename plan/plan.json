@@ -1,0 +1,480 @@
+{
+ "acta": {
+  "nombre": "Servicio médico confiable en una operación minera remota",
+  "proposito": "Que cada trabajador con una emergencia reciba soporte vital avanzado lo antes posible y salga del sitio estabilizado y con la derivación resuelta, y que el servicio médico mida lo que hace para mejorarlo todos los meses.",
+  "alcance": [
+   "Postas médicas del sitio, equipo de enfermería, paramédicos y choferes de ambulancia",
+   "Respuesta médica de emergencia y coordinación de derivaciones con prestadores y hospitales",
+   "Evaluaciones de salud, vigilancia médica y controles de alcohol y drogas",
+   "Equipos e insumos médicos, stock crítico y checklist de ambulancias",
+   "Capacitación de brigadistas en primeros auxilios y respuesta a emergencias",
+   "Reportes de métricas del servicio y programa de bienestar"
+  ],
+  "fuera_alcance": [
+   "Decisiones clínicas, que siguen siendo de los médicos",
+   "Presupuesto anual del área (el plan aporta datos para armarlo)",
+   "Contratos con prestadores (el plan coordina, no negocia)"
+  ],
+  "objetivos": [
+   "Bajar el tiempo de salida del sitio en emergencias graves de 2 h 53 min a menos de 1 h 50 min en el percentil 90, medido en simulacros y eventos reales",
+   "Llegar a 97% de evaluaciones de salud periódicas al día en todas las áreas",
+   "Llegar a 90% de brigadistas con certificación de primeros auxilios vigente",
+   "Cero quiebres de stock en insumos críticos de emergencia",
+   "Tablero semanal de métricas del servicio funcionando y revisado con el superintendente",
+   "Programa de bienestar con línea base de riesgo cardiovascular y un piloto en marcha"
+  ],
+  "restricciones": [
+   "Roster 8x6: la mitad del tiempo el equipo trabaja sin el Team Lead en sitio",
+   "Distancia: el hospital más cercano está a más de 2 horas por ruta",
+   "Logística: los insumos tardan entre 10 y 17 días en llegar",
+   "Clima: el invierno patagónico agrega demoras en ruta"
+  ]
+ },
+ "fases": [
+  [
+   "1 a 30",
+   "Escuchar y medir",
+   "Definir y Medir",
+   "Conocer al equipo uno por uno, recorrer postas y frentes, revisar protocolos y armar la línea base de métricas."
+  ],
+  [
+   "31 a 60",
+   "Analizar y ordenar",
+   "Analizar",
+   "Encontrar las causas de las demoras y de los quiebres de stock, y acordar la derivación con prestadores y hospitales."
+  ],
+  [
+   "61 a 90",
+   "Mejorar",
+   "Mejorar",
+   "Poner en marcha los cambios: simulacros con roles fijos, kanban de insumos, primera respuesta bajo mina y piloto de bienestar."
+  ],
+  [
+   "91 a 100",
+   "Sostener y rendir cuentas",
+   "Controlar",
+   "Cartas de control, procedimientos actualizados, informe de resultados y plan para los próximos seis meses."
+  ]
+ ],
+ "tareas": [
+  [
+   "Reunión uno a uno con cada integrante del equipo",
+   "Escuchar y medir",
+   1,
+   14,
+   "Team Lead",
+   "Mapa de fortalezas y problemas del equipo"
+  ],
+  [
+   "Recorrido de postas, ambulancias y frentes de trabajo",
+   "Escuchar y medir",
+   1,
+   10,
+   "Team Lead",
+   "Lista de hallazgos con fotos"
+  ],
+  [
+   "Revisión de protocolos médicos y de emergencia vigentes",
+   "Escuchar y medir",
+   5,
+   15,
+   "Team Lead + Médicos",
+   "Matriz de brechas por protocolo"
+  ],
+  [
+   "Inventario de equipos e insumos críticos",
+   "Escuchar y medir",
+   8,
+   10,
+   "Enfermería",
+   "Listado con mínimos, máximos y vencimientos"
+  ],
+  [
+   "Línea base de métricas del servicio",
+   "Escuchar y medir",
+   10,
+   20,
+   "Team Lead",
+   "Tablero v0 con 8 indicadores"
+  ],
+  [
+   "Simulacro observado y cronometrado por tramo",
+   "Escuchar y medir",
+   20,
+   5,
+   "Team Lead + HSE",
+   "Mapa de flujo de valor de la respuesta"
+  ],
+  [
+   "Mejoras rápidas: checklist de ambulancia y 5S en sala de emergencias",
+   "Escuchar y medir",
+   15,
+   15,
+   "Enfermería",
+   "Checklist diario firmado por turno"
+  ],
+  [
+   "Análisis de causas de demoras (Ishikawa y 5 porqués)",
+   "Analizar y ordenar",
+   31,
+   10,
+   "Team Lead + Médicos",
+   "Causas raíz priorizadas"
+  ],
+  [
+   "Protocolo de derivación pre acordado con prestador y hospitales",
+   "Analizar y ordenar",
+   35,
+   25,
+   "Team Lead + Superintendente",
+   "Protocolo firmado y contactos únicos"
+  ],
+  [
+   "Recálculo de mínimos de stock y tarjetas kanban",
+   "Analizar y ordenar",
+   35,
+   15,
+   "Team Lead + Logística",
+   "Tablero kanban de insumos"
+  ],
+  [
+   "Agenda de exámenes periódicos por rotación",
+   "Analizar y ordenar",
+   40,
+   20,
+   "Enfermería + Prestador",
+   "Agenda anual por área y roster"
+  ],
+  [
+   "Plan de capacitación de brigadistas",
+   "Analizar y ordenar",
+   45,
+   15,
+   "Team Lead + HSE",
+   "Cronograma por frente y turno"
+  ],
+  [
+   "Tablero semanal de métricas v1",
+   "Analizar y ordenar",
+   50,
+   10,
+   "Team Lead",
+   "Tablero publicado y revisado"
+  ],
+  [
+   "Simulacros mensuales con roles fijos",
+   "Mejorar",
+   61,
+   30,
+   "Team Lead + HSE + Operaciones",
+   "Tiempos por tramo en cada simulacro"
+  ],
+  [
+   "Piloto de primera respuesta bajo mina",
+   "Mejorar",
+   65,
+   25,
+   "Team Lead + Operaciones",
+   "Brigadistas por frente y kits de primeros auxilios"
+  ],
+  [
+   "Piloto de bienestar: riesgo cardiovascular",
+   "Mejorar",
+   70,
+   30,
+   "Médicos + Enfermería",
+   "Línea base y participación"
+  ],
+  [
+   "Reconocimiento al equipo por resultados",
+   "Mejorar",
+   85,
+   5,
+   "Team Lead",
+   "Reconocimiento en reunión de seguridad"
+  ],
+  [
+   "Cartas de control y procedimientos actualizados",
+   "Sostener y rendir cuentas",
+   91,
+   7,
+   "Team Lead",
+   "Procedimientos versionados"
+  ],
+  [
+   "Informe de resultados y plan a seis meses",
+   "Sostener y rendir cuentas",
+   95,
+   6,
+   "Team Lead",
+   "Presentación al superintendente"
+  ]
+ ],
+ "roles": [
+  "Team Lead",
+  "Médicos",
+  "Enfermería y paramédicos",
+  "Superintendente de Salud",
+  "HSE",
+  "Operaciones mina",
+  "Logística",
+  "Prestador y hospitales"
+ ],
+ "raci": [
+  [
+   "Respuesta médica de emergencia",
+   [
+    "A",
+    "R",
+    "R",
+    "I",
+    "C",
+    "C",
+    "",
+    "I"
+   ]
+  ],
+  [
+   "Derivación a centro externo",
+   [
+    "R",
+    "A",
+    "C",
+    "I",
+    "I",
+    "",
+    "",
+    "C"
+   ]
+  ],
+  [
+   "Evaluaciones de salud periódicas",
+   [
+    "A",
+    "R",
+    "R",
+    "I",
+    "I",
+    "C",
+    "",
+    "C"
+   ]
+  ],
+  [
+   "Stock crítico e insumos",
+   [
+    "A",
+    "C",
+    "R",
+    "I",
+    "",
+    "",
+    "R",
+    ""
+   ]
+  ],
+  [
+   "Capacitación de brigadistas",
+   [
+    "A",
+    "C",
+    "R",
+    "I",
+    "R",
+    "C",
+    "",
+    ""
+   ]
+  ],
+  [
+   "Simulacros de emergencia",
+   [
+    "R",
+    "C",
+    "R",
+    "I",
+    "A",
+    "R",
+    "",
+    "I"
+   ]
+  ],
+  [
+   "Tablero de métricas",
+   [
+    "R",
+    "C",
+    "C",
+    "A",
+    "I",
+    "I",
+    "",
+    ""
+   ]
+  ],
+  [
+   "Programa de bienestar",
+   [
+    "R",
+    "A",
+    "R",
+    "C",
+    "C",
+    "I",
+    "",
+    ""
+   ]
+  ]
+ ],
+ "riesgos": [
+  [
+   "El roster 8x6 corta la continuidad del plan",
+   4,
+   4,
+   "Traspaso escrito al final de cada roster y tablero compartido con el turno espejo"
+  ],
+  [
+   "Resistencia del equipo a cambiar rutinas",
+   3,
+   4,
+   "Mejoras propuestas por el propio equipo y resultados visibles cada semana"
+  ],
+  [
+   "Demoras de logística en insumos críticos",
+   4,
+   5,
+   "Mínimos calculados con la demora real y pedido automático por kanban"
+  ],
+  [
+   "El prestador u hospitales no aceptan el protocolo de derivación",
+   2,
+   5,
+   "Acuerdo escalado con el superintendente y versión mínima con contactos únicos"
+  ],
+  [
+   "Clima invernal suspende simulacros o traslados",
+   4,
+   3,
+   "Simulacros en ventanas planificadas y plan de contingencia aérea"
+  ],
+  [
+   "Registros en papel o incompletos",
+   3,
+   3,
+   "Planilla digital simple con validaciones y un responsable por turno"
+  ],
+  [
+   "La operación no libera tiempo para simulacros",
+   3,
+   4,
+   "Coordinar con Operaciones en las reuniones de planificación semanal"
+  ],
+  [
+   "Datos de salud expuestos en reportes",
+   2,
+   5,
+   "Indicadores agregados y acceso restringido a registros individuales"
+  ]
+ ],
+ "kpis": [
+  [
+   "Respuesta",
+   "Tiempo hasta primer contacto",
+   "Desde el aviso hasta que alguien capacitado atiende al paciente",
+   "23 min (mediana)",
+   "10 min",
+   "Cada evento y simulacro",
+   "Modelo"
+  ],
+  [
+   "Respuesta",
+   "Tiempo hasta soporte vital avanzado",
+   "Desde el aviso hasta que el equipo médico está con el paciente",
+   "23 min (mediana)",
+   "20 min",
+   "Cada evento y simulacro",
+   "Modelo"
+  ],
+  [
+   "Respuesta",
+   "Tiempo de salida del sitio (P90)",
+   "Desde el aviso hasta que la ambulancia sale con el paciente estabilizado",
+   "2 h 53 min",
+   "1 h 50 min",
+   "Mensual",
+   "Modelo"
+  ],
+  [
+   "Prevención",
+   "Evaluaciones de salud al día",
+   "Trabajadores con examen periódico vigente / dotación",
+   "86,1%",
+   "97%",
+   "Mensual",
+   "Sintético"
+  ],
+  [
+   "Prevención",
+   "Brigadistas con certificación vigente",
+   "Brigadistas vigentes / brigadistas designados",
+   "71,7%",
+   "90%",
+   "Mensual",
+   "Sintético"
+  ],
+  [
+   "Recursos",
+   "Quiebres de stock crítico",
+   "Días-ítem con stock en cero",
+   "362 en 163 días",
+   "0",
+   "Semanal",
+   "Sintético"
+  ],
+  [
+   "Recursos",
+   "Checklist de ambulancia completo",
+   "Checklists firmados / turnos",
+   "Sin dato",
+   "100%",
+   "Diaria",
+   "A medir"
+  ],
+  [
+   "Demanda",
+   "Consultas por 1.000 personas-día",
+   "Consultas / población en sitio x 1.000, con carta U",
+   "37,87",
+   "Dentro de límites",
+   "Semanal",
+   "Sintético"
+  ],
+  [
+   "Equipo",
+   "Capacitación del equipo médico al día",
+   "Integrantes con ACLS, PHTLS y BLS vigentes / total",
+   "Sin dato",
+   "100%",
+   "Trimestral",
+   "A medir"
+  ]
+ ],
+ "dmaic": [
+  {
+   "titulo": "Salir antes del sitio en una emergencia grave",
+   "D": "Según el modelo, en el escenario de referencia la ambulancia sale del sitio a las 2 h 19 min del aviso (mediana) y a las 2 h 53 min en el percentil 90. Ese tramo es casi la mitad (49%) del tiempo hasta el hospital más cercano, y es la parte que depende del servicio médico.",
+   "M": "Cronometrar cada tramo (aviso, llegada, extracción, estabilización, coordinación, preparación) en cada simulacro y en cada evento real, con una planilla única.",
+   "A": "La coordinación de la derivación es la espera más larga: 41 min de mediana, y arranca recién cuando termina la estabilización. Son llamadas, búsqueda de cama y autorizaciones en serie.",
+   "I": "Protocolo de derivación pre acordado (criterios escritos y un contacto único por hospital) y coordinación en paralelo a la estabilización. Ambulancia y chofer se preparan mientras tanto.",
+   "C": "P90 del tiempo de salida en el tablero mensual. Resultado esperado según el modelo: 60 min menos en la mediana y 75 min menos en el P90."
+  },
+  {
+   "titulo": "Cero quiebres de stock crítico",
+   "D": "En los datos sintéticos hubo 362 días-ítem en cero en 163 días con pedido mensual a ojo.",
+   "M": "Registro diario de stock por ítem con mínimo, máximo y fecha de pedido.",
+   "A": "Los mínimos no contemplaban la demora real de 10 a 17 días hasta el sitio ni la demanda de invierno de salbutamol y oxígeno.",
+   "I": "Mínimo = consumo de la peor temporada x demora máxima x 1,25. Tarjeta kanban: cuando el stock toca el mínimo se pide hasta el máximo, sin esperar al fin de mes.",
+   "C": "Revisión semanal en el tablero. En el escenario sintético los quiebres bajan a 0 en 171 días."
+  }
+ ]
+}

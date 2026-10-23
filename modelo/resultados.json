@@ -1,0 +1,550 @@
+{
+ "n": 20000,
+ "km_aereo_pm_cr": 276.3,
+ "vuelo_min": 90.3,
+ "escenarios": {
+  "base": {
+   "nombre": "Escenario de referencia",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 16.4,
+     "p50": 23.2,
+     "p90": 32.5
+    },
+    "sva": {
+     "p10": 16.4,
+     "p50": 23.2,
+     "p90": 32.5
+    },
+    "en_posta": {
+     "p10": 30.5,
+     "p50": 45.7,
+     "p90": 68.0
+    },
+    "salida": {
+     "p10": 110.9,
+     "p50": 139.4,
+     "p90": 172.6
+    },
+    "hosp_cercano": {
+     "p10": 246.2,
+     "p50": 285.8,
+     "p90": 340.4
+    },
+    "alta_terrestre": {
+     "p10": 363.5,
+     "p50": 421.3,
+     "p90": 486.0
+    },
+    "alta_aerea": {
+     "p10": 352.9,
+     "p50": 395.8,
+     "p90": 450.4
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.4,
+    "extraccion": 21.3,
+    "estabilizacion": 37.6,
+    "coordinacion": 40.7,
+    "preparacion": 11.4
+   },
+   "pct_primer_contacto_10": 0.0,
+   "pct_sva_20": 29.5,
+   "pct_salida_120": 20.2,
+   "pct_alta_6h": 16.6,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    13,
+    126,
+    499,
+    1209,
+    2185,
+    2872,
+    3272,
+    3059,
+    2517,
+    1873,
+    1207,
+    679,
+    322,
+    114,
+    41,
+    10,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "protocolo": {
+   "nombre": "Derivación pre acordada",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 16.6,
+     "p50": 23.3,
+     "p90": 32.6
+    },
+    "sva": {
+     "p10": 16.6,
+     "p50": 23.3,
+     "p90": 32.6
+    },
+    "en_posta": {
+     "p10": 30.4,
+     "p50": 45.6,
+     "p90": 67.8
+    },
+    "salida": {
+     "p10": 65.8,
+     "p50": 84.7,
+     "p90": 108.4
+    },
+    "hosp_cercano": {
+     "p10": 197.1,
+     "p50": 231.0,
+     "p90": 280.7
+    },
+    "alta_terrestre": {
+     "p10": 312.5,
+     "p50": 368.1,
+     "p90": 426.8
+    },
+    "alta_aerea": {
+     "p10": 302.6,
+     "p50": 338.8,
+     "p90": 387.4
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.5,
+    "extraccion": 20.9,
+    "estabilizacion": 37.7,
+    "coordinacion": 14.9,
+    "preparacion": 6.8
+   },
+   "pct_primer_contacto_10": 0.0,
+   "pct_sva_20": 29.0,
+   "pct_salida_120": 97.6,
+   "pct_alta_6h": 77.1,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    33,
+    678,
+    2660,
+    4470,
+    4564,
+    3587,
+    2316,
+    1207,
+    398,
+    76,
+    11,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "brigada": {
+   "nombre": "Brigadistas bajo mina",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 6.4,
+     "p50": 9.2,
+     "p90": 12.5
+    },
+    "sva": {
+     "p10": 16.6,
+     "p50": 23.3,
+     "p90": 32.4
+    },
+    "en_posta": {
+     "p10": 29.9,
+     "p50": 41.0,
+     "p90": 55.1
+    },
+    "salida": {
+     "p10": 108.1,
+     "p50": 133.9,
+     "p90": 164.1
+    },
+    "hosp_cercano": {
+     "p10": 242.0,
+     "p50": 280.4,
+     "p90": 332.5
+    },
+    "alta_terrestre": {
+     "p10": 359.0,
+     "p50": 417.2,
+     "p90": 478.7
+    },
+    "alta_aerea": {
+     "p10": 348.9,
+     "p50": 390.6,
+     "p90": 441.9
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.6,
+    "extraccion": 16.4,
+    "estabilizacion": 37.5,
+    "coordinacion": 41.3,
+    "preparacion": 11.3
+   },
+   "pct_primer_contacto_10": 63.2,
+   "pct_sva_20": 28.7,
+   "pct_salida_120": 25.7,
+   "pct_alta_6h": 20.5,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    136,
+    609,
+    1656,
+    2737,
+    3469,
+    3421,
+    2946,
+    2307,
+    1488,
+    758,
+    335,
+    94,
+    28,
+    7,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "mejorado": {
+   "nombre": "Ambas mejoras",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 6.4,
+     "p50": 9.1,
+     "p90": 12.4
+    },
+    "sva": {
+     "p10": 16.6,
+     "p50": 23.3,
+     "p90": 32.6
+    },
+    "en_posta": {
+     "p10": 29.8,
+     "p50": 41.1,
+     "p90": 55.0
+    },
+    "salida": {
+     "p10": 64.4,
+     "p50": 79.9,
+     "p90": 97.2
+    },
+    "hosp_cercano": {
+     "p10": 194.6,
+     "p50": 225.8,
+     "p90": 270.8
+    },
+    "alta_terrestre": {
+     "p10": 308.7,
+     "p50": 362.3,
+     "p90": 417.5
+    },
+    "alta_aerea": {
+     "p10": 299.8,
+     "p50": 333.3,
+     "p90": 377.6
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.6,
+    "extraccion": 16.4,
+    "estabilizacion": 37.7,
+    "coordinacion": 15.0,
+    "preparacion": 6.8
+   },
+   "pct_primer_contacto_10": 63.3,
+   "pct_sva_20": 29.0,
+   "pct_salida_120": 99.9,
+   "pct_alta_6h": 83.4,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    39,
+    787,
+    3466,
+    5801,
+    5474,
+    3031,
+    1131,
+    244,
+    27,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "invierno": {
+   "nombre": "Invierno, referencia",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 16.5,
+     "p50": 23.2,
+     "p90": 32.5
+    },
+    "sva": {
+     "p10": 16.5,
+     "p50": 23.2,
+     "p90": 32.5
+    },
+    "en_posta": {
+     "p10": 30.3,
+     "p50": 45.5,
+     "p90": 67.9
+    },
+    "salida": {
+     "p10": 110.6,
+     "p50": 139.7,
+     "p90": 172.9
+    },
+    "hosp_cercano": {
+     "p10": 251.1,
+     "p50": 300.3,
+     "p90": 380.0
+    },
+    "alta_terrestre": {
+     "p10": 370.7,
+     "p50": 438.0,
+     "p90": 520.6
+    },
+    "alta_aerea": {
+     "p10": 358.5,
+     "p50": 409.7,
+     "p90": 482.7
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.5,
+    "extraccion": 21.1,
+    "estabilizacion": 37.6,
+    "coordinacion": 41.3,
+    "preparacion": 11.3
+   },
+   "pct_primer_contacto_10": 0.0,
+   "pct_sva_20": 29.2,
+   "pct_salida_120": 20.6,
+   "pct_alta_6h": 12.3,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    10,
+    102,
+    485,
+    1307,
+    2213,
+    2854,
+    3129,
+    3009,
+    2566,
+    1881,
+    1222,
+    700,
+    355,
+    111,
+    42,
+    11,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  "invierno_mejorado": {
+   "nombre": "Invierno, ambas mejoras",
+   "hitos": {
+    "primer_contacto": {
+     "p10": 6.5,
+     "p50": 9.2,
+     "p90": 12.5
+    },
+    "sva": {
+     "p10": 16.5,
+     "p50": 23.3,
+     "p90": 32.5
+    },
+    "en_posta": {
+     "p10": 29.9,
+     "p50": 40.9,
+     "p90": 54.6
+    },
+    "salida": {
+     "p10": 64.4,
+     "p50": 79.7,
+     "p90": 96.9
+    },
+    "hosp_cercano": {
+     "p10": 198.4,
+     "p50": 237.6,
+     "p90": 316.8
+    },
+    "alta_terrestre": {
+     "p10": 314.8,
+     "p50": 378.9,
+     "p90": 457.2
+    },
+    "alta_aerea": {
+     "p10": 304.0,
+     "p50": 344.6,
+     "p90": 418.8
+    }
+   },
+   "tramos_mediana": {
+    "deteccion": 4.4,
+    "llegada": 18.5,
+    "extraccion": 16.5,
+    "estabilizacion": 37.6,
+    "coordinacion": 15.0,
+    "preparacion": 6.8
+   },
+   "pct_primer_contacto_10": 63.0,
+   "pct_sva_20": 29.3,
+   "pct_salida_120": 99.9,
+   "pct_alta_6h": 65.2,
+   "hist_salida": [
+    0,
+    0,
+    0,
+    0,
+    37,
+    822,
+    3480,
+    5877,
+    5362,
+    3090,
+    1077,
+    236,
+    19,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ },
+ "ahorro_salida_p50": 59.5,
+ "ahorro_salida_p90": 75.4,
+ "pct_controlable_base": 48.8
+}
