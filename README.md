@@ -8,23 +8,23 @@ Autor: Emiliano Pérez Alaniz · Enfermero Profesional · Salud ocupacional en m
 
 ## La pregunta
 
-En una mina remota el hospital más cercano queda a casi tres horas por ruta, y eso no se puede cambiar. ¿Cuánto del tiempo hasta el hospital pasa dentro del sitio, entre el aviso y la salida de la ambulancia, y qué cambios de proceso lo acortan?
+En una mina remota el hospital más cercano queda a dos o tres horas por ruta, y eso no se puede cambiar. ¿Cuánto del tiempo hasta el hospital pasa dentro del sitio, entre el aviso y la salida de la ambulancia, y qué cambios de proceso lo acortan?
 
 ## Qué encontré
 
 | Indicador (mediana salvo que diga P90) | Referencia | Con las dos mejoras |
 |---|---|---|
-| Primer contacto con el paciente | 23 min | 9 min |
+| Primer contacto con el paciente | 23 min | 12 min |
 | Soporte vital avanzado (llega el equipo médico) | 23 min | 23 min |
 | Sale la ambulancia del sitio | 2 h 19 | 1 h 20 |
 | Sale la ambulancia del sitio, P90 | 2 h 53 | 1 h 37 |
 | Llega al hospital más cercano (Las Heras) | 4 h 46 | 3 h 46 |
 | Casos en hospital de alta complejidad en menos de 6 h | 17% | 83% |
 
-1. **Casi la mitad del tiempo (49%) hasta el hospital más cercano pasa dentro del sitio.** Es la parte que depende del servicio médico.
+1. **Casi la mitad del tiempo (49%) hasta el hospital más cercano pasa dentro del sitio.** Es la parte que se resuelve dentro del sitio.
 2. **La espera más larga es coordinar la derivación:** 41 min de mediana. En el escenario de referencia arranca recién cuando termina la estabilización.
-3. **Derivación pre acordada y coordinada en paralelo:** criterios escritos y un contacto único por hospital. La ambulancia sale 60 min antes en la mediana y 75 min antes en el P90, sin comprar equipos.
-4. **Brigadistas bajo mina:** el primer contacto baja de 23 a 9 min. El soporte vital avanzado sigue dependiendo de cuánto tarda el equipo médico en llegar.
+3. **Derivación preacordada y coordinada en paralelo:** criterios escritos y un contacto único por hospital. Sola, esta mejora adelanta la salida 55 min en la mediana y 64 min en el P90. Sumada a los brigadistas, 60 y 75 min. Sin comprar equipos.
+4. **Brigadistas bajo mina:** en los eventos bajo mina el primer contacto llega en minutos y la mediana general baja de 23 a 12 min. El soporte vital avanzado sigue dependiendo de cuánto tarda el equipo médico en llegar.
 5. **En invierno** (35% de chance de demoras en ruta) el P90 de llegada al hospital sube de 5 h 40 a 6 h 20 sin mejoras.
 
 ## Qué es real, qué es supuesto y qué es sintético
@@ -37,7 +37,7 @@ En una mina remota el hospital más cercano queda a casi tres horas por ruta, y 
 | Tiempos de cada tramo dentro del sitio | **Supuestos**, documentados en `modelo/supuestos.csv` |
 | Indicadores del servicio médico (52 semanas) | **Sintéticos**, generados con semilla fija en `tablero/generar_datos.py` |
 
-No hay datos de ninguna empresa. La idea es mostrar el método: con registros reales de simulacros y eventos, el modelo se recalibra en una semana.
+No hay datos de ninguna empresa. El escenario de referencia es hipotético y no describe el desempeño actual de ninguna operación. La idea es mostrar el método: con registros reales de simulacros y eventos, el modelo se recalibra en una semana.
 
 ## Las tres piezas
 
@@ -83,6 +83,8 @@ python docs/carrusel.py
 - OSRM usa velocidades de auto sobre OpenStreetMap; por eso el rango de ajuste.
 - El nivel de cada hospital sale de su denominación oficial (distrital, zonal, regional). La capacidad real (terapia intensiva, tomógrafo, quirófano) hay que confirmarla con el sistema de salud provincial.
 - El tablero usa datos sintéticos.
+- "Alta complejidad en 6 h" toma para cada caso la opción más rápida entre ruta y avión, y no contempla que el avión no pueda volar por clima. Es un techo optimista.
+- `plan/excel.py` escribe fórmulas sin valores calculados; Excel las calcula al abrir el archivo.
 
 ## Fuentes
 

@@ -120,7 +120,7 @@ save(fig, 1)
 
 # 2 MAPA ------------------------------------------------------------------------------------
 fig = canvas()
-header(fig, "El punto de partida", "Ningún hospital a menos\nde dos horas por ruta")
+header(fig, "El punto de partida", "El hospital más cercano,\na dos o tres horas por ruta")
 ax = fig.add_axes([0.07, 0.25, 0.86, 0.52])
 k = np.cos(np.radians(46.5))
 ax.set_facecolor(BG)
@@ -203,7 +203,7 @@ save(fig, 4)
 
 # 5 COORDINACIÓN EN PARALELO ------------------------------------------------------------------
 fig = canvas()
-header(fig, "Hallazgo 2", "Coordinar en paralelo\nahorra una hora")
+header(fig, "Hallazgo 2", "Dos cambios de proceso\nahorran una hora")
 ax = fig.add_axes([0.10, 0.30, 0.83, 0.43])
 clean(ax)
 bins = np.arange(0, 300, 10)
@@ -221,7 +221,7 @@ ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f1(v, 
 ax.set_xlim(0, 270)
 ax.legend(frameon=False, fontsize=13.5, loc="center right")
 subtitle(fig, f"% de casos según cuándo sale la ambulancia del sitio ({f1(M['n'], 0)} simulaciones por escenario)")
-takeaway(fig, f"Derivación pre acordada y coordinada mientras se estabiliza, más brigadistas:\n"
+takeaway(fig, f"Derivación preacordada y coordinada mientras se estabiliza, más brigadistas:\n"
               f"{round(M['ahorro_salida_p50'])} min menos en la mediana y {round(M['ahorro_salida_p90'])} min menos en el P90. Sin comprar equipos.")
 footer(fig, 5)
 save(fig, 5)
@@ -290,7 +290,7 @@ save(fig, 7)
 fig = canvas()
 header(fig, "Plan de proyecto", "Plan de 100 días\npara liderar el servicio")
 fases = [("1 a 30", "Escuchar y medir", "Uno a uno con el equipo,\nprotocolos, línea base,\nsimulacro cronometrado", MIDBLUE),
-         ("31 a 60", "Analizar y ordenar", "Causas raíz, derivación\npre acordada, kanban,\nagenda de exámenes", BLUE),
+         ("31 a 60", "Analizar y ordenar", "Causas raíz, derivación\npreacordada, kanban,\nagenda de exámenes", BLUE),
          ("61 a 90", "Mejorar", "Simulacros mensuales,\nbrigadistas bajo mina,\npiloto de bienestar", ORANGE),
          ("91 a 100", "Sostener", "Cartas de control,\nprocedimientos e\ninforme de resultados", NAVY)]
 for i, (d, t, desc, c) in enumerate(fases):
@@ -314,15 +314,15 @@ fig.text(0.07, 0.90, "CONCLUSIÓN", fontsize=18, color="#F2A65A", weight="bold")
 fig.text(0.07, 0.87, "La distancia no se elige.\nCómo se trabaja en\nel sitio, sí.", fontsize=42, color="white",
          weight="bold", va="top", linespacing=1.12)
 pts = [f"Casi la mitad del tiempo hasta el hospital pasa dentro del sitio ({round(M['pct_controlable_base'])}%).",
-       f"Coordinar la derivación en paralelo ahorra {round(M['ahorro_salida_p50'])} min en el caso típico.",
+       f"Derivación en paralelo y brigadistas: la ambulancia sale {round(M['ahorro_salida_p50'])} min antes.",
        f"Con brigadistas, el primer contacto baja de {hm(b['hitos']['primer_contacto']['p50'])} a {hm(mj['hitos']['primer_contacto']['p50'])}.",
        "Un tablero semanal y cartas de control sostienen la mejora."]
 for i, t in enumerate(pts):
     y = 0.62 - i * 0.065
     fig.text(0.07, y, "›", fontsize=24, color="#F2A65A", weight="bold", va="center")
     fig.text(0.11, y, t, fontsize=16, color=PALEBLUE, va="center")
-fig.text(0.07, 0.33, "Los tiempos internos son supuestos y el tablero usa datos sintéticos. Con registros\n"
-                     "reales de simulacros y eventos, el modelo se recalibra en una semana.",
+fig.text(0.07, 0.33, "Escenario hipotético: los tiempos internos son supuestos y el tablero usa datos sintéticos.\n"
+                     "Con registros reales de simulacros y eventos, el modelo se recalibra en una semana.",
          fontsize=13, color="#9FB3CC", va="top", linespacing=1.45)
 fig.text(0.07, 0.22, "Trabajé cinco años en salud ocupacional en minería en Santa Cruz.\n¿Cómo lo resolvieron en tu operación?",
          fontsize=19, color="white", weight="medium", va="top", linespacing=1.35)

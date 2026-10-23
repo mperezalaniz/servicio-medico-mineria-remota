@@ -145,7 +145,7 @@ footer p{margin:0 0 6px}
   <span>Rutas y hospitales <b>reales</b> (OpenStreetMap)</span>
   <span>Tiempos internos <b>supuestos</b></span>
   <span>Indicadores del servicio <b>sintéticos</b></span>
-  <span>Sin datos de ninguna empresa</span>
+  <span>Escenario hipotético, sin datos de ninguna empresa</span>
 </div></div>
 
 <div class="wrap">
@@ -153,7 +153,7 @@ footer p{margin:0 0 6px}
   <div>
     <div class="eyebrow">Mina subterránea remota · Santa Cruz · Lean Six Sigma</div>
     <h1 style="margin-top:10px">En una mina remota, la hora de oro <em>se juega dentro del sitio.</em></h1>
-    <p>El hospital más cercano está a casi tres horas por ruta y eso no se puede cambiar. Lo que pasa entre el aviso y la salida de la ambulancia sí. Este modelo simula 20.000 emergencias graves para medir cuánto pesa cada tramo y qué mejora cada cambio de proceso.</p>
+    <p>El hospital más cercano está a dos o tres horas por ruta y eso no se puede cambiar. Lo que pasa entre el aviso y la salida de la ambulancia sí. Este modelo simula 20.000 emergencias graves para medir cuánto pesa cada tramo y qué mejora cada cambio de proceso.</p>
   </div>
   <div class="big">
     <div><div class="v num">49%</div><div class="l">del tiempo hasta el hospital más cercano pasa dentro del sitio</div></div>
@@ -171,7 +171,7 @@ footer p{margin:0 0 6px}
     </div></div>
     <div class="sim">
       <div class="ctrl" role="group" aria-label="Mejoras y condiciones">
-        <label class="tog" for="tProt"><input type="checkbox" id="tProt"><b>Derivación pre acordada</b><span>Criterios escritos y un contacto único por hospital. La coordinación arranca en paralelo a la estabilización.</span></label>
+        <label class="tog" for="tProt"><input type="checkbox" id="tProt"><b>Derivación preacordada</b><span>Criterios escritos y un contacto único por hospital. La coordinación arranca en paralelo a la estabilización.</span></label>
         <label class="tog" for="tBrig"><input type="checkbox" id="tBrig"><b>Brigadistas bajo mina</b><span>Primera respuesta en cada frente y rescate practicado con roles fijos.</span></label>
         <label class="tog" for="tInv"><input type="checkbox" id="tInv"><b>Invierno</b><span>Sube de 12% a 35% la chance de demoras de 30 a 120 minutos en ruta.</span></label>
       </div>
@@ -193,7 +193,7 @@ footer p{margin:0 0 6px}
   <div class="panel">
     <div class="ph"><div>
       <div class="eyebrow">Rutas reales · OpenStreetMap y OSRM</div>
-      <h2>Cuatro hospitales, ninguno a menos de dos horas</h2>
+      <h2>El hospital más cercano, a dos o tres horas por ruta</h2>
       <p>Tiempos de ruta calculados por OSRM desde la ubicación pública de la mina. El modelo los ajusta entre 65% y 100% para cubrir las dos horas hasta la localidad más cercana que menciona el aviso del puesto.</p>
     </div></div>
     <div class="mapgrid">
@@ -256,7 +256,7 @@ footer p{margin:0 0 6px}
 <footer>
   <div>
     <p><b>Método.</b> Monte Carlo con distribuciones triangulares por tramo y 20.000 casos por escenario (modelo/hora_de_oro.py, semilla fija). La versión de esta página corre el mismo modelo en el navegador. Rutas: OSRM sobre OpenStreetMap, consulta del 23/10/2026. Ubicación de la mina: artículo "Cerro Negro mine" de Wikipedia. Nivel de cada hospital según su denominación oficial (distrital, zonal, regional); la capacidad real de cada uno hay que confirmarla con el sistema de salud.</p>
-    <p><b>Límites.</b> Los tiempos internos y las probabilidades son supuestos documentados en modelo/supuestos.csv. Los indicadores del tablero son sintéticos. Con registros reales de simulacros y eventos, el modelo se recalibra en una semana.</p>
+    <p><b>Límites.</b> El escenario de referencia es hipotético y no describe el desempeño actual de ninguna operación. "Alta complejidad en 6 h" toma para cada caso la opción más rápida entre ruta y avión y no contempla que el avión no pueda volar, así que es un techo optimista. Los tiempos internos y las probabilidades son supuestos documentados en modelo/supuestos.csv. Los indicadores del tablero son sintéticos. Con registros reales de simulacros y eventos, el modelo se recalibra en una semana.</p>
   </div>
   <div>
     <p><b>Autor.</b> Emiliano Pérez Alaniz, Enfermero Profesional. Salud ocupacional en minería en Santa Cruz, Lean Six Sigma y análisis de datos.</p>
@@ -286,7 +286,7 @@ function simular({protocolo = false, brigada = false, invierno = false}){
   for (let i = 0; i < N; i++){
     const det = tri(1, 3, 10), lleg = tri(8, 15, 35), bajo = R() < 0.6;
     const extr = bajo ? (brigada ? tri(8, 18, 40) : tri(10, 25, 60)) : tri(5, 10, 20);
-    const primer = det + (brigada ? tri(2, 4, 8) : lleg), sva = det + lleg, posta = sva + extr;
+    const primer = det + (brigada && bajo ? tri(2, 4, 8) : lleg), sva = det + lleg, posta = sva + extr;
     const est = tri(20, 35, 60), coord = protocolo ? tri(5, 12, 30) : tri(10, 30, 90), prep = protocolo ? tri(3, 6, 12) : tri(5, 10, 20);
     const salida = protocolo ? posta + Math.max(est, coord + prep) : posta + est + coord + prep;
     const finCoord = protocolo ? posta + coord : posta + est + coord;

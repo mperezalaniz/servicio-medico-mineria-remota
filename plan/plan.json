@@ -25,7 +25,7 @@
   ],
   "restricciones": [
    "Roster 8x6: la mitad del tiempo el equipo trabaja sin el Team Lead en sitio",
-   "Distancia: el hospital más cercano está a más de 2 horas por ruta",
+   "Distancia: el hospital más cercano está a dos o tres horas por ruta",
    "Logística: los insumos tardan entre 10 y 17 días en llegar",
    "Clima: el invierno patagónico agrega demoras en ruta"
   ]
@@ -122,7 +122,7 @@
    "Causas raíz priorizadas"
   ],
   [
-   "Protocolo de derivación pre acordado con prestador y hospitales",
+   "Protocolo de derivación preacordado con prestador y hospitales",
    "Analizar y ordenar",
    35,
    25,
@@ -181,7 +181,7 @@
    "Piloto de bienestar: riesgo cardiovascular",
    "Mejorar",
    70,
-   30,
+   21,
    "Médicos + Enfermería",
    "Línea base y participación"
   ],
@@ -462,11 +462,11 @@
  "dmaic": [
   {
    "titulo": "Salir antes del sitio en una emergencia grave",
-   "D": "Según el modelo, en el escenario de referencia la ambulancia sale del sitio a las 2 h 19 min del aviso (mediana) y a las 2 h 53 min en el percentil 90. Ese tramo es casi la mitad (49%) del tiempo hasta el hospital más cercano, y es la parte que depende del servicio médico.",
+   "D": "Según el modelo, en el escenario de referencia la ambulancia sale del sitio a las 2 h 19 min del aviso (mediana) y a las 2 h 53 min en el percentil 90. Ese tramo es casi la mitad (49%) del tiempo hasta el hospital más cercano, y es la parte que se resuelve dentro del sitio.",
    "M": "Cronometrar cada tramo (aviso, llegada, extracción, estabilización, coordinación, preparación) en cada simulacro y en cada evento real, con una planilla única.",
    "A": "La coordinación de la derivación es la espera más larga: 41 min de mediana, y arranca recién cuando termina la estabilización. Son llamadas, búsqueda de cama y autorizaciones en serie.",
-   "I": "Protocolo de derivación pre acordado (criterios escritos y un contacto único por hospital) y coordinación en paralelo a la estabilización. Ambulancia y chofer se preparan mientras tanto.",
-   "C": "P90 del tiempo de salida en el tablero mensual. Resultado esperado según el modelo: 60 min menos en la mediana y 75 min menos en el P90."
+   "I": "Protocolo de derivación preacordado (criterios escritos y un contacto único por hospital) y coordinación en paralelo a la estabilización. Ambulancia y chofer se preparan mientras tanto.",
+   "C": "P90 del tiempo de salida en el tablero mensual. Resultado esperado según el modelo: 55 min menos en la mediana y 64 min menos en el P90 con esta mejora sola; 60 y 75 min sumando brigadistas bajo mina."
   },
   {
    "titulo": "Cero quiebres de stock crítico",

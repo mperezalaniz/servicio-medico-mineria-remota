@@ -47,7 +47,9 @@ def vsm_svg():
         y = 18 + j * 52
         s.append(f'<text x="0" y="{y + 15}" fill="{NAVY}" font-weight="600">{lab}</text>')
         xx = L
-        tm = M["escenarios"][k]["tramos_mediana"]
+        tm0 = M["escenarios"][k]["tramos_mediana"]
+        serie = sum(tm0[t] for t in ('deteccion', 'llegada', 'extraccion')) + (max(tm0['estabilizacion'], tm0['coordinacion'] + tm0['preparacion']) if k == 'mejorado' else tm0['estabilizacion'] + tm0['coordinacion'] + tm0['preparacion'])
+        tm = {t: v * tot / serie for t, v in tm0.items()}
         for t, tl in tramos:
             v = tm[t]
             if k == "mejorado" and t in ("coordinacion", "preparacion"):  # en paralelo: solo cuenta lo que excede la estabilización
@@ -155,8 +157,8 @@ td.c{{text-align:center;color:{NAVY}}} td.a{{background:#F6D9BF;font-weight:700}
     <div><div class="v">−{round(M['ahorro_salida_p50'])} min</div><div class="l">en la mediana de salida del sitio con dos mejoras de proceso</div></div>
     <div><div class="v">−{round(M['ahorro_salida_p90'])} min</div><div class="l">en el percentil 90, que son los casos más complicados</div></div>
   </div>
-  <p style="font-size:9.5pt">Cifras de un modelo Monte Carlo con {M['n']:,} simulaciones. Rutas reales de OpenStreetMap entre la ubicación pública de la mina y los hospitales de Perito Moreno, Las Heras, Caleta Olivia y Comodoro Rivadavia.</p>
-  <div class="note">Los tiempos internos son supuestos y los indicadores del servicio son datos sintéticos. No hay información de ninguna empresa. El objetivo es mostrar el método: con datos reales del sitio, el mismo modelo se recalibra en una semana.</div>
+  <p style="font-size:9.5pt">Cifras de un modelo Monte Carlo con {format(M['n'], ',').replace(',', '.')} simulaciones. Rutas reales de OpenStreetMap entre la ubicación pública de la mina y los hospitales de Perito Moreno, Las Heras, Caleta Olivia y Comodoro Rivadavia.</p>
+  <div class="note">Los tiempos internos son supuestos y los indicadores del servicio son datos sintéticos. No hay información de ninguna empresa y el escenario de referencia es hipotético: no describe el desempeño actual de ninguna operación. El objetivo es mostrar el método: con datos reales del sitio, el mismo modelo se recalibra en una semana.</div>
   <div class="author"><b>Emiliano Pérez Alaniz</b>Enfermero Profesional · Salud ocupacional en minería en Santa Cruz · Lean Six Sigma y análisis de datos<br>Repositorio: github.com/mperezalaniz/servicio-medico-mineria-remota</div>
 </section>
 
@@ -188,7 +190,7 @@ td.c{{text-align:center;color:{NAVY}}} td.a{{background:#F6D9BF;font-weight:700}
   <table><tr><th style='width:42mm'>Actividad</th>{"".join(f"<th style='text-align:center'>{e(r)}</th>" for r in ROLES)}</tr>{raci_rows}</table>
   <p class="mut" style="margin-top:2mm">R hace · A responde por el resultado (una sola por fila) · C se consulta · I se informa</p>
   <div class="eyebrow" style="margin-top:9mm">Respuesta a emergencias</div>
-  <h2>Dónde se va el tiempo hasta que sale la ambulancia (mediana, minutos)</h2>
+  <h2>Dónde se va el tiempo hasta que sale la ambulancia (caso típico, minutos)</h2>
   {vsm_svg()}
   <p>Con la derivación coordinada en paralelo, la espera de la coordinación queda casi entera dentro del tiempo de estabilización. Sin cambiar a nadie de puesto y sin comprar equipos.</p>
   <div class="foot"><span>Plan de 100 días · Team Lead, Servicios Médicos</span><span>4</span></div>

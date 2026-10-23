@@ -187,9 +187,9 @@
    "nombre": "Brigadistas bajo mina",
    "hitos": {
     "primer_contacto": {
-     "p10": 6.4,
-     "p50": 9.2,
-     "p90": 12.5
+     "p10": 7.0,
+     "p50": 11.7,
+     "p90": 28.1
     },
     "sva": {
      "p10": 16.6,
@@ -230,7 +230,7 @@
     "coordinacion": 41.3,
     "preparacion": 11.3
    },
-   "pct_primer_contacto_10": 63.2,
+   "pct_primer_contacto_10": 37.9,
    "pct_sva_20": 28.7,
    "pct_salida_120": 25.7,
    "pct_alta_6h": 20.5,
@@ -277,9 +277,9 @@
    "nombre": "Ambas mejoras",
    "hitos": {
     "primer_contacto": {
-     "p10": 6.4,
-     "p50": 9.1,
-     "p90": 12.4
+     "p10": 7.0,
+     "p50": 11.6,
+     "p90": 28.3
     },
     "sva": {
      "p10": 16.6,
@@ -320,7 +320,7 @@
     "coordinacion": 15.0,
     "preparacion": 6.8
    },
-   "pct_primer_contacto_10": 63.3,
+   "pct_primer_contacto_10": 38.1,
    "pct_sva_20": 29.0,
    "pct_salida_120": 99.9,
    "pct_alta_6h": 83.4,
@@ -457,9 +457,9 @@
    "nombre": "Invierno, ambas mejoras",
    "hitos": {
     "primer_contacto": {
-     "p10": 6.5,
-     "p50": 9.2,
-     "p90": 12.5
+     "p10": 7.1,
+     "p50": 11.7,
+     "p90": 28.2
     },
     "sva": {
      "p10": 16.5,
@@ -500,7 +500,7 @@
     "coordinacion": 15.0,
     "preparacion": 6.8
    },
-   "pct_primer_contacto_10": 63.0,
+   "pct_primer_contacto_10": 37.4,
    "pct_sva_20": 29.3,
    "pct_salida_120": 99.9,
    "pct_alta_6h": 65.2,

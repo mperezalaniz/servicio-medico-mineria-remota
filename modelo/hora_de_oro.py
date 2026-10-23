@@ -46,7 +46,7 @@ ESCENARIOS = {
 }
 NOMBRES = {
     "base": "Escenario de referencia",
-    "protocolo": "Derivación pre acordada",
+    "protocolo": "Derivación preacordada",
     "brigada": "Brigadistas bajo mina",
     "mejorado": "Ambas mejoras",
     "invierno": "Invierno, referencia",
@@ -59,7 +59,7 @@ def simular(protocolo=False, brigada=False, clima=0.12):
     llegada = tri(8, 15, 35)
     bajo_mina = rng.random(N) < 0.60
     extr = np.where(bajo_mina, tri(8, 18, 40) if brigada else tri(10, 25, 60), tri(5, 10, 20))
-    primer = det + (tri(2, 4, 8) if brigada else llegada)
+    primer = det + (np.where(bajo_mina, tri(2, 4, 8), llegada) if brigada else llegada)  # brigadistas solo en frentes bajo mina
     sva = det + llegada
     en_posta = sva + extr
     estab = tri(20, 35, 60)
